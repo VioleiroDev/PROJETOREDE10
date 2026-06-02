@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <style>
+      .bg { fill: #f7fafc; }
+      .title { font: 700 34px Arial, sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 18px Arial, sans-serif; fill: #475569; }
+      .label { font: 700 18px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 400 14px Arial, sans-serif; fill: #334155; }
+      .tiny { font: 400 12px Arial, sans-serif; fill: #475569; }
+      .white { fill: #ffffff; }
+      .hub { fill: #0f4c81; stroke: #082f49; stroke-width: 2; }
+      .hubText { font: 700 18px Arial, sans-serif; fill: #ffffff; }
+      .hubSmall { font: 400 13px Arial, sans-serif; fill: #e0f2fe; }
+      .unit { fill: #ffffff; stroke: #2563eb; stroke-width: 1.6; }
+      .df { fill: #eff6ff; stroke: #2563eb; stroke-width: 2; }
+      .to { fill: #ecfdf5; stroke: #059669; stroke-width: 2; }
+      .sdwan { fill: #dcfce7; stroke: #16a34a; stroke-width: 2; }
+      .mpls { fill: #dbeafe; stroke: #2563eb; stroke-width: 2; }
+      .internet { fill: #fef3c7; stroke: #d97706; stroke-width: 2; }
+      .service { fill: #f1f5f9; stroke: #64748b; stroke-width: 1.5; }
+      .control { fill: #fae8ff; stroke: #a21caf; stroke-width: 1.5; }
+      .arrowSdwan { stroke: #16a34a; stroke-width: 4; fill: none; marker-end: url(#arrowGreen); }
+      .arrowMpls { stroke: #2563eb; stroke-width: 4; fill: none; stroke-dasharray: 10 8; marker-end: url(#arrowBlue); }
+      .arrowHub { stroke: #0f172a; stroke-width: 3; fill: none; marker-end: url(#arrowDark); }
+      .arrowControl { stroke: #a21caf; stroke-width: 3; fill: none; stroke-dasharray: 6 6; marker-end: url(#arrowPurple); }
+    </style>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#16a34a"/>
+    </marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+    </marker>
+    <marker id="arrowDark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowPurple" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a21caf"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text x="70" y="70" class="title">Arquitetura-alvo proposta: SD-WAN preservada + MPLS complementar</text>
+  <text x="70" y="103" class="subtitle">Sede como hub de seguranca, Internet, redes institucionais, observabilidade e contingencia controlada</text>
+
+  <rect x="70" y="150" width="390" height="315" rx="18" class="df"/>
+  <text x="95" y="185" class="label">Unidades DF</text>
+  <rect x="95" y="215" width="155" height="62" rx="10" class="unit"/>
+  <text x="112" y="242" class="small">Foro Brasilia</text>
+  <text x="112" y="262" class="tiny">1G SD-WAN / 1G MPLS</text>
+  <rect x="275" y="215" width="155" height="62" rx="10" class="unit"/>
+  <text x="292" y="242" class="small">Predio Apoio</text>
+  <text x="292" y="262" class="tiny">500M / 200M</text>
+  <rect x="95" y="305" width="155" height="62" rx="10" class="unit"/>
+  <text x="112" y="332" class="small">Taguatinga</text>
+  <text x="112" y="352" class="tiny">500M / 200M</text>
+  <rect x="275" y="305" width="155" height="62" rx="10" class="unit"/>
+  <text x="292" y="332" class="small">Gama</text>
+  <text x="292" y="352" class="tiny">100M / 50M</text>
+  <text x="95" y="420" class="small">Melhoria: unidades seguem com SD-WAN principal e ganham MPLS privado para trafego critico.</text>
+
+  <rect x="70" y="520" width="390" height="315" rx="18" class="to"/>
+  <text x="95" y="555" class="label">Unidades TO</text>
+  <rect x="95" y="585" width="155" height="62" rx="10" class="unit"/>
+  <text x="112" y="612" class="small">Palmas</text>
+  <text x="112" y="632" class="tiny">500M / 200M</text>
+  <rect x="275" y="585" width="155" height="62" rx="10" class="unit"/>
+  <text x="292" y="612" class="small">Araguaina</text>
+  <text x="292" y="632" class="tiny">100M / 50M</text>
+  <rect x="95" y="675" width="155" height="62" rx="10" class="unit"/>
+  <text x="112" y="702" class="small">Gurupi</text>
+  <text x="112" y="722" class="tiny">100M / 50M</text>
+  <rect x="275" y="675" width="155" height="62" rx="10" class="unit"/>
+  <text x="292" y="702" class="small">Dianopolis</text>
+  <text x="292" y="722" class="tiny">100M / 50M</text>
+  <rect x="185" y="760" width="155" height="50" rx="10" class="unit"/>
+  <text x="205" y="790" class="small">Guarai 100M / 50M</text>
+
+  <rect x="560" y="230" width="240" height="170" rx="18" class="sdwan"/>
+  <text x="600" y="270" class="label">Camada SD-WAN</text>
+  <text x="590" y="305" class="small">Transporte principal</text>
+  <text x="590" y="330" class="small">Internet e servicos externos</text>
+  <text x="590" y="355" class="small">Tuneis IPSec + OSPF</text>
+
+  <rect x="560" y="560" width="240" height="170" rx="18" class="mpls"/>
+  <text x="605" y="600" class="label">Camada MPLS</text>
+  <text x="590" y="635" class="small">Rede privada complementar</text>
+  <text x="590" y="660" class="small">Trafego critico e QoS</text>
+  <text x="590" y="685" class="small">VRF / L3VPN / SLA</text>
+
+  <rect x="910" y="300" width="310" height="330" rx="22" class="hub"/>
+  <text x="950" y="342" class="hubText">Edificio Sede - Hub</text>
+  <text x="950" y="372" class="hubSmall">1G SD-WAN / 1G MPLS</text>
+  <text x="950" y="405" class="hubSmall">Borda dupla recomendada</text>
+  <text x="950" y="430" class="hubSmall">Firewalls em HA</text>
+  <text x="950" y="455" class="hubSmall">Roteamento BGP/OSPF com metricas</text>
+  <text x="950" y="480" class="hubSmall">QoS e politicas por classe</text>
+  <text x="950" y="505" class="hubSmall">Logs, SIEM e monitoramento</text>
+  <text x="950" y="530" class="hubSmall">Retorno controlado ao caminho preferencial</text>
+  <text x="950" y="565" class="hubSmall">Capacidade Internet central: 4 Gbps inicial</text>
+
+  <rect x="1310" y="160" width="210" height="70" rx="14" class="internet"/>
+  <text x="1350" y="190" class="label">Internet 1</text>
+  <text x="1340" y="212" class="tiny">Operadora / rota A</text>
+  <rect x="1310" y="260" width="210" height="70" rx="14" class="internet"/>
+  <text x="1350" y="290" class="label">Internet 2</text>
+  <text x="1340" y="312" class="tiny">Operadora / rota B</text>
+  <rect x="1310" y="360" width="210" height="70" rx="14" class="internet"/>
+  <text x="1350" y="390" class="label">Internet 3</text>
+  <text x="1340" y="412" class="tiny">Operadora / rota C</text>
+  <rect x="1310" y="520" width="210" height="70" rx="14" class="service"/>
+  <text x="1362" y="550" class="label">Redes JT</text>
+  <text x="1350" y="572" class="tiny">Servicos judiciais</text>
+  <rect x="1310" y="620" width="210" height="70" rx="14" class="service"/>
+  <text x="1368" y="650" class="label">Infovia</text>
+  <text x="1350" y="672" class="tiny">Integracoes institucionais</text>
+  <rect x="1310" y="760" width="210" height="85" rx="14" class="control"/>
+  <text x="1340" y="792" class="label">NOC / SIEM</text>
+  <text x="1335" y="815" class="tiny">Alertas, logs, SLA</text>
+
+  <path class="arrowSdwan" d="M 460 300 C 500 300, 520 300, 560 300"/>
+  <path class="arrowSdwan" d="M 460 670 C 500 510, 520 360, 560 330"/>
+  <path class="arrowMpls" d="M 460 390 C 520 460, 535 610, 560 640"/>
+  <path class="arrowMpls" d="M 460 710 C 500 710, 520 680, 560 660"/>
+  <path class="arrowSdwan" d="M 800 315 C 850 320, 875 350, 910 395"/>
+  <path class="arrowMpls" d="M 800 645 C 850 625, 875 585, 910 535"/>
+  <path class="arrowHub" d="M 1220 380 C 1260 300, 1270 205, 1310 195"/>
+  <path class="arrowHub" d="M 1220 420 C 1260 370, 1270 300, 1310 295"/>
+  <path class="arrowHub" d="M 1220 460 C 1260 450, 1270 405, 1310 395"/>
+  <path class="arrowHub" d="M 1220 530 C 1260 540, 1270 555, 1310 555"/>
+  <path class="arrowHub" d="M 1220 575 C 1260 610, 1270 655, 1310 655"/>
+  <path class="arrowControl" d="M 1220 610 C 1285 700, 1260 805, 1310 805"/>
+
+  <rect x="560" y="815" width="660" height="92" rx="18" class="white" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="590" y="848" class="label">Principio de melhoria</text>
+  <text x="590" y="878" class="small">Separar funcoes: Internet pela SD-WAN/Sede, trafego critico pelo MPLS, contingencia cruzada com metricas, QoS e monitoramento.</text>
+</svg>

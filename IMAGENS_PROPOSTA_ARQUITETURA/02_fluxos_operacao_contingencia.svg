@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .title { font: 700 34px Arial, sans-serif; fill: #111827; }
+      .subtitle { font: 400 18px Arial, sans-serif; fill: #475569; }
+      .panel { fill: #ffffff; stroke: #cbd5e1; stroke-width: 1.5; }
+      .head { fill: #0f4c81; }
+      .headText { font: 700 18px Arial, sans-serif; fill: #ffffff; }
+      .label { font: 700 18px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 400 14px Arial, sans-serif; fill: #334155; }
+      .tiny { font: 400 12px Arial, sans-serif; fill: #475569; }
+      .critical { fill: #dbeafe; stroke: #2563eb; stroke-width: 2; }
+      .internet { fill: #dcfce7; stroke: #16a34a; stroke-width: 2; }
+      .voice { fill: #fef3c7; stroke: #d97706; stroke-width: 2; }
+      .mgmt { fill: #fae8ff; stroke: #a21caf; stroke-width: 2; }
+      .pathNormal { stroke: #2563eb; stroke-width: 5; fill: none; marker-end: url(#arrowBlue); }
+      .pathInternet { stroke: #16a34a; stroke-width: 5; fill: none; marker-end: url(#arrowGreen); }
+      .pathFallback { stroke: #dc2626; stroke-width: 4; fill: none; stroke-dasharray: 10 7; marker-end: url(#arrowRed); }
+      .pathReturn { stroke: #64748b; stroke-width: 3; fill: none; stroke-dasharray: 7 7; marker-end: url(#arrowGray); }
+    </style>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2563eb"/></marker>
+    <marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#16a34a"/></marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#dc2626"/></marker>
+    <marker id="arrowGray" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1000"/>
+  <text x="70" y="70" class="title">Fluxos propostos: operacao normal, contingencia e retorno controlado</text>
+  <text x="70" y="103" class="subtitle">A melhoria central e transformar failover em politica mensuravel: classe de trafego, caminho preferencial, caminho alternativo e criterio de retorno.</text>
+
+  <rect x="70" y="150" width="1460" height="640" rx="18" class="panel"/>
+  <rect x="70" y="150" width="1460" height="56" rx="18" class="head"/>
+  <text x="110" y="186" class="headText">Classe de trafego</text>
+  <text x="430" y="186" class="headText">Operacao normal</text>
+  <text x="790" y="186" class="headText">Falha ou degradacao</text>
+  <text x="1180" y="186" class="headText">Controle e retorno</text>
+
+  <line x1="370" y1="150" x2="370" y2="790" stroke="#cbd5e1" stroke-width="1.5"/>
+  <line x1="730" y1="150" x2="730" y2="790" stroke="#cbd5e1" stroke-width="1.5"/>
+  <line x1="1100" y1="150" x2="1100" y2="790" stroke="#cbd5e1" stroke-width="1.5"/>
+  <line x1="70" y1="325" x2="1530" y2="325" stroke="#e2e8f0" stroke-width="1.5"/>
+  <line x1="70" y1="475" x2="1530" y2="475" stroke="#e2e8f0" stroke-width="1.5"/>
+  <line x1="70" y1="625" x2="1530" y2="625" stroke="#e2e8f0" stroke-width="1.5"/>
+
+  <rect x="105" y="235" width="220" height="62" rx="12" class="critical"/>
+  <text x="130" y="262" class="label">Sistemas criticos</text>
+  <text x="130" y="284" class="tiny">PJe, autenticacao, internos</text>
+  <text x="410" y="245" class="small">Unidade -> MPLS -> Sede -> redes internas/JT/Infovia</text>
+  <path class="pathNormal" d="M410 275 H660"/>
+  <text x="770" y="245" class="small">Se MPLS falhar: SD-WAN assume rotas criticas com prioridade</text>
+  <path class="pathFallback" d="M770 275 H1035"/>
+  <text x="1140" y="245" class="small">Retorno apos estabilidade, sem flapping</text>
+  <path class="pathReturn" d="M1140 275 H1450"/>
+
+  <rect x="105" y="385" width="220" height="62" rx="12" class="internet"/>
+  <text x="130" y="412" class="label">Internet e SaaS</text>
+  <text x="130" y="434" class="tiny">Web, nuvem, colaboracao</text>
+  <text x="410" y="395" class="small">Unidade -> SD-WAN -> Sede -> Internet 1/2/3</text>
+  <path class="pathInternet" d="M410 425 H660"/>
+  <text x="770" y="395" class="small">Se SD-WAN degradar: MPLS leva egressao pela Sede</text>
+  <path class="pathFallback" d="M770 425 H1035"/>
+  <text x="1140" y="395" class="small">Internet local somente como excecao autorizada</text>
+  <path class="pathReturn" d="M1140 425 H1450"/>
+
+  <rect x="105" y="535" width="220" height="62" rx="12" class="voice"/>
+  <text x="130" y="562" class="label">Voz, video e reunioes</text>
+  <text x="130" y="584" class="tiny">Sensivel a latencia e jitter</text>
+  <text x="410" y="545" class="small">Classe QoS dedicada; caminho escolhido por SLA medido</text>
+  <path class="pathNormal" d="M410 575 H660"/>
+  <text x="770" y="545" class="small">Failover por perda, jitter ou latencia acima do limite</text>
+  <path class="pathFallback" d="M770 575 H1035"/>
+  <text x="1140" y="545" class="small">Teste periodico de convergencia e experiencia</text>
+  <path class="pathReturn" d="M1140 575 H1450"/>
+
+  <rect x="105" y="685" width="220" height="62" rx="12" class="mgmt"/>
+  <text x="130" y="712" class="label">Gerencia e monitoramento</text>
+  <text x="130" y="734" class="tiny">NOC, SIEM, logs, backup</text>
+  <text x="410" y="695" class="small">Canal sempre disponivel para troubleshooting remoto</text>
+  <path class="pathNormal" d="M410 725 H660"/>
+  <text x="770" y="695" class="small">Plano de acesso fora de banda para crise ampla</text>
+  <path class="pathFallback" d="M770 725 H1035"/>
+  <text x="1140" y="695" class="small">Evidencias em chamado, relatorio mensal e RCA</text>
+  <path class="pathReturn" d="M1140 725 H1450"/>
+
+  <rect x="100" y="835" width="1400" height="95" rx="18" fill="#fff7ed" stroke="#fb923c" stroke-width="1.5"/>
+  <text x="130" y="870" class="label">Recomendacao operacional</text>
+  <text x="130" y="902" class="small">Definir metricas de acionamento: indisponibilidade, perda, latencia, jitter, falha de rota, falha de CPE e indisponibilidade de saida central.</text>
+  <text x="130" y="925" class="small">Todo desvio de caminho deve gerar evento, evidencias de SLA, tempo de convergencia, causa raiz e retorno ao caminho preferencial.</text>
+</svg>
