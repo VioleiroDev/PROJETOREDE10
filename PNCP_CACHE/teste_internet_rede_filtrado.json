@@ -1,0 +1,68 @@
+{
+  "query": "internet link fibra rede telecom",
+  "generatedAt": "2026-06-03T22:01:18",
+  "source": "https://pncp.gov.br/api/consulta",
+  "results": [
+    {
+      "srp": false,
+      "orgaoEntidade": {
+        "cnpj": "01067479000146",
+        "razaoSocial": "MUNICIPIO DE ANAPOLIS",
+        "poderId": "N",
+        "esferaId": "M"
+      },
+      "anoCompra": 2026,
+      "sequencialCompra": 89,
+      "dataInclusao": "2026-05-04T07:01:43",
+      "dataPublicacaoPncp": "2026-05-04T07:01:43",
+      "dataAtualizacao": "2026-05-04T07:01:43",
+      "numeroCompra": "90024",
+      "unidadeOrgao": {
+        "ufNome": "Goiás",
+        "codigoUnidade": "989221",
+        "nomeUnidade": "PREFEITURA MUNICIPAL DE ANAPOLIS - GO",
+        "ufSigla": "GO",
+        "municipioNome": "Anápolis",
+        "codigoIbge": "5201108"
+      },
+      "amparoLegal": {
+        "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+        "nome": "Lei 14.133/2021, Art. 28, I",
+        "codigo": 1
+      },
+      "dataAberturaProposta": "2026-05-04T08:00:00",
+      "dataEncerramentoProposta": "2026-05-19T09:00:00",
+      "informacaoComplementar": " Para as respostas de esclarecimentos e impugnações deste edital acesse o link: https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=quadro-informativo&compra=98922105900242026",
+      "processo": "5223/2025-11",
+      "objetoCompra": "Contratação de empresa especializada para fornecimento, instalação, operação e manutenção de 21 (vinte e um) links dedicados de internet via fibra óptica, com disponibilidade mínima de 99,5%, IPS fixos e suporte técnico 24x7x365 para atender as demandas da Secretaria Municipal de Saúde de Anápolis.",
+      "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=98922105900242026",
+      "justificativaPresencial": null,
+      "unidadeSubRogada": null,
+      "orgaoSubRogado": null,
+      "valorTotalHomologado": null,
+      "modalidadeId": 6,
+      "emendaParlamentar": null,
+      "dataAtualizacaoGlobal": "2026-05-04T07:01:43",
+      "linkProcessoEletronico": null,
+      "modoDisputaId": 1,
+      "numeroControlePNCP": "01067479000146-1-000089/2026",
+      "valorTotalEstimado": 73500.84,
+      "modalidadeNome": "Pregão - Eletrônico",
+      "modoDisputaNome": "Aberto",
+      "tipoInstrumentoConvocatorioCodigo": 1,
+      "tipoInstrumentoConvocatorioNome": "Edital",
+      "fontesOrcamentarias": [],
+      "situacaoCompraId": 1,
+      "situacaoCompraNome": "Divulgada no PNCP",
+      "usuarioNome": "Compras.gov.br",
+      "linkPncp": "https://pncp.gov.br/app/editais/01067479000146/2026/89",
+      "_scoreSimilaridade": 13.6
+    },
+    {
+      "_avisosConsulta": [
+        "contratacoes/publicacao modalidade 6 2026-05-04..2026-06-03: Falha ao consultar https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20260504&dataFinal=20260603&codigoModalidadeContratacao=6&pagina=2&tamanhoPagina=50: Expecting value: line 1 column 1 (char 0)",
+        "contratacoes/atualizacao modalidade 6 2026-05-04..2026-06-03: HTTP 500 em https://pncp.gov.br/api/consulta/v1/contratacoes/atualizacao?dataInicial=20260504&dataFinal=20260603&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: Erro na comunicação com o banco de dados."
+      ]
+    }
+  ]
+}

@@ -1,435 +1,553 @@
-# ESTUDO TECNICO PRELIMINAR (ETP)
+# ESTUDO TÉCNICO PRELIMINAR (ETP)
 
-**Objeto:** Contratacao complementar de servicos continuados de comunicacao de dados por MPLS, com capacidades equivalentes as capacidades dos enlaces SD-WAN atuais em cada localidade, e contratacao de grupo especifico de link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasilia, para replicacao, redundancia da Sede e arquitetura hibrida integrada com a SD-WAN vigente.  
-**Unidade demandante:** Coordenadoria de Infraestrutura de Tecnologia - CDTEC  
-**Orgao:** Tribunal Regional do Trabalho da 10a Regiao - TRT10  
-**Processo de referencia:** SEI 0009785-67.2025.5.10.8000  
-**Versao:** Minuta tecnica revisada - redundancia total MPLS/SD-WAN  
+**Objeto:** Contratação de serviços continuados de comunicação de dados por MPLS, com capacidades equivalentes às capacidades dos enlaces SD-WAN vigentes em cada localidade, e contratação de grupo específico de link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília, para replicação, redundância da Sede e arquitetura híbrida integrada com a SD-WAN vigente.
+
+**Unidade demandante:** Coordenadoria de Infraestrutura de Tecnologia - CDTEC
+
+**Órgão:** Tribunal Regional do Trabalho da 10ª Região - TRT10
+
+**Processo de referência:** SEI 0009785-67.2025.5.10.8000
+
+**Versão:** Minuta técnica - arquitetura de redundância total MPLS/SD-WAN
+
 **Data:** 02/06/2026
 
-## Registro de Evidencias e Premissas
+## Registro de Evidências e Premissas
 
 ### Fatos recuperados dos documentos anexados
 
-- O modelo de ETP anexo estrutura o estudo em descricao da necessidade, alinhamento estrategico, requisitos, levantamento de mercado, descricao da solucao, estimativas, justificativa de parcelamento, resultados esperados, providencias previas, contratacoes correlatas, impactos ambientais e posicionamento conclusivo.
-- O processo SEI 0000030-87.2023.5.10.8000 registra contratacao de Link IP dedicado com SD-WAN para 10 localidades, com bandas de 1 Gbps na Sede e Foro de Brasilia, 500 Mbps em Taguatinga, Palmas e Predio de Apoio, e 100 Mbps nas demais localidades.
-- O mesmo processo registra disponibilidade minima de 99,90% para Sede e 99,70% para as demais localidades, e vigencia inicial de 5 anos.
-- Contratacoes anteriores de Internet com Anti-DDoS registram a relevancia de redundancia, operadoras distintas, monitoramento, portal de chamados, glosas por indisponibilidade e teste de aceite.
-- Documentos anteriores indicam que Foro de Brasilia e Predio de Apoio ja se conectavam a Sede via MPLS e Infovia, evidenciando aderencia historica da arquitetura de concentracao na Sede.
-- O DFD revisado do processo SEI 0009785-67.2025.5.10.8000 consolida a manutencao da topologia SD-WAN atual e a contratacao complementar de MPLS, com capacidades equivalentes as capacidades SD-WAN por localidade, interconexao das unidades a Sede e saida de Internet preferencialmente centralizada na Sede.
-- O DFD revisado registra que a topologia SD-WAN atual se baseia em enlaces dedicados, tuneis IPSec, roteamento dinamico OSPF e concentracao em pontos centrais, devendo ser preservada durante a implantacao dos links MPLS.
-- O DFD revisado indica, como premissa a validar, que a Sede devera dispor de 3 links de Internet redundantes, preferencialmente com operadoras e rotas fisicas distintas, com capacidade combinada suficiente para suportar a agregacao do trafego das unidades.
-- A revisao solicitada em 02/06/2026 inclui novo grupo de link dedicado ponto-a-ponto de 25 Gbps entre o Edificio Sede e o Foro de Brasilia, distinto da rede MPLS, para replicacao, redundancia da Sede e uso do Foro como ponto contingencial de acesso das unidades.
-- A base local da skill `etp-nagem-v2` nao retornou precedentes PNCP uteis para a busca "links MPLS / comunicacao de dados / rede corporativa", razao pela qual esta minuta se apoia nos documentos anexos, em referencias publicas externas e em inferencias tecnicas marcadas.
-- Em 02/06/2026, foram levantadas referencias publicas de contratacoes similares para capacidades de 100 Mbps, 500 Mbps e 1 Gbps, incluindo itens de MPLS otico com roteador, L2L com transporte Ethernet/MPLS e links MPLS municipais. A API oficial de consulta do PNCP apresentou instabilidade/erro nesta sessao, o que exige confirmacao posterior dos numeros de controle PNCP e documentos de suporte na pesquisa formal.
-- Para o novo grupo Sede-Foro, nao foram localizados tres itens identicos de 25 Gbps no PNCP nesta pesquisa preliminar; foram localizadas referencias compativeis de LAN-to-LAN, Metro Ethernet, fibra dedicada, datacenter, 4 Gbps, 5 Gbps e 10 Gbps, alem de especificacao publica com interfaces 10/25Gbps SFP28.
+- O modelo de ETP anexo estrutura o estudo em descrição da necessidade, alinhamento estratégico, requisitos, levantamento de mercado, descrição da solução, estimativas, justificativa de parcelamento, resultados esperados, providências prévias, contratações correlatas, impactos ambientais e posicionamento conclusivo.
 
-### Inferencias analiticas
+- O processo SEI 0000030-87.2023.5.10.8000 registra contratação de link IP dedicado com SD-WAN para 10 localidades, com bandas de 1 Gbps na Sede e Foro de Brasília, 500 Mbps em Taguatinga, Palmas e Prédio de Apoio, e 100 Mbps nas demais localidades.
 
-- A contratacao de MPLS nao substitui a SD-WAN atual; ela cria camada privada complementar para trafego critico, enquanto a SD-WAN permanece como camada preferencial para Internet.
-- As capacidades MPLS propostas passam a reproduzir as capacidades SD-WAN atuais por localidade, como premissa de redundancia total. A escolha deve ser confirmada por medicao real de trafego, pesquisa de mercado e validacao da capacidade dos CPEs, mas evita contingencia parcial e subdimensionamento em incidente.
-- A existencia de 3 saidas de Internet redundantes na Sede permite centralizar a egressao de Internet e aplicar politicas uniformes de seguranca.
-- A capacidade minima combinada de 4 Gbps para as 3 saidas de Internet da Sede constitui premissa tecnica conservadora, derivada da soma aproximada dos enlaces SD-WAN atuais, e deve ser validada por medicao de uso, picos, simultaneidade, politica de degradacao controlada e pesquisa de mercado.
-- A arquitetura mais resiliente e a que permite contingencia cruzada: MPLS pode transportar trafego de Internet em caso de falha da SD-WAN, e SD-WAN pode transportar trafego critico em caso de falha do MPLS.
-- A contratacao de MPLS em banda inferior reduziria custo mensal, mas criaria redundancia parcial, exigindo politica de degradacao de servicos justamente nos cenarios de falha. Para sistemas judiciais, autenticacao, colaboracao, administracao remota, suporte tecnico e continuidade operacional, a capacidade equivalente e mais aderente ao objetivo de alta disponibilidade.
-- A interligacao Sede-Foro deve ser tratada como link dedicado ponto-a-ponto, e nao MPLS, porque sua finalidade e criar um barramento de alta capacidade entre dois pontos centrais para replicacao, backup, sincronizacao, baixa latencia e continuidade operacional.
+- O mesmo processo registra disponibilidade mínima de 99,90% para a Sede e 99,70% para as demais localidades, e vigência inicial de 5 anos.
 
-## I - Descricao da Necessidade de Contratacao
+- Contratações anteriores de Internet com Anti-DDoS registram a relevância de redundância, operadoras distintas, monitoramento, portal de chamados, glosas por indisponibilidade e teste de aceite.
 
-### 1.1 Necessidade da Administracao
+- Documentos anteriores indicam que Foro de Brasília e Prédio de Apoio já se conectavam à Sede via MPLS e Infovia, evidenciando aderência histórica da arquitetura de concentração na Sede.
 
-O TRT10 necessita contratar servicos de comunicacao de dados MPLS para interconectar suas unidades a Sede, de modo a prover uma camada privada, previsivel, monitoravel e resiliente para trafego institucional critico.
+- O DFD do processo SEI 0009785-67.2025.5.10.8000 consolida a manutenção da topologia SD-WAN vigente e a contratação de MPLS, com capacidades equivalentes às capacidades SD-WAN por localidade, interconexão das unidades à Sede e saída de Internet preferencialmente centralizada na Sede.
 
-A necessidade decorre do aumento da dependencia dos servicos digitais, da centralizacao de seguranca e saida de Internet na Sede, da necessidade de redundancia em relacao a SD-WAN atual e da conveniencia de manter trafego sensivel em rede privada, com QoS, segregacao logica e controle de rotas. A arquitetura pretendida separa os fluxos por finalidade: MPLS para sistemas criticos e comunicacao corporativa interna; SD-WAN para Internet; e uso reciproco dos meios em contingencia.
+- O DFD registra que a topologia SD-WAN vigente se baseia em enlaces dedicados, túneis IPSec, roteamento dinâmico OSPF e concentração em pontos centrais, devendo coexistir com os links MPLS durante e após a implantação.
 
-A revisao da demanda preserva os enlaces SD-WAN ja implantados, com suas capacidades atuais e tunelamento IPSec, e acrescenta camada MPLS complementar com a mesma capacidade nominal dos links SD-WAN em cada localidade. Com isso, evita-se a substituicao integral da arquitetura existente e, ao mesmo tempo, assegura-se redundancia total entre as camadas, de modo que a indisponibilidade de uma delas nao obrigue a Administracao a operar com banda nominal reduzida.
+- O DFD indica, como premissa a validar, que a Sede deverá dispor de 3 links de Internet redundantes, preferencialmente com operadoras e rotas físicas distintas, com capacidade combinada suficiente para suportar a agregação do tráfego das unidades.
 
-A Sede devera operar como concentrador preferencial de saida de Internet, seguranca, observabilidade e integracao com redes institucionais, considerando a existencia de 3 saidas de Internet redundantes. A saida local de Internet pelas unidades devera ser tratada como excecao tecnica, contingencia ou fluxo formalmente autorizado, conforme politica definida no projeto executivo.
+- A demanda contempla grupo próprio de link dedicado ponto-a-ponto de 25 Gbps entre o Edifício Sede e o Foro de Brasília, distinto da rede MPLS, para replicação, redundância da Sede e uso do Foro como ponto contingencial de acesso das unidades.
 
-O desenho anterior, baseado em MPLS de menor capacidade, atendia a uma contingencia parcial para trafego estritamente critico. A presente revisao altera essa premissa para redundancia total, pois a separacao entre trafego critico e nao critico tende a se tornar insuficiente durante incidentes reais: acesso ao PJe, colaboracao, autenticacao, suporte remoto, monitoramento, integracoes, voz/video e rotinas administrativas podem ocorrer simultaneamente e disputar capacidade. A equivalencia de banda reduz esse risco e simplifica a operacao de failover.
+- A base local da skill etp-nagem-v2 não retornou precedentes PNCP úteis para a busca "links MPLS / comunicação de dados / rede corporativa", razão pela qual esta minuta se apoia nos documentos anexos, em referências públicas externas e em inferências técnicas marcadas.
 
-A necessidade tambem passa a contemplar interligacao dedicada de 25 Gbps entre o Edificio Sede e o Foro de Brasilia. O Foro devera ser preparado como ponto de replicacao e redundancia da Sede, apto a receber trafego de sincronizacao, backup, replicacao de dados, servicos de continuidade e, conforme projeto executivo, acesso contingencial das demais unidades quando a Sede estiver indisponivel ou degradada. Esse enlace deve ser contratado como link dedicado ponto-a-ponto, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente, e nao como MPLS.
+- Em 02/06/2026, foram levantadas referências públicas de contratações similares para capacidades de 100 Mbps, 500 Mbps e 1 Gbps, incluindo itens de MPLS óptico com roteador, L2L com transporte Ethernet/MPLS e links MPLS municipais. A API oficial de consulta do PNCP apresentou instabilidade/erro nesta sessão, o que exige confirmação posterior dos números de controle PNCP e documentos de suporte na pesquisa formal.
 
-### 1.1.1 Quais as especificacoes minimas do objeto da contratacao para que a necessidade da Administracao possa ser satisfatoriamente atendida?
+- Para o novo grupo Sede-Foro, não foram localizados três itens idênticos de 25 Gbps no PNCP nesta pesquisa preliminar; foram localizadas referências compatíveis de LAN-to-LAN, Metro Ethernet, fibra dedicada, datacenter, 4 Gbps, 5 Gbps e 10 Gbps, além de especificação pública com interfaces 10/25Gbps SFP28.
 
-Para que a necessidade da Administracao seja atendida de forma satisfatoria, o objeto devera contemplar uma solucao continuada de comunicacao de dados corporativa, em rede privada MPLS L3 VPN ou tecnologia funcionalmente equivalente, capaz de interconectar todas as unidades do TRT10 a Sede, preservar a convivencia com a SD-WAN existente e permitir operacao com preferencia de trafego e contingencia cruzada.
+### Inferências analíticas
 
-As especificacoes minimas abaixo constituem hipotese tecnica de trabalho para o ETP e deverao ser refinadas no Termo de Referencia, no projeto executivo e na pesquisa de mercado.
+- A contratação de MPLS não substitui a SD-WAN vigente; ela compõe, desde o desenho inicial, uma arquitetura híbrida com camada privada para tráfego crítico, enquanto a SD-WAN permanece como camada preferencial para Internet.
 
-#### a) Escopo minimo do servico
+- As capacidades MPLS requeridas correspondem às capacidades SD-WAN vigentes por localidade, como premissa de redundância total. A escolha deve ser confirmada por medição real de tráfego, pesquisa de mercado e validação da capacidade dos CPEs, mas evita contingência parcial e subdimensionamento em incidente.
 
-A contratacao devera incluir, no minimo:
+- A existência de 3 saídas de Internet redundantes na Sede permite centralizar a egressão de Internet e aplicar políticas uniformes de segurança.
 
-- prestacao de servico continuado de comunicacao de dados por rede privada corporativa MPLS L3 VPN ou tecnologia equivalente;
-- interconexao da Sede, Foro de Brasilia, Predio de Apoio, Foro de Taguatinga, Foro de Palmas, Vara do Gama, Foro de Araguaina, Vara de Gurupi, Vara de Dianopolis e Vara de Guarai;
-- interligacao dedicada ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasilia, em grupo proprio, por fibra optica, LAN-to-LAN/Metro Ethernet ou tecnologia equivalente;
-- fornecimento, instalacao, configuracao, ativacao, operacao, manutencao e suporte dos circuitos;
-- fornecimento dos CPEs, roteadores, modems, transceptores, fontes, cabos, licencas e demais elementos necessarios a prestacao do servico, quando nao forem expressamente indicados como responsabilidade do TRT10;
+- A capacidade mínima combinada de 4 Gbps para as 3 saídas de Internet da Sede constitui premissa técnica conservadora, derivada da soma aproximada dos enlaces SD-WAN atuais, e deve ser validada por medição de uso, picos, simultaneidade, política de degradação controlada e pesquisa de mercado.
+
+- A arquitetura mais resiliente é a que permite contingência cruzada: MPLS pode transportar tráfego de Internet em caso de falha da SD-WAN, e SD-WAN pode transportar tráfego crítico em caso de falha do MPLS.
+
+- A equivalência de capacidade entre MPLS e SD-WAN é premissa técnica do modelo de disponibilidade adotado. Para sistemas judiciais, autenticação, colaboração, administração remota, suporte técnico e continuidade operacional, a capacidade equivalente é aderente ao objetivo de alta disponibilidade.
+
+- A interligação Sede-Foro deve ser tratada como link dedicado ponto-a-ponto, e não MPLS, porque sua finalidade é criar um barramento de alta capacidade entre dois pontos centrais para replicação, backup, sincronização, baixa latência e continuidade operacional.
+
+## I - Descrição da Necessidade de Contratação
+
+### 1.1 Necessidade da Administração
+
+O TRT10 necessita contratar serviços de comunicação de dados MPLS para interconectar suas unidades à Sede, de modo a prover uma camada privada, previsível, monitorável e resiliente para tráfego institucional crítico.
+
+A necessidade decorre da dependência dos serviços digitais, da centralização de segurança e saída de Internet na Sede, da necessidade de redundância total entre camadas de conectividade e da conveniência de manter tráfego sensível em rede privada, com QoS, segregação lógica e controle de rotas. A arquitetura pretendida separa os fluxos por finalidade: MPLS para sistemas críticos e comunicação corporativa interna; SD-WAN para Internet; e uso recíproco dos meios em contingência.
+
+A demanda considera os enlaces SD-WAN vigentes, com suas capacidades atuais e tunelamento IPSec, e define camada MPLS com a mesma capacidade nominal dos links SD-WAN em cada localidade. Com isso, assegura-se redundância total entre as camadas, de modo que a indisponibilidade de uma delas não obrigue a Administração a operar com banda nominal reduzida.
+
+A Sede deverá operar como concentrador preferencial de saída de Internet, segurança, observabilidade e integração com redes institucionais, considerando a existência de 3 saídas de Internet redundantes. A saída local de Internet pelas unidades deverá ser tratada como exceção técnica, contingência ou fluxo formalmente autorizado, conforme política definida no projeto executivo.
+
+A equivalência de banda entre as camadas é adotada como requisito inicial porque a separação entre tráfego crítico e não crítico tende a se tornar insuficiente durante incidentes reais: acesso ao PJe, colaboração, autenticação, suporte remoto, monitoramento, integrações, voz/vídeo e rotinas administrativas podem ocorrer simultaneamente e disputar capacidade. A equivalência de banda reduz esse risco e simplifica a operação de failover.
+
+A necessidade também contempla interligação dedicada de 25 Gbps entre o Edifício Sede e o Foro de Brasília. O Foro deverá ser preparado como ponto de replicação e redundância da Sede, apto a receber tráfego de sincronização, backup, replicação de dados, serviços de continuidade e, conforme projeto executivo, acesso contingencial das demais unidades quando a Sede estiver indisponível ou degradada. Esse enlace deve ser contratado como link dedicado ponto-a-ponto, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente, e não como MPLS.
+
+### 1.1.1 Quais as especificações mínimas do objeto da contratação para que a necessidade da Administração possa ser satisfatoriamente atendida?
+
+Para que a necessidade da Administração seja atendida de forma satisfatória, o objeto deverá contemplar uma solução continuada de comunicação de dados corporativa, em rede privada MPLS L3 VPN ou tecnologia funcionalmente equivalente, capaz de interconectar todas as unidades do TRT10 à Sede, coexistir com a SD-WAN vigente e permitir operação com preferência de tráfego e contingência cruzada.
+
+As especificações mínimas abaixo constituem hipótese técnica de trabalho para o ETP e deverão ser refinadas no Termo de Referência, no projeto executivo e na pesquisa de mercado.
+
+#### a) Escopo mínimo do serviço
+
+A contratação deverá incluir, no mínimo:
+
+- prestação de serviço continuado de comunicação de dados por rede privada corporativa MPLS L3 VPN ou tecnologia equivalente;
+
+- interconexão da Sede, Foro de Brasília, Prédio de Apoio, Foro de Taguatinga, Foro de Palmas, Vara do Gama, Foro de Araguaína, Vara de Gurupi, Vara de Dianópolis e Vara de Guaraí;
+
+- interligação dedicada ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília, em grupo próprio, por fibra óptica, LAN-to-LAN/Metro Ethernet ou tecnologia equivalente;
+
+- fornecimento, instalação, configuração, ativação, operação, manutenção e suporte dos circuitos;
+
+- fornecimento dos CPEs, roteadores, modems, transceptores, fontes, cabos, licenças e demais elementos necessários a prestação do serviço, quando não forem expressamente indicados como responsabilidade do TRT10;
+
 - monitoramento 24x7 dos circuitos e equipamentos sob responsabilidade da contratada;
-- central de atendimento, registro de chamados, escalonamento tecnico e relatorios mensais;
-- documentacao tecnica inicial, documentacao as built e atualizacao apos mudancas relevantes.
 
-#### b) Arquitetura minima
+- central de atendimento, registro de chamados, escalonamento técnico e relatórios mensais;
 
-A solucao devera adotar topologia logica com a Sede como concentrador preferencial, mantendo todas as demais localidades interconectadas a Sede por MPLS. A Sede devera permanecer como ponto preferencial de saida de Internet e de aplicacao das politicas de seguranca, considerando a existencia de 3 saidas de Internet redundantes.
+- documentação técnica inicial, documentação as built e atualização após mudanças relevantes.
 
-A arquitetura devera permitir:
+#### b) Arquitetura mínima
 
-- uso preferencial do MPLS para trafego critico, sistemas institucionais, autenticacao, servicos corporativos internos, administracao, monitoramento e integracoes;
-- uso preferencial da SD-WAN para trafego de Internet e servicos externos;
-- uso do MPLS para trafego de Internet em contingencia da SD-WAN, com egressao preferencial pela Sede;
-- uso da SD-WAN para trafego critico em contingencia do MPLS;
-- retorno controlado ao caminho preferencial apos normalizacao;
-- capacidade agregada na Sede para suportar, em condicoes normais e em regime de contingencia controlada, a egressao de Internet das unidades;
-- uso do Foro de Brasilia como ponto de replicacao e redundancia da Sede, com enlace dedicado de 25 Gbps entre os dois predios;
-- redirecionamento contingencial do acesso das unidades ao Foro de Brasilia, conforme rotas, seguranca, servicos disponiveis e criterio de acionamento definidos no projeto executivo;
-- convivencia com firewalls, roteadores, controladores SD-WAN, redes JT, Infovia e demais componentes indicados pela CDTEC.
+A solução deverá adotar topologia lógica com à Sede como concentrador preferencial, mantendo todas às demais localidades interconectadas à Sede por MPLS. A Sede deverá permanecer como ponto preferencial de saída de Internet e de aplicação das políticas de segurança, considerando a existência de 3 saídas de Internet redundantes.
 
-#### c) Capacidades minimas preliminares
+A arquitetura deverá permitir:
 
-As capacidades minimas preliminares deverao observar o dimensionamento abaixo, sujeito a validacao por medicao de trafego, criticidade, simultaneidade, crescimento esperado e pesquisa de mercado:
+- uso preferencial do MPLS para tráfego crítico, sistemas institucionais, autenticação, serviços corporativos internos, administração, monitoramento e integrações;
 
-| Item | Localidade | Capacidade SD-WAN atual | Capacidade MPLS minima para redundancia total | Papel tecnico |
-|---:|---|---:|---:|---|
-| 1 | Edificio Sede | 1 Gbps | 1 Gbps | Concentrador preferencial |
-| 2 | Foro de Brasilia | 1 Gbps | 1 Gbps | Unidade de alta demanda |
-| 3 | Predio de Apoio | 500 Mbps | 500 Mbps | Unidade metropolitana |
+- uso preferencial da SD-WAN para tráfego de Internet e serviços externos;
+
+- uso do MPLS para tráfego de Internet em contingência da SD-WAN, com egressão preferencial pela Sede;
+
+- uso da SD-WAN para tráfego crítico em contingência do MPLS;
+
+- retorno controlado ao caminho preferencial após normalizacao;
+
+- capacidade agregada na Sede para suportar, em condições normais e em regime de contingência controlada, a egressão de Internet das unidades;
+
+- uso do Foro de Brasília como ponto de replicação e redundância da Sede, com enlace dedicado de 25 Gbps entre os dois prédios;
+
+- redirecionamento contingencial do acesso das unidades ao Foro de Brasília, conforme rotas, segurança, serviços disponíveis e critério de acionamento definidos no projeto executivo;
+
+- convivência com firewalls, roteadores, controladores SD-WAN, redes JT, Infovia e demais componentes indicados pela CDTEC.
+
+#### c) Capacidades mínimas preliminares
+
+As capacidades mínimas preliminares deverão observar o dimensionamento abaixo, sujeito a validação por medição de tráfego, criticidade, simultaneidade, crescimento esperado e pesquisa de mercado:
+
+| Item | Localidade | Capacidade SD-WAN vigente | Capacidade MPLS requerida | Papel técnico |
+|---|---|---|---|---|
+| 1 | Edifício Sede | 1 Gbps | 1 Gbps | Concentrador preferencial |
+| 2 | Foro de Brasília | 1 Gbps | 1 Gbps | Unidade de alta demanda |
+| 3 | Prédio de Apoio | 500 Mbps | 500 Mbps | Unidade metropolitana |
 | 4 | Foro de Taguatinga | 500 Mbps | 500 Mbps | Unidade regional DF |
 | 5 | Foro de Palmas | 500 Mbps | 500 Mbps | Polo regional TO |
 | 6 | Vara do Gama | 100 Mbps | 100 Mbps | Unidade remota |
-| 7 | Foro de Araguaina | 100 Mbps | 100 Mbps | Unidade remota |
+| 7 | Foro de Araguaína | 100 Mbps | 100 Mbps | Unidade remota |
 | 8 | Vara de Gurupi | 100 Mbps | 100 Mbps | Unidade remota |
-| 9 | Vara de Dianopolis | 100 Mbps | 100 Mbps | Unidade remota |
-| 10 | Vara de Guarai | 100 Mbps | 100 Mbps | Unidade remota |
+| 9 | Vara de Dianópolis | 100 Mbps | 100 Mbps | Unidade remota |
+| 10 | Vara de Guaraí | 100 Mbps | 100 Mbps | Unidade remota |
 
-Grupo especifico de interligacao dedicada entre pontos centrais:
+Grupo específico de interligação dedicada entre pontos centrais:
 
-| Item | Enlace | Tecnologia minima | Capacidade | Papel tecnico |
-|---:|---|---|---:|---|
-| 11 | Edificio Sede ↔ Foro de Brasilia | Link dedicado ponto-a-ponto por fibra optica, LAN-to-LAN/Metro Ethernet, clear channel, E-Line, E-LAN ou equivalente | 25 Gbps | Replicacao, backup, sincronizacao, baixa latencia, redundancia da Sede e acesso contingencial das unidades |
+| Item | Enlace | Tecnologia mínima | Capacidade | Papel técnico |
+|---|---|---|---|---|
+| 11 | Edifício Sede ↔ Foro de Brasília | link dedicado ponto-a-ponto por fibra óptica, LAN-to-LAN/Metro Ethernet, clear channel, E-Line, E-LAN ou equivalente | 25 Gbps | Replicação, backup, sincronização, baixa latência, redundância da Sede e acesso contingencial das unidades |
 
-Os circuitos deverao ser simetricos, full duplex, com banda util compativel com a capacidade contratada, ressalvados apenas os overheads inerentes aos protocolos de comunicacao.
+Os circuitos deverão ser simétricos, full duplex, com banda útil compatível com a capacidade contratada, ressalvados apenas os overheads inerentes aos protocolos de comunicação.
 
-Como premissa para pesquisa de precos e validacao tecnica, as 3 saidas de Internet da Sede deverao ser dimensionadas para capacidade minima combinada de 4 Gbps em operacao normal, preferencialmente com operadoras e rotas fisicas distintas. Essa premissa nao substitui a medicao real de trafego, devendo ser ajustada conforme uso medio, picos, simultaneidade, criticidade dos servicos e politica de degradacao controlada.
+Como premissa para pesquisa de preços e validação técnica, as 3 saídas de Internet da Sede deverão ser dimensionadas para capacidade mínima combinada de 4 Gbps em operação normal, preferencialmente com operadoras e rotas físicas distintas. Essa premissa não substitui a medição real de tráfego, devendo ser ajustada conforme uso médio, picos, simultaneidade, criticidade dos serviços e política de degradação controlada.
 
-A equivalencia entre MPLS e SD-WAN nao significa duplicidade indevida de objeto, pois as camadas possuem papeis tecnicos complementares: a SD-WAN utiliza transporte por Internet dedicada, tuneis, orquestracao e politicas de acesso; o MPLS fornece rede privada corporativa, isolamento logico, QoS e caminho controlado para interconexao. A duplicacao de capacidade nominal e justificada pela finalidade de redundancia integral, e nao pela repeticao desnecessaria de uma mesma solucao.
+A equivalência entre MPLS e SD-WAN não significa duplicidade indevida de objeto, pois as camadas possuem papeis técnicos complementares: à SD-WAN utiliza transporte por Internet dedicada, túneis, orquestracao e políticas de acesso; o MPLS fornece rede privada corporativa, isolamento lógico, QoS e caminho controlado para interconexão. A duplicacao de capacidade nominal decorre da finalidade de redundância integral, e não da repeticao desnecessaria de uma mesma solução.
 
-O link dedicado de 25 Gbps Sede-Foro possui natureza distinta da rede MPLS das localidades. Ele nao e enlace MPLS de filial, mas circuito de alta capacidade entre dois pontos centrais, voltado a replicacao, continuidade, contingencia e baixa latencia. Por isso, devera compor grupo proprio na modelagem da contratacao e na pesquisa de precos.
+O link dedicado de 25 Gbps Sede-Foro possui natureza distinta da rede MPLS das localidades. Ele não é enlace MPLS de filial, mas circuito de alta capacidade entre dois pontos centrais, voltado a replicação, continuidade, contingência e baixa latência. Por isso, deverá compor grupo próprio na modelagem da contratação e na pesquisa de preços.
 
 #### c.1) Itens complementares a prever no TR
 
-O Termo de Referencia devera avaliar a inclusao ou explicitacao dos seguintes itens complementares:
+O Termo de Referência deverá avaliar a inclusão ou explicitacao dos seguintes itens complementares:
 
-- 3 links de Internet centralizados e redundantes na Sede, preferencialmente com operadoras e rotas fisicas distintas;
-- equipamentos de borda, roteadores, CPEs ou integracao com firewalls existentes, sem vinculacao a marca especifica;
-- servicos de implantacao, configuracao, testes de aceite, documentacao e transferencia de conhecimento;
-- monitoramento 24x7 dos links, alertas de indisponibilidade e relatorios mensais de SLA;
-- suporte tecnico com prazos definidos para falha critica, degradacao e indisponibilidade;
-- enderecamento, roteamento, QoS, segmentacao e politicas de seguranca documentadas no projeto executivo.
+- 3 links de Internet centralizados e redundantes na Sede, preferencialmente com operadoras e rotas físicas distintas;
 
-#### d) Roteamento, segregacao e QoS
+- equipamentos de borda, roteadores, CPEs ou integração com firewalls existentes, sem vinculação a marca específica;
 
-A solucao devera suportar roteamento controlado e integracao com a infraestrutura existente do TRT10, preferencialmente por BGP ou OSPF, ou por roteamento estatico quando tecnicamente justificado. O projeto executivo devera definir rotas anunciadas, metricas, prioridades, contingencia, retorno ao caminho preferencial e prevencao de loops.
+- serviços de implantação, configuração, testes de aceite, documentação e transferência de conhecimento;
 
-A solucao devera prover isolamento logico do trafego do TRT10, por VRF ou mecanismo equivalente, e suportar QoS com classes de servico configuraveis. Como referencia inicial, deverao ser previstas classes para:
+- monitoramento 24x7 dos links, alertas de indisponibilidade e relatórios mensais de SLA;
 
-- trafego critico de sistemas judiciais, autenticacao, servicos internos e administracao;
-- trafego sensivel a tempo, como voz, video e colaboracao, quando aplicavel;
-- trafego corporativo administrativo;
-- trafego de melhor esforco.
+- suporte técnico com prazos definidos para falha crítica, degradação e indisponibilidade;
 
-As marcacoes, filas, percentuais de reserva e politicas de descarte deverao ser definidos no projeto executivo, sem exigencia de marca, fabricante ou tecnologia proprietaria especifica.
+- endereçamento, roteamento, QoS, segmentação e políticas de segurança documentadas no projeto executivo.
+
+#### d) Roteamento, segregação e QoS
+
+A solução deverá suportar roteamento controlado e integração com a infraestrutura existente do TRT10, preferencialmente por BGP ou OSPF, ou por roteamento estático quando tecnicamente justificado. O projeto executivo deverá definir rotas anunciadas, métricas, prioridades, contingência, retorno ao caminho preferencial e prevenção de loops.
+
+A solução deverá prover isolamento lógico do tráfego do TRT10, por VRF ou mecanismo equivalente, e suportar QoS com classes de serviço configuraveis. Como referência inicial, deverão ser previstas classes para:
+
+- tráfego crítico de sistemas judiciais, autenticação, serviços internos e administração;
+
+- tráfego sensível a tempo, como voz, video e colaboração, quando aplicável;
+
+- tráfego corporativo administrativo;
+
+- tráfego de melhor esforço.
+
+As marcações, filas, percentuais de reserva e políticas de descarte deverão ser definidos no projeto executivo, sem exigência de marca, fabricante ou tecnologia proprietária específica.
 
 #### e) Disponibilidade, desempenho e suporte
 
-Como requisito minimo preliminar, a solucao devera observar disponibilidade mensal de referencia de 99,90% para a Sede e 99,70% para as demais localidades, em coerencia com o historico da contratacao SD-WAN. As metas finais deverao ser confirmadas no Termo de Referencia.
+Como requisito mínimo preliminar, a solução deverá observar disponibilidade mensal de referência de 99,90% para a Sede e 99,70% para as demais localidades, em coerência com o histórico da contratação SD-WAN. As metas finais deverão ser confirmadas no Termo de Referência.
 
-O TR devera definir, de forma mensuravel:
+O TR deverá definir, de forma mensuravel:
 
 - disponibilidade por circuito;
-- prazo para inicio de atendimento;
+
+- prazo para início de atendimento;
+
 - prazo de reparo por severidade;
-- regras de manutencao programada;
-- formula de calculo de disponibilidade;
+
+- regras de manutenção programada;
+
+- formula de cálculo de disponibilidade;
+
 - hipoteses de glosa;
-- forma de afericao por relatorios da contratada e validacao da fiscalizacao;
-- parametros de latencia, perda de pacotes e jitter, apos validacao de mercado.
 
-#### f) Implantacao, testes e aceite
+- forma de afericao por relatórios da contratada e validação da fiscalização;
 
-A contratada devera apresentar plano de implantacao antes da ativacao dos circuitos, contendo cronograma, prerequisitos, responsaveis, janelas de mudanca, testes, riscos e plano de rollback. A implantacao devera ocorrer preferencialmente por fases, iniciando pela Sede e pelas unidades de maior criticidade.
+- parametros de latência, perda de pacotes e jitter, após validação de mercado.
 
-O aceite minimo por localidade devera verificar:
+#### f) Implantação, testes e aceite
 
-- identificacao do circuito;
+A contratada deverá apresentar plano de implantação antes da ativação dos circuitos, contendo cronograma, pré-requisitos, responsáveis, janelas de mudança, testes, riscos e plano de rollback. A implantação deverá ocorrer preferencialmente por fases, iniciando pela Sede e pelas unidades de maior criticidade.
+
+O aceite mínimo por localidade deverá verificar:
+
+- identificação do circuito;
+
 - banda contratada;
-- conectividade com a Sede;
+
+- conectividade com à Sede;
+
 - roteamento conforme projeto;
-- acesso a servicos institucionais;
+
+- acesso a serviços institucionais;
+
 - registro no monitoramento;
+
 - abertura de chamado teste;
-- medicao inicial de latencia e perda;
-- teste de contingencia entre MPLS e SD-WAN, quando tecnicamente aplicavel;
-- entrega de documentacao as built.
 
-#### g) Seguranca e confidencialidade
+- medição inicial de latência e perda;
 
-A contratada devera preservar o sigilo das informacoes de rede, enderecamento, rotas, configuracoes, chamados e incidentes. Devera manter controle de acesso administrativo aos equipamentos sob sua responsabilidade, registrar mudancas relevantes e comunicar incidentes que possam afetar disponibilidade, integridade, confidencialidade ou continuidade do servico.
+- teste de contingência entre MPLS e SD-WAN, quando tecnicamente aplicável;
 
-#### h) Vedacao a direcionamento
+- entrega de documentação as built.
 
-As especificacoes deverao ser descritas por requisitos funcionais e de desempenho, sem indicacao de marca, fabricante, modelo ou solucao proprietaria especifica, salvo quando indispensavel e devidamente justificado. Devera ser admitida tecnologia equivalente ao MPLS quando demonstrada aderencia funcional aos requisitos de rede privada, isolamento, QoS, roteamento controlado, monitoramento e SLA.
+#### g) Segurança e confidencialidade
 
-### 1.1.2 Sera necessario exigir garantia contratual do objeto, complementar a legal?
+A contratada deverá preservar o sigilo das informações de rede, endereçamento, rotas, configurações, chamados e incidentes. Deverá manter controle de acesso administrativo aos equipamentos sob sua responsabilidade, registrar mudanças relevantes e comunicar incidentes que possam afetar disponibilidade, integridade, confidencialidade ou continuidade do serviço.
 
-Sim. Recomenda-se exigir garantia contratual do objeto durante toda a vigencia da contratacao, complementar as garantias legais aplicaveis, abrangendo o funcionamento dos circuitos, CPEs, roteadores, modems, fontes, transceptores, licencas, configuracoes, monitoramento, suporte tecnico e demais componentes fornecidos ou operados pela contratada.
+#### h) Vedação a direcionamento
 
-A garantia do objeto devera assegurar que falhas, defeitos, indisponibilidades ou degradacoes imputaveis a contratada sejam corrigidos sem onus adicional para o TRT10, observados os prazos de atendimento, reparo, disponibilidade e demais niveis minimos de servico previstos no Termo de Referencia e no contrato.
+As especificações deverão ser descritas por requisitos funcionais e de desempenho, sem indicação de marca, fabricante, modelo ou solução proprietária específica, salvo quando indispensável e devidamente justificado. Deverá ser admitida tecnologia equivalente ao MPLS quando demonstrada aderência funcional aos requisitos de rede privada, isolamento, QoS, roteamento controlado, monitoramento e SLA.
 
-Essa garantia do objeto nao substitui a garantia de execucao contratual eventualmente exigida, nem afasta a aplicacao de glosas, sancoes, obrigacoes de reparo, substituicao de equipamentos, manutencao corretiva ou demais medidas previstas no instrumento contratual.
+### 1.1.2 Será necessário exigir garantia contratual do objeto, complementar a legal?
 
-### 1.1.3 A garantia contratual do objeto e compativel com as praticas de mercado?
+Sim. Recomenda-se exigir garantia contratual do objeto durante toda a vigência da contratação, complementar as garantias legais aplicáveis, abrangendo o funcionamento dos circuitos, CPEs, roteadores, modems, fontes, transceptores, licenças, configurações, monitoramento, suporte técnico e demais componentes fornecidos ou operados pela contratada.
 
-Sim. A exigencia e compativel com as praticas de mercado para servicos continuados de telecomunicacoes e comunicacao de dados, nos quais e usual que a contratada se responsabilize pela disponibilidade do circuito, funcionamento dos equipamentos sob sua gestao, manutencao corretiva, substituicao de componentes defeituosos, suporte tecnico, monitoramento e cumprimento de SLA durante toda a vigencia contratual.
+A garantia do objeto deverá assegurar que falhas, defeitos, indisponibilidades ou degradações imputáveis a contratada sejam corrigidos sem ônus adicional para o TRT10, observados os prazos de atendimento, reparo, disponibilidade e demais níveis mínimos de serviço previstos no Termo de Referência e no contrato.
 
-Tambem e pratica usual que equipamentos fornecidos em comodato, locacao, cessao de uso ou como parte indissociavel do servico sejam mantidos pela contratada, sem transferencia de responsabilidade tecnica ao contratante, salvo quando houver dano causado por uso indevido, caso fortuito, forca maior ou responsabilidade expressamente atribuida ao contratante no contrato.
+Essa garantia do objeto não substitui a garantia de execução contratual eventualmente exigida, nem afasta a aplicação de glosas, sanções, obrigacoes de reparo, substituicao de equipamentos, manutenção corretiva ou demais medidas previstas no instrumento contratual.
 
-### 1.2 Quais as caracteristicas minimas do modelo de execucao da contratacao para que a necessidade da Administracao possa ser satisfatoriamente atendida?
+### 1.1.3 A garantia contratual do objeto e compatível com às práticas de mercado?
 
-O modelo de execucao devera permitir implantacao controlada, operacao continuada, fiscalizacao objetiva e preservacao da conectividade atual durante a transicao. Para tanto, devera contemplar, no minimo:
+Sim. A exigência e compatível com às práticas de mercado para serviços continuados de telecomunicações e comunicação de dados, nos quais e usual que a contratada se responsabilize pela disponibilidade do circuito, funcionamento dos equipamentos sob sua gestão, manutenção corretiva, substituicao de componentes defeituosos, suporte técnico, monitoramento e cumprimento de SLA durante toda a vigência contratual.
 
-- emissao de ordem de servico para inicio da execucao;
-- apresentacao de plano de implantacao pela contratada em prazo definido no Termo de Referencia;
-- levantamento inicial de prerequisitos por localidade, incluindo acesso fisico, energia, espaco, passagem de cabos, infraestrutura de fibra, CPEs e pontos de conexao;
-- implantacao por fases, iniciando pela Sede e pelas unidades de maior criticidade ou maior capacidade;
-- preservacao da SD-WAN vigente durante a implantacao do MPLS, evitando interrupcao dos servicos institucionais;
-- entrega de projeto executivo antes da ativacao, contendo desenho logico, rotas, enderecamento, politicas de preferencia, QoS, contingencia, responsabilidades e rollback;
-- ativacao e teste de aceite por localidade;
-- operacao assistida apos a ativacao dos circuitos, com acompanhamento de estabilidade, roteamento, desempenho, chamados e relatorios;
+Também é prática usual que equipamentos fornecidos em comodato, locação, cessão de uso ou como parte indissociável do serviço sejam mantidos pela contratada, sem transferência de responsabilidade técnica ao contratante, salvo quando houver dano causado por uso indevido, caso fortuito, força maior ou responsabilidade expressamente atribuída ao contratante no contrato.
+
+### 1.2 Quais as características mínimas do modelo de execução da contratação para que a necessidade da Administração possa ser satisfatoriamente atendida?
+
+O modelo de execução deverá permitir implantação controlada, operação continuada, fiscalização objetiva e preservacao da conectividade vigente durante a transição. Para tanto, deverá contemplar, no mínimo:
+
+- emissão de ordem de serviço para início da execução;
+
+- apresentacao de plano de implantação pela contratada em prazo definido no Termo de Referência;
+
+- levantamento inicial de pré-requisitos por localidade, incluindo acesso físico, energia, espaço, passagem de cabos, infraestrutura de fibra, CPEs e pontos de conexão;
+
+- implantação por fases, iniciando pela Sede e pelas unidades de maior criticidade ou maior capacidade;
+
+- convivência com a SD-WAN vigente durante a implantação do MPLS, evitando interrupcao dos serviços institucionais;
+
+- entrega de projeto executivo antes da ativação, contendo desenho lógico, rotas, endereçamento, políticas de preferência, QoS, contingência, responsabilidades e rollback;
+
+- ativação e teste de aceite por localidade;
+
+- operação assistida após a ativação dos circuitos, com acompanhamento de estabilidade, roteamento, desempenho, chamados e relatórios;
+
 - monitoramento 24x7 dos circuitos e equipamentos sob responsabilidade da contratada;
-- disponibilizacao de central de atendimento, portal ou canal equivalente de abertura de chamados, telefone e e-mail;
-- relatorio mensal com disponibilidade, indisponibilidades, chamados, causa raiz, tempos de atendimento, reparos, manutencoes, desempenho e eventos de contingencia;
-- reunioes tecnicas de acompanhamento, quando solicitadas pela fiscalizacao;
-- documentacao as built e atualizacao documental sempre que houver mudanca relevante;
-- execucao de manutencoes programadas apenas mediante comunicacao e autorizacao previa, quando houver risco de impacto;
-- aplicacao de glosas e sancoes em caso de descumprimento dos niveis de servico, conforme regras do TR e do contrato.
 
-O modelo devera prever recebimento provisorio por localidade apos ativacao e teste, e recebimento definitivo apos periodo de observacao, saneamento de pendencias e validacao pela fiscalizacao tecnica.
+- disponibilização de central de atendimento, portal ou canal equivalente de abertura de chamados, telefone e e-mail;
 
-Sugere-se que a implantacao seja faseada, permitindo preservar a continuidade da SD-WAN atual e reduzir risco operacional:
+- relatório mensal com disponibilidade, indisponibilidades, chamados, causa raiz, tempos de atendimento, reparos, manutenções, desempenho e eventos de contingência;
+
+- reuniões técnicas de acompanhamento, quando solicitadas pela fiscalização;
+
+- documentação as built e atualização documental sempre que houver mudança relevante;
+
+- execução de manutenções programadas apenas mediante comunicação e autorização prévia, quando houver risco de impacto;
+
+- aplicação de glosas e sanções em caso de descumprimento dos níveis de serviço, conforme regras do TR e do contrato.
+
+O modelo deverá prever recebimento provisorio por localidade após ativação e teste, e recebimento definitivo após periodo de observacao, saneamento de pendencias e validação pela fiscalização técnica.
+
+Sugere-se que a implantação seja faseada, permitindo preservar a continuidade da SD-WAN vigente e reduzir risco operacional:
 
 | Fase | Escopo | Objetivo |
-|---:|---|---|
-| 1 | Sede | Implantar concentrador principal, validar saidas centrais de Internet, roteamento, seguranca e saida preferencial |
-| 2 | Gama e Taguatinga | Atender unidades com maior sensibilidade contratual historica |
-| 3 | Predio de Apoio e Palmas | Integrar unidades de demanda intermediaria |
-| 4 | Araguaina, Gurupi, Dianopolis e Guarai | Concluir capilaridade MPLS e contingencia das unidades remotas |
-| 5 | Operacao assistida | Validar failover, QoS, desempenho, monitoramento e documentacao final |
+|---|---|---|
+| 1 | Sede | Implantar concentrador principal, validar saídas centrais de Internet, roteamento, segurança e saída preferencial |
+| 2 | Gama e Taguatinga | Atender unidades com maior sensibilidade contratual histórica |
+| 3 | Prédio de Apoio e Palmas | Integrar unidades de demanda intermediária |
+| 4 | Araguaína, Gurupi, Dianópolis e Guaraí | Concluir capilaridade MPLS e contingência das unidades remotas |
+| 5 | Operação assistida | Validar failover, QoS, desempenho, monitoramento e documentação final |
 
-### 1.2.1 Sera admitida a subcontratacao? Se sim, apresente as justificativas, bem como indique seus limites e partes do objeto.
+### 1.2.1 Será admitida a subcontratação? Se sim, apresente as justificativas, bem como indique seus limites e partes do objeto.
 
-Sim. Sugere-se admitir subcontratacao apenas para atividades acessorias de infraestrutura local, lancamento de fibra, obras civis leves, passagem de cabos, adequacoes fisicas, vistorias, instalacao de ultimo trecho e atendimento de campo, mantendo a contratada principal integralmente responsavel pela prestacao do servico, pelo SLA, pela seguranca, pela documentacao, pelo suporte, pela operacao e pela manutencao da solucao.
+Sim. Sugere-se admitir subcontratação apenas para atividades acessórias de infraestrutura local, lançamento de fibra, obras civis leves, passagem de cabos, adequações físicas, vistorias, instalação de último trecho e atendimento de campo, mantendo a contratada principal integralmente responsável pela prestação do serviço, pelo SLA, pela segurança, pela documentação, pelo suporte, pela operação e pela manutenção da solução.
 
-A justificativa para admitir subcontratacao limitada decorre da natureza distribuida da solucao, que envolve localidades no Distrito Federal e no Tocantins, podendo exigir equipes locais, acesso a infraestrutura regional, servicos de campo e atividades acessorias que nao representam a gestao tecnica central do servico de comunicacao de dados.
+A justificativa para admitir subcontratação limitada decorre da natureza distribuída da solução, que envolve localidades no Distrito Federal e no Tocantins, podendo exigir equipes locais, acesso à infraestrutura regional, serviços de campo e atividades acessórias que não representam a gestão técnica central do serviço de comunicação de dados.
 
-Nao devera ser admitida subcontratacao que transfira a responsabilidade principal pela rede privada corporativa, pela gerencia dos circuitos, pelo cumprimento do SLA, pelo atendimento ao TRT10, pela seguranca das informacoes ou pela integracao tecnica com a arquitetura MPLS/SD-WAN. A contratada principal devera responder integralmente por atos, omissoes, falhas e atrasos de suas subcontratadas.
+Não deverá ser admitida subcontratação que transfira a responsabilidade principal pela rede privada corporativa, pela gerência dos circuitos, pelo cumprimento do SLA, pelo atendimento ao TRT10, pela segurança das informações ou pela integração técnica com a arquitetura MPLS/SD-WAN. A contratada principal deverá responder integralmente por atos, omissões, falhas e atrasos de suas subcontratadas.
 
-### 1.2.2 Os riscos ou caracteristicas da contratacao tornam recomendavel a exigencia de garantia de execucao contratual?
+### 1.2.2 Os riscos ou características da contratação tornam recomendavel a exigência de garantia de execução contratual?
 
-Sim, recomenda-se avaliar a exigencia de garantia de execucao contratual na versao final do Termo de Referencia, considerando o valor estimado, a criticidade do servico, a quantidade de localidades, a necessidade de implantacao coordenada, o fornecimento de equipamentos, a dependencia de SLA e o impacto operacional de eventual inadimplemento.
+Sim, recomenda-se avaliar a exigência de garantia de execução contratual na versão final do Termo de Referência, considerando o valor estimado, à criticidade do serviço, a quantidade de localidades, a necessidade de implantação coordenada, o fornecimento de equipamentos, a dependência de SLA e o impacto operacional de eventual inadimplemento.
 
-A garantia de execucao contratual e recomendavel porque a contratacao envolve servico continuado essencial, com risco de atraso de implantacao, indisponibilidade de circuitos, falha de integracao MPLS/SD-WAN, descumprimento de niveis de servico e necessidade de manutencao da continuidade da comunicacao institucional. O percentual, modalidade e condicoes da garantia deverao ser definidos no TR final, apos estimativa de valor, analise de riscos e manifestacao da area juridica/administrativa competente.
+A garantia de execução contratual e recomendavel porque a contratação envolve serviço continuado essencial, com risco de atraso de implantação, indisponibilidade de circuitos, falha de integração MPLS/SD-WAN, descumprimento de níveis de serviço e necessidade de manutenção da continuidade da comunicação institucional. O percentual, modalidade e condições da garantia deverão ser definidos no TR final, após estimativa de valor, análise de riscos e manifestação da área jurídica/administrativa competente.
 
 ### 1.3 A necessidade decorre de determinacao legal?
 
-Nao ha obrigacao legal de adotar MPLS como tecnologia. A contratacao se fundamenta na necessidade administrativa de assegurar continuidade, disponibilidade e seguranca da comunicacao de dados. A Lei no 14.133/2021 orienta o planejamento e a estruturacao dos artefatos; a ENTIC-JUD 2021-2026 orienta a governanca de TIC no Poder Judiciario.
+Não há obrigação legal de adotar MPLS como tecnologia. A contratação se fundamenta na necessidade administrativa de assegurar continuidade, disponibilidade e segurança da comunicação de dados. A Lei nº 14.133/2021 orienta o planejamento e a estruturação dos artefatos; a ENTIC-JUD 2021-2026 orienta a governança de TIC no Poder Judiciário.
 
 ### 1.4 Natureza continuada
 
-A necessidade possui natureza continuada, pois a comunicacao entre unidades e Sede e indispensavel ao funcionamento permanente dos servicos judiciais e administrativos.
+A necessidade possui natureza continuada, pois a comunicação entre unidades e Sede e indispensável ao funcionamento permanente dos serviços judiciais e administrativos.
 
-## II - Previsao no Planejamento Institucional, PLS e PCA
+## II - Previsão no Planejamento Institucional, PLS e PCA
 
-### 2.1 Alinhamento ao Planejamento Estrategico
+### 2.1 Alinhamento ao Planejamento Estratégico
 
-A demanda se alinha ao objetivo estrategico "Aprimorar a Governanca de TIC e a protecao de dados", pois aumenta a disponibilidade, a seguranca e a governabilidade da infraestrutura de comunicacao.
+A demanda se alinha ao objetivo estratégico "Aprimorar a Governança de TIC e a proteção de dados", pois aumenta a disponibilidade, a segurança e a governabilidade da infraestrutura de comunicação.
 
 ### 2.2 Alinhamento ao PLS
 
-Ha alinhamento indireto com o uso eficiente de recursos de TIC, reducao de deslocamentos por indisponibilidade tecnica, melhor uso de servicos digitais e racionalizacao de infraestrutura.
+Há alinhamento indireto com o uso eficiente de recursos de TIC, redução de deslocamentos por indisponibilidade técnica, melhor uso de serviços digitais e racionalização de infraestrutura.
 
 ### 2.3 PCA/SIGPLAC
 
-A confirmacao de inclusao no PCA/SIGPLAC devera ser realizada pela unidade competente. Caso ainda nao conste, recomenda-se providenciar a inclusao ou justificar a demanda superveniente.
+A confirmação de inclusão no PCA/SIGPLAC deverá ser realizada pela unidade competente. Caso ainda não conste, recomenda-se providenciar a inclusão ou justificar a demanda superveniente.
 
-## III - Requisitos da Contratacao e Criterios de Sustentabilidade
+## III - Requisitos da Contratação e Criterios de Sustentabilidade
 
 ### 3.1 Requisitos do objeto
 
-Requisitos minimos sugeridos:
+Requisitos mínimos sugeridos:
 
-- rede MPLS L3 VPN ou tecnologia equivalente de rede privada corporativa, desde que preserve isolamento logico, QoS e roteamento controlado;
-- interconexao das demais localidades a Sede;
-- fornecimento de CPEs, modems, transceptores, cabos, licencas e demais itens necessarios;
-- compatibilidade com roteamento dinamico, preferencialmente OSPF ou BGP, conforme projeto executivo;
-- suporte a QoS para classes de trafego critico, administrativo, voz/video, monitoramento e melhor esforco;
-- suporte a VRF ou segregacao logica equivalente;
-- capacidade simetrica minima conforme tabela de dimensionamento;
-- monitoramento 24x7, portal de chamados e relatorios mensais;
-- SLA de disponibilidade minima sugerido de 99,90% para Sede e 99,70% para demais localidades, em coerencia com o historico da SD-WAN, sujeito a validacao no TR.
-- politicas de roteamento que priorizem MPLS para trafego critico e SD-WAN para Internet;
-- contingencia automatizada ou operacionalmente documentada entre MPLS e SD-WAN, com criterios objetivos de acionamento, retorno e registro.
+- rede MPLS L3 VPN ou tecnologia equivalente de rede privada corporativa, desde que preserve isolamento lógico, QoS e roteamento controlado;
 
-### 3.2 Requisitos de execucao
+- interconexão das demais localidades à Sede;
 
-- implantacao por fases, iniciando pela Sede;
-- ativacao e teste de aceite por localidade;
-- entrega de documentacao "as built";
-- operacao assistida minima de 30 dias apos ativacao de todas as localidades;
-- suporte tecnico com chamados por portal, telefone e e-mail;
-- relatorio mensal de disponibilidade, indisponibilidade, chamados, tempo de reparo, perdas e incidentes.
+- fornecimento de CPEs, modems, transceptores, cabos, licenças e demais itens necessários;
 
-### 3.3 Subcontratacao
+- compatibilidade com roteamento dinâmico, preferencialmente OSPF ou BGP, conforme projeto executivo;
 
-Sugere-se admitir subcontratacao apenas para atividades acessorias de infraestrutura local, lancamento de fibra, obras civis leves e atendimento de campo, mantendo a contratada principal integralmente responsavel pela prestacao do servico e pelo SLA.
+- suporte a QoS para classes de tráfego crítico, administrativo, voz/vídeo, monitoramento e melhor esforço;
+
+- suporte a VRF ou segregação lógica equivalente;
+
+- capacidade simétrica mínima conforme tabela de dimensionamento;
+
+- monitoramento 24x7, portal de chamados e relatórios mensais;
+
+- SLA de disponibilidade mínima sugerido de 99,90% para a Sede e 99,70% para demais localidades, em coerência com o histórico da SD-WAN, sujeito a validação no TR.
+
+- políticas de roteamento que priorizem MPLS para tráfego crítico e SD-WAN para Internet;
+
+- contingência automatizada ou operacionalmente documentada entre MPLS e SD-WAN, com critérios objetivos de acionamento, retorno e registro.
+
+### 3.2 Requisitos de execução
+
+- implantação por fases, iniciando pela Sede;
+
+- ativação e teste de aceite por localidade;
+
+- entrega de documentação "as built";
+
+- operação assistida mínima de 30 dias após ativação de todas as localidades;
+
+- suporte técnico com chamados por portal, telefone e e-mail;
+
+- relatório mensal de disponibilidade, indisponibilidade, chamados, tempo de reparo, perdas e incidentes.
+
+### 3.3 Subcontratação
+
+Sugere-se admitir subcontratação apenas para atividades acessórias de infraestrutura local, lançamento de fibra, obras civis leves e atendimento de campo, mantendo a contratada principal integralmente responsável pela prestação do serviço e pelo SLA.
 
 ### 3.4 Sustentabilidade e acessibilidade
 
-Exigir equipamentos com eficiencia energetica compativel com o mercado, descarte ambientalmente adequado de equipamentos substituidos, reducao de deslocamentos por meio de monitoramento remoto e atendimento as normas trabalhistas, ambientais e de seguranca aplicaveis.
+Exigir equipamentos com eficiência energética compatível com o mercado, descarte ambientalmente adequado de equipamentos substituídos, redução de deslocamentos por meio de monitoramento remoto e atendimento as normas trabalhistas, ambientais e de segurança aplicáveis.
 
-### 3.4.1 Quais os criterios e praticas de sustentabilidade e acessibilidade cabiveis ou exigiveis, no caso?
+### 3.4.1 Quais os critérios e práticas de sustentabilidade e acessibilidade cabíveis ou exigiveis, no caso?
 
-Considerando a natureza da contratacao, os criterios de sustentabilidade e acessibilidade cabiveis devem ser compatibilizados com servicos continuados de telecomunicacoes, comunicacao de dados, infraestrutura de rede e atendimento tecnico. Sao criterios e praticas recomendaveis:
+Considerando a natureza da contratação, os critérios de sustentabilidade e acessibilidade cabíveis devem ser compatibilizados com serviços continuados de telecomunicações, comunicação de dados, infraestrutura de rede e atendimento técnico. São critérios e práticas recomendáveis:
 
-- priorizacao de equipamentos com eficiencia energetica compativel com as praticas de mercado;
-- uso de equipamentos, fontes e acessorios em conformidade com normas tecnicas e regulamentos aplicaveis;
-- descarte ambientalmente adequado de equipamentos, cabos, fontes, baterias, embalagens e demais residuos sob responsabilidade da contratada;
-- reducao de deslocamentos mediante monitoramento remoto, abertura remota de chamados, diagnostico remoto e atendimento presencial apenas quando necessario;
-- consolidacao de relatorios em meio digital;
-- reaproveitamento de infraestrutura existente sempre que tecnicamente possivel e autorizado;
-- adocao de janelas de manutencao planejadas para reduzir retrabalho e deslocamentos;
-- observancia de normas de seguranca do trabalho nas atividades de instalacao, lancamento de cabos, acesso a salas tecnicas, racks, forros, shafts e demais ambientes;
-- garantia de que instalacoes fisicas, passagem de cabos e acomodacao de equipamentos nao prejudiquem rotas de circulacao, acessibilidade fisica, seguranca predial ou sinalizacao;
-- atendimento a requisitos de sigilo, protecao de informacoes e minimizacao de acesso a dados de rede;
-- preferencia por documentacao digital, as built eletronico e relatorios mensais em formato pesquisavel.
+- priorizacao de equipamentos com eficiência energética compatível com às práticas de mercado;
 
-### 3.4.2 Caso nao aplicaveis criterios de sustentabilidade e acessibilidades, apresentar as justificativas.
+- uso de equipamentos, fontes e acessorios em conformidade com normas técnicas e regulamentos aplicáveis;
 
-Os criterios de sustentabilidade e acessibilidade sao aplicaveis de forma proporcional ao objeto. Nao se trata de contratacao de obra, aquisicao massiva de bens permanentes ou solucao diretamente voltada ao atendimento ao publico, razao pela qual alguns criterios tipicos de obras, mobiliario, edificacoes, materiais de consumo ou acessibilidade de interfaces digitais podem nao ser pertinentes.
+- descarte ambientalmente adequado de equipamentos, cabos, fontes, baterias, embalagens e demais resíduos sob responsabilidade da contratada;
 
-Assim, os criterios devem se concentrar na eficiencia energetica dos equipamentos, descarte ambientalmente adequado, reducao de deslocamentos, seguranca em instalacoes, documentacao digital, reaproveitamento de infraestrutura e preservacao da acessibilidade fisica dos ambientes onde houver instalacao de equipamentos ou cabos.
+- redução de deslocamentos mediante monitoramento remoto, abertura remota de chamados, diagnóstico remoto e atendimento presencial apenas quando necessário;
 
-### 3.4.3 Foi consultado o Guia de Contratacoes Sustentaveis da Justica do Trabalho (CSJT), ou, subsidiariamente, o Guia Nacional de Contratacoes Sustentaveis (AGU)?
+- consolidação de relatórios em meio digital;
 
-Recomenda-se registrar, na versao final do ETP, a consulta ao Guia de Contratacoes Sustentaveis da Justica do Trabalho (CSJT) e, subsidiariamente, ao Guia Nacional de Contratacoes Sustentaveis da AGU, para confirmar a aderencia dos criterios aplicaveis ao objeto.
+- reaproveitamento de infraestrutura existente sempre que tecnicamente possível e autorizado;
 
-Nesta minuta, a consulta devera ser confirmada pela equipe de planejamento antes da finalizacao do processo. Caso a consulta ainda nao tenha sido formalizada, deve permanecer como pendencia de instrucao, sem prejuizo da inclusao preliminar dos criterios de sustentabilidade proporcionais ao objeto.
+- adoção de janelas de manutenção planejadas para reduzir retrabalho e deslocamentos;
 
-### 3.5 Esclareca se a solucao escolhida demandara a contratacao de servicos de manutencao e/ou assistencia tecnica.
+- observância de normas de segurança do trabalho nas atividades de instalação, lançamento de cabos, acesso a salas técnicas, racks, forros, shafts e demais ambientes;
 
-Sim. A solucao escolhida demandara manutencao e assistencia tecnica durante toda a vigencia contratual, mas tais atividades deverao compor o proprio objeto da contratacao, sem necessidade de contratacao apartada, salvo se a Administracao optar por escopo excepcional nao previsto neste ETP.
+- garantia de que instalacoes físicas, passagem de cabos e acomodacao de equipamentos não prejudiquem rotas de circulacao, acessibilidade física, segurança predial ou sinalizacao;
 
-A manutencao e assistencia tecnica deverao abranger, no minimo:
+- atendimento a requisitos de sigilo, proteção de informações e minimização de acesso a dados de rede;
 
-- manutencao corretiva dos circuitos, acessos, CPEs, roteadores, modems, fontes, transceptores, cabos e demais componentes sob responsabilidade da contratada;
+- preferência por documentação digital, as built eletrônico e relatórios mensais em formato pesquisavel.
+
+### 3.4.2 Caso não aplicáveis critérios de sustentabilidade e acessibilidades, apresentar as justificativas.
+
+Os critérios de sustentabilidade e acessibilidade são aplicáveis de forma proporcional ao objeto. Não se trata de contratação de obra, aquisição massiva de bens permanentes ou solução diretamente voltada ao atendimento ao público, razão pela qual alguns critérios típicos de obras, mobiliário, edificações, materiais de consumo ou acessibilidade de interfaces digitais podem não ser pertinentes.
+
+Assim, os critérios devem se concentrar na eficiência energética dos equipamentos, descarte ambientalmente adequado, redução de deslocamentos, segurança em instalacoes, documentação digital, reaproveitamento de infraestrutura e preservacao da acessibilidade física dos ambientes onde houver instalação de equipamentos ou cabos.
+
+### 3.4.3 Foi consultado o Guia de Contratações Sustentáveis da Justiça do Trabalho (CSJT), ou, subsidiariamente, o Guia Nacional de Contratações Sustentáveis (AGU)?
+
+Recomenda-se registrar, na versão final do ETP, a consulta ao Guia de Contratações Sustentáveis da Justiça do Trabalho (CSJT) e, subsidiariamente, ao Guia Nacional de Contratações Sustentáveis da AGU, para confirmar a aderência dos critérios aplicáveis ao objeto.
+
+Nesta minuta, a consulta deverá ser confirmada pela equipe de planejamento antes da finalização do processo. Caso a consulta ainda não tenha sido formalizada, deve permanecer como pendência de instrução, sem prejuízo da inclusão preliminar dos critérios de sustentabilidade proporcionais ao objeto.
+
+### 3.5 Esclareca se a solução escolhida demandara a contratação de serviços de manutenção e/ou assistência técnica.
+
+Sim. A solução escolhida demandara manutenção e assistência técnica durante toda a vigência contratual, mas tais atividades deverão compor o próprio objeto da contratação, sem necessidade de contratação apartada, salvo se à Administração optar por escopo excepcional não previsto neste ETP.
+
+A manutenção e assistência técnica deverão abranger, no mínimo:
+
+- manutenção corretiva dos circuitos, acessos, CPEs, roteadores, modems, fontes, transceptores, cabos e demais componentes sob responsabilidade da contratada;
+
 - substituicao de equipamentos defeituosos ou degradados sob responsabilidade da contratada;
-- suporte tecnico para indisponibilidade, degradacao, perda de pacotes, latencia anormal, falha de roteamento, falha de QoS e falha de monitoramento;
-- atendimento remoto e presencial quando necessario;
+
+- suporte técnico para indisponibilidade, degradação, perda de pacotes, latência anormal, falha de roteamento, falha de QoS e falha de monitoramento;
+
+- atendimento remoto e presencial quando necessário;
+
 - monitoramento 24x7;
+
 - abertura, acompanhamento, escalonamento e encerramento de chamados;
-- manutencoes programadas previamente comunicadas e autorizadas quando houver risco de impacto;
-- atualizacao da documentacao tecnica apos mudancas relevantes.
 
-Assim, os custos de manutencao, suporte e assistencia tecnica deverao estar incorporados aos valores mensais dos circuitos ou aos itens especificos previstos no Termo de Referencia, evitando lacunas de responsabilidade durante a execucao contratual.
+- manutenções programadas previamente comunicadas e autorizadas quando houver risco de impacto;
 
-### 3.6 No caso de compras, sera necessario analisar amostras?
+- atualização da documentação técnica após mudanças relevantes.
 
-Nao se aplica como regra principal, pois o objeto pretendido e servico continuado de comunicacao de dados, e nao compra isolada de bens. Nao se recomenda exigir amostras fisicas como criterio ordinario de aceitacao da proposta, pois os equipamentos, CPEs, licencas e acessorios integram a prestacao do servico e deverao ser avaliados por requisitos funcionais, documentacao tecnica, projeto executivo, testes de ativacao e aceite por localidade.
+Assim, os custos de manutenção, suporte e assistência técnica deverão estar incorporados aos valores mensais dos circuitos ou aos itens específicos previstos no Termo de Referência, evitando lacunas de responsabilidade durante a execução contratual.
 
-Caso o Termo de Referencia venha a prever fornecimento relevante de equipamentos como parte destacada do objeto, a Administracao podera exigir catalogos, datasheets, declaracoes tecnicas, comprovacao de compatibilidade, homologacoes aplicaveis e demonstracao de atendimento aos requisitos, sem direcionamento por marca ou modelo.
+### 3.6 No caso de compras, será necessário analisar amostras?
 
-### 3.7 No caso de servicos, sera necessario vistoria previa do local da execucao dos servicos?
+Não se aplica como regra principal, pois o objeto pretendido e serviço continuado de comunicação de dados, e não compra isolada de bens. Não se recomenda exigir amostras físicas como critério ordinário de aceitação da proposta, pois os equipamentos, CPEs, licenças e acessorios integram a prestação do serviço e deverão ser avaliados por requisitos funcionais, documentação técnica, projeto executivo, testes de ativação e aceite por localidade.
 
-Recomenda-se que a vistoria previa seja facultativa, e nao obrigatoria, podendo ser substituida por declaracao da licitante de que conhece as condicoes locais e assume responsabilidade pela formulacao de sua proposta. Essa abordagem reduz risco de restricao indevida a competitividade e preserva a possibilidade de participacao de fornecedores que consigam estimar custos por documentacao, mapas, enderecos, inventario tecnico e informacoes disponibilizadas no edital.
+Caso o Termo de Referência venha a prever fornecimento relevante de equipamentos como parte destacada do objeto, à Administração poderá exigir catálogos, datasheets, declarações técnicas, comprovação de compatibilidade, homologações aplicáveis e demonstração de atendimento aos requisitos, sem direcionamento por marca ou modelo.
 
-A vistoria facultativa podera ser disponibilizada para as localidades do TRT10, mediante agendamento, especialmente quando houver necessidade de verificar entrada de fibra, sala tecnica, rack, energia, infraestrutura de passagem, espaco para CPE, restricoes prediais ou condicoes de acesso. A nao realizacao de vistoria nao devera justificar pedidos posteriores de acrescimo de custos, desde que o edital disponibilize informacoes minimas suficientes sobre as localidades e condicoes de execucao.
+### 3.7 No caso de serviços, será necessário vistoria prévia do local da execução dos serviços?
 
-### 3.8 E necessario autorizacao do poder publico para o exercicio da atividade a ser contratada (habilitacao juridica)?
+Recomenda-se que a vistoria prévia seja facultativa, e não obrigatória, podendo ser substituída por declaracao da licitante de que conhece as condições locais e assume responsabilidade pela formulação de sua proposta. Essa abordagem reduz risco de restrição indevida a competitividade e preserva a possibilidade de participação de fornecedores que consigam estimar custos por documentação, mapas, endereços, inventário técnico e informações disponibilizadas no edital.
 
-Sim. Por se tratar de servico de telecomunicacoes/comunicacao de dados, devera ser exigida, quando aplicavel, comprovacao de autorizacao, outorga, licenca ou instrumento regulatorio pertinente para prestacao dos servicos, nos termos da regulamentacao setorial vigente.
+A vistoria facultativa poderá ser disponibilizada para as localidades do TRT10, mediante agendamento, especialmente quando houver necessidade de verificar entrada de fibra, sala técnica, rack, energia, infraestrutura de passagem, espaço para CPE, restrições prediais ou condições de acesso. A não realização de vistoria não deverá justificar pedidos posteriores de acréscimo de custos, desde que o edital disponibilize informações mínimas suficientes sobre as localidades e condições de execução.
 
-Em principio, a contratada devera demonstrar regularidade para prestacao de Servico de Comunicacao Multimidia (SCM) ou outro enquadramento regulatorio aplicavel ao servico efetivamente ofertado, junto a Anatel, diretamente ou por meio de arranjo juridicamente admitido. Caso a licitante utilize infraestrutura, autorizacao ou servicos de terceiros, devera demonstrar que tal arranjo nao transfere ao TRT10 riscos de irregularidade regulatoria, descontinuidade ou ausencia de responsabilidade contratual.
+### 3.8 É necessária autorização do poder público para o exercício da atividade a ser contratada (habilitação jurídica)?
 
-A exigencia devera ser redigida de forma funcional e proporcional, evitando restringir indevidamente a competicao, mas assegurando que a futura contratada esteja apta a prestar os servicos de telecomunicacoes objeto da contratacao.
+Sim. Por se tratar de serviço de telecomunicações/comunicação de dados, deverá ser exigida, quando aplicável, comprovação de autorização, outorga, licenca ou instrumento regulatório pertinente para prestação dos serviços, nos termos da regulamentacao setorial vigente.
 
-### 3.9 Sera necessario exigir qualificacoes economico-financeiras adicionais?
+Em princípio, a contratada deverá demonstrar regularidade para prestação de Serviço de Comunicação Multimídia (SCM) ou outro enquadramento regulatório aplicável ao serviço efetivamente ofertado, junto a Anatel, diretamente ou por meio de arranjo juridicamente admitido. Caso a licitante utilize infraestrutura, autorização ou serviços de terceiros, deverá demonstrar que tal arranjo não transfere ao TRT10 riscos de irregularidade regulatoria, descontinuidade ou ausência de responsabilidade contratual.
 
-Em principio, nao se recomenda exigir qualificacoes economico-financeiras adicionais alem daquelas ordinariamente previstas na legislacao e no edital, enquanto nao houver estimativa final de valor, matriz de riscos completa e definicao final de vigencia. A contratacao envolve servico continuado essencial, mas os riscos economico-financeiros podem ser mitigados por garantia de execucao contratual, pagamentos mensais condicionados ao aceite, glosas por descumprimento de SLA e fiscalizacao contratual.
+A exigência deverá ser redigida de forma funcional e proporcional, evitando restringir indevidamente a competição, mas assegurando que a futura contratada esteja apta a prestar os serviços de telecomunicações objeto da contratação.
 
-Na versao final do Termo de Referencia, a equipe de planejamento devera avaliar, com base no valor estimado, criticidade, prazo contratual e analise de riscos, se ha justificativa para exigir indices contabeis, patrimonio liquido minimo, capital social minimo ou garantia de proposta/execucao, observados os limites legais e a proporcionalidade. Exigencias excessivas devem ser evitadas para nao restringir indevidamente a competitividade.
+### 3.9 Será necessário exigir qualificações econômico-financeiras adicionais?
 
-### 3.10 Sera necessario exigir qualificacoes tecnicas tecnico-operacional e tecnico-profissional especiais?
+Em princípio, não se recomenda exigir qualificações econômico-financeiras adicionais além daquelas ordinariamente previstas na legislação e no edital, enquanto não houver estimativa final de valor, matriz de riscos completa e definição final de vigência. A contratação envolve serviço continuado essencial, mas os riscos economico-financeiros podem ser mitigados por garantia de execução contratual, pagamentos mensais condicionados ao aceite, glosas por descumprimento de SLA e fiscalização contratual.
 
-Sim. Recomenda-se exigir qualificacao tecnico-operacional compativel com a complexidade do objeto, especialmente porque a solucao envolve rede privada corporativa, multiplas localidades, SLA, monitoramento, suporte, roteamento, QoS, integracao com SD-WAN e continuidade de servicos criticos.
+Na versão final do Termo de Referência, a equipe de planejamento deverá avaliar, com base no valor estimado, criticidade, prazo contratual e análise de riscos, se há justificativa para exigir índices contábeis, patrimônio líquido mínimo, capital social mínimo ou garantia de proposta/execução, observados os limites legais e a proporcionalidade. Exigências excessivas devem ser evitadas para não restringir indevidamente a competitividade.
 
-A qualificacao tecnico-operacional devera comprovar experiencia anterior da licitante em prestacao de servico semelhante, contemplando, preferencialmente:
+### 3.10 Será necessário exigir qualificações técnicas técnico-operacional e técnico-profissional especiais?
 
-- comunicacao de dados corporativa por MPLS, L3VPN, L2L, rede privada gerenciada ou tecnologia equivalente;
-- atendimento a multiplas localidades;
-- operacao, monitoramento e suporte de circuitos;
-- cumprimento de niveis de servico e atendimento a chamados;
-- fornecimento ou gestao de CPEs/roteadores;
-- implantacao, configuracao, manutencao e documentacao de rede.
+Sim. Recomenda-se exigir qualificação técnico-operacional compatível com a complexidade do objeto, especialmente porque a solução envolve rede privada corporativa, múltiplas localidades, SLA, monitoramento, suporte, roteamento, QoS, integração com SD-WAN e continuidade de serviços críticos.
 
-A exigencia deve ser proporcional ao objeto, sem exigir identidade absoluta com a solucao do TRT10 e sem impor marca, fabricante ou modelo. Os quantitativos minimos, quando adotados, deverao ser definidos apos pesquisa de mercado, de modo a comprovar capacidade tecnica sem restringir indevidamente a competitividade.
+A qualificação técnico-operacional deverá comprovar experiência anterior da licitante em prestação de serviço semelhante, contemplando, preferencialmente:
 
-Quanto a qualificacao tecnico-profissional, recomenda-se avaliar a exigencia de indicacao de responsavel tecnico ou equipe tecnica com experiencia em redes corporativas, telecomunicacoes, roteamento, seguranca de rede ou operacao de servicos de comunicacao de dados. A exigencia devera ser justificada no Termo de Referencia final e compatibilizada com a natureza comum do servico, evitando requisitos excessivos ou desnecessarios.
+- comunicação de dados corporativa por MPLS, L3VPN, L2L, rede privada gerenciada ou tecnologia equivalente;
+
+- atendimento a múltiplas localidades;
+
+- operação, monitoramento e suporte de circuitos;
+
+- cumprimento de níveis de serviço e atendimento a chamados;
+
+- fornecimento ou gestão de CPEs/roteadores;
+
+- implantação, configuração, manutenção e documentação de rede.
+
+A exigência deve ser proporcional ao objeto, sem exigir identidade absoluta com a solução do TRT10 e sem impor marca, fabricante ou modelo. Os quantitativos mínimos, quando adotados, deverão ser definidos após pesquisa de mercado, de modo a comprovar capacidade técnica sem restringir indevidamente a competitividade.
+
+Quanto à qualificação técnico-profissional, recomenda-se avaliar a exigência de indicação de responsável técnico ou equipe técnica com experiência em redes corporativas, telecomunicações, roteamento, segurança de rede ou operação de serviços de comunicação de dados. A exigência deverá ser justificada no Termo de Referência final e compatibilizada com a natureza comum do serviço, evitando requisitos excessivos ou desnecessários.
 
 ## IV - Levantamento de Mercado
 
-### 4.1 Solucoes identificadas
+### 4.1 Soluções identificadas
 
 Foram avaliadas as seguintes alternativas aderentes ao problema arquitetural:
 
-| Alternativa | Descricao | Pros | Contras / Riscos |
+| Alternativa | Descrição | Pros | Contras / Riscos |
 |---|---|---|---|
-| Solucao 1 - MPLS integrado a SD-WAN com capacidade equivalente | Contratacao de MPLS com a mesma capacidade nominal da SD-WAN por localidade. Ambos os meios podem transportar qualquer trafego em contingencia. | Combina rede privada, QoS, isolamento logico, previsibilidade, centralizacao na Sede, aproveitamento da SD-WAN existente e redundancia total por caminhos distintos. Permite tratar trafego critico e Internet com politicas distintas, sem reduzir banda durante falha de uma camada. | Exige projeto executivo de roteamento, definicao de QoS, monitoramento integrado e gestao coordenada entre contrato MPLS e contrato SD-WAN. Tende a ter custo superior a MPLS reduzido, devendo a vantajosidade ser demonstrada pela reducao de risco operacional. |
-| Solucao 2 - Links satelitais | Contratacao de enlaces satelitais para atuar como meio de interconexao das unidades a Sede, substituindo ou complementando a funcao pretendida para o MPLS. | Pode ser util em locais sem boa cobertura terrestre, em contingencia de desastres regionais ou como caminho fisicamente diverso. Independe parcialmente de infraestrutura terrestre local. | Tende a apresentar maior latencia, maior variabilidade de desempenho, possiveis franquias ou restricoes tecnicas, sensibilidade a condicoes ambientais e menor aderencia para sistemas criticos sensiveis a atraso. Pode elevar custo por Mbps e exigir arquitetura adicional de roteamento/seguranca. |
-| Solucao 3 - Links de Internet comuns com VPN ponto a ponto | Contratacao de links convencionais de Internet nas unidades, estabelecendo tuneis VPN ponto a ponto ou malha VPN ate a Sede. | Pode ter maior disponibilidade de fornecedores locais, menor custo unitario aparente e implantacao simples em algumas localidades. | Nao garante a mesma previsibilidade de rede privada, dificulta QoS fim a fim, amplia superficie exposta a Internet, aumenta complexidade de operacao de tuneis, depende da qualidade da Internet local e pode gerar maior esforco de suporte, troubleshooting e seguranca. |
+| Solução 1 - MPLS integrado à SD-WAN com capacidade equivalente | Contratação de MPLS com a mesma capacidade nominal da SD-WAN por localidade. Ambos os meios podem transportar qualquer tráfego em contingência. | Combina rede privada, QoS, isolamento lógico, previsibilidade, centralização na Sede, convivência com a SD-WAN vigente e redundância total por caminhos distintos. Permite tratar tráfego crítico e Internet com políticas distintas, sem reduzir banda durante falha de uma camada. | Exige projeto executivo de roteamento, definição de QoS, monitoramento integrado e gestão coordenada entre contrato MPLS e contrato SD-WAN. A vantajosidade deverá ser demonstrada pela relação entre custo, disponibilidade, continuidade, segurança e redução de risco operacional. |
+| Solução 2 - Links satelitais | Contratação de enlaces satelitais para atuar como meio de interconexão das unidades à Sede, substituindo ou complementando a função pretendida para o MPLS. | Pode ser útil em locais sem boa cobertura terrestre, em contingência de desastres regionais ou como caminho fisicamente diverso. Independe parcialmente de infraestrutura terrestre local. | Tende a apresentar maior latência, maior variabilidade de desempenho, possíveis franquias ou restrições técnicas, sensibilidade a condições ambientais e menor aderência para sistemas críticos sensíveis a atraso. Pode elevar custo por Mbps e exigir arquitetura adicional de roteamento/segurança. |
+| Solução 3 - Links de Internet comuns com VPN ponto a ponto | Contratação de links convencionais de Internet nas unidades, estabelecendo túneis VPN ponto a ponto ou malha VPN até a Sede. | Pode ter maior disponibilidade de fornecedores locais, menor custo unitário aparente e implantação simples em algumas localidades. | Não garante a mesma previsibilidade de rede privada, dificulta QoS fim a fim, amplia superfície exposta à Internet, aumenta complexidade de operação de túneis, depende da qualidade da Internet local e pode gerar maior esforço de suporte, troubleshooting e segurança. |
 
-### 4.2 Analise comparativa das solucoes
+### 4.2 Análise comparativa das soluções
 
-A Solucao 1 e a que melhor equilibra disponibilidade, seguranca, governanca e aproveitamento da infraestrutura ja existente. A SD-WAN contratada continua exercendo papel relevante para saida de Internet, balanceamento e contingencia; o MPLS acrescenta uma camada privada para trafego critico e institucional, reduzindo dependencia exclusiva dos enlaces de Internet para comunicacao entre unidades e Sede. Nesta revisao, a Solucao 1 passa a prever capacidade MPLS equivalente a capacidade SD-WAN em cada localidade, pois o objetivo nao e apenas criar uma rota alternativa minima, mas assegurar redundancia integral para a continuidade dos servicos.
+A Solução 1 é a que melhor equilibra disponibilidade, segurança, governança e convivência com a infraestrutura vigente. A SD-WAN contratada continua exercendo papel relevante para saída de Internet, balanceamento e contingência; o MPLS acrescenta uma camada privada para tráfego crítico e institucional, reduzindo dependência exclusiva dos enlaces de Internet para comunicação entre unidades e Sede. A Solução 1 preve capacidade MPLS equivalente a capacidade SD-WAN em cada localidade porque o objetivo arquitetural e assegurar redundância integral para à continuidade dos serviços.
 
-Do ponto de vista arquitetural, a Sede possui papel natural de concentrador porque abriga as 3 saidas redundantes de Internet, politicas de seguranca perimetral, integracoes institucionais e concentracao de servicos corporativos. Ao interconectar as unidades a Sede por MPLS, a Administracao passa a dispor de um caminho controlado para sistemas criticos e, ao mesmo tempo, preserva a SD-WAN para trafego de Internet e contingencia. Essa separacao reduz competicao entre fluxos de natureza distinta e permite aplicar QoS, priorizacao, monitoramento e glosas por circuito.
+Do ponto de vista arquitetural, à Sede possui papel natural de concentrador porque abriga as 3 saídas redundantes de Internet, políticas de segurança perimetral, integrações institucionais e concentração de serviços corporativos. Ao interconectar as unidades à Sede por MPLS, à Administração passa a dispor de um caminho controlado para sistemas críticos e, ao mesmo tempo, mantém a SD-WAN para tráfego de Internet e contingência. Essa separação reduz competição entre fluxos de natureza distinta e permite aplicar QoS, priorizacao, monitoramento e glosas por circuito.
 
-A Solucao 2, baseada em links satelitais, e tecnicamente possivel, mas deve ser tratada como alternativa complementar ou de contingencia especifica, nao como desenho preferencial para todo o ambiente. A latencia e a variabilidade de desempenho podem afetar autenticacao, sessoes de sistemas, voz, video, replicacoes e outros fluxos sensiveis. Sua melhor aplicacao seria para localidades sem viabilidade terrestre ou para plano de continuidade de negocios em cenarios extremos.
+A Solução 2, baseada em links satelitais, é tecnicamente possível, mas deve ser tratada como alternativa complementar ou de contingência específica, não como desenho preferencial para todo o ambiente. A latência e a variabilidade de desempenho podem afetar autenticação, sessoes de sistemas, voz, video, replicacoes e outros fluxos sensíveis. Sua melhor aplicação seria para localidades sem viabilidade terrestre ou para plano de continuidade de negócios em cenários extremos.
 
-A Solucao 3, baseada em Internet comum com VPN ponto a ponto, reduz barreiras iniciais, mas transfere para a Administracao maior complexidade operacional e maior dependencia de redes publicas. Embora VPNs possam prover confidencialidade, elas nao equivalem a QoS fim a fim, previsibilidade de backbone, isolamento operacional e SLA privado. A multiplicacao de tuneis tambem pode dificultar mudancas, troubleshooting, gestao de chaves, auditoria e evolucao da topologia.
+A Solução 3, baseada em Internet comum com VPN ponto a ponto, reduz barreiras iniciais, mas transfere para a Administração maior complexidade operacional e maior dependência de redes públicas. Embora VPNs possam prover confidencialidade, elas não equivalem a QoS fim a fim, previsibilidade de backbone, isolamento operacional e SLA privado. A multiplicação de túneis também pode dificultar mudanças, troubleshooting, gestão de chaves, auditoria e evolução da topologia.
 
-### 4.3 Solucao escolhida
+### 4.3 Solução escolhida
 
-A solucao escolhida e a Solucao 1: utilizacao integrada de MPLS e SD-WAN, com MPLS contratado na mesma capacidade nominal dos links SD-WAN atuais por localidade. O MPLS sera contratado para interconectar as unidades a Sede e transportar preferencialmente trafego critico de sistemas institucionais, servicos internos, autenticacao, administracao e integracoes. A SD-WAN atual permanecera como camada preferencial para Internet. Em caso de falha, degradacao relevante ou manutencao de uma das camadas, a arquitetura devera permitir contingencia cruzada, de modo que MPLS e SD-WAN possam transportar os fluxos necessarios a continuidade dos servicos sem reducao planejada de capacidade nominal.
+A solução escolhida é a Solução 1: utilização integrada de MPLS e SD-WAN, com MPLS contratado na mesma capacidade nominal dos links SD-WAN vigentes por localidade. O MPLS será contratado para interconectar as unidades à Sede e transportar preferencialmente tráfego crítico de sistemas institucionais, serviços internos, autenticação, administração e integrações. A SD-WAN vigente permanecerá como camada preferencial para Internet. Em caso de falha, degradação relevante ou manutenção de uma das camadas, a arquitetura deverá permitir contingência cruzada, de modo que MPLS e SD-WAN possam transportar os fluxos necessários à continuidade dos serviços sem redução planejada de capacidade nominal.
 
-A escolha da Solucao 1 fica condicionada a validacao por pesquisa de precos, confirmacao de capacidade por localidade, definicao de politicas de QoS e confirmacao de viabilidade de roteamento com a infraestrutura existente.
+A escolha da Solução 1 fica condicionada a validação por pesquisa de preços, confirmação de capacidade por localidade, definição de políticas de QoS e confirmação de viabilidade de roteamento com a infraestrutura existente.
 
-## V - Descricao da Solucao como um Todo
+## V - Descrição da Solução como um Todo
 
-A solucao consiste em contratar conectividade privada para as 10 localidades, tendo a Sede como concentrador preferencial. Todas as demais unidades deverao possuir circuito MPLS ate a Sede. A SD-WAN atual permanecera ativa como camada preferencial para Internet, enquanto o MPLS sera a camada preferencial para trafego critico. A saida de Internet sera preferencialmente centralizada na Sede, onde existem 3 saidas redundantes de Internet.
+A solução consiste em contratar conectividade privada para as 10 localidades, tendo à Sede como concentrador preferencial. Todas nas demais unidades deverão possuir circuito MPLS até a Sede. A SD-WAN vigente permanecerá ativa como camada preferencial para Internet, enquanto o MPLS será a camada preferencial para tráfego crítico. A saída de Internet será preferencialmente centralizada na Sede, onde existem 3 saídas redundantes de Internet.
 
-A solucao devera manter a SD-WAN como transporte principal ja implantado, aproveitando seus enlaces, tuneis IPSec, roteamento dinamico e capacidade contratada. O MPLS atuara como camada complementar, voltada a trafego corporativo critico, contingencia controlada, isolamento logico, previsibilidade de desempenho e rotas de recuperacao.
+A solução deverá coexistir com a SD-WAN como transporte vigente, considerando seus enlaces, túneis IPSec, roteamento dinâmico e capacidade contratada. O MPLS atuara como camada privada, voltada a tráfego corporativo crítico, contingência controlada, isolamento lógico, previsibilidade de desempenho e rotas de recuperacao.
 
-A solucao tambem devera contratar link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasilia, separado da malha MPLS, para criar um eixo de alta capacidade entre os dois principais pontos institucionais. O Foro de Brasilia devera ser considerado ambiente de replicacao e redundancia, com possibilidade de assumir, em contingencia, funcoes de acesso das unidades, desde que o projeto executivo preveja rotas, seguranca, disponibilidade de servicos, DNS, autenticacao, firewalls e procedimentos operacionais.
+A solução também deverá contratar link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília, separado da malha MPLS, para criar um eixo de alta capacidade entre os dois principais pontos institucionais. O Foro de Brasília deverá ser considerado ambiente de replicação e redundância, com possibilidade de assumir, em contingência, funções de acesso das unidades, desde que o projeto executivo preveja rotas, segurança, disponibilidade de serviços, DNS, autenticação, firewalls e procedimentos operacionais.
 
-### Logica arquitetural da Solucao 1
+### Logica arquitetural da Solução 1
 
-1. A Sede concentra as 3 saidas redundantes de Internet e deve permanecer como ponto preferencial de egressao, seguranca, filtragem e observabilidade.
-2. O MPLS fornece caminho privado e controlado para trafego critico entre unidades e Sede, permitindo QoS, segregacao logica e metas objetivas de disponibilidade.
-3. A SD-WAN preserva a capacidade ja contratada para acesso a Internet e pode operar como caminho alternativo para trafego critico quando o MPLS estiver indisponivel ou degradado.
-4. O MPLS pode transportar trafego de Internet em contingencia, direcionando as unidades para a Sede quando a SD-WAN local estiver indisponivel ou degradada.
-5. O desenho evita dependencia exclusiva de uma tecnologia e reduz o risco de indisponibilidade total por falha de um unico meio de comunicacao.
-6. O link dedicado Sede-Foro de 25 Gbps viabiliza replicacao, sincronizacao e uso do Foro como redundancia da Sede.
-7. A convivencia entre MPLS, SD-WAN e link dedicado Sede-Foro deve ser definida em projeto executivo, com rotas preferenciais, metricas, failover, retorno controlado, QoS, seguranca e monitoramento.
+1. A Sede concentra as 3 saídas redundantes de Internet e deve permanecer como ponto preferencial de egressão, segurança, filtragem e observabilidade.
+
+1. O MPLS fornece caminho privado e controlado para tráfego crítico entre unidades e Sede, permitindo QoS, segregação lógica e metas objetivas de disponibilidade.
+
+1. A SD-WAN mantém a capacidade já contratada para acesso à Internet e pode operar como caminho alternativo para tráfego crítico quando o MPLS estiver indisponível ou degradado.
+
+1. O MPLS pode transportar tráfego de Internet em contingência, direcionando as unidades para a Sede quando à SD-WAN local estiver indisponível ou degradada.
+
+1. O desenho evita dependência exclusiva de uma tecnologia e reduz o risco de indisponibilidade total por falha de um único meio de comunicação.
+
+1. O link dedicado Sede-Foro de 25 Gbps viabiliza replicação, sincronização e uso do Foro como redundância da Sede.
+
+1. A convivência entre MPLS, SD-WAN e link dedicado Sede-Foro deve ser definida em projeto executivo, com rotas preferenciais, métricas, failover, retorno controlado, QoS, segurança e monitoramento.
 
 ### Topologia proposta
 
@@ -437,150 +555,223 @@ A solucao tambem devera contratar link dedicado ponto-a-ponto de 25 Gbps entre a
 
 ### Dimensionamento preliminar
 
-| Item | Localidade | SD-WAN atual | MPLS proposto | Papel |
-|---:|---|---:|---:|---|
-| 1 | Edificio Sede | 1 Gbps | 1 Gbps | Concentrador preferencial |
-| 2 | Foro de Brasilia | 1 Gbps | 1 Gbps | Unidade de maior demanda interconectada a Sede |
-| 3 | Predio de Apoio | 500 Mbps | 500 Mbps | Unidade metropolitana |
+| Item | Localidade | SD-WAN vigente | MPLS requerido | Papel |
+|---|---|---|---|---|
+| 1 | Edifício Sede | 1 Gbps | 1 Gbps | Concentrador preferencial |
+| 2 | Foro de Brasília | 1 Gbps | 1 Gbps | Unidade de maior demanda interconectada à Sede |
+| 3 | Prédio de Apoio | 500 Mbps | 500 Mbps | Unidade metropolitana |
 | 4 | Foro de Taguatinga | 500 Mbps | 500 Mbps | Unidade regional DF |
 | 5 | Foro de Palmas | 500 Mbps | 500 Mbps | Polo TO |
 | 6 | Vara do Gama | 100 Mbps | 100 Mbps | Unidade remota |
-| 7 | Foro de Araguaina | 100 Mbps | 100 Mbps | Unidade remota |
+| 7 | Foro de Araguaína | 100 Mbps | 100 Mbps | Unidade remota |
 | 8 | Vara de Gurupi | 100 Mbps | 100 Mbps | Unidade remota |
-| 9 | Vara de Dianopolis | 100 Mbps | 100 Mbps | Unidade remota |
-| 10 | Vara de Guarai | 100 Mbps | 100 Mbps | Unidade remota |
-| 11 | Sede ↔ Foro de Brasilia | Nao se aplica | Link dedicado 25 Gbps | Replicacao, redundancia da Sede e acesso contingencial das unidades |
+| 9 | Vara de Dianópolis | 100 Mbps | 100 Mbps | Unidade remota |
+| 10 | Vara de Guaraí | 100 Mbps | 100 Mbps | Unidade remota |
+| 11 | Sede ↔ Foro de Brasília | Não se aplica | link dedicado 25 Gbps | Replicação, redundância da Sede e acesso contingencial das unidades |
 
 ### Premissas de capacidade da Sede
 
-Considerando a soma aproximada de 4 Gbps dos enlaces SD-WAN atuais das localidades, a Sede devera ter capacidade agregada suficiente para atuar como ponto preferencial de egressao de Internet e concentracao de politicas. A capacidade minima combinada de 4 Gbps nas 3 saidas centrais e premissa tecnica inicial, devendo ser validada e eventualmente ajustada pela pesquisa de precos, medicao de trafego, fator de simultaneidade, crescimento esperado e politica de degradacao em contingencia. A equivalencia de capacidade entre MPLS e SD-WAN por localidade nao elimina a necessidade de QoS; ela assegura que o failover nao dependa de uma reducao previa da banda disponivel.
+Considerando a soma aproximada de 4 Gbps dos enlaces SD-WAN atuais das localidades, a Sede deverá ter capacidade agregada suficiente para atuar como ponto preferencial de egressão de Internet e concentração de políticas. A capacidade mínima combinada de 4 Gbps nas 3 saídas centrais é premissa técnica inicial, devendo ser validada e eventualmente ajustada pela pesquisa de preços, medição de tráfego, fator de simultaneidade, crescimento esperado e política de degradação em contingência. A equivalência de capacidade entre MPLS e SD-WAN por localidade não elimina a necessidade de QoS; ela assegura que o failover não dependa de uma redução prévia da banda disponível.
 
-O enlace dedicado Sede-Foro de 25 Gbps deve ser dimensionado para cargas de replicacao e contingencia, nao apenas para trafego ordinario de usuarios. A banda elevada se justifica pela necessidade de transferencias volumosas entre ambientes, sincronizacao de dados, restauracao, espelhamento, backup, testes de continuidade e eventual redirecionamento de acesso das unidades ao Foro. A especificacao final devera prever, no minimo, banda simetrica full duplex, baixa latencia, medicao de perda, jitter, disponibilidade, rotas fisicas preferencialmente distintas quando aplicavel, interfaces 25GbE/SFP28 ou equivalentes e aceite com teste de throughput.
+O enlace dedicado Sede-Foro de 25 Gbps deve ser dimensionado para cargas de replicação e contingência, não apenas para tráfego ordinário de usuários. A banda elevada se justifica pela necessidade de transferências volumosas entre ambientes, sincronização de dados, restauração, espelhamento, backup, testes de continuidade e eventual redirecionamento de acesso das unidades ao Foro. A especificação final deverá prever, no mínimo, banda simétrica full duplex, baixa latência, medição de perda, jitter, disponibilidade, rotas físicas preferencialmente distintas quando aplicável, interfaces 25GbE/SFP28 ou equivalentes e aceite com teste de throughput.
 
-### Diretrizes de operacao e governanca
+### Diretrizes de operação e governança
 
-- Definir politica clara de roteamento, com Internet preferencialmente via Sede e trafego local apenas quando formalmente autorizado e controlado.
-- Implementar QoS fim a fim para priorizar processo judicial, sistemas administrativos, autenticacao, voz/video institucional, monitoramento e trafego de replicacao.
-- Medir latencia, jitter, perda de pacotes e throughput por unidade antes e depois da implantacao.
-- Configurar failover entre SD-WAN e MPLS para fluxos criticos, com criterios de acionamento, retorno e registro.
-- Centralizar inspecao de trafego, filtragem, logs e politicas de acesso na Sede, quando tecnicamente aplicavel.
-- Segmentar trafego por classes ou VRFs, tais como usuarios, administracao, voz/video, servicos criticos, monitoramento, backup/replicacao e gerencia.
-- Integrar logs de borda a solucao institucional de SIEM ou plataforma equivalente de monitoramento e auditoria, quando existente.
-- Exigir documentacao as built da rede, incluindo enderecamento, rotas, politicas, QoS, equipamentos, circuitos e contatos de suporte.
-- Implantar paineis de monitoramento com disponibilidade, capacidade, erros, latencia, perda, jitter e eventos de failover.
-- Estabelecer rotina de revisao semestral de capacidade e relatorio mensal de desempenho por localidade.
-- Documentar procedimentos de crise, escalonamento tecnico e comunicacao institucional em caso de indisponibilidade ampla.
+- Definir política clara de roteamento, com Internet preferencialmente vià Sede e tráfego local apenas quando formalmente autorizado e controlado.
+
+- Implementar QoS fim a fim para priorizar processo judicial, sistemas administrativos, autenticação, voz/vídeo institucional, monitoramento e tráfego de replicação.
+
+- Medir latência, jitter, perda de pacotes e throughput por unidade antes e depois da implantação.
+
+- Configurar failover entre SD-WAN e MPLS para fluxos críticos, com critérios de acionamento, retorno e registro.
+
+- Centralizar inspeção de tráfego, filtragem, logs e políticas de acesso na Sede, quando tecnicamente aplicável.
+
+- Segmentar tráfego por classes ou VRFs, tais como usuários, administração, voz/vídeo, serviços críticos, monitoramento, backup/replicação e gerência.
+
+- Integrar logs de borda a solução institucional de SIEM ou plataforma equivalente de monitoramento e auditoria, quando existente.
+
+- Exigir documentação as built da rede, incluindo endereçamento, rotas, políticas, QoS, equipamentos, circuitos e contatos de suporte.
+
+- Implantar paineis de monitoramento com disponibilidade, capacidade, erros, latência, perda, jitter e eventos de failover.
+
+- Estabelecer rotina de revisão semestral de capacidade e relatório mensal de desempenho por localidade.
+
+- Documentar procedimentos de crise, escalonamento técnico e comunicação institucional em caso de indisponibilidade ampla.
 
 ## VI - Estimativa das Quantidades e do Valor
 
 ### 6.1 Quantidades
 
-Serao contratados 10 circuitos MPLS mensais, incluindo um circuito concentrador na Sede e circuitos nas demais localidades.
+Serão contratados 10 circuitos MPLS mensais, incluindo um circuito concentrador na Sede e circuitos nas demais localidades.
 
-Tambem sera contratado 1 link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasilia, em grupo proprio, para replicacao e redundancia.
+Também será contratado 1 link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília, em grupo próprio, para replicação e redundância.
 
-Tambem devera ser avaliada, no Termo de Referencia e na pesquisa de precos, a contratacao ou manutencao de 3 saidas de Internet centralizadas na Sede, com capacidade combinada inicialmente estimada em 4 Gbps, preferencialmente com operadoras e rotas fisicas distintas, para sustentar a arquitetura de egressao preferencial centralizada.
+Também deverá ser avaliada, no Termo de Referência e na pesquisa de preços, a contratação ou manutenção de 3 saídas de Internet centralizadas na Sede, com capacidade combinada inicialmente estimada em 4 Gbps, preferencialmente com operadoras e rotas físicas distintas, para sustentar a arquitetura de egressão preferencial centralizada.
 
 ### 6.2 Estimativa de valor
 
-Nao se fixa estimativa final nesta minuta. Os valores historicos identificados sao de objetos distintos ou parcialmente correlatos, incluindo SD-WAN, Internet dedicada, L2L e MPLS. Eles servem apenas como indicios de ordem de grandeza e nao substituem pesquisa de precos atual.
+Não se fixa estimativa final nesta minuta. Os valores históricos identificados são de objetos distintos ou parcialmente correlatos, incluindo SD-WAN, Internet dedicada, L2L e MPLS. Eles servem apenas como indícios de ordem de grandeza e não substituem pesquisa de preços atual.
 
-A pesquisa de precos devera comparar, quando possivel, propostas ou referencias para as tres alternativas avaliadas: MPLS integrado a SD-WAN, links satelitais e links de Internet com VPN ponto a ponto. A comparacao devera considerar custo mensal, instalacao, equipamentos, SLA, latencia, prazo de reparo, suporte, disponibilidade por localidade, expansibilidade e custo operacional de gestao.
+A pesquisa de preços deverá comparar, quando possível, propostas ou referências para as três alternativas avaliadas: MPLS integrado à SD-WAN, links satelitais e links de Internet com VPN ponto a ponto. A comparação deverá considerar custo mensal, instalação, equipamentos, SLA, latência, prazo de reparo, suporte, disponibilidade por localidade, expansibilidade e custo operacional de gestão.
 
-Para memoria preliminar, foram levantadas 3 referencias publicas para cada capacidade atualmente desejada no TRT10: 100 Mbps, 500 Mbps e 1 Gbps. A API oficial de consulta PNCP apresentou instabilidade nesta sessao, com erro de conexao, e os resultados abaixo deverao ser confirmados pela pesquisa formal quanto a numero de controle PNCP, vigencia, situacao do item, valor homologado/contratado e documentos de suporte.
+Para memória preliminar, foram levantadas 3 referências públicas para cada capacidade atualmente desejada no TRT10: 100 Mbps, 500 Mbps e 1 Gbps. A API oficial de consulta PNCP apresentou instabilidade nesta sessão, com erro de conexão, e os resultados abaixo deverão ser confirmados pela pesquisa formal quanto ao número de controle PNCP, vigência, situação do item, valor homologado/contratado e documentos de suporte.
 
-| Capacidade | Orgao / contratacao similar | Referencia localizada | Valor mensal unitario usado | Qualidade da referencia |
-|---:|---|---|---:|---|
-| 100 Mbps | Ministerio Publico do Estado do Rio Grande do Sul - Contrato 68/2024 | Circuito MPLS otico duplo com roteador - 100 Mbps | R$ 1.580,25 | Alta aderencia: MPLS otico com roteador, item mensal. |
-| 100 Mbps | Autarquia Municipal Transitar - Cascavel/PR | Link de dados MPLS 100 Mbps - mensalidade | R$ 761,56 | Aderente por tecnologia e mensalidade; contratacao anterior e localidade distinta. |
-| 100 Mbps | Tribunal de Justica da Paraiba - PE 010/2019 | Link de transporte de dados MPLS 100 Mbps | R$ 2.425,00 | Aderente por objeto, mas antigo; usar com cautela. |
-| 500 Mbps | Ministerio Publico do Estado do Rio Grande do Sul - Contrato 68/2024 | Circuito MPLS otico duplo com roteador - 500 Mbps | R$ 3.687,25 | Alta aderencia: MPLS otico com roteador, item mensal. |
-| 500 Mbps | Municipio de Glorinha/RS - processo administrativo 25.714/2025 | Conexao ponto a ponto L2L com transporte Ethernet/MPLS, 500 Mbps | R$ 1.550,00 | Aderente por transporte Ethernet/MPLS e banda garantida; escopo L2L municipal. |
-| 500 Mbps | Municipio de Xanxere/SC - PE 0032/2024 | Link MPLS 500 MB | R$ 119,00 | Referencia publica de edital; valor baixo e possivel outlier/escopo local. |
-| 1 Gbps | Ministerio Publico do Estado do Rio Grande do Sul - Contrato 68/2024 | Circuito MPLS otico duplo com roteador - 1.000 Mbps | R$ 4.740,75 | Alta aderencia: MPLS otico com roteador, item mensal. |
-| 1 Gbps | Municipio de Santa Maria/RS | Servicos de comunicacao de dados tecnologia MPLS 1 Gbps | R$ 1.429,68 | Aderente por capacidade e tecnologia; confirmar detalhamento do item na pesquisa formal. |
-| 1 Gbps | Municipio de Xanxere/SC - PE 0032/2024 | Link MPLS 01 GB | R$ 1.000,00 | Referencia publica de edital; escopo municipal com grande volume de pontos. |
+| Capacidade | Órgão / contrato de referência | Número do pregão/licitação e identificador | Item utilizado | Valor mensal unitário usado | Fonte / observação |
+|---|---|---|---|---|---|
+| 100 Mbps | Ministério Público do Estado do Rio Grande do Sul - Contrato 68/2024 | Pregão Eletrônico nº 007/2024; Procedimento nº 02405.000.098/2024; contrato com Brasil Serviços de Telecomunicações Ltda.; fonte MPRS | Circuito MPLS óptico duplo com roteador - 100 Mbps, item 6 da planilha reajustada | R$ 1.580,25 | Fonte: Portal de Transparência MPRS / 1ª Apostila ao Contrato 68/2024, com valores reajustados. Número PNCP não localizado na minuta. |
+| 100 Mbps | Município de Cascavel/PR / Autarquia Transitar | Edital 90129/2025; Pregão eletrônico; PNCP-76208867000107-1-000429/2025; abertura em 03/11/2025 | Link de dados MPLS 100 Mbps - mensalidade | R$ 761,56 | Fonte: PNCP/Alerta Licitação e documento público de Cascavel/Transitar; objeto de comunicação de dados por Rede IP com tecnologia MPLS. |
+| 100 Mbps | Tribunal de Justiça da Paraíba | Pregão Eletrônico nº 010/2019; Processo Administrativo Eletrônico 2019094162 | Lote 01, item 03 - Link de Transporte de Dados, tecnologia MPLS, 100 Mbps | R$ 2.425,00 | Fonte: edital institucional TJPB. Referência anterior ao PNCP e à Lei nº 14.133/2021; usada apenas como referência auxiliar/histórica. |
+| 500 Mbps | Ministério Público do Estado do Rio Grande do Sul - Contrato 68/2024 | Pregão Eletrônico nº 007/2024; Procedimento nº 02405.000.098/2024; contrato com Brasil Serviços de Telecomunicações Ltda.; fonte MPRS | Circuito MPLS óptico duplo com roteador - 500 Mbps, item 9 da planilha reajustada | R$ 3.687,25 | Fonte: Portal de Transparência MPRS / 1ª Apostila ao Contrato 68/2024, com valores reajustados. Número PNCP não localizado na minuta. |
+| 500 Mbps | Município de Glorinha/RS | Processo Administrativo nº 25.714/2025; documento técnico assinado em 10/09/2025; pregão/sessão pública indicada em 02/03/2026 em agregador público; PNCP a confirmar | Serviço de conexão ponto a ponto em Camada 2 (L2L), transporte Ethernet/MPLS, 500 Mbps, 12 meses | R$ 1.550,00 | Fonte: documento público do Município de Glorinha/RS; a própria minuta informa consulta de preços via PNCP e Portal de Compras Públicas. Número do pregão/PNCP não foi localizado integralmente. |
+| 500 Mbps | Município de Xanxerê/SC | Pregão Eletrônico nº 0032/2024; UASG 988383; edital público | Link MPLS 500 MB | R$ 119,00 | Fonte: edital público de Xanxerê/SC. Valor muito baixo, tratado como possível outlier por escopo municipal/volume de pontos. |
+| 1 Gbps | Ministério Público do Estado do Rio Grande do Sul - Contrato 68/2024 | Pregão Eletrônico nº 007/2024; Procedimento nº 02405.000.098/2024; contrato com Brasil Serviços de Telecomunicações Ltda.; fonte MPRS | Circuito MPLS óptico duplo com roteador - 1.000 Mbps, item 10 da planilha reajustada | R$ 4.740,75 | Fonte: Portal de Transparência MPRS / 1ª Apostila ao Contrato 68/2024, com valores reajustados. Número PNCP não localizado na minuta. |
+| 1 Gbps | Município de Santa Maria/RS | Pregão Eletrônico nº 90055/2025; UASG 988841; registro de preços; ata/resultado público | Lote/item 6 - Serviços de comunicação de dados tecnologia MPLS 1 Gbps, locação de 1 ponto equivalente a 12 serviço/mês, total de 4 pontos | R$ 1.429,68 | Fonte: documento público da Prefeitura de Santa Maria/RS; fornecedor Brasil Tecpar Serviços de Telecomunicações S.A.; valor unitário do item. |
+| 1 Gbps | Município de Xanxerê/SC | Pregão Eletrônico nº 0032/2024; UASG 988383; edital público | Link MPLS 01 GB | R$ 1.000,00 | Fonte: edital público de Xanxerê/SC; possível influência de grande volume de pontos e escopo municipal. |
 
-Com base apenas nesses valores preliminares, a memoria de calculo inicial fica assim:
+Com base apenas nesses valores preliminares, a memória de cálculo inicial adota média simples dos valores mensais unitários por capacidade, conforme fórmulas abaixo:
 
-| Capacidade | Quantidade TRT10 | Media mensal preliminar por link | Valor mensal preliminar | Valor anual preliminar |
-|---:|---:|---:|---:|---:|
-| 1 Gbps | 2 | R$ 2.390,14 | R$ 4.780,28 | R$ 57.363,36 |
-| 500 Mbps | 3 | R$ 1.785,75 | R$ 5.357,25 | R$ 64.287,00 |
-| 100 Mbps | 5 | R$ 1.588,60 | R$ 7.943,00 | R$ 95.316,00 |
-| Total preliminar | 10 | - | R$ 18.080,53 | R$ 216.966,36 |
+- Preço médio mensal por capacidade = soma dos preços mensais unitários das referências / número de referências válidas;
 
-Para o grupo de link dedicado Sede-Foro de 25 Gbps, a pesquisa preliminar nao localizou tres itens PNCP identicos em 25 Gbps. Foram localizados precedentes compativeis de alta capacidade, listados abaixo:
+- Valor mensal por capacidade = preço médio mensal por capacidade x quantidade de links TRT10 naquela capacidade;
 
-| Referencia | Numero/identificador PNCP ou fonte | Objeto compativel | Valor informado | Observacao |
-|---|---|---|---:|---|
-| Municipio de Candeias/BA | PNCP-13830336000123-1-000051/2026 | Comunicacao de dados privativa LAN-to-LAN, concentradores de 10 Gbps, fibra optica, link dedicado de 4 Gbps full duplex, rotas redundantes e equipamentos inclusos | R$ 950.560,00 | Similaridade por LAN-to-LAN, fibra dedicada, rotas redundantes e alta capacidade. |
-| Municipio de Jaguariuna/SP | PNCP-46410866000171-1-000610/2024 | Link dedicado de acesso a Internet bidirecional e simetrico de 10 Gbps | R$ 4.705.844,00 | Similaridade por link dedicado 10 Gbps; escopo de Internet. |
-| Municipio de Ubarana/SP | PNCP-65708786000141-1-000038/2026 | Rede LAN-to-LAN por fibra optica dedicada, capacidade agregada de ate 10 Gbps, ponto concentrador | R$ 184.400,00 | Similaridade por LAN-to-LAN e fibra dedicada. |
-| TJPR | 77821841000194-1-000049/2025 | Dois links dedicados de 10 Gbps cada, BGP e Anti-DDoS, operadoras distintas | R$ 187.560,00 | Similaridade por 10 Gbps e redundancia; escopo de Internet/AS. |
-| JFRS | 00508903000188-1-001162/2024 | Conexao LAN-to-LAN para interligar datacenter com datacenter externo, taxa de 5 Gbps | R$ 72.000,00 | Alta similaridade funcional por interligacao de datacenters; capacidade inferior. |
+- Valor anual por capacidade = valor mensal por capacidade x 12;
 
-Como memoria preliminar, recomenda-se reservar faixa de R$ 30.000,00 a R$ 60.000,00 mensais para o enlace dedicado Sede-Foro de 25 Gbps, adotando como ponto de partida R$ 45.000,00 mensais e R$ 540.000,00 anuais ate a pesquisa formal confirmar valores para Brasilia/DF. A pesquisa final devera obter cotacoes especificas para 25 Gbps, baixa latencia, fibra dedicada, interfaces 25GbE/SFP28, SLA, eventual dupla abordagem, equipamentos, instalacao e monitoramento.
+- Total mensal MPLS = soma dos valores mensais das capacidades de 1 Gbps, 500 Mbps e 100 Mbps;
 
-Essa memoria deve ser revisada com analise critica de outliers. Em especial, os valores de Xanxere/SC aparentam depender de grande volume de pontos e escopo municipal proprio, podendo reduzir artificialmente a media. Recomenda-se que a pesquisa formal calcule media saneada ou mediana, compare capital/interior, considere DF/TO e preserve pelo menos 3 precos validos por capacidade, quando disponiveis.
+- Total anual MPLS = total mensal MPLS x 12;
 
-## VII - Justificativa para Parcelamento ou Nao Parcelamento
+- Valor mensal do link dedicado Sede-Foro 25 Gbps = ponto médio da faixa preliminar de mercado, isto é, (R$ 30.000,00 + R$ 60.000,00) / 2 = R$ 45.000,00;
 
-Sugere-se adjudicacao por grupo unico, pois a solucao depende de interoperabilidade ponta a ponta, gestao centralizada de SLA, roteamento integrado, suporte unificado e responsabilizacao unica por indisponibilidade. O parcelamento por localidade pode gerar risco de fragmentacao operacional, disputas de responsabilidade e maior complexidade de gerenciamento.
+- Valor anual do link dedicado Sede-Foro 25 Gbps = R$ 45.000,00 x 12 = R$ 540.000,00.
 
-A justificativa de grupo unico devera ser confirmada pela pesquisa de mercado, demonstrando que ha fornecedores capazes de atender o conjunto sem restricao indevida de competitividade. Caso a pesquisa revele baixa competitividade para todas as localidades, o parcelamento por lotes tecnicamente coerentes devera ser reavaliado.
+| Capacidade | Referências usadas na média | Fórmula do preço médio mensal | Quantidade TRT10 | Valor mensal preliminar | Valor anual preliminar |
+|---|---|---|---|---|---|
+| 1 Gbps | MPRS R$ 4.740,75; Santa Maria/RS R$ 1.429,68; Xanxerê/SC R$ 1.000,00 | (4.740,75 + 1.429,68 + 1.000,00) / 3 = R$ 2.390,14 | 2 | R$ 4.780,28 | R$ 57.363,36 |
+| 500 Mbps | MPRS R$ 3.687,25; Glorinha/RS R$ 1.550,00; Xanxerê/SC R$ 119,00 | (3.687,25 + 1.550,00 + 119,00) / 3 = R$ 1.785,42 | 3 | R$ 5.356,25 | R$ 64.275,00 |
+| 100 Mbps | MPRS R$ 1.580,25; Transitar/Cascavel R$ 761,56; TJPB R$ 2.425,00 | (1.580,25 + 761,56 + 2.425,00) / 3 = R$ 1.588,94 | 5 | R$ 7.944,68 | R$ 95.336,16 |
+| Total preliminar MPLS | - | Soma dos valores mensais por capacidade | 10 | R$ 18.081,21 | R$ 216.974,52 |
+| Link dedicado Sede-Foro 25 Gbps | Faixa paramétrica baseada em precedentes PNCP compatíveis de 4, 5 e 10 Gbps | (30.000,00 + 60.000,00) / 2 = R$ 45.000,00 | 1 | R$ 45.000,00 | R$ 540.000,00 |
+| Total preliminar geral | MPLS + link dedicado 25 Gbps | 18.081,21 + 45.000,00 | 11 | R$ 63.081,21 | R$ 756.974,52 |
 
-## VIII - Contratacao Correlata ou Interdependente
+### 10.3.2 Rastreabilidade das fontes consultadas
 
-A contratacao e correlata ao contrato SD-WAN vigente e as contratacoes de Internet da Sede. A execucao devera preservar a operacao atual e ser coordenada com a area de redes, seguranca, operadoras atuais e fiscalizacao contratual.
+Rastreabilidade das fontes consultadas:
+
+| Referência | Consulta pública / identificador | Observação de uso |
+| --- | --- | --- |
+| MPRS - Contrato 68/2024 | Portal de Transparência MPRS; Procedimento nº 02405.000.098/2024; Pregão Eletrônico nº 007/2024; Súmula do Contrato de Prestação de Serviços Contínuos nº 0068/2024 | Fonte dos itens MPLS 100 Mbps, 500 Mbps e 1 Gbps, com valores da 1ª Apostila/reajuste. |
+| Cascavel/PR - Transitar | PNCP-76208867000107-1-000429/2025; Edital 90129/2025; Pregão eletrônico; consulta PNCP: https://pncp.gov.br/app/editais/76208867000107/2025/429 | Fonte do item MPLS 100 Mbps, com objeto de comunicação de dados por Rede IP/MPLS. |
+| TJPB | Pregão Eletrônico nº 010/2019; Processo Administrativo Eletrônico nº 2019094162 | Fonte auxiliar/histórica para item MPLS 100 Mbps, anterior ao PNCP. |
+| Glorinha/RS | Processo Administrativo nº 25.714/2025; documento técnico municipal assinado em 10/09/2025; pregão/sessão pública indicada para 02/03/2026 | Fonte do item L2L Ethernet/MPLS 500 Mbps. Número PNCP/pregão não localizado integralmente na pesquisa preliminar. |
+| Xanxerê/SC | Pregão Eletrônico nº 0032/2024; UASG 988383 | Fonte dos itens MPLS 500 Mbps e 1 Gbps; valor tratado com cautela por possível outlier. |
+| Santa Maria/RS | Pregão Eletrônico nº 90055/2025; UASG 988841; resultado/ata pública municipal | Fonte do item MPLS 1 Gbps, fornecedor Brasil Tecpar Serviços de Telecomunicações S.A., valor unitário R$ 1.429,68. |
+| Candeias/BA | PNCP-13830336000123-1-000051/2026; Edital 023/2026; consulta PNCP: https://pncp.gov.br/app/editais/13830336000123/2026/51 | Referência de alta capacidade para LAN-to-LAN, fibra dedicada, concentradores de 10 Gbps e link dedicado 4 Gbps. |
+| Jaguariúna/SP | PNCP-46410866000171-1-000610/2024; Edital PL-674/2024; PE 90081/2024; consulta PNCP: https://pncp.gov.br/editais/46410866000171/2024/610 | Referência de alta capacidade para link dedicado simétrico de 10 Gbps, embora com escopo de acesso à Internet. |
+| Ubarana/SP | PNCP-65708786000141-1-000038/2026; Edital 19/2026; consulta PNCP: https://pncp.gov.br/app/editais/65708786000141/2026/38 | Referência de alta capacidade para rede LAN-to-LAN por fibra dedicada, capacidade agregada até 10 Gbps. |
+| TJPR | PNCP 77821841000194-1-000049/2025; Edital PE 15/2025 | Referência de alta capacidade para dois links dedicados de 10 Gbps, BGP, Anti-DDoS e operadoras distintas. |
+| JFRS/TRF4 | Pregão Eletrônico nº 90012/2025; Ata de Registro de Preços nº 10/2025; PNCP relacionado a 00508903000188-1-002018/2025 | Referência técnica de Metro Ethernet/LAN-to-LAN/ponto-a-ponto; valor do item específico não confirmado. |
+
+### 10.3.3 Referências preliminares para o grupo de link dedicado Sede-Foro 25 Gbps
+
+Para o grupo de link dedicado Sede-Foro de 25 Gbps, a pesquisa preliminar não localizou três itens PNCP idênticos em 25 Gbps. Foram localizados precedentes compatíveis de alta capacidade, listados abaixo:
+
+| Referência | Número do pregão/licitação e identificador | Objeto compatível | Valor informado | Uso na estimativa |
+|---|---|---|---|---|
+| Município de Candeias/BA | Edital 023/2026; Pregão eletrônico; PNCP-13830336000123-1-000051/2026; abertura em 13/03/2026 | Comunicação de dados privativa LAN-to-LAN, concentradores de 10 Gbps, fibra óptica, link dedicado de 4 Gbps full duplex, rotas redundantes e equipamentos inclusos | R$ 950.560,00 | Similaridade por LAN-to-LAN, fibra dedicada, alta capacidade, rotas redundantes e equipamentos. |
+| Município de Jaguariúna/SP | Edital PL-674/2024; PE 90081/2024; Pregão eletrônico; PNCP-46410866000171-1-000610/2024; abertura em 16/10/2024 | Link dedicado de acesso à Internet bidirecional e simétrico de 10 Gbps e link compartilhado de internet banda larga | R$ 4.705.844,00 | Similaridade por link dedicado 10 Gbps; escopo de Internet, não ponto-a-ponto. |
+| Município de Ubarana/SP | Edital 19/2026; Pregão eletrônico; PNCP-65708786000141-1-000038/2026; abertura em 15/04/2026 | Rede LAN-to-LAN por fibra óptica dedicada, capacidade agregada de até 10 Gbps, ponto concentrador e link dedicado de acesso à Internet | R$ 184.400,00 | Similaridade por LAN-to-LAN, fibra dedicada e limite agregado de 10 Gbps. |
+| TJPR | Edital PE 15/2025; PNCP 77821841000194-1-000049/2025; Pregão eletrônico | Dois links dedicados de 10 Gbps cada, BGP, Anti-DDoS e operadoras distintas para Sistema Autônomo de Internet do TJPR | R$ 187.560,00 | Similaridade por 10 Gbps, redundância e operadoras distintas; escopo de Internet/AS, não replicação ponto-a-ponto. |
+| JFRS/TRF4 | Pregão Eletrônico nº 90012/2025; Ata de Registro de Preços 10/2025; PNCP relacionado a 00508903000188-1-002018/2025 | Serviços de comunicação de dados dedicados e exclusivos para acesso à Internet e comunicação ponto a ponto entre sites via Metro Ethernet / LAN-to-LAN, camada 2 | Valor de item específico a confirmar na pesquisa formal | Similaridade funcional por Metro Ethernet/LAN-to-LAN e comunicação ponto a ponto entre sites; usado como referência técnica, não como preço direto. |
+
+As referências acima não foram usadas para cálculo de média direta do item de 25 Gbps, porque os valores informados correspondem a objetos, prazos e escopos distintos. Elas foram usadas para demonstrar compatibilidade técnica de mercado e para balizar a faixa paramétrica preliminar de R$ 30.000,00 a R$ 60.000,00 mensais.
+
+Como memória preliminar, recomenda-se reservar faixa de R$ 30.000,00 a R$ 60.000,00 mensais para o enlace dedicado Sede-Foro de 25 Gbps, adotando como ponto de partida R$ 45.000,00 mensais e R$ 540.000,00 anuais até a pesquisa formal confirmar valores para Brasília/DF. A pesquisa final deverá obter cotações específicas para 25 Gbps, baixa latência, fibra dedicada, interfaces 25GbE/SFP28, SLA, eventual dupla abordagem, equipamentos, instalação e monitoramento.
+
+Essa memória deve ser revisada com análise crítica de outliers. Em especial, os valores de Xanxerê/SC aparentam depender de grande volume de pontos e escopo municipal próprio, podendo reduzir artificialmente a média. Recomenda-se que a pesquisa formal calcule média saneada ou mediana, compare capital/interior, considere DF/TO e preserve pelo menos 3 preços válidos por capacidade, quando disponíveis.
+
+## VII - Justificativa para Parcelamento ou Não Parcelamento
+
+Sugere-se adjudicação por grupo único, pois a solução depende de interoperabilidade ponta a ponta, gestão centralizada de SLA, roteamento integrado, suporte unificado e responsabilização única por indisponibilidade. O parcelamento por localidade pode gerar risco de fragmentação operacional, disputas de responsabilidade e maior complexidade de gerenciamento.
+
+A justificativa de grupo único deverá ser confirmada pela pesquisa de mercado, demonstrando que há fornecedores capazes de atender o conjunto sem restrição indevida de competitividade. Caso a pesquisa revele baixa competitividade para todas as localidades, o parcelamento por lotes tecnicamente coerentes deverá ser reavaliado.
+
+## VIII - Contratação Correlata ou Interdependente
+
+A contratação é correlata ao contrato SD-WAN vigente e às contratações de Internet da Sede. A execução deverá preservar a operação atual e ser coordenada com a área de redes, segurança, operadoras atuais e fiscalização contratual.
 
 ## IX - Resultados Esperados
 
-- maior disponibilidade da comunicacao institucional;
-- reducao de risco de indisponibilidade total das unidades;
-- centralizacao de seguranca e saida de Internet na Sede;
-- trafego critico com maior previsibilidade;
-- separacao operacional entre trafego critico e trafego de Internet, com contingencia cruzada entre MPLS e SD-WAN;
-- simplificacao de politicas de roteamento e QoS;
-- melhoria da governanca e monitoramento da infraestrutura de rede;
-- melhor padronizacao de politicas de seguranca, inspecao de trafego, registros e controle de acesso;
-- maior previsibilidade para acesso a redes JT, Infovia, servicos institucionais e rotinas de continuidade;
-- possibilidade de revisao periodica de capacidade com base em indicadores reais de consumo e desempenho;
-- continuidade dos servicos judiciais e administrativos.
+- maior disponibilidade da comunicação institucional;
 
-## X - Providencias Previas a Contratacao
+- redução de risco de indisponibilidade total das unidades;
 
-- Validar inventario de circuitos e enderecos;
+- centralização de segurança e saída de Internet na Sede;
+
+- tráfego crítico com maior previsibilidade;
+
+- separação operacional entre tráfego crítico e tráfego de Internet, com contingência cruzada entre MPLS e SD-WAN;
+
+- simplificação de políticas de roteamento e QoS;
+
+- fortalecimento da governança e do monitoramento da infraestrutura de rede;
+
+- melhor padronização de políticas de segurança, inspeção de tráfego, registros e controle de acesso;
+
+- maior previsibilidade para acesso a redes JT, Infovia, serviços institucionais e rotinas de continuidade;
+
+- possibilidade de revisão periódica de capacidade com base em indicadores reais de consumo e desempenho;
+
+- continuidade dos serviços judiciais e administrativos.
+
+## X - Providências Prévias a Contratação
+
+- Validar inventário de circuitos e endereços;
+
 - medir uso real da SD-WAN por localidade;
-- validar capacidade das 3 saidas de Internet da Sede;
-- confirmar se a capacidade minima combinada de 4 Gbps para as saidas centrais e adequada ao uso medio, picos, simultaneidade e politica de contingencia;
-- avaliar operadoras e rotas fisicas distintas para as saidas de Internet da Sede;
-- definir plano de enderecamento, VRFs, roteamento e QoS;
-- definir politicas de failover e retorno entre MPLS e SD-WAN;
-- definir regras de trafego local de Internet nas unidades, quando houver excecao tecnica formalmente autorizada;
-- definir RTO e RPO de servicos de rede relacionados a Internet, redes JT, Infovia e sistemas institucionais;
-- conferir vigencias contratuais e dependencias;
+
+- validar capacidade das 3 saídas de Internet da Sede;
+
+- confirmar se a capacidade mínima combinada de 4 Gbps para as saídas centrais e adequada ao uso médio, picos, simultaneidade e política de contingência;
+
+- avaliar operadoras e rotas físicas distintas para as saídas de Internet da Sede;
+
+- definir plano de endereçamento, VRFs, roteamento e QoS;
+
+- definir políticas de failover e retorno entre MPLS e SD-WAN;
+
+- definir regras de tráfego local de Internet nas unidades, quando houver exceção técnica formalmente autorizada;
+
+- definir RTO e RPO de serviços de rede relacionados à Internet, redes JT, Infovia e sistemas institucionais;
+
+- conferir vigências contratuais e dependências;
+
 - preparar mapa de riscos;
-- elaborar pesquisa de precos;
-- definir fiscais tecnico, administrativo e gestor.
 
-## XI - Contratacoes Correlatas e/ou Interdependentes
+- elaborar pesquisa de preços;
 
-Contrato 131/2023 de SD-WAN, contratos de Internet/Anti-DDoS e eventuais contratos relativos a Infovia, redes JT, firewalls, monitoramento e seguranca perimetral.
+- definir fiscais técnico, administrativo e gestor.
+
+## XI - Contratações Correlatas e/ou Interdependentes
+
+Contrato 131/2023 de SD-WAN, contratos de Internet/Anti-DDoS e eventuais contratos relativos a Infovia, redes JT, firewalls, monitoramento e segurança perimetral.
 
 ## XII - Impactos Ambientais
 
-Impactos ambientais sao baixos e restritos a equipamentos de rede, energia e eventuais adequacoes fisicas. Mitigacoes: equipamentos eficientes, descarte adequado, reaproveitamento de infraestrutura existente, documentacao digital e monitoramento remoto.
+Impactos ambientais são baixos e restritos a equipamentos de rede, energia e eventuais adequações físicas. Mitigacoes: equipamentos eficientes, descarte adequado, reaproveitamento de infraestrutura existente, documentação digital e monitoramento remoto.
 
 ## XIII - Posicionamento Conclusivo
 
-A contratacao e tecnicamente viavel, razoavel e adequada, desde que precedida de pesquisa de precos, validacao de capacidade, definicao detalhada de SLA e projeto executivo. Entre as alternativas avaliadas, a Solucao 1, com MPLS integrado a SD-WAN, e a mais aderente a necessidade do TRT10, pois usa o MPLS como camada privada para trafego critico, preserva a SD-WAN como camada preferencial de Internet, permite contingencia cruzada, aproveita a existencia de 3 saidas redundantes na Sede e fortalece disponibilidade, seguranca, governanca e observabilidade da rede institucional. O novo grupo de link dedicado Sede-Foro de 25 Gbps e tecnicamente justificavel por possuir finalidade distinta da malha MPLS: replicacao, backup, sincronizacao, baixa latencia e uso do Foro como redundancia da Sede.
+A contratação é tecnicamente viável, razoável e adequada, desde que precedida de pesquisa de preços, validação de capacidade, definição detalhada de SLA e projeto executivo. Entre as alternativas avaliadas, a Solução 1, com MPLS integrado à SD-WAN, é a mais aderente à necessidade do TRT10, pois usa o MPLS como camada privada para tráfego crítico, mantém a SD-WAN como camada preferencial de Internet, permite contingência cruzada, considera a existência de 3 saídas redundantes na Sede e fortalece disponibilidade, segurança, governança e observabilidade da rede institucional. O grupo de link dedicado Sede-Foro de 25 Gbps é tecnicamente justificável por possuir finalidade distinta da malha MPLS: replicação, backup, sincronização, baixa latência e uso do Foro como redundância da Sede.
 
-A recomendacao final e manter a topologia SD-WAN atual como base operacional, contratar MPLS complementar para todas as localidades, centralizar preferencialmente a saida de Internet na Sede, dimensionar as saidas centrais a partir de dados reais de trafego e contratar, em grupo proprio, link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasilia. A conclusao permanece condicionada a pesquisa formal de mercado, validacao de viabilidade por localidade, confirmacao orcamentaria, confirmacao de precos para 25 Gbps em Brasilia/DF e consolidacao do Termo de Referencia.
+A recomendação final é contratar MPLS para todas as localidades, em convivência com a topologia SD-WAN vigente, centralizar preferencialmente a saída de Internet na Sede, dimensionar as saídas centrais a partir de dados reais de tráfego e contratar, em grupo próprio, link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília. A conclusão permanece condicionada à pesquisa formal de mercado, validação de viabilidade por localidade, confirmação orçamentária, confirmação de preços para 25 Gbps em Brasília/DF e consolidação do Termo de Referência.
 
-## XIV - Responsavel
+## XIV - Responsável
 
-**Unidade:** CDTEC  
-**Servidor responsavel:** Edson Mateus de Sousa  
-**E-mail:** cdtec@trt10.jus.br  
-**Telefone:** (61) 3348-1249 / 1288 / 1280 / 1188
+**Unidade: CDTEC**
+
+Servidor responsável: Edson Mateus de Sousa
+
+E-mail: cdtec@trt10.jus.br
+
+Telefone: (61) 3348-1249 / 1288 / 1280 / 1188

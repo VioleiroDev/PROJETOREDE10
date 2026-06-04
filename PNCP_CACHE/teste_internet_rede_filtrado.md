@@ -1,0 +1,3 @@
+| Score | Órgão | UF | Número PNCP / contrato | Modalidade | Objeto | Valor documentado | Link |
+| ---: | --- | --- | --- | --- | --- | ---: | --- |
+| 13.6 | MUNICIPIO DE ANAPOLIS | GO | 01067479000146-1-000089/2026 | Pregão - Eletrônico | Contratação de empresa especializada para fornecimento, instalação, operação e manutenção de 21 (vinte e um) links dedicados de internet via fibra óptica, com disponibilidade mínima de 99,5%, IPS fixos e suporte técnico 24x7x365 para atender as demandas da Secretaria Municipal de Saúde de Anápolis. | 73500.84 | https://pncp.gov.br/app/editais/01067479000146/2026/89 |

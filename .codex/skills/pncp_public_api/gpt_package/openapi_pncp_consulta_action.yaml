@@ -1,0 +1,141 @@
+openapi: 3.0.1
+info:
+  title: PNCP Consulta Publica
+  version: "1.0"
+  description: Action para consulta publica do Portal Nacional de Contratacoes Publicas.
+servers:
+  - url: https://pncp.gov.br/api/consulta
+paths:
+  /v1/contratacoes/publicacao:
+    get:
+      operationId: consultarContratacoesPorPublicacao
+      summary: Consultar contratações por data de publicação
+      parameters:
+        - name: dataInicial
+          in: query
+          required: true
+          schema: { type: string, example: "20240101" }
+        - name: dataFinal
+          in: query
+          required: true
+          schema: { type: string, example: "20260603" }
+        - name: codigoModalidadeContratacao
+          in: query
+          required: true
+          schema: { type: integer, example: 6 }
+        - name: uf
+          in: query
+          required: false
+          schema: { type: string, example: "DF" }
+        - name: pagina
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1, example: 1 }
+        - name: tamanhoPagina
+          in: query
+          required: false
+          schema: { type: integer, minimum: 10, example: 50 }
+      responses:
+        "200":
+          description: Lista paginada de contratações
+  /v1/contratacoes/atualizacao:
+    get:
+      operationId: consultarContratacoesPorAtualizacao
+      summary: Consultar contratações por data de atualização
+      parameters:
+        - name: dataInicial
+          in: query
+          required: true
+          schema: { type: string, example: "20240101" }
+        - name: dataFinal
+          in: query
+          required: true
+          schema: { type: string, example: "20260603" }
+        - name: codigoModalidadeContratacao
+          in: query
+          required: true
+          schema: { type: integer, example: 6 }
+        - name: uf
+          in: query
+          required: false
+          schema: { type: string, example: "DF" }
+        - name: pagina
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1, example: 1 }
+        - name: tamanhoPagina
+          in: query
+          required: false
+          schema: { type: integer, minimum: 10, example: 50 }
+      responses:
+        "200":
+          description: Lista paginada de contratações
+  /v1/orgaos/{cnpj}/compras/{ano}/{sequencial}:
+    get:
+      operationId: consultarContratacao
+      summary: Consultar detalhe de uma contratação pelo CNPJ, ano e sequencial PNCP
+      parameters:
+        - name: cnpj
+          in: path
+          required: true
+          schema: { type: string }
+        - name: ano
+          in: path
+          required: true
+          schema: { type: integer }
+        - name: sequencial
+          in: path
+          required: true
+          schema: { type: integer }
+      responses:
+        "200":
+          description: Detalhe da contratação
+  /v1/contratos:
+    get:
+      operationId: consultarContratosPorPublicacao
+      summary: Consultar contratos por data de publicação
+      parameters:
+        - name: dataInicial
+          in: query
+          required: true
+          schema: { type: string, example: "20240101" }
+        - name: dataFinal
+          in: query
+          required: true
+          schema: { type: string, example: "20260603" }
+        - name: pagina
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1, example: 1 }
+        - name: tamanhoPagina
+          in: query
+          required: false
+          schema: { type: integer, minimum: 10, example: 50 }
+      responses:
+        "200":
+          description: Lista paginada de contratos
+  /v1/atas/atualizacao:
+    get:
+      operationId: consultarAtasPorAtualizacao
+      summary: Consultar atas de registro de preços por data de atualização
+      parameters:
+        - name: dataInicial
+          in: query
+          required: true
+          schema: { type: string, example: "20240101" }
+        - name: dataFinal
+          in: query
+          required: true
+          schema: { type: string, example: "20260603" }
+        - name: pagina
+          in: query
+          required: true
+          schema: { type: integer, minimum: 1, example: 1 }
+        - name: tamanhoPagina
+          in: query
+          required: false
+          schema: { type: integer, minimum: 10, example: 50 }
+      responses:
+        "200":
+          description: Lista paginada de atas
+

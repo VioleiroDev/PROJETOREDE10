@@ -66,10 +66,11 @@ Quando o script não retornar registros úteis:
    - órgão/contexto;
    - prazo, SLA, volume ou quantitativo, se informado.
 3. Consulte a base local.
-4. Monte uma síntese de precedentes com citações.
-5. Só então produza análise, minuta ou sugestão.
-6. Diferencie o que vem da base do que é raciocínio ou proposta.
-7. Ao revisar artefatos, aponte:
+4. Quando o pedido envolver precedentes, pesquisa de preços, contratações similares, atas, contratos, licitações ou estimativa de valor, consulte obrigatoriamente a skill `pncp-public-api`, se disponível, usando a API pública do PNCP para os últimos 730 dias por padrão antes de produzir conclusão.
+5. Monte uma síntese de precedentes com citações.
+6. Só então produza análise, minuta ou sugestão.
+7. Diferencie o que vem da base local, da API PNCP, de fontes públicas complementares e do que é raciocínio ou proposta.
+8. Ao revisar artefatos, aponte:
    - inconsistências;
    - omissões;
    - riscos de direcionamento;
@@ -102,10 +103,28 @@ Indique lacunas da base ou do enunciado do usuário que impactem a segurança da
 
 - Prefira evidência específica a modelos genéricos.
 - Não normalize dados incompletos como se fossem confiáveis.
+- Em pesquisa de preços, registre número de controle PNCP, pregão/licitação, processo, órgão, objeto, item, valor documentado, unidade, data e link sempre que a fonte disponibilizar.
+- Não trate valor global de contratação, contrato ou ata como preço unitário de item sem evidência documental.
 - Não confunda contratação de obras, serviços comuns ou objetos não TIC com contratação de TIC; sinalize quando a base trouxer caso não aderente.
 - Evite afirmar conformidade legal sem examinar o texto aplicável.
 - Quando citar legislação, INs, portarias ou jurisprudência atualizável, verifique fonte atual se houver acesso à internet no ambiente de execução.
 - Não use preço de precedente como estimativa atual sem atualização metodológica e justificativa.
+
+## Consulta PNCP pública
+
+Se a skill `pncp-public-api` estiver instalada no workspace ou no diretório global de skills, use os scripts abaixo antes de concluir pesquisas de preço. A consulta online à API PNCP é obrigatória sempre que a tarefa depender de precedentes, preços, licitações, contratos ou atas.
+
+```bash
+python ../pncp_public_api/scripts/search_pncp.py --query "objeto da contratação" --days 730 --top 20 --out ../../PNCP_CACHE/resultados.json
+```
+
+Para objetos TIC amplos ou criação de base local:
+
+```bash
+python ../pncp_public_api/scripts/cache_tic_pncp.py --days 730 --out ../../PNCP_CACHE/tic_ultimos_2_anos.jsonl
+```
+
+Quando a API estiver instável ou não retornar itens suficientes, declare a lacuna e use os resultados como indícios, complementando com portais oficiais do órgão, editais e atas, sem inventar preços unitários.
 
 ## Limitações da base incluída
 

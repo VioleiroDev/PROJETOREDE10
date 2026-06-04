@@ -1,0 +1,13 @@
+{
+  "name": "pncp-public-api",
+  "created_at": "2026-06-03",
+  "source": "API publica PNCP",
+  "skill_format": "Codex Agent Skill",
+  "entrypoint": "SKILL.md",
+  "notes": [
+    "Consulta endpoints oficiais sem autenticacao da API PNCP Consulta.",
+    "Foco em precedentes, contratos, atas e valores documentados dos ultimos 2 anos.",
+    "Resultados de valor global nao devem ser tratados automaticamente como preco unitario."
+  ]
+}
+
