@@ -1,0 +1,4399 @@
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ TERMO  DE  REFERÊNCIA  -  TR  SECRETARIA  DE  ADMINISTRAÇÃO  E  DE  GOVERNO   1  –  DEFINIÇÃO  DO  OBJETO  Contratação  de  empresa  especializada  na  prestação  de  serviços  de  telecomunicações,  
+compreendendo
+ 
+transporte
+ 
+de
+ 
+dados
+ 
+em
+ 
+tecnologia
+ 
+MPLS
+ 
+via
+ 
+fibra
+ 
+óptica
+ 
+para
+ 
+interligação
+ 
+de
+ 
+unidades
+ 
+administrativas
+ 
+ao
+ 
+Backbone
+ 
+Central,
+ 
+fornecimento
+ 
+de
+ 
+links
+ 
+de
+ 
+internet
+ 
+dedicada
+ 
+e
+ 
+links
+ 
+temporários
+ 
+móveis,
+ 
+conforme
+ 
+lotes
+ 
+abaixo: 
+LOTE  Especificação  do  Objeto  
+Un.  medida  
+Quant.  
+Valor  Unt.  Mensal  R$  
+Valor  Total  Anual  R$  
+01  
+  Item  01:  Link  Principal  -  Link  de  Internet  Dedicada  5  Gbps  Full  Duplex.  Entrega  em  fibra  óptica  com  dupla  abordagem  (redundância  física)  no  CPD  Central.  Este  link  atuará  como  o  Gateway  principal  de  saída  para  a  internet  de  todas  as  225  unidades  remotas  do  Município.  Inclui  IPv4  /27  (30  IPs  válidos).
+ 
+Mês  12  8.500,00  102.000,00  
+Item  02:  Rede  Privada  –  Transporte  de  dados  de  205  unidades  ao  CPD  Central  via  tecnologia  MPLS  através  de  fibra  óptica.  Velocidade  500  Mbps  Full  Duplex  por  ponto,  segmentados  por  VLAN.  Valor  unitário  por  ponto:  R$  410,00. 
+Mês  12  84.050,00  1.008.600,00  
+  Item  03:  Rede  Privada  –  Transporte  de  dados  de  20  unidades  ao  CPD  Central  via  tecnologia  MPLS  através  de  fibra  óptica.  Velocidade  1  Gbps  Full  Duplex  por  ponto,  segmentados  por  VLAN.  Valor  unitário  por  ponto:  R$  574,00
+.  
+Mês  12  11.480,00  137.760,00  
+  Item  04:  Links  Temporários  (móveis)  –  Fornecimento  sob  demanda  de  03  (três)  links  de  500  Mbps  FULL  com  01  IP  fixo  cada,  para  eventos,  pagos  apenas  na  utilização.  Sob  demanda
+ 
+Unid  03  1.500,00  4.500,00  
+VALOR  TOTAL  DO  LOTE  01:  R$  1.252.860,00  (Um  milhão,  duzentos  e  cinquenta  e  dois  mil,  oitocentos  e  sessenta  reais.) 
+1  
+
+02  
+  Item  01:   Link  de  Redundância  (Backup)  -  Link  Backup  -  Link  de  Internet  Dedicada  5  Gbps  Full  Duplex.  Deve  garantir  independência  total  de  rotas  físicas  em  relação  ao  Lote  1,  assumindo  100%  do  tráfego  das  225  unidades  em  caso  de  contingência.
+ 
+Mês  12   7.500,00  90.000,00  
+VALOR  TOTAL  DO  LOTE  02:  R$  90.000,00  (noventa  mil  reais)  
+VALOR  TOTAL  DOS  LOTES:   
+R$  1.342.860,00   
+a)  O(s)  objeto(s)  desta  contratação  é  (são)  caracterizado(s)  como  comum(ns)  e  contínuo(s),  
+decorrente(s)
+ 
+de
+ 
+necessidades
+ 
+permanentes
+ 
+ou
+ 
+prolongadas
+ 
+para
+ 
+manutenção
+ 
+da
+ 
+atividade
+ 
+administrativa
+ 
+do
+ 
+órgão,
+ 
+conforme
+ 
+justificativa
+ 
+constante
+ 
+do
+ 
+Estudo
+ 
+Técnico
+ 
+Preliminar.
+ b)  O  prazo  de  vigência  da  contratação  é  de  12  (doze)  meses  contados  da  assinatura  do  contrato,  
+podendo
+ 
+ser
+ 
+prorrogado
+ 
+nos
+ 
+termos
+ 
+do
+ 
+artigo
+ 
+107
+ 
+da
+ 
+Lei
+ 
+Federal
+ 
+14.133/2021.
+  2.  DA  FUNDAMENTAÇÃO,  DA  DESCRIÇÃO  E  DA  NECESSIDADE  DA  CONTRATAÇÃO    a)  A  Fundamentação  da  Contratação  e  de  seus  quantitativos  encontra-se  pormenorizada  em  
+tópico
+ 
+específico
+ 
+do
+ 
+Estudo
+ 
+Técnico
+ 
+Preliminar,
+ 
+apêndice
+ 
+deste
+ 
+Termo
+ 
+de
+ 
+Referência.
+ b)  O  objeto  da  contratação  tem  previsão  no  Plano  de  Contratações  Anual,  conforme  descrito  no  
+ETP.
+  3.  DA  DESCRIÇÃO  DA  SOLUÇÃO  COMO  UM  TODO  CONSIDERADO  O  CICLO  DE  VIDA  DO  
+OBJETO
+ A  descrição  da  solução  como  um  todo  se  encontra  pormenorizada  em  tópico  específico  do  Estudo  
+Técnico
+ 
+Preliminar,
+ 
+apêndice
+ 
+deste
+ 
+Termo
+ 
+de
+ 
+Referência.
+  4.  DOS  REQUISITOS  DA  CONTRATAÇÃO  4.1  DO  OBJETO  LOTE  Especificação  do  Objeto  Und  Quant.  
+01  
+  Item  01:  Link  Principal  -  Link  de  Internet  Dedicada  5  Gbps  Full  Duplex.  Entrega  em  fibra  óptica  com  dupla  abordagem  (redundância  física)  no  CPD  Central.  Este  link  atuará  como  o  Gateway  principal  de  saída  para  a  internet  de  todas  as  225  unidades  remotas  do  Município.  Inclui  IPv4  /27  (30  IPs  válidos).
+ 
+Mês  12  
+Item  02:   Rede  Privada  -  Interconexão  de  205  unidades  ao  CPD  Central  via  tecnologia  MPLS  através  de  fibra  óptica.  Velocidade  500  Mbps  Full  Duplex  por  ponto,  segmentados  por  VLAN.   
+Mês  12  
+2  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+   Item  03:  Rede  Privada  -  Interconexão  de  20  unidades  ao  CPD  Central  via  tecnologia  MPLS  através  de  fibra  óptica.  Velocidade  1Gbps  Full  Duplex  por  ponto,  segmentados  por  VLAN.
+ 
+Mês  12  
+  Item  04:  Links  Temporários  (móveis)  –  Fornecimento  sob  demanda  de  03  (três)  links  de  500  Mbps  FULL  com  01  IP  fixo  cada,  para  eventos,  pagos  apenas  na  utilização.  Sob  demanda
+ 
+Unid  03  
+02  
+  Item  01:   Link  de  Redundância  (Backup)  -  Link  Backup  -  Link  de  Internet  Dedicada  5  Gbps  Full  Duplex.  Deve  garantir  independência  total  de  rotas  físicas  em  relação  ao  Lote  1,  assumindo  100%  do  tráfego  das  225  unidades  em  caso  de  contingência.
+ 
+Mês  12  
+ 4.1.1  A  fornecedora  deverá  assegurar  a  transmissão  de  100%  da  velocidade  contratada  
+garantida
+ 
+em
+ 
+tempo
+ 
+integral.
+  4.1.2  Latência  máxima  de  10ms  (unidades-CPD)  e  30ms  (internet). 4.1.3  Infraestrutura  de  Rede:  A  contratada  deve  possuir  ASN  próprio  registrado  no  
+Registro.br
+ 
+e
+ 
+ao
+ 
+menos
+ 
+duas
+ 
+rotas
+ 
+distintas
+ 
+para
+ 
+o
+ 
+PTT-SP
+ 
+e/ou
+ 
+PTT-Curitiba.
+  4.1.4  Equipamentos  e  Manutenção:  Hardware  em  comodato  com  substituição  obrigatória  em  
+até
+ 
+02
+ 
+(duas)
+ 
+horas
+ 
+em
+ 
+caso
+ 
+de
+ 
+falha
+ 
+física. 4. 1.5  Infraestrutura  Própria  e  Vedação  a  Redes  Neutras:  Dada  a  criticidade  dos  dados  
+trafegados
+ 
+(Prontuário
+ 
+Eletrônico
+ 
+de
+ 
+Saúde,
+ 
+Segurança
+ 
+Pública
+ 
+e
+ 
+Educação),
+ 
+a
+ 
+contratada
+ 
+deverá
+ 
+comprovar
+ 
+a
+ 
+detenção
+ 
+de,
+ 
+no
+ 
+mínimo,
+ 
+80%
+ 
+de
+ 
+infraestrutura
+ 
+própria
+ 
+de
+ 
+fibra
+ 
+óptica
+ 
+de
+ 
+ponta
+ 
+a
+ 
+ponta
+ 
+(do
+ 
+CPD
+ 
+Central
+ 
+às
+ 
+225
+ 
+unidades),
+ 
+sendo
+ 
+expressamente
+ 
+vedada
+ 
+a
+ 
+utilização
+ 
+de
+ 
+redes
+ 
+neutras,
+ 
+infraestruturas
+ 
+compartilhadas
+ 
+ou
+ 
+a
+ 
+subcontratação
+ 
+de
+ 
+meio
+ 
+físico
+ 
+(fibra
+ 
+apagada/dark
+ 
+fiber)
+ 
+de
+ 
+terceiros
+ 
+para
+ 
+a
+ 
+composição
+ 
+deste
+ 
+percentual
+ 
+mínimo.
+ 
+Tal
+ 
+exigência
+ 
+visa
+ 
+assegurar
+ 
+o
+ 
+controle
+ 
+direto
+ 
+da
+ 
+Administração
+ 
+sobre
+ 
+a
+ 
+segurança
+ 
+física
+ 
+da
+ 
+rede
+ 
+e
+ 
+o
+ 
+cumprimento
+ 
+rigoroso
+ 
+dos
+ 
+Acordos
+ 
+de
+ 
+Nível
+ 
+de
+ 
+Serviço
+ 
+(SLA).
+ 4.1.6  Disponibilidade:  Mínimo  de  99,5%;  4.1.7  Restabelecimento  (MTTR):  Máximo  de  04  horas  para  o  Backbone  Principal  e  circuitos  
+MPLS;
+ 
+08
+ 
+horas
+ 
+para
+ 
+as
+ 
+demais
+ 
+unidades;
+ 4.1.8  Monitoramento:  Fornecimento  de  interface  gráfica  com  gráficos  em  tempo  real  e  
+acesso
+ 
+SNMP
+ 
+para
+ 
+a
+ 
+TI
+ 
+da
+ 
+Prefeitura.
+  4.1.9  Dos  Locais  para  Prestação  do  Serviço:  
+SECRETARIA  DE  SAÚDE  (Total:  62  Pontos  —  57  definidos  +  5  reservas)
+ 
+3  
+
+Item  Unidade  Endereço  Velocidade  
+1  Saúde  Almoxarifado  Rua  São  Domingos,  120,   Bairro  Líder  1  Gbps  
+2  Saúde  Alta  Floresta  
+Rua  Araras,  nº  763,  Loteamento  Alta  Floresta  ,  Efapi  
+1  Gbps  
+3  
+Saúde  Alta  Floresta  –  TELE  SAÚDE  
+Rua  Araras,  nº  763,  Loteamento  Alta  Floresta  ,  Efapi  
+1  Gbps  
+4  Saúde  Alto  da  Serra  
+Rua  do  Comércio,  326,  Distrito  de  Alto  da  Serra  
+1  Gbps  
+5  
+Saúde  Alto  da  Serra  –  TELE  SAÚDE  
+Rua  do  Comércio,  326,  Distrito  de  Alto  da  Serra  
+1  Gbps  
+6  Saúde  Bela  Vista  
+Rua  Hercílio  Pedro  da  Luz,  615D,  Bela  Vista  
+1  Gbps  
+7  
+Saúde  Bela  Vista  -  TELE  SAÚDE  
+Rua  Hercílio  Pedro  da  Luz,  615D,  Bela  Vista  
+1  Gbps  
+8  Saúde  Belvedere  
+Estrada  Municipal  Ludovico  Júlio  Tozzo,  nº  80  -  Belvedere  
+1  Gbps  
+9  
+Saúde  Belvedere  –  TELE  SAÚDE  
+Estrada  Municipal  Ludovico  Júlio  Tozzo,  nº  80  -  Belvedere  
+1  Gbps  
+10  Saúde  Bormann  
+Rua  João  Antunes  de  Almeida,  Distrito  de  Mal  Bormann  
+1  Gbps  
+11  
+Saúde  Bormann  -  TELE  SAÚDE  
+Rua  João  Antunes  de  Almeida,  Distrito  de  Mal  Bormann  
+1  Gbps  
+12  Saúde  Cachoeira  Linha  Cachoeira  1  Gbps  
+13  
+Saúde  Cachoeira  -  TELE  SAÚDE  
+Linha  Cachoeira  1  Gbps  
+14  Saúde  Caps  AD  
+R.  Manira  Terezinha  Clenis  Sarquis  Sartori,  Paraiso  
+1  Gbps  
+15  Saúde  Caps  I  -  Infantil  Rua  Uruguai,  510d  -  Jardim  Itália  1  Gbps  
+16  Saúde  Caps  II  
+Rua  Guarulhos,  352,  Passo  dos  Fortes  /  próximo  a  Cantu  /  antigo  Ceter  
+1  Gbps  
+17  Saúde  Chico  Mendes  Rua  Irlanda,  310E,  Presidente  Médici  1  Gbps  
+18  
+Saúde  Chico  Mendes  -  TELE  SAÚDE  
+Rua  Irlanda,  310E,  Presidente  Médici  1  Gbps  
+19  Saúde  Colônia  Cella  
+Rua  Luiz  Cella  s/n,  Bairro  Trevo,  Saída  para  Coronel  Freitas  
+1  Gbps  
+4  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ 
+20  
+Saúde  Colônia  Cella  -  TELE  SAÚDE  
+Rua  Luiz  Cella  s/n,  Bairro  Trevo,  Saída  para  Coronel  Freitas  
+1  Gbps  
+21  Saúde  Cresm/SER  Rua  Rondônia,  213  -  Santo  Antônio  1  Gbps  
+22  Saúde  Cristo  Rei  Rua  Alberto  Alvize  Caldart,  238  -  Cristo  Rei  1  Gbps  
+23  
+Saúde  Cristo  Rei  -  TELE  SAÚDE  
+Rua  Alberto  Alvize  Caldart,  238  -  Cristo  Rei  1  Gbps  
+24  Saúde  Efapi  
+Rua  Cunha  Porã,  25  -  Efapi,  Chapecó  -  SC,  89809-507  
+1  Gbps  
+25  Saúde  Efapi  -  TELE  SAÚDE  
+Rua  Cunha  Porã,  25  -  Efapi,  Chapecó  -  SC,  89809-507  
+1  Gbps  
+26  Saúde  Eldorado  Rua  Laguna,  snº,  Eldorado  1  Gbps  
+27  Saúde  Goio-En  Rodovia  283,  Km  21,  Distrito  de  Goio-Ên  1  Gbps  
+28  
+Saúde  Goio-En  -  TELE  SAÚDE  
+Rodovia  283,  Km  21,  Distrito  de  Goio-Ên  1  Gbps  
+29  Saúde  Jardim  América  
+Rua  Martim  Girardi,  1022E,  Parque  das  Palmeiras  
+1  Gbps  
+30  Saúde  Jardim  do  Lago  Rua.  Dom  José  Gomes,  237  -  Efapi  1  Gbps  
+31  
+Saúde  Jardim  do  Lago  -  TELE  SAÚDE  
+Rua.  Dom  José  Gomes,  237  -  Efapi  1  Gbps  
+32  Saúde  Laboratório  Rua  Iguaçu,  290E,  Saic  1  Gbps  
+33  Saúde  Leste  Rua  João  Aurélio  Turati,  snº,  Vista  Alegre  1  Gbps  
+34  Saúde  Norte  Rua  Eriberto  Hulse,  84D,  Líder  1  Gbps  
+35  Saúde  Oeste  São  Cristóvão  Rua  Carlos  Gomes,  1181D,  São  Cristóvão  1  Gbps  
+36  Saúde  Quedas  do  Palmital  Rua  Olívio  Lago,  14E,  Quedas  do  Palmital  1  Gbps  
+37  
+Saúde  Quedas  do  Palmital  -  TELE  SAÚDE  
+Rua  Olívio  Lago,  14E,  Quedas  do  Palmital  1  Gbps  
+38  Saúde  Saic  Rua  Mal.  Floriano  Peixoto,  1450,  Saic  1  Gbps  
+39  Saúde  Saic  -  TELE  SAÚDE  Rua  Mal.  Floriano  Peixoto,  1450,  Saic  1  Gbps  
+5  
+
+40  Saúde  Santa  Maria  Rua  Aquiles  Tomazelli,  850E,  santa  Maria  1  Gbps  
+41  Saúde  Santo  Antônio  
+Rua  Luiz  Santa  Catarina,  520  -  Santo  Antônio  
+1  Gbps  
+42  Saúde  São  Pedro  
+Rua  Marechal  Rolin  de  Moura,  nº  159,  Bairro  Bom  Pastor  
+1  Gbps  
+43  
+Saúde  São  Pedro  -  TELE  SAÚDE  
+Moura,  nº  159,  Bairro  Bom  Pastor  1  Gbps  
+44  Saúde  Sede  Figueira  Br  282,  Km  554,  Distrito  de  Sede  Figueira  1  Gbps  
+45  
+Saúde  Sede  Figueira  -  TELE  SAÚDE  
+Br  282,  Km  554,  Distrito  de  Sede  Figueira  1  Gbps  
+46  Saúde  Seminário  Rua  Graúna,  1956,  Lot.  Aline,  Seminário  1  Gbps  
+47  Saúde  Universitário  /  Sul  Rua  Diomedes  Dávi,  snº,  Universitário  1  Gbps  
+48  
+Saúde  Universitário  /  Sul  -  TELE  SAÚDE  
+Rua  Diomedes  Dávi,  snº,  Universitário  1  Gbps  
+49  Saúde  Vila  Real  Rua  Albino  Sá  Filho,  nº  965,  Vila  Real  1  Gbps  
+50  
+Saúde  Vila  Real  -  TELE  SAÚDE  
+Rua  Albino  Sá  Filho,  nº  965,  Vila  Real  1  Gbps  
+51  Saúde  Esplanada  Rua  Israel  1790,  Esplanada  1  Gbps  
+52  
+Saúde  Esplanada  -  TELE  SAÚDE  
+Rua  Israel  1790,  Esplanada  1  Gbps  
+53  
+Policlínica  Municipal  /  Lesões  de  Pele  /  Hospital  Dia  
+Rua  Jorge  Lacerda,  75  –  Centro  1  Gbps  
+54  SAMU  USB  Rua  João  Aurélio  Turatti,  999  –  Anexo  UPA  1  Gbps  
+55  CSF  Paraíso  
+Rua  Benjamin  Constant,  2891-  Bairro  Paraíso  
+1  Gbps  
+56  CSF  Paraíso  -  TELE  SAÚDE  
+Rua  Benjamin  Constant,  2891-  Bairro  Paraíso  
+1  Gbps  
+57  CSF  Água  Amarela  Rua  Canários  da  Terra,  108  D,  Seminário  1  Gbps  
+58  Reserva  Saúde  1  A  definir  /  Sob  demanda  1  Gbps  
+59  Reserva  Saúde  2  A  definir  /  Sob  demanda  1  Gbps  
+60  Reserva  Saúde  3  A  definir  /  Sob  demanda  1  Gbps  
+61  Reserva  Saúde  4  A  definir  /  Sob  demanda  1  Gbps  
+6  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ 62  Reserva  Saúde  5  A  definir  /  Sob  demanda  1  Gbps  
+   
+SECRETARIA  DE  EDUCAÇÃO  (Total:  97  Pontos  —  92  definidos  +  5  reservas)
+ 
+Item  Unidade  Endereço  Velocidade  
+63  CEIM  Adelina  Carlesso  
+Rua:  Cunha  Porã,  19-  Loteamento  Alice  II  –  EFAPI  
+1  Gbps  
+64  CEIM  Alegria  Do  Saber  
+Rua  Moacir  Moro,  235D  Lot.  Zanrosso;  Bairro  Efapi  
+1  Gbps  
+65  CEIM  Alto  Da  Serra  
+Distrito  de  Alto  da  Serra  -  MEIO  RURAL  
+1  Gbps  
+66  CEIM  Aquarela  
+Rua  Heriberto  Hulse,  146E  Esq.  Nereu  Ramos;  Bairro  Passo  dos  Fortes  
+1  Gbps  
+67  CEIM  BB  Criança  
+Rua  Amazonas,  114D,  Universitário  
+1  Gbps  
+68  CEIM  Brincar  E  Aprender  I  
+Rua  Paraná,  146E;  Bairro  Santo  Antônio  
+1  Gbps  
+69  
+CEIM  Brincar  E  Aprender  II  /  novo  Saberes  da  Infância  
+Rua  Ventura  Migliorini,  479  D;  Bairro  Santo  Antonio  
+1  Gbps  
+70  CEIM  Brincar  E  Crescer  
+Rua  Mal.  Cândido  Rondom,  1938E,  Pinheirinho  
+1  Gbps  
+71  CEIM  Cantinho  Da  Imaginação  Rua:  Maria  Favaretto,  232  TREVO  1  Gbps  
+72  
+CEIM  Carmem  Pelizza  /  Brincar  e  Aprender  Sempre  
+Rua  Sérgio  Luiz  Meneghini,  150D,  Lider  
+1  Gbps  
+73  CEIM  Ciranda  Da  Criança  
+Rua  Pardais,  01  -  Lot.  Jardim  do  Lago;  Bairro  Efapi  
+1  Gbps  
+74  CEIM  Ciranda  Do  Saber  
+Rua  Mal.  Floriano  Peixoto,  1450D;  Bairro  Saic  
+1  Gbps  
+75  CEIM  Criança  É  Esperança  
+Rua  Martinho  Lutero,  1070E;  São  Cristovão  
+1  Gbps  
+76  CEIM  Criança  Feliz  Rua  Celia  Baso,  320  D,  1  Gbps  
+7  
+
+Loteamento  Cantarelli  -  EFAPI  
+77  CEIM  Cristo  Rei  
+Rua:  Camboriú,  675E  CRISTO  REI  
+1  Gbps  
+78  CEIM  do  Comércio  Rua:  Guaporé  140E  CENTRO  1  Gbps  
+79  CEIM  Eldorado  
+R.  Águas  de  Chapecó,  142  -  Eldorado  
+1  Gbps  
+80  CEIM  Esplanada  
+Rua  São  Leopoldo,  709D;  Esplanada  
+1  Gbps  
+81  CEIM  Expoente  
+Rua:  Antônio  da  Silveira  39  E  Lot.  Expoente  -  PROGRESSO  
+1  Gbps  
+82  CEIM  Iris  Abello  
+Rua  Graciliano  Ramos,  489D;  Jardim  América.  
+1  Gbps  
+83  CEIM  Juninho  
+Rua  Santa  Terezinha  75  E,  Lot  Don  José  Gomes  
+1  Gbps  
+84  CEIM  Leãozinho  Rua  Natal,  49E;  Palmital  1  Gbps  
+85  CEIM  Maria  Da  Luz  Borges  Distrito  de  Mal  Bormann  1  Gbps  
+86  CEIM  Mundo  Encantado  Rua  João  XXIII,  179E;  Saic  1  Gbps  
+87  CEIM  Nossos  Sonhos  
+Rua  Câmara  Junior,  2360E;  Jardim  América  
+1  Gbps  
+88  CEIM  Nova  Era  Rua  Indio  Condá,  660,  Santa  Maria  1  Gbps  
+89  CEIM  Nova  Vida  
+Ruaq  Afonso  Scheffer,  Distrito  de  Mal.  Bormann  
+1  Gbps  
+90  CEIM  Oracilio  Costela  
+Rua  Urapuru  231-  D,  Atras  Abrigo  da  Mulher  -  Efapi  
+1  Gbps  
+91  CEIM  Paraíso  
+Rua  Guaporé,  esq.  Rua  Ivo  Lauro  Sander  
+1  Gbps  
+92  
+CEIM  Parque  Das  Palmeiras  /  Maria  Helena  Alves  Chagas  
+Rua  Mascarenhas  de  Moraes;  Parque  das  Palmeiras  
+1  Gbps  
+93  CEIM  Pequeno  Pensador  Rua  Ateneu,  149E,  Palmital  1  Gbps  
+94  CEIM  Pequeno  Príncipe  
+Rua:  Irlanda,  360  E  PRESIDENTE  MÉDICE  
+1  Gbps  
+95  CEIM  Pequenos  Herois  
+Rua  Quilombo,  611D  Lot.  Colatto;  Efapi  
+1  Gbps  
+96  CEIM  Professora Juliana  Sive  Rua  Patric  Groth,  65D  EFAPI  1  Gbps  
+8  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ Pommerening  
+97  CEIM  Professora  Neusa  Milanesi  
+Rua  João  Batista  ,  140  D,  Bairro  São  Pedro.  
+1  Gbps  
+98  CEIM  Projeto  Minha  Gente  Rua  Alfredo  Wagner,  snº,  Alvorada  1  Gbps  
+99  CEIM  Proteção  
+Rua  Cristaldo  Rodrigues,  132D;  Vila  Real  
+1  Gbps  
+100  CEIM  Sâ  PE  TY  Kó  SI  Linha  Gramadinho  Água  Amarela  1  Gbps  
+101  CEIM  São  Pedro  Rua:  Pará,  2071  D  -  SÃO  PEDRO  1  Gbps  
+102  CEIM  Sede  Figueira  Distrito  de  Sede  Figueira  1  Gbps  
+103  CEIM  Toldo  Chimbangue  
+Distrito  de  Sede  Trentin  -  MEIO  RURAL  
+1  Gbps  
+104  CEIM  Universo  Da  Criança  
+Rua  Juscelino  Kubischek,  120D;  Bela  Vista  
+1  Gbps  
+105  CEIM  Mário  Lanznaster  
+Rua  Silvio  Arlindo  Menta,  162-E  -  Efapi  
+1  Gbps  
+106  CEIM  Valeria  Vieira  Hertz  
+Rua  Ângelo  Sachet,  nº  411  E,  Bairro  Desbravador  
+1  Gbps  
+107  EBM  Alécio  Alexandre  Cella  
+R:  Luiz  Cella,  130  TREVO,  89810-814  
+1  Gbps  
+108  EBM  Água  Amarela  
+Rodovia  Angelo  Baldissera,Linha  Água  Amarela  
+1  Gbps  
+109  EBM  Alípio  José  Da  Rosa  Faxinal  dos  Rosas  -  Sede  1  Gbps  
+110  EBM  André  Antonio  Marafon  Rua  Israel  ,  1850  D,  Esplanada  1  Gbps  
+111  EBM  Anita  Garibaldi  
+Rua  João  Aurélio  Turatti,  742  E,  Pres.  Médice  
+1  Gbps  
+112  EBM  Ascendina  Brasinha  Dias  Linha  Cachoeira,  Goio-ên  1  Gbps  
+113  
+EBM  Cívica  De  Inovação  e  Tecnologia  Eli  Maria  Bellani  
+Servidão  anjo  da  guarda,  295-D,  Setor  E  -  Bloco  E2  -  bairro  Efapi  
+1  Gbps  
+9  
+
+114  EBM  Clara  Urmann  Rosa  
+Rua  Modesto  Baccarin,  295D,  Parque  das  Palmeiras  
+1  Gbps  
+115  EBM  Cruz  E  Sousa  Rua  Madri,  491  E,  Líder  1  Gbps  
+116  
+EBM  Demétrio  Baldissarelli  /  Agrícola  /  Agropecuária  
+Linha  Rondinha  –  Mal.  Bormann  1  Gbps  
+117  
+EBM  Demétrio  Baldissarelli  /  Agrícola  setor  2  /  Agropecuária  
+Linha  Rondinha  –  Mal.  Bormann  1  Gbps  
+118  EBM  Dilso  Cecchin  
+Rua  Pernambuco,  859D,  Santo  Antonio  
+1  Gbps  
+119  EBM  Diogo  Alves  Da  Silva  
+Rua  dos  Pardais,  544E  -  Lot.  Colatto  
+1  Gbps  
+120  
+EBM  Fedelino  Machado  Dos  Santos  
+Rua  Canários,  530D  –  Lot.  Thiago  1  Gbps  
+121  EBM  Florestan  Fernandes  
+Rua  Roma,  1151E  -  Lot.  Santa  Luzia,  Lider  
+1  Gbps  
+122  EBM  Goio-En  Goio-ên  1  Gbps  
+123  EBM  Guido  Mantelli  
+Rua  Vicente  José  Mantelli,  52  E,  Engenho  Braun  
+1  Gbps  
+124  EBM  Herbert  De  Souza  
+Rua  Deputado  Ernesto  José  de  Marco,  965E-  Loteamento  Alta  Floresta  -  EFAPI  
+1  Gbps  
+125  EBM  Jacob  Guizi  
+Rua  Ernesto  Balista,  193,  bairro  Engenho  Brau  -  Atrás  do  GerSadia  
+1  Gbps  
+126  EBM  Jardim  Do  Lago  
+Rua  Paulo  Pasquali,  433D  –  Lot.  Jardim  do  Lago  
+1  Gbps  
+127  
+EBM  Cívica  De  Inovação  e  Tecnologia  João  Baptista  Marques  Torres  Pereira   
+Rua  Ângelo  Sachet,  nº  411-E,  Bairro  Desbravador  
+1  Gbps  
+128  
+EBM  Cívica  De  Inovação  e  Tecnologia  Manira  Terezinha  Clenis  Sarquis  Sartori  
+Rua  Manoel  Rolim  de  Moura,  61  -  D  -  São  Pedro  
+1  Gbps  
+129  EBM  Lajeado  Liso  Baronesa  da  Limeira  1  Gbps  
+130  EBM  Linha  Almeida  Linha  Almeida  1  Gbps  
+131  EBM  Linha  Batistello  Linha  Batistello,  Sede  Figueira  1  Gbps  
+132  EBM  Linha  Campinas  Antiga  EEB  Linha  Campinas,  indo  1  Gbps  
+10  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ para  Residencial  Vilalagos  
+133  EBM  Maria  Bordignon  Destri  Rua  Bom  Jesus  da  Serra,  4600  1  Gbps  
+134  EBM  Miriam  Elena  Meyer  
+Rua  Alfredo  Martins  Morais,  313D,  quedas  do  Palmital  
+1  Gbps  
+135  
+EBM  Neiva  Maria  Andreatta  Costella  
+Rua:  Pres.  Artur  da  Costa  e  Silva,  218  E,  SÃO  CRISTÓVÃO  
+1  Gbps  
+136  EBM  Nova  Aurora  
+Granja  Aurora  –  Marechal  Bormann  
+1  Gbps  
+137  EBM  Olimpio  Correa  Figueiro  
+Rua  João  Francisco  Schneider,  234  D,  Belvedere  
+1  Gbps  
+138  EBM  Padre  José  Anchieta  
+Rua:  Tapajós,  283  D  UNIVERSITÁRIO  
+1  Gbps  
+139  EBM  Professora  Luiza  Santin  
+Rua  Assis  Brasil,  Nº  710  D,  SANTA  MARIA  
+1  Gbps  
+140  
+EBM  Professora  Zélia  Roque  De  Lima  Munzi  
+Rua  Piratuba,  snº,  Alvorada  1  Gbps  
+141  EBM  Realeza  
+Rua  Cristino  Cruz,  151D,  Seminário  
+1  Gbps  
+142  EBM  Rodeio  Bonito  Rodeio  Bonito  1  Gbps  
+143  EBM  Rui  Barbosa  Rua  Brasília,  460D,  Jardim  Italia  1  Gbps  
+144  
+EBM  São  Cristovão  /  Geraldo  Moura  
+Rua  Prudente  de  Morais,  825D  1  Gbps  
+145  EBM  Sereno  Soprana  Rua  Andorinhas,  s/nº  EFAPI  1  Gbps  
+146  EBM  Severiano  Rolin  de  Moura  
+Rua  João  Elói  Mendes,  823D,  Santo  Antonio  
+1  Gbps  
+147  
+EBM  Cívica  De  Inovação  e  Tecnologia  Vila  Real  
+Rua  Emílio  Paludo,  32D,  Vila  Real  1  Gbps  
+148  EBM  Vila  Rica  Rua  Vila  Rica,  snº,  Vila  Rica  1  Gbps  
+149  EBM  Waldemar  Kleinubing  Rua  Carnaúba,  14D,  Boa  vista  1  Gbps  
+11  
+
+150  EBM  Thereza  Gaboardi  Baldissera  
+Rua:  Canário  da  Terra,  108  D  (ao  lado  do  IFSC)  SEMINÁRIO  
+1  Gbps  
+151  
+Escola  Parque  Cidadã  Cyro  Sosnosky  
+Rua  Valdemar  Tormen,  350D,  Lot.  Vale  das  Hortências  
+1  Gbps  
+152  
+Centro  Tecnológico  De  Inovação,  Educação  E  Esporte  Carlos  Alberto  Lima  Da  Silva  -  Betinho  
+Rua  Quatorze  de  Agosto,  1568  D,  Bairro  Esplanada  
+1  Gbps  
+153  
+Centro  Tecnológico  De  Inovação,  Educação  E  Esporte  Casildo  João  Maldaner   
+Rua  Corruíra  1649,  Loteamento  Thiago  -  Bairro  Efapi  
+1  Gbps  
+154  CHAPECÓ  CRIANÇA  Rua  Pará  1585D-Bom  Pastor  1  Gbps  
+155  Reserva  Educação  1  A  definir  /  Sob  demanda  1  Gbps  
+156  Reserva  Educação  2  A  definir  /  Sob  demanda  1  Gbps  
+157  Reserva  Educação  3  A  definir  /  Sob  demanda  1  Gbps  
+158  Reserva  Educação  4  A  definir  /  Sob  demanda  1  Gbps  
+159  Reserva  Educação  5  A  definir  /  Sob  demanda  1  Gbps  
+   
+SECRETARIA  DE  ASSISTÊNCIA  SOCIAL  (Total:  36  Pontos  —  31  definidos  +  5  reservas)
+ 
+Item  Unidade  Endereço  Velocidade  
+160  Secretaria  dos  Conselhos  
+Rua  Nereu  Ramos,  ed.  CPC,  Sala  705  
+1  Gbps  
+161  
+Serviço  de  Convivência  Toldo  Ximbangue  
+Linha  Sede  Trentin  1  Gbps  
+162  
+Serviço  de  Convivência  Aldeia  Condá  
+Linha  Água  Amarela  1  Gbps  
+163  
+Cidade  do  Idoso  /  Saúde  Parque  Efapi  
+Parque  de  Exposições  Valmor  Lunardi  (antigo  parque  Tancredo  Neves)  
+1  Gbps  
+164  
+Abrigo  da  Mulher  /  Casa  Lar  /  Casa  Abrigo  
+Rua  Araras,  260-E;  Bairro  Colina  do  Sol  -  Efapi  
+1  Gbps  
+165  
+Central  de  Doações  /  Resgate  Social  
+Rua  Marechal  Deodoro  da  Fonseca,  562-D,  Centro  
+1  Gbps  
+166  Conselho  Tutelar  Norte  
+Avenida  São  Pedro  esquina  com  Licínio  Córdova  Nº  850  D,  bairro  
+1  Gbps  
+12  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ São  Cristóvão  
+167  Conselho  Tutelar  Sul  
+Rua  Minas  Gerais,  526E  -  Esquina  Quintino  Bocaiuva  
+1  Gbps  
+168  
+Medidas  Socio  Educativas  -  Inovamente  
+Rua  São  Domingos,  120.  Bairro  Líder  
+1  Gbps  
+169  Seasc  Abrigo  Criança  
+Rua  Jardim  Europa,  821-D;  Bairro  Esplanada  
+1  Gbps  
+170  
+Seasc  Banco  de  Alimentos  /  Mercado  Público  
+Rua  John  Kenedy,  207-E;  Bairro  Passo  dos  Fortes  
+1  Gbps  
+171  Seasc  Casa  de  Passagem  
+Rua  Tomé  de  Souza,  São  Cristóvão  -  https://www.google.com/search?q=https://goo.gl/maps/ycgybnppZAt  
+1  Gbps  
+172  
+Seasc  Centro  de  Convivência  do  Idoso  
+Rua  Iguaçu,  230-D;  Bairro  Saic  1  Gbps  
+173  
+Seasc  Centro  Público  /  Mercado  Público  
+Av.  Nereu  Ramos  nº  1750  –  E  Bairro  Passo  dos  Fortes  
+1  Gbps  
+174  Seasc  CEUs/Cultura  Efapi  
+Rua  Eloi  Pereira  de  Souza;  Loteamento  Elias  Gallon;  Bairro  Efapi.  
+1  Gbps  
+175  Seasc  Cras  Bormann  
+Rua  João  Antunes  de  Almeida,  386-D;  Distrito  de  Marechal  Bormann.  
+1  Gbps  
+176  Seasc  Cras  Cristo  Rei  
+Rua  Pouso  Redondo,  269-E;  Bairro  Cristo  Rei  
+1  Gbps  
+177  Seasc  Cras  Efapi  
+Rua  Uru  ,  449-E;  Loteamento  Tiago,  Bairro  Efapi.  
+1  Gbps  
+178  Seasc  Cras  Líder  
+Rua  São  Domingos,  120.  Bairro  Líder  
+1  Gbps  
+179  Seasc  Cras  São  Pedro  
+Rua  João  Anselmo  Santa  Catarina,  697-E;  Bairro  Presidente  Médice.  
+1  Gbps  
+180  Seasc  Cras  Seminário  
+Rua  Nereu  Ramos,  2525  -  D  -  Universitário  
+1  Gbps  
+13  
+
+181  Seasc  Creas  1  Rua  Clevelândia,  540-D;  Centro  1  Gbps  
+182  Seasc  Creas  2  
+Rua  João  Anselmo  Santa  Catarina,  697-E;  Bairro  Presidente  Médice.  
+1  Gbps  
+183  
+Serviço  de  Convivência  /  Sócio  Educativo  Cristo  Rei  
+Rua  Pouso  Redondo,  269-E;  Bairro  Cristo  Rei  
+1  Gbps  
+184  
+Serviço  de  Convivência  Arte  Jovem  Efapi  
+Rua  Uru  ,  449-E;  Loteamento  Tiago,  Bairro  Efapi.  
+1  Gbps  
+185  
+Serviço  de  Convivência  Borman  (antigo  UASE  Arte  Jovem)  
+Rua  Vicente  Cunha,  444-D;  1  Gbps  
+186  
+Serviço  de  Convivência  Passo  dos  Fortes  (antigo  UASE)  Arte  Jovem  
+Rua  São  Domingos,  120.  Bairro  Líder  
+1  Gbps  
+187  
+Serviço  de  Convivência  Santo  Antônio  
+Rua  Thucydides  Paim  Butuhy,  814-E;  Bairro  Santo  Antônio  
+1  Gbps  
+188  
+Serviço  de  Convivência  Seminário  (próximo  ao  CRAS)  (antigo  UASE)  
+Rua  Lions  Club,  nº  555  E;  Bairro  Seminário  
+1  Gbps  
+189  CREAS  I  (novo)  Tv.  Argélia,  59E  -  Maria  Goretti  1  Gbps  
+190  Casa  de  Passagem  (novo)  
+Rua  Marquês  de  Olinda,  100D  –  São  Cristóvão  
+1  Gbps  
+191  Reserva  Assist.  Social  1  A  definir  /  Sob  demanda  1  Gbps  
+192  Reserva  Assist.  Social  2  A  definir  /  Sob  demanda  1  Gbps  
+193  Reserva  Assist.  Social  3  A  definir  /  Sob  demanda  1  Gbps  
+194  Reserva  Assist.  Social  4  A  definir  /  Sob  demanda  1  Gbps  
+195  Reserva  Assist.  Social  5  A  definir  /  Sob  demanda  1  Gbps  
+      
+SECRETARIA  DE  GOVERNO  -  Prédios  Administrativos  (Total:  31  Pontos  —  26  definidos  +  5  reservas)  
+Item  Unidade  Endereço  Velocidade  
+196  
+CPD  Prefeitura  Chapecó/  Link  Principal  MPLS  Dupla  abordagem  
+Rua  Marechal  Floriano  Peixoto  5  Gbps  
+197  Horto  Botânico  Municipal  
+Rua  João  Araldi,  50  -  Atrás  do  Parque  das  Palmeiras  
+1  Gbps  
+198  Secretaria  de  Esporte  
+Complexo  Esportivo  Verdão  -  Rua  São  Pedro  
+1  Gbps  
+14  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ 199  Esporte  Atleta  do  Futuro  Anexo  Ginásio  Ivo  Silveira  1  Gbps  
+200  Usina  de  Asfalto  
+Saída  para  Seara  /  https://www.google.com/search?q=https://goo.gl/maps/1AYWFsPecDE2  
+1  Gbps  
+201  Centro  de  Eventos  Sala  52  segundo  andar  1  Gbps  
+202  
+Agricultura  /  Sedema  /  Meio  Ambiente  -  Mercado  Público  
+Rua  Nereu  Ramos,  1750E,  Passo  dos  Fortes  
+1  Gbps  
+203  Almoxarifado  Central  Rua  São  Domingos,  120  -  Líder  1  Gbps  
+204  Biblioteca  Municipal  
+Rua  Benjamin  Constant,  110  -  Calçadão  
+1  Gbps  
+205  Família  Noel  
+Rua  São  Domingos,  120.  Bairro  Líder  
+1  Gbps  
+206  FAS  
+Rua  Uruguai,  113  D  Centro,  Chapecó  –  SC  
+1  Gbps  
+207  
+Garagem  -  Anexo  ao  Serviços  Urbanos  
+Rua  Sete  de  Setembro,  2063D,  Preseidente  Médici  
+1  Gbps  
+208  Rodoviária  /  Defesa  do  Cidadão  
+R.  Líbano,  111  -  Passo  dos  Fortes,  Chapecó  -  SC,  89805-510  
+1  Gbps  
+209  SASSM  /  SASM  
+Rua:  Rui  Barbosa,  º  429  -  D  -  Santa  Maria  
+1  Gbps  
+210  Serviços  Urbanos  
+Rua  Sete  de  Setembro,  2063D,  Preseidente  Médici  
+1  Gbps  
+211  Museu  Goio-en  
+Rua  Pequin  esquina  com  Assis  Brasil  -  Leno  Ceresa  -  49  98407-8708  
+1  Gbps  
+212  Correios  Bormann  
+Rua  Manuel  Gregório  de  Matos,  31D,  Marechal  Bormann  
+1  Gbps  
+213  Subprefeitura  Efapi  
+Av.  Senador  Atílio  Fontana,  3435-E,  Efapi  
+1  Gbps  
+214  
+Terminal  Urbano  -  Sala  Guarda  Municipal  
+Rua  Clevelandia  S/N  1  Gbps  
+15  
+
+215  Adevosc  
+Rua  Olavo  Dias  de  Castro,  entre  as  ruas  Francisco  Dias  Velho  e  Inglaterra  
+1  Gbps  
+216  Escola  de  Artes  Rua  Nereu  Ramos,  729E  1  Gbps  
+217  Polícia  Militar  -  Batalhão  
+Av  Getúlio  Vargas,  em  frente  ao  Ecoparque  
+1  Gbps  
+218  Policia  Militar  -  Batalhao  -  PPT  
+Rua  John  Kenedy,  atras  do  ecoparque  
+1  Gbps  
+219  Policia  Civil  /  SAER  /  Aeroporto  Hangar  Policia  Civil  Aéroporto  1  Gbps  
+220  
+Sede  da  Prefeitura  Municipal  (Auditório)  
+Av.  Getúlio  Vargas,  957S  –  Centro  1  Gbps  
+221  
+Superintendência  Marechal  Bormann  (novo)  
+Distrito  Bormann  1  Gbps  
+222  Reserva  Governo  1  A  definir  /  Sob  demanda  1  Gbps  
+223  Reserva  Governo  2  A  definir  /  Sob  demanda  1  Gbps  
+224  Reserva  Governo  3  A  definir  /  Sob  demanda  1  Gbps  
+225  Reserva  Governo  4  A  definir  /  Sob  demanda  1  Gbps  
+226  Reserva  Governo  5  A  definir  /  Sob  demanda  1  Gbps  
+ 4.2  Do  prazo  de  Início  da  Prestação  do  Serviço  4.2.1  Lote  1  (Link  Principal  e  Interconexão  MPLS)  e  Lote  2  (Redundância):  O  prazo  máximo  para  
+instalação,
+ 
+configuração
+ 
+e
+ 
+ativação
+ 
+dos
+ 
+links
+ 
+do
+ 
+CPD
+ 
+Central
+ 
+é
+ 
+de
+ 
+até
+ 
+30
+ 
+(trinta)
+ 
+dias
+ 
+corridos
+ 
+contados
+ 
+a
+ 
+partir
+ 
+da
+ 
+emissão
+ 
+da
+ 
+Ordem
+ 
+de
+ 
+Fornecimento.
+ 4.2.2  Lote  1  (Interconexões  MPLS):  O  prazo  máximo  para  a  ativação  total  dos  225  pontos  de  rede  
+é
+ 
+de
+ 
+até
+ 
+90
+ 
+(noventa)
+ 
+dias
+ 
+corridos.
+ 4.2.3  A  contratada  deverá  apresentar  à  fiscalização,  em  até  05  (cinco)  dias  úteis  após  a  assinatura  
+do
+ 
+contrato,
+ 
+um
+ 
+cronograma
+ 
+detalhado
+ 
+de
+ 
+instalação
+ 
+de
+ 
+todas
+ 
+as
+ 
+unidades,
+ 
+garantindo
+ 
+a
+ 
+transição
+ 
+sem
+ 
+interrupção
+ 
+dos
+ 
+serviços
+ 
+atualmente
+ 
+em
+ 
+uso
+ 
+pela
+ 
+Prefeitura.
+  4.3  Da  Vigência  do  Contrato  4.3.1  A  duração  dos  contratos  será  de  12  meses,  prorrogável  por  igual  período,  a  critério  da  
+Administração
+ 
+Municipal,
+ 
+nos
+ 
+termos
+ 
+do
+ 
+art.
+ 
+107,
+ 
+da
+ 
+Lei
+ 
+14.133/2021.
+  4.4  Da  Manutenção  e  Assistência  Técnica   4.4.1  A  contratada  deverá  oferecer  assistência  técnica  local,  com  manutenção  preventiva  e  
+corretiva,
+ 
+incluindo
+ 
+a
+ 
+reposição
+ 
+de
+ 
+peças,
+ 
+permanente
+ 
+e
+ 
+gratuita
+ 
+durante
+ 
+a
+ 
+vigência
+ 
+do
+ 
+Contrato.
+ 
+ 16  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ 4.5.2  Após  o  chamado  técnico,  a  contratada  deverá  oferecer  suporte  técnico  e  manutenção  dos  
+equipamentos,
+ 
+no
+ 
+prazo
+ 
+de
+ 
+2
+ 
+horas.
+ 
+  4.5  Da  Garantia   4.5.1  O  prazo  de  garantia  contratual  dos  serviços  é  aquele  estabelecido  na  Lei  nº  8.078,  de  11  de  
+setembro
+ 
+de
+ 
+1990
+ 
+(Código
+ 
+de
+ 
+Defesa
+ 
+do
+ 
+Consumidor).
+ 4.5.2  A  contratada  deverá  prestar  Seguro-Garantia  no  percentual  de  5%  (cinco  por  cento)  
+sobre
+ 
+o
+ 
+valor
+ 
+do
+ 
+contrato,
+ 
+na
+ 
+forma
+ 
+do
+ 
+artigo
+ 
+96
+ 
+da
+ 
+Lei
+ 
+14.133/2021
+.
+  4.6  Da  Subcontratação  4.6.1  Fica  proibida  subcontratação  da  atividade-fim  e  implementação  de  filtros  de  pacotes  ou  
+cache
+ 
+transparente.  4.7  Das  Obrigações  das  Partes  4.7.1  Das  Obrigações  da  Contratada:  4.7.1.1  Fornecer  e  instalar  (interna  e  externamente)  todo  o  meio  físico  necessário  para  o  perfeito  
+funcionamento
+ 
+dos
+ 
+serviços,
+ 
+incluindo
+ 
+todos
+ 
+os
+ 
+equipamentos
+ 
+para
+ 
+implementar
+ 
+os
+ 
+serviços
+ 
+de
+ 
+comunicação
+ 
+de
+ 
+dados;
+ 
+ 4.7.1.2  Configurar  todas  as  rotas  necessárias  para  o  perfeito  funcionamento  da  rede  contratada,  
+bem
+ 
+como
+ 
+qualquer
+ 
+outra
+ 
+rota
+ 
+que
+ 
+o
+ 
+Município
+ 
+venha
+ 
+a
+ 
+solicitar
+ 
+a
+ 
+qualquer
+ 
+tempo;
+ 4.7.1.3  Prestar  os  serviços  de  suporte  técnico  e  manutenção  dos  equipamentos  e  serviços,  a  fim  
+de
+ 
+garantir
+ 
+a
+ 
+alta
+ 
+disponibilidade
+ 
+e
+ 
+o
+ 
+bom
+ 
+funcionamento
+ 
+dos
+ 
+serviços
+ 
+contratados,
+ 
+colocando
+ 
+a
+ 
+instalação
+ 
+em
+ 
+operação,
+ 
+efetuando
+ 
+os
+ 
+ajustes
+ 
+necessários;
+ 4.7.1.4  Fornecer  os  serviços  conforme  velocidades  contratadas,  especificações  e  condições  deste  
+Termo
+ 
+de
+ 
+Referência;
+ 4.7.1.5  Apresentar  ao  fiscal  do  contrato,  após  a  execução  dos  serviços,  ART  (CREA)  ou  TRT  
+(CFT)
+ 
+devidamente
+ 
+quitada,
+ 
+assinada
+ 
+por
+ 
+profissional
+ 
+habilitado
+ 
+em
+ 
+telecomunicações
+ 
+ou
+ 
+eletrônica
+ 
+e
+ 
+acompanhada
+ 
+da
+ 
+respectiva
+ 
+prova
+ 
+de
+ 
+regularidade
+ 
+profissional.
+ 
+A
+ 
+entrega
+ 
+deste
+ 
+documento
+ 
+é
+ 
+indispensável
+ 
+para
+ 
+a
+ 
+liberação
+ 
+do
+ 
+primeiro
+ 
+pagamento;
+ 4.7.1.6  Garantir  sigilo  e  inviolabilidade  das  informações  que  eventualmente  possa  ter  acesso  
+durante
+ 
+os
+ 
+procedimentos
+ 
+de
+ 
+instalação
+ 
+e
+ 
+manutenção
+ 
+de
+ 
+seus
+ 
+equipamentos,
+ 
+bem
+ 
+como
+ 
+durante
+ 
+a
+ 
+operação
+ 
+dos
+ 
+serviços;
+ 4.7.1.7  Efetuar  testes  de  verificação  de  qualidade  da  conexão,  sempre  que  houver  solicitação  do  
+Município,
+ 
+sem
+ 
+custos
+ 
+adicionais;
+ 17  
+
+4.7.1.8  Responsabilizar-se  pela  administração  da  rede  e  o  monitoramento  de  todos  os  pontos,  
+com
+ 
+acompanhamento
+ 
+diário
+ 
+da
+ 
+equipe
+ 
+de
+ 
+TI
+ 
+da
+ 
+Prefeitura,
+ 
+feitos
+ 
+através
+ 
+de
+ 
+softwares
+ 
+de
+ 
+monitoramento
+ 
+via
+ 
+interface
+ 
+gráfica,
+ 
+estes
+ 
+disponibilizados
+ 
+pela
+ 
+Contratada
+ 
+sem
+ 
+ônus
+ 
+ao
+ 
+Município;
+ 4.7.1.9  Ampliar  ou  reduzir,  sempre  que  solicitado  pelo  Município,  a  velocidade  do  circuito  em  
+qualquer
+ 
+das
+ 
+unidades
+ 
+descritas
+ 
+que
+ 
+integram
+ 
+a
+ 
+prestação
+ 
+dos
+ 
+serviços.
+ 
+A
+ 
+contratada
+ 
+terá
+ 
+um
+ 
+prazo
+ 
+de,
+ 
+no
+ 
+máximo,
+ 
+15
+ 
+dias
+ 
+para
+ 
+efetuar
+ 
+a
+ 
+modificação.
+ 
+O
+ 
+acréscimo
+ 
+ou
+ 
+diminuição
+ 
+do
+ 
+valor
+ 
+será
+ 
+calculado
+ 
+levando
+ 
+em
+ 
+consideração
+ 
+à
+ 
+velocidade
+ 
+de
+ 
+outros
+ 
+circuitos
+ 
+contratados
+ 
+com
+ 
+as
+ 
+mesmas
+ 
+características;
+ 4.7.1.10  Responder  por  quaisquer  prejuízos  causados  ao  patrimônio  do  Município  ou  a  terceiros,  
+por
+ 
+ocasião
+ 
+da
+ 
+prestação
+ 
+dos
+ 
+serviços,
+ 
+procedendo
+ 
+imediatamente
+ 
+os
+ 
+reparos
+ 
+ou
+ 
+indenizações
+ 
+cabíveis
+ 
+e
+ 
+assumindo
+ 
+o
+ 
+ônus
+ 
+decorrente;
+ 4.7.1.11  Participar,  sempre  que  seja  necessário,  de  reuniões  nas  instalações  do  Município,  
+durante
+ 
+todo
+ 
+o
+ 
+período
+ 
+de
+ 
+execução
+ 
+contratual,
+ 
+a
+ 
+fim
+ 
+de
+ 
+decidir
+ 
+aspectos
+ 
+gerenciais
+ 
+e
+ 
+técnicos
+ 
+das
+ 
+implantações,
+ 
+bem
+ 
+como
+ 
+solucionar
+ 
+possíveis
+ 
+problemas
+ 
+de
+ 
+ordem
+ 
+técnica
+ 
+e
+ 
+comercial;
+ 4.7.1.12  Emitir,  sempre  que  solicitado,  relatório  descritivo  de  prestação  de  serviço  de  suporte  
+técnico
+ 
+realizados
+ 
+no
+ 
+período,
+ 
+contendo
+ 
+as
+ 
+informações
+ 
+necessárias
+ 
+para
+ 
+aferição
+ 
+da
+ 
+qualidade
+ 
+dos
+ 
+serviços
+ 
+prestados,
+ 
+incluindo:
+ 
+a)
+ 
+latência;
+ 
+b)
+ 
+perda
+ 
+de
+ 
+pacotes;
+ 
+c)
+ 
+disponibilidade;
+ 
+d)
+ 
+relação
+ 
+de
+ 
+todos
+ 
+os
+ 
+chamados
+ 
+ocorridos
+ 
+no
+ 
+período,
+ 
+incluindo
+ 
+data
+ 
+e
+ 
+hora
+ 
+do
+ 
+início
+ 
+e
+ 
+término
+ 
+do
+ 
+atendimento;
+ 
+identificação
+ 
+do
+ 
+problema;
+ 
+severidades;
+ 
+providências
+ 
+adotadas
+ 
+para
+ 
+o
+ 
+diagnóstico,
+ 
+solução
+ 
+provisória
+ 
+e
+ 
+solução
+ 
+definitiva;
+ 
+data
+ 
+e
+ 
+hora
+ 
+do
+ 
+início
+ 
+e
+ 
+término
+ 
+da
+ 
+solução
+ 
+definitiva;
+ 
+identificação
+ 
+do
+ 
+técnico
+ 
+que
+ 
+solicitou
+ 
+e
+ 
+validou
+ 
+o
+ 
+serviço;
+ 
+identificação
+ 
+do
+ 
+técnico
+ 
+responsável
+ 
+pela
+ 
+execução
+ 
+do
+ 
+serviço,
+ 
+bem
+ 
+como
+ 
+outras
+ 
+informações
+ 
+pertinentes;
+ 
+todas
+ 
+as
+ 
+informações
+ 
+apuradas
+ 
+deverão
+ 
+ser
+ 
+relacionadas
+ 
+ao
+ 
+mês
+ 
+contabilizado;
+ 4.7.1.13  Reparar,  corrigir  ou  refazer,  às  suas  expensas,  no  total  ou  em  parte,  a  instalação  inicial,  
+ou
+ 
+os
+ 
+demais
+ 
+serviços
+ 
+que
+ 
+paralise
+ 
+parcial
+ 
+ou
+ 
+totalmente
+ 
+o
+ 
+tráfego
+ 
+de
+ 
+dados
+ 
+entre
+ 
+as
+ 
+unidades
+ 
+envolvidas,
+ 
+bem
+ 
+como
+ 
+solucionar
+ 
+problemas
+ 
+lógicos
+ 
+de
+ 
+roteamento
+ 
+e
+ 
+configuração
+ 
+da
+ 
+rede,
+ 
+em
+ 
+que
+ 
+se
+ 
+verifiquem
+ 
+vícios,
+ 
+defeitos
+ 
+ou
+ 
+incorreções
+ 
+resultantes
+ 
+de
+ 
+sua
+ 
+execução,
+ 
+no
+ 
+prazo
+ 
+de
+ 
+02
+ 
+(dois)
+ 
+dias
+ 
+após
+ 
+o
+ 
+solicitado
+ 
+pelo
+ 
+Município,
+ 
+durante
+ 
+todo
+ 
+o
+ 
+período
+ 
+da
+ 
+vigência
+ 
+contratual;
+ 4.7.1.14  A  Contratada  será  totalmente  responsável  pela  administração  lógica  da  rede,  
+manutenção,
+ 
+configuração,
+ 
+instalação,
+ 
+roteadores,
+ 
+conectores
+ 
+e
+ 
+demais
+ 
+equipamentos
+ 
+pertinentes
+ 
+durante
+ 
+o
+ 
+período
+ 
+de
+ 
+vigência
+ 
+contratual;
+ 4.7.1.15  Responsabilizar-se  pelo  pagamento  dos  encargos  trabalhistas,  previdenciários,  sociais,  
+pagamento
+ 
+salarial,
+ 
+fiscais
+ 
+e
+ 
+comerciais
+ 
+resultantes
+ 
+da
+ 
+execução
+ 
+deste
+ 
+Contrato;
+ 4.7.1.16  Manter  todos  os  seus  empregados  colocados  a  serviço  na  execução  do  objeto  
+devidamente
+ 
+uniformizados
+ 
+e
+ 
+munidos
+ 
+dos
+ 
+EPI’s
+ 
+adequados,
+ 
+com
+ 
+a
+ 
+identificação
+ 
+da
+ 
+empresa,
+ 
+exigindo
+ 
+dos
+ 
+empregados
+ 
+o
+ 
+uso
+ 
+de
+ 
+todos
+ 
+os
+ 
+equipamentos
+ 
+de
+ 
+segurança
+ 
+recomendados
+ 
+pelas
+ 
+18  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ normas  regulamentares,  quando  for  o  caso,  afastando  do  serviço  aqueles  empregados  que  se  
+negarem
+ 
+a
+ 
+usá-los;
+ 4.7.1.17  Disponibilizar,  para  a  equipe  envolvida  com  a  prestação  dos  serviços,  as  ferramentas,  
+materiais
+ 
+e/ou
+ 
+utensílios
+ 
+necessários
+ 
+à
+ 
+perfeita
+ 
+execução
+ 
+contratual;
+ 4.7.1.18  Armazenar  todas  as  ferramentas,  materiais  e/ou  utensílios  utilizados  na  execução  do  
+objeto,
+ 
+sendo
+ 
+de
+ 
+sua
+ 
+inteira
+ 
+responsabilidade
+ 
+a
+ 
+guarda,
+ 
+conservação
+ 
+e
+ 
+danos
+ 
+que
+ 
+porventura
+ 
+vierem
+ 
+a
+ 
+sofrer;
+ 4.7.1.19  Responsabilizar-se  pelas  despesas  de  locomoção,  diárias,  hospedagem  e  alimentação,  
+quando
+ 
+do
+ 
+deslocamento
+ 
+e
+ 
+permanência
+ 
+no
+ 
+Município
+ 
+para
+ 
+a
+ 
+prestação
+ 
+dos
+ 
+serviços,
+ 
+são
+ 
+de
+ 
+inteira
+ 
+responsabilidade
+ 
+da
+ 
+Contratada;
+ 4.7.1.19  Responsabilizar-se  por  eventuais  danos  decorrentes  de  acidentes  de  veículos  quando  do  
+deslocamento
+ 
+para
+ 
+realização
+ 
+dos
+ 
+trabalhos
+ 
+contratados,
+ 
+sejam
+ 
+eles
+ 
+pessoais,
+ 
+materiais
+ 
+ou
+ 
+morais,
+ 
+inclusive
+ 
+de
+ 
+terceiros,
+ 
+além
+ 
+de
+ 
+notificações
+ 
+por
+ 
+infrações
+ 
+de
+ 
+trânsito;
+ 4.7.1.20  Fornecer,  às  suas  expensas,  os  veículos  para  o  transporte  de  materiais  e  pessoal,  as  
+ferramentas,
+ 
+equipamentos
+ 
+e
+ 
+materiais
+ 
+de
+ 
+consumo
+ 
+de
+ 
+pequeno
+ 
+valor,
+ 
+necessários
+ 
+à
+ 
+execução
+ 
+dos
+ 
+serviços;
+ 4.7.1.21  Permitir  que  os  prepostos  do  MUNICÍPIO  inspecionem  a  qualquer  tempo  e  hora  a  
+execução
+ 
+dos
+ 
+serviços,
+ 
+devendo
+ 
+prestar
+ 
+os
+ 
+esclarecimentos
+ 
+solicitados.
+  4.7.2  Das  Obrigações  do  Município  4.7.2.1  Esclarecer  as  dúvidas  que  lhes  forem  apresentadas;  4.7.2.2  Fiscalizar  a  execução  dos  serviços;  4.7.2.3  Emitir  a  ordem  de  serviço;  4.7.2.4  Cumprir  com  as  condições  de  pagamento;  4.7.2.5  Indicar  os  locais,  com  rol  de  endereços  e  encaminhamento  expresso,  onde  serão  
+instalados
+ 
+os
+ 
+equipamentos
+  4.8  Da  Participação  de  Consórcios  4.8.1  Fica  vedada  a  participação  em  consórcios,  justificada  pela  necessidade  de  responsabilidade  
+única
+ 
+sobre
+ 
+o
+ 
+SLA
+ 
+e
+ 
+infraestrutura.
+ 4.8.2  A  vedação  à  participação  de  empresas  em  consórcio  justifica-se  pela  indivisibilidade  técnica  
+do
+ 
+objeto
+ 
+e
+ 
+pela
+ 
+necessidade
+ 
+de
+ 
+estabelecer
+ 
+uma
+ 
+unidade
+ 
+de
+ 
+responsabilidade.
+ 
+Dado
+ 
+que
+ 
+o
+ 
+serviço
+ 
+de
+ 
+internet
+ 
+exige
+ 
+alta
+ 
+disponibilidade,
+ 
+a
+ 
+fragmentação
+ 
+da
+ 
+execução
+ 
+entre
+ 
+diferentes
+ 
+19  
+
+consorciadas  poderia  comprometer  a  gestão  do  Service  Level  Agreement  (SLA)  e  a  manutenção  
+da
+ 
+infraestrutura
+ 
+física.
+ 
+A
+ 
+centralização
+ 
+em
+ 
+uma
+ 
+única
+ 
+contratada
+ 
+assegura
+ 
+que
+ 
+não
+ 
+haja
+ 
+diluição
+ 
+de
+ 
+responsabilidades
+ 
+em
+ 
+caso
+ 
+de
+ 
+falhas
+ 
+técnicas
+ 
+ou
+ 
+necessidade
+ 
+de
+ 
+suporte
+ 
+emergencial.
+  4.9  Da  Justificativa  Da  Ausência  De  Matriz  De  Risco  4.9.1  A  decisão  pela  não  elaboração  de  uma  matriz  de  riscos  detalhada  fundamenta-se  na  
+natureza
+ 
+comum
+ 
+e
+ 
+padronizada
+ 
+do
+ 
+objeto
+ 
+(serviços
+ 
+de
+ 
+infraestrutura
+ 
+de
+ 
+internet).
+ 
+Considerando
+ 
+que
+ 
+os
+ 
+riscos
+ 
+associados
+ 
+à
+ 
+execução
+ 
+são
+ 
+ordinários
+ 
+e
+ 
+intrínsecos
+ 
+à
+ 
+atividade,
+ 
+entende-se
+ 
+que
+ 
+as
+ 
+obrigações
+ 
+estipuladas
+ 
+no
+ 
+Termo
+ 
+de
+ 
+Referência
+ 
+e
+ 
+na
+ 
+minuta
+ 
+contratual
+ 
+—
+ 
+tais
+ 
+como
+ 
+níveis
+ 
+de
+ 
+serviço
+ 
+(SLA),
+ 
+multas
+ 
+por
+ 
+indisponibilidade
+ 
+e
+ 
+obrigações
+ 
+de
+ 
+manutenção
+ 
+—
+ 
+são
+ 
+suficientes
+ 
+para
+ 
+a
+ 
+mitigação
+ 
+de
+ 
+eventuais
+ 
+intercorrências.
+ 
+Portanto,
+ 
+a
+ 
+alocação
+ 
+de
+ 
+riscos
+ 
+segue
+ 
+a
+ 
+regra
+ 
+geral
+ 
+da
+ 
+responsabilidade
+ 
+civil
+ 
+e
+ 
+contratual,
+ 
+sendo
+ 
+desnecessária
+ 
+uma
+ 
+matriz
+ 
+de
+ 
+riscos
+ 
+extraordinários
+ 
+frente
+ 
+à
+ 
+baixa
+ 
+complexidade
+ 
+da
+ 
+contratação.
+  5.  DO  MODELO  DE  EXECUÇÃO  DO  OBJETO  5.1  O  modelo  de  execução  caracteriza-se  como  uma  entrega  por  empreitada  de  serviço  integral,  
+em
+ 
+que
+ 
+a
+ 
+contratada
+ 
+assume
+ 
+a
+ 
+responsabilidade
+ 
+total
+ 
+pelo
+ 
+ciclo
+ 
+de
+ 
+vida
+ 
+da
+ 
+ 
+conectividade,
+ 
+iniciando
+ 
+pela
+ 
+implantação
+ 
+física
+ 
+(instalação
+ 
+de
+ 
+infraestrutura
+ 
+e
+ 
+ 
+equipamentos),
+ 
+passando
+ 
+pelo
+ 
+fornecimento
+ 
+contínuo
+ 
+do
+ 
+link
+ 
+de
+ 
+dados
+ 
+com
+ 
+garantia
+ 
+de
+ 
+ 
+disponibilidade,
+ 
+e
+ 
+finalizando
+ 
+na
+ 
+assistência
+ 
+técnica
+ 
+permanente,
+ 
+que
+ 
+engloba
+ 
+ 
+manutenções
+ 
+preventivas
+ 
+e
+ 
+corretivas
+ 
+para
+ 
+assegurar
+ 
+que
+ 
+o
+ 
+acesso
+ 
+à
+ 
+internet
+ 
+não
+ 
+sofra
+ 
+ 
+interrupções
+ 
+operacionais.
+ 5.2  Será  obrigação  do  fornecedor  seguir  criteriosamente  os  requisitos  técnicos  da  contratação  
+previstos
+ 
+no
+ 
+tópico
+ 
+4
+ 
+deste
+ 
+Termo
+ 
+de
+ 
+Referência.
+  6.  DO  MODELO  DE  GESTÃO  DO  CONTRATO  6.1  O  contrato  deverá  ser  executado  fielmente  pelas  partes,  de  acordo  com  as  cláusulas  
+avençadas
+ 
+e
+ 
+com
+ 
+as
+ 
+normas
+ 
+da
+ 
+Lei
+ 
+nº
+ 
+14.133,
+ 
+de
+ 
+2021.
+ 6.2  A  execução  do  contrato  deverá  ser  acompanhada  por  fiscal,  legalmente  designado,  que  
+acompanhará
+ 
+o
+ 
+cumprimento
+ 
+das
+ 
+cláusulas
+ 
+estabelecidas,
+ 
+de
+ 
+modo
+ 
+a
+ 
+assegurar
+ 
+os
+ 
+melhores
+ 
+resultados
+ 
+para
+ 
+a
+ 
+Administração.
+ 6.3  O  fiscal  fará  o  gerenciamento  do  contrato  com  a  descrição  do  que  for  necessário  para  a  
+regularização
+ 
+das
+ 
+faltas
+ 
+ou
+ 
+dos
+ 
+defeitos
+ 
+observados.
+ 
+Deverá
+ 
+ainda
+ 
+responsabilizar-se
+ 
+por
+ 
+notificações,
+ 
+relatórios,
+ 
+comunicação
+ 
+de
+ 
+término
+ 
+de
+ 
+prazos,
+ 
+com,
+ 
+no
+ 
+mínimo,
+ 
+30
+ 
+dias
+ 
+de
+ 
+antecedência,
+ 
+assim
+ 
+como
+ 
+providenciar
+ 
+as
+ 
+correções,
+ 
+prestar
+ 
+informações
+ 
+ao
+ 
+gestor
+ 
+e
+ 
+a
+ 
+quem
+ 
+se
+ 
+fizer
+ 
+necessário,
+ 
+bem
+ 
+como
+ 
+adotar
+ 
+medidas
+ 
+para
+ 
+sanar
+ 
+irregularidades.
+ 6.4  Todas  as  atribuições  do  fiscal  de  contrato  deverão  ser  realizadas  com  emissão  de  documentos  
+comprobatórios
+ 
+de
+ 
+que
+ 
+foram
+ 
+executadas.
+ 
+20  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ 6.5  Cabe  ao  fiscal  comunicar  a  empresa  para  que  emita  a  Nota  Fiscal  ou  Fatura,  com  o  valor  
+exato
+ 
+dimensionado
+ 
+pela
+ 
+fiscalização.
+  7.  DOS  CRITÉRIOS  DE  MEDIÇÃO  E  PAGAMENTO  7.1  O  critério  de  medição  será  por  prestação  de  serviço,  mediante  a  conferência  de  pontos  ativos  
+e
+ 
+inativos
+ 
+realizados
+ 
+pelo
+ 
+fiscal
+ 
+de
+ 
+contrato,
+ 
+bem
+ 
+como,
+ 
+realização
+ 
+de
+ 
+testes
+ 
+periódicos
+ 
+de
+ 
+velocidade
+ 
+para
+ 
+aferição
+ 
+de
+ 
+cumprimento
+ 
+do
+ 
+estabelecido
+ 
+no
+ 
+contrato.
+ 7.2  O  pagamento  será  realizado  através  de  ordem  bancária,  para  crédito  em  banco,  agência  e  
+conta-corrente
+ 
+indicada
+ 
+pelo
+ 
+contratado.
+ 
+ 7.3  Poderá  ser  realizada  retenção  ou  glosa  no  pagamento,  proporcional  à  irregularidade  
+verificada.
+  8.  DO  RECEBIMENTO  8.1  Os  serviços  serão  recebidos  pelo  fiscal  do  contrato,  considerando  os  prazos  para  instalação  
+previstos
+ 
+no
+ 
+item
+ 
+4.2,
+ 
+deste
+ 
+Termo
+ 
+de
+ 
+Referência,
+ 
+momento
+ 
+em
+ 
+que
+ 
+serão
+ 
+realizados
+ 
+os
+ 
+testes
+ 
+de
+ 
+velocidade
+ 
+e
+ 
+conferência
+ 
+dos
+ 
+pontos
+ 
+ativos
+ 
+e
+ 
+inativos.
+ 8.2  O  Contratado  fica  obrigado  a  reparar,  corrigir,  remover,  reconstruir  ou  substituir,  às  suas  
+expensas,
+ 
+no
+ 
+todo
+ 
+ou
+ 
+em
+ 
+parte,
+ 
+o
+ 
+objeto
+ 
+em
+ 
+que
+ 
+se
+ 
+verificarem
+ 
+vícios,
+ 
+defeitos
+ 
+ou
+ 
+incorreções
+ 
+resultantes
+ 
+da
+ 
+execução
+ 
+ou
+ 
+materiais
+ 
+empregados,
+ 
+cabendo
+ 
+à
+ 
+fiscalização
+ 
+não
+ 
+atestar
+ 
+a
+ 
+prestação
+ 
+do
+ 
+serviço
+ 
+até
+ 
+que
+ 
+sejam
+ 
+sanadas
+ 
+todas
+ 
+as
+ 
+eventuais
+ 
+pendências
+ 
+que
+ 
+possam
+ 
+vir
+ 
+a
+ 
+ser
+ 
+apontadas
+ 
+pelo
+ 
+fiscal.
+ 8.3  O  recebimento  provisório  ou  definitivo  não  excluirá  a  responsabilidade  civil  pela  solidez  e  pela  
+segurança
+ 
+do
+ 
+serviço
+ 
+nem
+ 
+a
+ 
+responsabilidade
+ 
+ético-profissional
+ 
+pela
+ 
+perfeita
+ 
+execução
+ 
+do
+ 
+contrato.
+ 8.4  Cabe  ao  fiscal  comunicar  a  empresa  para  que  emita  a  Nota  Fiscal  ou  Fatura,  com  o  valor  
+exato
+ 
+dimensionado
+ 
+pela
+ 
+fiscalização.
+  9.  DA  LIQUIDAÇÃO  9.1  Recebida  a  Nota  Fiscal  ou  documento  de  cobrança  equivalente,  o  setor  competente  dará  o  
+correto
+ 
+andamento
+ 
+para
+ 
+a
+ 
+liquidação
+ 
+no
+ 
+prazo
+ 
+máximo
+ 
+de
+ 
+até
+ 
+5
+ 
+(cinco)
+ 
+dias
+ 
+consecutivos.
+ 9.2  Para  fins  de  liquidação,  o  setor  competente  deve  verificar  se  a  Nota  Fiscal  ou  Fatura  
+apresentada
+ 
+expressa
+ 
+os
+ 
+elementos
+ 
+necessários
+ 
+e
+ 
+essenciais
+ 
+do
+ 
+documento.
+ 
+21  
+
+9.3  Havendo  erro  na  apresentação  da  Nota  Fiscal/Fatura,  ou  circunstância  que  impeça  a  
+liquidação
+ 
+da
+ 
+despesa,
+ 
+esta
+ 
+ficará
+ 
+sobrestada
+ 
+até
+ 
+que
+ 
+o
+ 
+contratado
+ 
+providencie
+ 
+as
+ 
+medidas
+ 
+saneadoras,
+ 
+sem
+ 
+ônus
+ 
+à
+ 
+contratante.
+  10.  DO  PRAZO  DE  PAGAMENTO  10.1  O  pagamento  será  efetuado,  no  prazo  máximo,  de  até  30  (trinta)  dias,  contados  da  
+finalização
+ 
+da
+ 
+liquidação
+ 
+da
+ 
+despesa.
+ 10.2  A  mora  ocorrida  entre  a  data  fixada  para  o  pagamento  (vencimento  da  obrigação)  até  o  
+efetivo
+ 
+pagamento,
+ 
+será
+ 
+calculada
+ 
+tomando-se
+ 
+por
+ 
+base
+ 
+a
+ 
+variação
+ 
+do
+ 
+INPC/IBGE
+ 
+ou
+ 
+outro
+ 
+índice
+ 
+que
+ 
+venha
+ 
+a
+ 
+substituí-lo.
+  11.  FORMA  DE  PAGAMENTO   11.1  O  pagamento  será  realizado  através  de  ordem  bancária,  para  crédito  em  banco,  agência  e  
+conta
+ 
+corrente
+ 
+indicados
+ 
+pelo
+ 
+contratado
+ 
+no
+ 
+prazo
+ 
+máximo
+ 
+de
+ 
+30
+ 
+(trinta)
+ 
+dias
+ 
+consecutivos
+ 
+após
+ 
+liquidação
+ 
+da
+ 
+nota
+ 
+fiscal.
+  12.   FORMA  E  CRITÉRIOS  DE  SELEÇÃO  DO  FORNECEDOR  12.1  O  fornecedor  será  selecionado  por  meio  da  realização  de  procedimento  de  LICITAÇÃO,  na  
+modalidade
+ 
+PREGÃO,
+ 
+sob
+ 
+a
+ 
+forma
+ 
+ELETRÔNICA,
+ 
+com
+ 
+critério
+ 
+de
+ 
+julgamento
+ 
+pelo
+ 
+MENOR
+ 
+PREÇO
+ 
+e
+ 
+adjudicação
+ 
+por
+ 
+LOTE.
+ 12.2  JUSTIFICATIVA  DA  ESCOLHA  DO  FORNECEDOR :  A  seleção  de  fornecedores  priorizou  o  
+critério
+ 
+geográfico
+ 
+visando
+ 
+garantir
+ 
+a
+ 
+agilidade
+ 
+no
+ 
+suporte
+ 
+técnico
+ 
+e
+ 
+a
+ 
+eficiência
+ 
+logística,
+ 
+essenciais
+ 
+para
+ 
+a
+ 
+continuidade
+ 
+do
+ 
+serviço
+ 
+de
+ 
+internet.
+ 
+No
+ 
+entanto,
+ 
+embora
+ 
+tenham
+ 
+sido
+ 
+realizadas
+ 
+diversas
+ 
+tentativas
+ 
+de
+ 
+contato
+ 
+com
+ 
+o
+ 
+mercado
+ 
+regional,
+ 
+houve
+ 
+uma
+ 
+baixa
+ 
+adesão
+ 
+em
+ 
+fornecer
+ 
+cotações
+ 
+formais.
+ 
+A
+ 
+proposta
+ 
+obtida
+ 
+reflete,
+ 
+portanto,
+ 
+a
+ 
+realidade
+ 
+do
+ 
+mercado
+ 
+disponível
+ 
+na
+ 
+região
+ 
+que
+ 
+se
+ 
+prontificou
+ 
+a
+ 
+atender
+ 
+aos
+ 
+requisitos
+ 
+do
+ 
+Termo
+ 
+de
+ 
+Referência,
+ 
+não
+ 
+restando
+ 
+alternativa
+ 
+à
+ 
+Administração
+ 
+senão
+ 
+o
+ 
+prosseguimento
+ 
+com
+ 
+base
+ 
+nos
+ 
+dados
+ 
+coletados,
+ 
+prezando
+ 
+pela
+ 
+celeridade
+ 
+do
+ 
+processo.
+  13.  EXIGÊNCIAS  DE  HABILITAÇÃO  13.1  Para  fins  de  habilitação,  deverá  o  licitante  comprovar  os  seguintes  requisitos:  a)  Contrato  social  e  suas  alterações  ou  documento  equivalente;  b)  Cartão  CNPJ;  c)  Prova  de  regularidade  para  com  a  Fazenda  Pública  Federal;  d)  Prova  de  regularidade  para  com  a  Fazenda  Estadual;  e)  Prova  de  regularidade  com  a  Fazenda  Municipal  do  domicílio  ou  sede  do  licitante;  f)  Prova  de  regularidade  junto  ao  FGTS;  
+22  
+  
+ESTADO
+ 
+DE
+ 
+SANTA
+ 
+CATARINA
+ MUNICÍPIO  DE  CHAPECÓ  
+ g)  Prova  de  inexistência  de  débitos  trabalhistas  perante  a  Justiça  do  Trabalho,  através  da  
+apresentação
+ 
+de
+ 
+Certidão
+ 
+Negativa
+ 
+de
+ 
+Débitos
+ 
+Trabalhistas
+ 
+(CNDT).
+   14.  QUALIFICAÇÃO  ECONÔMICO-FINANCEIRA  14.1  Certidão  negativa  de  falência  expedida  pelo  distribuidor  da  sede  do  fornecedor.   14.2  Faz  se  necessário  a  solicitação  desta  certidão  visando  verificar  se  a  empresa  terá  condições  
+de
+ 
+honrar
+ 
+seus
+ 
+contratos.  15.  DA  QUALIFICAÇÃO  TÉCNICA  E  DA  CAPACIDADE  OPERACIONAL  15.1  Para  garantir  a  capacidade  de  execução  do  objeto,  a  licitante  vencedora  deverá  comprovar  
+no
+ 
+ato
+ 
+da
+ 
+habilitação:
+ 15.1.1  Apresentar  um  Atestado  de  Capacidade  Técnica,  emitido  por  pessoa  jurídica  de  direito  
+público
+ 
+ou
+ 
+privado,
+ 
+que
+ 
+comprove(m)
+ 
+que
+ 
+a
+ 
+empresa
+ 
+presta
+ 
+ou
+ 
+prestou
+ 
+serviços
+ 
+de
+ 
+provimento
+ 
+de
+ 
+Links
+ 
+de
+ 
+Internet
+ 
+de
+ 
+Alta
+ 
+Capacidade
+ 
+(mínimo
+ 
+de
+ 
+10
+ 
+Gbps)
+ 
+e
+ 
+interconexão
+ 
+de
+ 
+rede
+ 
+(MPLS)
+ 
+em
+ 
+complexidade
+ 
+e
+ 
+quantitativos
+ 
+compatíveis
+ 
+com
+ 
+o
+ 
+objeto
+ 
+(mínimo
+ 
+de
+ 
+50%
+ 
+dos
+ 
+pontos
+ 
+listados
+ 
+no
+ 
+Lote
+ 
+1).
+ 15.1.2  Apresentar  certidão  de  registro  ou  inscrição  da  empresa  e  de  seu(s)  Responsável(is)  
+Técnico(s)
+ 
+junto
+ 
+ao
+ 
+CREA
+ 
+(Conselho
+ 
+Regional
+ 
+de
+ 
+Engenharia
+ 
+e
+ 
+Agronomia)
+ 
+ou
+ 
+CFT
+ 
+(Conselho
+ 
+Federal
+ 
+dos
+ 
+Técnicos).
+ 15.1.3  Declaração  de  que  possui  Centro  de  Gerência  de  Rede  (NOC  -  Network  Operations  
+Center)
+ 
+próprio,
+ 
+com
+ 
+atendimento
+ 
+e
+ 
+monitoramento
+ 
+proativo
+ 
+em
+ 
+regime
+ 
+24x7x365.
+ 15.1.4  A  contratada  deverá  comprovar  que  possui  equipe  técnica  própria  ou  base  operacional  
+avançada
+ 
+na
+ 
+região,
+ 
+de
+ 
+forma
+ 
+a
+ 
+garantir
+ 
+tecnicamente
+ 
+o
+ 
+cumprimento
+ 
+irrestrito
+ 
+do
+ 
+tempo
+ 
+máximo
+ 
+de
+ 
+restabelecimento
+ 
+(SLA
+ 
+de
+ 
+2
+ 
+horas
+ 
+para
+ 
+hardware
+ 
+e
+ 
+4
+ 
+horas
+ 
+para
+ 
+fibra
+ 
+em
+ 
+Chapecó/SC).
+ 15.1.5  A  licitante  deverá  apresentar  declaração  formal  técnica,  devidamente  assinada  pelo  seu  
+Responsável
+ 
+Técnico
+ 
+(com
+ 
+registro
+ 
+ativo
+ 
+no
+ 
+CREA
+ 
+ou
+ 
+CFT),
+ 
+atestando
+ 
+que
+ 
+possui,
+ 
+acima
+ 
+de
+ 
+80%
+ 
+da
+ 
+infraestrutura
+ 
+de
+ 
+fibra
+ 
+óptica
+ 
+própria
+ 
+necessária
+ 
+no
+ 
+Município
+ 
+de
+ 
+Chapecó
+ 
+para
+ 
+o
+ 
+atendimento
+ 
+pleno
+ 
+das
+ 
+225
+ 
+unidades,
+ 
+sujeita
+ 
+a
+ 
+diligência
+ 
+técnica
+ 
+por
+ 
+parte
+ 
+da
+ 
+Diretoria
+ 
+de
+ 
+Modernização
+ 
+Administrativa
+ 
+antes
+ 
+da
+ 
+homologação
+ 
+do
+ 
+certame.
+ 15.1.6  A  licitante  deverá  apresentar  cópia  do  Ato  de  Autorização  expedido  pela  Agência  Nacional  
+de
+ 
+Telecomunicações
+ 
+(ANATEL)
+ 
+para
+ 
+a
+ 
+prestação
+ 
+do
+ 
+Serviço
+ 
+de
+ 
+Comunicação
+ 
+Multimídia
+ 
+(SCM),
+ 
+comprovando
+ 
+a
+ 
+sua
+ 
+regularidade
+ 
+e
+ 
+capacidade
+ 
+legal
+ 
+para
+ 
+atuar
+ 
+no
+ 
+Município
+ 
+de
+ 
+Chapecó/SC.
+ 
+ 15.1.7  A  licitante  deverá  apresentar  declaração  formal  unificada  atestando  que  cumpre  
+integralmente
+ 
+todos
+ 
+os
+ 
+requisitos
+ 
+de
+ 
+qualificação
+ 
+técnica,
+ 
+capacidade
+ 
+operacional,
+ 
+infraestrutura
+ 
+própria
+ 
+e
+ 
+respeita
+ 
+todas
+ 
+as
+ 
+vedações
+ 
+constantes
+ 
+nesta
+ 
+seção
+ 
+do
+ 
+Termo
+ 
+de
+ 
+Referência.
+ 
+23  
+
+ 16.  DA  LIMITAÇÃO  GEOGRÁFICA  DE  PARTICIPAÇÃO  16.1  A  fornecedora  deverá  comprovar  Base  Operacional  Local  na  região  para  garantir  o  
+restabelecimento
+ 
+de
+ 
+hardware
+ 
+em
+ 
+2
+ 
+horas
+ 
+e
+ 
+fibra
+ 
+em
+ 
+4
+ 
+horas
+ 
+em
+ 
+Chapecó/SC.
+ 
+Esta
+ 
+exigência
+ 
+se
+ 
+justifica
+ 
+pela
+ 
+necessidade
+ 
+de
+ 
+pronto
+ 
+atendimento
+ 
+e
+ 
+manutenção
+ 
+local
+ 
+e
+ 
+poderá
+ 
+ser
+ 
+comprovada
+ 
+por
+ 
+meio
+ 
+de
+ 
+escritura
+ 
+pública
+ 
+ou
+ 
+registro
+ 
+de
+ 
+imóvel,
+ 
+contrato
+ 
+de
+ 
+locação,
+ 
+contrato
+ 
+de
+ 
+comodato,
+ 
+alvará
+ 
+de
+ 
+funcionamento,
+ 
+inscrição
+ 
+imobiliária
+ 
+(IPTU)
+ 
+e
+ 
+licenças
+ 
+ambientais
+ 
+ou
+ 
+sanitárias.
+  17.  ESTIMATIVAS  DO  VALOR  DA  CONTRATAÇÃO  17.1  O  custo  estimado  total  da  contratação  é  de  R$  1.342.860,00  (Um  milhão,  trezentos  e  
+quarenta
+ 
+e
+ 
+dois
+ 
+mil,
+ 
+oitocentos
+ 
+e
+ 
+sessenta
+ 
+reais). 17.2  DA  METODOLOGIA  DE  ORÇAMENTAÇÃO:  A  definição  do  valor  estimado  da  contratação  
+seguiu
+ 
+o
+ 
+rito
+ 
+estabelecido
+ 
+no
+ 
+art.
+ 
+23
+ 
+da
+ 
+Lei
+ 
+nº
+ 
+14.133/2021.
+ 
+Para
+ 
+a
+ 
+composição
+ 
+da
+ 
+memória
+ 
+de
+ 
+cálculo,
+ 
+adotou-se
+ 
+prioritariamente
+ 
+o
+ 
+parâmetro
+ 
+do
+ 
+inciso
+ 
+IV,
+ 
+mediante
+ 
+pesquisa
+ 
+direta
+ 
+com
+ 
+os
+ 
+fornecedores
+ 
+NTI
+ 
+Informática,
+ 
+UNIFIQUE,
+ 
+MHNET
+ 
+E
+ 
+SUPERIP.
+ 
+Ressalte-se
+ 
+que,
+ 
+embora
+ 
+tenha
+ 
+sido
+ 
+tentada
+ 
+a
+ 
+utilização
+ 
+de
+ 
+outros
+ 
+parâmetros,
+ 
+como
+ 
+a
+ 
+consulta
+ 
+a
+ 
+editais
+ 
+de
+ 
+órgãos
+ 
+públicos
+ 
+(inciso
+ 
+II),
+ 
+verificou-se
+ 
+a
+ 
+inexistência
+ 
+de
+ 
+contratações
+ 
+similares
+ 
+que
+ 
+atendessem
+ 
+integralmente
+ 
+às
+ 
+especificidades
+ 
+e
+ 
+ao
+ 
+formato
+ 
+de
+ 
+execução
+ 
+exigidos
+ 
+por
+ 
+esta
+ 
+Administração
+ 
+Municipal,
+ 
+tornando
+ 
+inviável
+ 
+a
+ 
+comparação
+ 
+fidedigna.
+ 
+Por
+ 
+fim,
+ 
+foi
+ 
+utilizado
+ 
+o
+ 
+menor
+ 
+valor
+ 
+obtido
+ 
+para
+ 
+chegar
+ 
+aos
+ 
+valores
+ 
+estimados
+ 
+desta
+ 
+contratação.
+  18.  ADEQUAÇÃO  ORÇAMENTÁRIA  A  contratação  será  atendida  pela  seguinte  dotação:  Fonte  de  Recursos:  15001  –  500  -  Recursos  não  vinculados  de  Impostos  –  1.500.7000  Elemento  de  Despesa:  301  -  3.3.90.00.00  Aplicações  Diretas  A  dotação  relativa  aos  exercícios  financeiros  subsequentes  será  indicada  após  aprovação  da  Lei  
+Orçamentária
+ 
+respectiva
+ 
+e
+ 
+liberação
+ 
+dos
+ 
+créditos
+ 
+correspondentes,
+ 
+mediante
+ 
+apostilamento.
+  Chapecó/SC,  23  de  abril  de  2026.     ___________________________  MASSIMILIANO  PRODAN  DE  POL  Responsável  Técnico  pela  Diretoria  de  Modernização  Administrativa      
+24  

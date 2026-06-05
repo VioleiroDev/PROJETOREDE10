@@ -1,0 +1,2208 @@
+  
+PREGÃO ELETRÔNICO Nº 011/2026 
+PROCESSO LICITATÓRIO Nº 033/2026 
+ 
+PREÂMBULO 
+ 
+O MUNICÍPIO DE BRUSQUE, Estado de Santa Catarina, com sede na Praça das Bandeiras, 77 - Centro 1, inscrito 
+no CNPJ sob o número 83.102.343/0001 -94, através da Secretaria de Administração e Gestão Estratégica , 
+neste ato representada pela Autoridade Competente , na modalidade PREGÃO, na forma  ELETRÔNICA, nos 
+termos da Lei Federal nº 14.133/2021, da Lei Complementar nº 123/2006 e alterações posteriores, Decreto 
+Municipal nº 9.430/2023  e demais legislações aplicáveis e de acordo com as condições fixadas neste 
+instrumento e seus anexos. 
+ 
+1. OBJETO: PRESTAÇÃO DE SERVIÇOS DE SOLUÇÃO IAAS (INFRASTRUCTURE AS A SERVICE) PARA HOSPEDAGEM 
+DOS SITES E SERVIÇOS DA PREFEITURA DE BRUSQUE NA MODALIDADE PAYG CLOUD COMPUTING (PAY-AS-YOU-
+GO CLOUD  COMPUTING) PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE BRUSQUE , 
+conforme especificações e condições estabelecidas no Termo de Referência e demais elementos deste Edital. 
+ 
+1.1. Recebimento das Propostas e Documentos de Habilitação: das 8h:30min do dia 06/05/2026 às 08h:30min 
+do dia 20/05/2026. 
+ 
+1.2. Início da Sessão de Disputa de Preços: às 08h:40min do dia 20/05/2026. 
+ 
+1.3. Impugnações e Esclarecimentos: até o dia 15/05/2026. 
+ 
+1.4. ENDEREÇO : As propostas serão recebidas exclusivamente por meio eletrônico no endereço: 
+<www.portaldecompraspublicas.com.br>. 
+ 
+1.5. Referência de Tempo: Todas as referências de tempo no Edital, no aviso e durante a sessão pública 
+observarão, obrigatoriamente, o horário de Brasília – DF. 
+ 
+1.6. Os trabalhos serão conduzidos por servidor designado, denominado Pregoeiro, mediante a inserção e 
+monitoramento de dados gerados ou transferidos diretamente para a página eletrônica 
+www.portaldecompraspublicas.com.br. O servidor terá, dentre outras, as seguintes atribuições: coordenar o 
+processo licitatório; receber, examinar e decidir as impugnações e consultas ao edital, apoiado pela sua equipe 
+responsável pela sua elaboração; conduzir a sessão pública na internet; verificar a conformidade da proposta 
+com os requisitos estabelecidos neste edital; dirigir a etapa de lances; verificar e julgar as condições de 
+habilitação; receber, examinar e decidir os recursos, encaminhando à autoridade competente quando 
+mantiver sua decisão; indicar o vencedor do certame; conduzir os trabalhos da equipe de apoio; e encaminhar 
+o processo devidamente instruído a autoridade responsável pela adjudicação e propor a homologação. 
+ 
+2. DO CRITÉRIO DE JULGAMENTO, REGIME DE EXECUÇÃO, DO MODO DE DISPUTA E DO ORÇAMENTO 
+ 
+2.1. Critério de Julgamento: MENOR PREÇO POR LOTE (LOTE ÚNICO) 
+ 
+2.2. Regime de execução: Por Preço Unitário 
+ 
+2.3. Modo de disputa: Aberto/Fechado  
+ 
+2.4. Valor Estimado da Contratação: R$ 11.170.256,52 (onze milhões, cento e setenta mil, duzentos e cinquenta 
+e seis reais e cinquenta e dois centavos) (data do orçamento: conforme Pesquisa de Preços). 
+  
+ 
+2.5. Processo requer a apresentação de Amostra e/ou Laudos Técnicos e/ou documentos técnicos: Não. 
+ 
+2.6. Recursos Orçamentários:  As despesas pertinentes ao objeto do presente Edital correrão à conta dos 
+recursos financeiros informados em anexo. 
+ 
+3. DA DISPONIBILIZAÇÃO DO EDITAL E INFORMAÇÕES. 
+ 
+3.1. O Edital estará disponível no site da Prefeitura de Brusque <https://www.brusque.atende.net> , no Portal 
+de Compras Públicas <https://www.portaldecompraspublicas.com.br> e no Portal Nacional de Contratações 
+Públicas - PNCP <https://www.gov.br/pncp/pt-br>. 
+ 
+3.2. As empresas interessadas em participar d este certame, deverão estar atentas às informações 
+disponibilizadas pela Diretoria -Geral de Licitaç ões e Contratos  no site da Prefeitura de Brusque 
+<https://www.brusque.atende.net> e no Portal d e Compras  Públicas 
+<https://www.portaldecompraspublicas.com.br>, a qualquer momento, em virtude de esclarecimentos, 
+erratas ou outras informações relevantes acerca do processo licitatório em curso. 
+ 
+3.3. A Prefeitura Municipal não se responsabilizará pelos editais, suas planilhas, formulários e demais 
+informações, obtidos ou conhecidos de forma ou em local diverso do disposto acima. 
+ 
+3.4. Toda e qualquer alteração que possivelmente ocorrer neste Edital, tais como errata, adendo, suspensão 
+ou revogação, deverá ser consultada pelos pretensos licitantes no endereço eletrônico 
+<www.portaldecompraspublicas.com.br>, bem como, no site da Prefeitura Municipal de Brusque/SC. 
+ 
+4. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO 
+ 
+4.1. A impugnação ao Edital poderá ser feita, por qualquer interessado, até 03 (três) dias úteis antes da data 
+fixada para abertura das propostas, conforme dispõe art. 164 da Lei 14.133/2021, mediante documento 
+formalizado e apresentado exclusivamente por meio do sistema provedor  no endereço eletrônico 
+http://www.portaldecompraspublicas.com.br. 
+4.1.1. Não serão conhecidas as impugnações apresentadas fora do prazo legal, subscritos por representante 
+não habilitado legalmente ou não identificado no processo para responder pelo licitante, e/ou não motivadas. 
+4.1.2. Não serão conhecidas as impugnações efetuadas por meio diverso do que o estabelecido no item 4.1 
+deste edital. 
+ 
+4.2. A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico oficial, no 
+endereço http://www.portaldecompraspublicas.com.br, no prazo de até 3 (três) dias úteis, limitado ao último 
+dia útil anterior à data da abertura do certame e vinculará os participantes e a administração.  
+ 
+4.3. As impugnações não possuem efeito suspensivo, contudo, pode o Pregoeiro atribuir -lhes tal efeito, em 
+caráter excepcional, mediante justificativa nos autos. 
+ 
+4.4. Acolhida a impugnação contra o instrumento convocatório será definida e publicada nova data para a 
+realização do certame.  
+ 
+4.5. O pedido de esclarecimentos referente ao processo licitatório será encaminhado ao Pregoeiro, até 03 (três) 
+dias úteis anteriores à data fixada para abertura da sessão pública, os interessados poderão formular consultas 
+em campo próprio do sistema provedor. 
+ 
+  
+4.6. O Pregoeiro poderá requisitar subsídios formais aos responsáveis pela elaboração do Termo de Referência 
+e orçamento estimado, para fins de resposta aos questionamentos apresentados. 
+ 
+5. CREDENCIAMENTO NO PROVEDOR DO PROCESSO ELETRÔNICO:  
+ 
+5.1. O pregão será realizado em sessão pública, por meio da internet, mediante condições de segurança 
+(criptografia e autenticação) em todas as suas fases. O credenciamento dar -se-á pela atribuição de chave de 
+identificação e de senha, pessoal e intransfer ível, para acesso ao Portal: 
+<http://www.portaldecompraspublicas.com.br>. 
+5.1.1. Para ter acesso ao sistema eletrônico, os interessados deverão dispor de chave de identificação e senha 
+pessoal, obtidas junto ao Portal: <http://www.portaldecompraspublicas.com.br>, também deverão informar-
+se a respeito do seu funcionamento e regulamento e receber instruções detalhadas para sua correta utilização. 
+5.1.2. No caso de participação de empresas em consórcio, o credenciamento e a operação do sistema 
+eletrônico devem ser realizados pela empresa líder do consórcio. 
+ 
+5.2. O credenciamento junto ao provedor do sistema implica a responsabilidade legal do Licitante e a 
+presunção de sua capacidade técnica para realização das transações inerentes ao certame na forma eletrônica. 
+ 
+5.3. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome, assume 
+como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu 
+representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da 
+licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros. 
+ 
+5.4. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no Portal de Compras 
+Públicas e mantê -los atualizados junto aos órgãos responsáveis pela informação, devendo proceder, 
+imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem 
+desatualizados. 
+5.4.1. A não observância do disposto no subitem anterior poderá ensejar desclassificação no momento da 
+habilitação. 
+ 
+5.5. Os licitantes deverão manter suas informações cadastrais atualizadas, junto ao Cadastro Portal Compras 
+Públicas, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer 
+mensagens divulgadas via “CHAT” ou emitidas pelo Sistema junto ao seu endereço eletrônico (e-mail).  
+ 
+5.6. O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva, incluindo qualquer transação 
+efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema, ou ao órgão ou 
+entidade responsável por esta licitação, responsabilidade por eventuais danos decorrentes de uso indevido da 
+senha, ainda que por terceiros. A perda da senha ou a quebra de sigilo deverá ser comunicada imediatamente 
+ao provedor do sistema para imediato bloqueio de acesso. 
+ 
+6. CONDIÇÕES DE PARTICIPAÇÃO:  
+ 
+6.1. Poderá participar desta licitação qualquer pessoa jurídica legalmente estabelecida no País, que atenda às 
+exigências deste Edital e seus Anexos, que esteja devidamente credenciada no Portal de Compras Públicas , 
+munida de chave de identificação e de senha, cujo objeto social seja compatível com o objeto do certame e 
+que satisfaçam as condições deste Edital. 
+ 
+6.2. A pessoa jurídica poderá participar da licitação em consórcio, observadas as regras do art. 15 da Lei nº 
+14.133/2021 e conforme previsão do Termo de Referência.  
+ 
+  
+6.3. Da participação das Microempresas (ME) e Empresas de Pequeno Porte (EPP): 
+6.3.1. Em razão do valor estimado da presente licitação, que supera o limite de R$ 4.800.000,00 (quatro 
+milhões e oitocentos mil reais) — correspondente ao teto de receita bruta anual definidor do enquadramento 
+como Empresa de Pequeno Porte, nos termos do art. 3º, inciso II, da Lei Complementar nº 123/2006 —, não 
+serão concedidos os benefícios e o tratamento jurídico diferenciado previstos nos arts. 42 a 49 da referida Lei 
+Complementar, por configurar hipótese em que tal tratamento não se mostra vantajoso para a Administração 
+Pública ou representa prejuízo ao conjunto e complexo do objeto licitado, nos termos do art. 49, inciso II, da 
+Lei Complementar nº 123/2006. 
+6.3.2. Em consequência, não se aplicam ao presente certame, entre outros: 
+a) o direito de preferência e o critério de desempate favorável às ME/EPP (art. 44 e 45 da LC nº 123/2006); 
+b) a prerrogativa de regularização fiscal e trabalhista superveniente (art. 43 da LC nº 123/2006); 
+c) a reserva de cotas ou exigência de subcontratação compulsória de ME/EPP . 
+6.3.3. Microempresas, Empresas de Pequeno Porte e Microempreendedores Individuais poderão participar do 
+certame em igualdade de condições com os demais licitantes, sem prejuízo das demais normas desta Lei. 
+ 
+6.4. Das vedações. Não poderão participar direta ou indiretamente desta licitação, os interessados que se 
+enquadrarem em uma ou mais das situações a seguir: 
+ 
+6.4.1. Proibidos de participar de licitações e celebrar contratos administrativos, na forma da legislação vigente; 
+6.4.2. Que não atendam às condições deste Edital e seu(s) anexo(s); 
+6.4.3. Estrangeiros que não tenham representação legal no Brasil com poderes expressos para receber citação 
+e responder administrativa ou judicialmente; 
+6.4.4. Que se enquadrem nas vedações previstas nos artigos 9º, §1º e 14 da Lei nº 14.133/2021; 
+6.4.5. Proibidos de participar de licitações e celebrar contratos administrativos, na forma da legislação vigente; 
+6.4.6. Que estejam sob falência, concurso de credores, concordata ou em processo de dissolução ou liquidação; 
+6.4.7. Organizações da Sociedade Civil de Interesse Público - OSCIP , atuando nessa condição (Acórdão nº 
+746/2014-TCU-Plenário); 
+6.4.8. Não explorem ramo de atividade compatível com o Objeto desta Licitação; 
+6.4.9. Será realizada pesquisa junto ao CEIS (CGU), junto ao CNJ (Condenações Cíveis por Atos de Improbidade 
+Administrativa) e no Portal Transparência (www.portaltransparencia.gov.br/cnep), para aferição de eventuais 
+registros impeditivos de participar de Licitações ou de celebrar Contratos com a Administração Pública. 
+ 
+6.5. Nos termos do artigo 112, da Lei Orgânica do Município é vedada ao Prefeito, o Vice -Prefeito, os 
+Vereadores, e os Servidores Municipais, bem como as pessoas ligadas a qualquer deles por matrimonia ou 
+parentesco, afim ou consanguíneo, até o segundo grau, ou por adoção, não poderão contratar com o Município, 
+subsistindo a proibição até 6 (seis) meses após findas as respectivas funções. 
+6.5.1 Para os fins do disposto neste item, considera -se familiar o cônjuge, o companheiro ou o parente em 
+linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau (Súmula Vinculante/STF nº 13). 
+ 
+6.6. É proibida a participação de empresa que já esteja contratada para serviços de assistência a fiscalização e 
+gerenciamento de serviços de engenharia do Município, se o objeto da presente licitação estiver entre os 
+contratos a serem fiscalizados ou gerenciados. 
+ 
+6.7. A participação na presente licitação implica a aceitação plena e irrevogável de todos os termos, cláusulas 
+e condições constantes deste Edital e de seus Anexos, bem como a observância dos preceitos legais e 
+regulamentares em vigor e a responsabilidade  pela fidelidade e legitimidade das informações e dos 
+documentos apresentados em qualquer fase do processo. 
+6.8. A participação dos licitantes será vinculada a contabilização de todos os prazos a partir das publicações no 
+Portal de Compras Públicas, no endereço < http://www.portaldecompraspublicas.com.br>,  que se destina a 
+realização de todo procedimento licitatório desde a publicação do edital até a homologação do resultado. 
+  
+ 
+6.9. Como condição para participação no pregão, a licitante assinalará “sim” ou “não” em campo próprio do 
+sistema eletrônico, relativo às seguintes declarações: 
+ 
+- Declaração Conhecimento do edital: Declaro que estou ciente e concordo com as condições contidas no edital 
+e seus documentos complementares, cumpro plenamente os requisitos de habilitação definidos no edital e 
+que até a presente data inexistem fatos impe ditivos para a minha habilitação, ciente da obrigatoriedade de 
+declarar ocorrências posterior.  
+- Declaração de reserva de cargos:  Declaro cumprir as exigências de reserva de cargos para pessoa com 
+deficiência e para reabilitado da Previdência Social, previstas em lei e em outras normas específicas.  
+- Declaração de proposta econômica: Sob pena de desclassificação, declaro que minhas propostas econômicas 
+compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na 
+Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos 
+termos de ajustamento de conduta vigentes na data de entrega das propostas. 
+- Declaração de Não Emprego de Menores: Declaro para fins do inciso XXXIII do artigo 7° da Constituição 
+Federal, com redação dada pela Emenda Constitucional, nº 20/98, que não emprega menores de dezoito anos 
+em trabalho noturno, perigoso ou insalubre e de que qualquer trabalho a menores de 16 anos.  
+- Declaração de Não -Emprego de trabalho degradante: Declaro não possuir em sua cadeia produtiva, 
+empregados executando trabalho degradante ou forçado, nos termos do inciso III e IV do art.1º e no inciso III 
+do art. 5º da Constituição Federal. 
+- Declaração de Acessibilidade: Declaro que, conforme disposto no art. 93 da Lei nº 8.213, de 24 de julho de 
+1991, estou ciente do cumprimento da reserva de cargos prevista em lei para pessoa com deficiência ou para 
+reabilitado da Previdência Social e que, se aplicado ao número de funcionários da minha empresa, atendo às 
+regras de acessibilidade previstas na legislação. 
+- Declaração de Inexistência de Fato Superveniente: Declaro sob as penas da lei, que até a presente data 
+inexistem fatos impeditivos para sua habilitação no presente processo licitatório, ciente da obrigatoriedade de 
+declarar ocorrências posteriores. 
+ 
+6.10. Nos casos de emissão de declaração falsa, a empresa Licitante estará sujeita à tipificação no crime de 
+falsidade ideológica, prevista no artigo 299 do Código Penal Brasileiro, bem como nos crimes previstos no artigo 
+178 da Lei nº 14.133/2021, além de poder ser punido administrativamente, conforme as sanções previstas no 
+presente Edital. 
+ 
+7. DA DISPUTA E DA CONDUÇÃO DO CERTAME 
+ 
+7.1. Os trabalhos serão conduzidos pelo Pregoeiro, que atuará mediante a inserção e monitoramento de dados 
+gerados ou transferidos no seguinte endereço eletrônico: <http://www.portaldecompraspublicas.com.br>. 
+7.1.2 Todas as referências de tempo do Edital, do Aviso e da Sessão Pública observarão, obrigatoriamente, o 
+horário de Brasília – DF e, dessa forma, serão registradas no sistema eletrônico e na documentação relativa ao 
+certame. 
+ 
+7.2. A operacionalidade do Sistema se fará por meio do Portal: <http://www.portaldecompraspublicas.com.br>, 
+junto ao qual as Licitantes deverão informar -se a respeito do seu funcionamento e regulamento, e receber 
+instruções detalhadas para sua correta utilização. 
+7.2.1. Todos os prazos serão contados a partir das publicações no Portal de Compras Públicas, no endereço 
+<http://www.portaldecompraspublicas.com.br>. 
+7.2.2. O Portal de Compras Públicas se destina a realização de todo procedimento licitatório desde a publicação 
+do edital até a homologação do resultado, no endereço <http://www.portaldecompraspublicas.com.br>. 
+7.2.2.1. A fase externa do pregão, na forma eletrônica, será iniciada com a convocação dos interessados por 
+meio da publicação do aviso do edital no Portal de Compra Públicas, nos veículos oficias e no sítio oficial do 
+  
+município. 
+7.2.2.2. As informações referentes a condução do processo licitatório também poderão ser acompanhadas no 
+site da Prefeitura de Brusque <https://www.brusque.atende.net>. 
+ 
+7.3. A participação na licitação, na forma eletrônica, se dará por meio da digitação da senha pessoal e 
+intransferível do representante credenciado junto ao < http://www.portaldecompraspublicas.com.br>, e 
+subsequente encaminhamento da PROPOSTA, exclusivamente por meio do sistema eletrônico, observados 
+data e horário estabelecidos neste Edital. 
+ 
+7.4. O encaminhamento da PROPOSTA e dos documentos pressupõe o pleno conhecimento e atendimento às 
+exigências de habilitação previstas neste Edital. A Licitante será responsável por todas as transações que forem 
+efetuadas em seu nome no sistema eletrônico assumindo como firmes e verdadeiros sua PROPOSTA e seus 
+lances. 
+ 
+7.5. Caberá ao Licitante acompanhar as operações no sistema eletrônico durante a sessão pública do certame 
+Eletrônico, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de 
+qualquer mensagem emitida pelo sistema eletrônico ou de sua desconexão. 
+ 
+7.6. Se ocorrer a desconexão o Pregoeiro, no decorrer da etapa de lances, e o sistema eletrônico permanecer 
+acessível aos Licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados. 
+ 
+7.7. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão do certame eletrônico 
+será suspensa e terá reinício, com o aproveitamento dos atos anteriormente praticados, somente após 
+comunicação expressa o Pregoeiro, aos participantes, no sítio eletrônico: 
+<http://www.portaldecompraspublicas.com.br>. 
+ 
+7.8. Quando a desconexão representar uma efetiva e irreparável ruptura no certame, ou quando, após uma 
+desconexão superior a 10 minutos, não se retomar, em prazo razoável, o processo de formulação de lances, a 
+sessão do certame eletrônico será definitivame nte interrompida, o que acarretará, consequentemente, a 
+renovação do procedimento, inclusive com nova publicação do aviso. 
+ 
+7.9. No caso de desconexão, cada Licitante deverá de imediato, sob sua inteira responsabilidade, providenciar 
+sua conexão ao sistema eletrônico. 
+ 
+7.10. A abertura da sessão pública deste certame Eletrônico, conduzida pelo Pregoeiro, ocorrerá na data e na 
+hora indicadas no preâmbulo deste Edital, no sítio eletrônico: <http://www.portaldecompraspublicas.com.br>. 
+ 
+7.11. Durante a sessão pública, a comunicação entre o Pregoeiro e os Licitantes ocorrerá exclusivamente 
+mediante troca de mensagens, via Chat, em campo próprio do sistema eletrônico. Não será aceito nenhum 
+outro tipo de contato, como meio telefônico ou e-mail. 
+ 
+7.12. O Pregoeiro, verificará as propostas apresentadas e desclassificará, motivadamente, aquelas que não 
+estejam em conformidade com os requisitos estabelecidos neste Edital. 
+ 
+7.13. Somente os Licitantes com propostas cadastradas participarão da fase de lances. 
+ 
+7.14. A desclassificação da PROPOSTA será sempre fundamentada e registrada no sistema eletrônico, com 
+acompanhamento em tempo real pelas Licitantes. 
+ 
+8. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO 
+  
+ 
+8.1. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o preço, 
+conforme o critério de julgamento adotado neste Edital, até a data e o horário estabelecidos para abertura da 
+sessão pública. 
+8.1.1. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes 
+encaminharão, na forma e no prazo estabelecidos no item anterior, simultaneamente os documentos de 
+habilitação e a proposta com o preço ou o percentual  de desconto, observado o disposto na Cl áusula 12 e 
+seguintes deste Edital. 
+ 
+8.2. O envio da proposta e dos documentos de habilitação exigidos neste Edital, ocorrerá por meio de chave 
+de acesso e senha intransferíveis. 
+ 
+8.3. Até a abertura da sessão pública, os licitantes poderão retirar ou substituir a proposta e os documentos 
+de habilitação anteriormente inseridos no sistema. 
+ 
+8.4. Não será estabelecida, nessa etapa do certame, ordem de classificação entre as propostas apresentadas, 
+o que somente ocorrerá após a realização dos procedimentos de negociação e julgamento da proposta. 
+ 
+8.5.  Os documentos que compõem a proposta e a habilitação do licitante melhor classificado somente serão 
+disponibilizados para avaliação do Pregoeiro e para acesso público após o encerramento do envio de lances. 
+ 
+8.6. Os documentos complementares à proposta e à habilitação, quando necessários à confirmação daqueles 
+exigidos no edital e já apresentados, se houver, serão encaminhados pelo licitante melhor classificado após o 
+encerramento do envio de lances no prazo definido pelo Pregoeiro, de no mínimo 02 (duas) horas, sob pena 
+de inabilitação, podendo ser prorrogado. 
+ 
+8.7. Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante apresentação 
+dos documentos originais não digitais quando houver dúvida em relação à integridade do documento digital. 
+8.7.1. Nestes casos, a licitante deverá encaminhar a documentação original ou a cópia autenticada exigida, no 
+prazo máximo de 03 (três) dias úteis, contados da data da solicitação do Pregoeiro, para a Diretoria-Geral de 
+Licitação e Contratos, localizada no 3º andar, da sede da Prefeitura de Brusque, com na Praça das Bandeiras, 
+n. 77, Centro, Cidade de Brusque/SC, das 8h00min às 12h00min e das às 13h30min às 17h30min. 
+8.7.2. A responsabilidade pelo envio dos documentos, via correio, no prazo previsto neste Edital é da empresa 
+interessada. 
+8.7.3. Havendo necessidade de analisar minuciosamente os documentos exigidos, o Pregoeiro suspenderá a 
+sessão, informando no “chat” a nova data e horário para a continuidade da mesma. 
+ 
+8.8. Será inabilitado o licitante que não comprovar sua habilitação, seja por não apresentar quaisquer dos 
+documentos exigidos, ou apresentá-los em desacordo com o estabelecido neste Edital. 
+ 
+9. DO ENVIO DA PROPOSTA 
+ 
+9.1. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes 
+campos: 
+a) Valor unitário e total (lote e/ou seus itens); 
+b) Descrição detalhada do objeto, conforme Planilha Orçamentária anexo ao Edital. 
+ 
+9.2. Todas as especificações do objeto contidas na proposta vinculam à Contratada. 
+ 
+9.3. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, 
+  
+trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente no fornecimento 
+dos bens ou serviços.  
+9.3.1. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a 
+cotação adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze 
+meses.  
+9.3.2. Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte 
+os percentuais estabelecidos na legislação vigente. 
+ 
+9.4. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva 
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração sob alegação de erro, 
+omissão ou qualquer outro pretexto. 
+ 
+9.5. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua 
+apresentação. 
+ 
+9.6. Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de contratações 
+públicas, quando participarem de licitações públicas. 
+ 
+9.7. No caso de alguma inconsistência no descritivo dos itens entre o Edital e o constante na plataforma 
+eletrônica, deverá ser considerado o descritivo do Edital. 
+ 
+9.8. O descumprimento das regras supramencionadas pela Administração por parte dos contratados pode 
+ensejar a responsabilização pelo Tribunal de Contas da União e, após o devido processo legal, gerar as seguintes 
+consequências: assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos 
+termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes públicos responsáveis e da empresa 
+contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de superfat uramento por 
+sobrepreço na execução do contrato. 
+ 
+9.9. Até a abertura da sessão, o Licitante poderá retirar ou substituir a proposta anteriormente apresentada. 
+ 
+9.10. A apresentação da proposta implicará plena aceitação, por parte do proponente das condições 
+estabelecidas neste Edital e seus anexos, implicando na plena aceitação destas pelo proponente. 
+ 
+9.11. Serão desclassificadas as propostas que não atenderem as exigências do presente edital e seus anexos, 
+que forem omissas ou apresentarem irregularidades insanáveis. 
+ 
+9.12. O menor preço proposto será de exclusiva responsabilidade do Licitante, não lhe assistindo o direito de 
+pleitear qualquer alteração do mesmo, sob a alegação de erro, omissão ou qualquer outro pretexto. 
+ 
+9.13. A omissão de qualquer despesa necessária ao perfeito cumprimento do objeto deste certame será 
+interpretada como não existente ou já incluída no preço, não podendo o Licitante pleitear acréscimo após a 
+abertura da sessão pública. 
+ 
+9.14. Qualquer elemento que possa identificar o Licitante importará na desclassificação da proposta, sem 
+prejuízo das sanções previstas neste Edital. 
+ 
+9.15. As propostas e eventuais anexos ficarão disponíveis no sistema eletrônico. 
+ 
+10. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES 
+ 
+  
+10.1. A partir do horário previsto no quadro resumo, o Pregoeiro realizará a abertura e posterior julgamento 
+das propostas preliminares apresentadas pelos licitantes interessados. 
+ 
+10.2. O Pregoeiro verificará as propostas apresentadas e desclassificará aquelas que não estejam em 
+conformidade com os requisitos estabelecidos no edital. 
+ 
+10.3. A desclassificação da proposta será fundamentada e registrada no sistema, acompanhado, em tempo 
+real, por todos os participantes. 
+ 
+10.4. É defeso ao Pregoeiro proceder à desclassificação de propostas, antes do início da fase competitiva, 
+apresentadas em valor superior ao preço referencial. 
+ 
+10.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio do 
+sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro. 
+ 
+10.6. O lance deverá ser ofertado pelo valor global proposto. 
+ 
+10.7. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e 
+as regras estabelecidas no Edital. 
+ 
+10.8. Durante o transcurso da sessão, os Licitantes terão informações, em tempo real, do valor de menor preço 
+registrado, mantendo-se em sigilo a identificação do ofertante. 
+ 
+10.9. Não poderá haver desistência dos lances ofertados após a abertura da seção, sujeitando -se a Licitante 
+desistente às sanções previstas neste Edital. 
+ 
+10.10. O sistema ordenará automaticamente as propostas classificadas pelo Pregoeiro, segundo a ordem de 
+classificação provisória obtida. 
+ 
+10.11. Somente as propostas classificadas participarão da etapa de envio de lances. 
+ 
+10.12. O sistema disponibilizará campo próprio para envio de mensagens, pelo Pregoeiro, aos licitantes. 
+ 
+1.13. Os licitantes poderão oferecer lances sucessivos, observados o horário fixado para abertura da sessão 
+pública e as regras estabelecidas neste edital. 
+ 
+10.14. O licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e registrado pelo 
+sistema. 
+ 
+10.15. Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado 
+primeiro. 
+ 
+10.16. Será adotado o modo de disputa aberto e fechado, em que os licitantes apresentarão lances públicos e 
+sucessivos, com lance final e fechado. 
+ 
+10.17. No modo de disputa aberto e fechado, haverá intervalo mínimo de diferença de valores que incidirá 
+tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta. 
+ 
+10.18. A etapa competitiva, de envio de lances na sessão pública, durará quinze minutos, improrrogáveis. 
+ 
+  
+10.19. Encerrado o prazo do item 10.18, o sistema encaminhará o aviso de fechamento iminente dos lances e, 
+transcorrido o período de até dez minutos, aleatoriamente determinado, a recepção de lances será 
+automaticamente encerrada. 
+ 
+10.20. Encerrada a sessão dos lances, o sistema abrirá a oportunidade para que o autor da oferta de valor mais 
+baixo e os autores das ofertas com valores até dez por cento superior àquela possam ofertar um lance final e 
+fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo. 
+ 
+10.21. Na ausência de lance final e fechado, poderá haver o reinício da etapa fechada para que os demais 
+licitantes, até o máximo de três, na ordem de classificação, possam ofertar um lance final e fechado em até 
+cinco minutos, que será sigiloso até o encerramento deste prazo. 
+ 
+10.22. Na hipótese de não haver licitante classificado na etapa de lance fechado que atenda às exigências para 
+habilitação, o Pregoeiro poderá, auxiliado pela equipe de apoio, mediante justificativa, admitir o reinício da 
+etapa fechada. 
+ 
+10.23. Na hipótese de o sistema eletrônico desconectar para o Pregoeiro no decorrer da etapa de envio de 
+lances da sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem 
+prejuízo dos atos realizados. 
+ 
+10.24. Quando a desconexão do sistema eletrônico para o Pregoeiro persistir por tempo superior a dez minutos, 
+a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do 
+fato aos participantes, no sítio eletrônico <www.portaldecompraspublicas.com.br>. 
+ 
+10.25. Durante a fase de lances não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele 
+que for recebido e registrado primeiro, salvo na hipótese do último lance fechado. 
+  
+10.26. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta. 
+ 
+10.27. Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte, 
+uma vez encerrada a etapa de lances, o sistema identificará as microempresas e empresas de pequeno porte 
+participantes, procedendo à comparação com os valores da primeira colocada, se esta for empresa de maior 
+porte, assim como das demais classificadas, para o fim de aplicar -se o disposto nos artigos 44 e 45 da LC nº 
+123, de 2006. 
+ 
+10.28. A ordem de apresentação pelos licitantes é utilizada como um dos critérios de classificação, de maneira 
+que só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase 
+fechada do modo de disputa aberto e fechado. 
+ 
+10.29. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no 
+art. 60 da Lei nº 14.133/2021. 
+ 
+10.30. Encerrada a etapa de envio de lances da sessão pública, o Pregoeiro deverá encaminhar, pelo sistema 
+eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja obtida melhor 
+proposta, vedada a negociação em condições diferentes das previstas neste Edital. 
+ 
+10.31. Também nas hipóteses em que o Pregoeiro não aceitar a proposta e passar à subsequente, poderá 
+negociar com o licitante para que seja obtido preço melhor. 
+ 
+10.31.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação inicialmente 
+  
+estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua 
+proposta permanecer inferior ao desconto definido pela Administração. 
+10.31.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes 
+pelo “chat”. 
+10.31.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do processo 
+licitatório. 
+10.31.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, envie a 
+proposta adequada ao último lance ofertado após a negociação realizada, acompanhada, se for o caso, dos 
+documentos complementares, quando necessário s à confirmação daqueles exigidos neste Edital e já 
+apresentados. 
+10.31.5. É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada feita no 
+chat pelo licitante, antes de findo o prazo. 
+ 
+10.32. Após a negociação do preço, o pregoeiro iniciará a fase de aceitação e julgamento da proposta. 
+ 
+11. DA FASE DE JULGAMENTO 
+ 
+11.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em 
+primeiro lugar atende às condições de participação no certame, conforme previsto na Lei nº 14.133/2021 e 
+legislação correlata, especialmente quanto à existência de sanção que impeça a participação no certame ou a 
+futura contratação, mediante a consulta nos cadastros pertinentes, quais sejam: 
+ 
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS); 
+b) Cadastro Nacional de Empresas Punidas (CNEP). 
+ 
+11.2. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário, 
+por força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992. 
+ 
+11.3. Caso conste na consulta a existência de ocorrências impeditivas, o pregoeiro diligenciará para verificar se 
+houve fraude por parte das empresas apontadas.  
+ 
+11.4. Será desclassificada a proposta vencedora que:  
+ 
+a) Contiver vícios insanáveis; 
+b) Não obedecer às especificações técnicas contidas no Termo de Referência; 
+c) Apresentar preços inexequíveis ou permanecerem inferior ao desconto definido pela Administração; 
+d) Não tiverem sua exequibilidade demonstrada, quando exigido pela Administração; 
+e) Apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos, desde que 
+insanável. 
+ 
+11.5. No caso de serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem 
+inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração, conforme disposto no art. 59 
+§4º da Lei 14.133/2021.  
+11.5.1. Nas contratações de serviços de engenharia, será exigida garantia adicional do licitante vencedor cuja 
+proposta for inferior a 85% (oitenta e cinco por cento) do valor orçado pela Administração, equivalente à 
+diferença entre este último e o valor d a proposta, sem prejuízo das demais garantias exigíveis, conforme 
+disposto no art. 59 §5º da Lei 14.133/2021.  
+11.5.2. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de 
+esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove a 
+exequibilidade da proposta. 
+  
+ 
+11.6. A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do pregoeiro, 
+que comprove: 
+a) Que o custo do licitante ultrapassa o valor da proposta; e 
+b) Inexistirem custos de oportunidade capazes de justificar o vulto da oferta. 
+ 
+11.7. Havendo necessidade, o pregoeiro suspenderá a sessão, informando no “chat” a nova data e horário para 
+a continuidade da mesma. 
+ 
+11.8. Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta. A 
+planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração 
+do preço e que se comprove que este é o bastante para arcar com todos os custos da contratação; 
+11.8.1. O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a substância das 
+propostas; 
+11.8.2. Considera-se erro no preenchimento da planilha passível de correção a indicação de recolhimento de 
+impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime. 
+ 
+11.9. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser colhida 
+a manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.  
+ 
+11.10. Caso o Termo de Referência exija a apresentação de amostra, o licitante classificado em primeiro lugar 
+deverá apresentá-la, conforme disciplinado no Termo de Referência, sob pena de não aceitação da proposta. 
+ 
+11.11. Os resultados das avaliações serão divulgados por meio de mensagem no sistema.   
+   
+11.12. No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita pelo 
+Pregoeiro, ou havendo entrega de amostra fora das especificações previstas neste Edital, a proposta do licitante 
+será recusada. 
+ 
+11.13. Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), o Pregoeiro analisará 
+a aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir -se-á com a verificação da(s) 
+amostra(s) e, assim, sucessivamen te, até a verificação de uma que atenda às especificações constantes no 
+Termo de Referência. 
+ 
+11.14. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento 
+favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com este edital. 
+ 
+11.15. Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro 
+examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do 
+preço em relação ao máximo estipulado para contratação neste Edital e em seus anexos. 
+ 
+11.16. Caso atendidas as condições de participação, será iniciado o procedimento de habilitação. 
+ 
+11.17. O pregoeiro convocará o licitante para enviar, digitalmente, a proposta atualizada em conformidade com 
+o último lance ofertado num prazo máximo de 02 ( duas) horas por meio de campo próprio do sistema, 
+juntamente com os documentos de habilitação (Item 12), sob pena de desclassificação. 
+11.17.1. O prazo poderá ser prorrogado, a critério do pregoeiro, desde que solicitado por escrito, antes de 
+findo o prazo estabelecido. 
+ 
+11.18. A proposta deve conter: 
+  
+ 
+a) Nome da proponente e de seu representante legal, endereço completo, telefone, endereço de correio 
+eletrônico, números do CNPJ e da inscrição Estadual e Municipal (se houver); 
+b) O preço unitário e total para cada serviço cotado, especificados no Termo de Referência (Anexo I deste 
+Edital), bem como o valor global da proposta, em moeda corrente nacional, já considerados e inclusos todos 
+os tributos, fretes, tarifas e demais despesas decorrentes da execução do objeto; 
+c) A descrição do produto cotado de forma a demonstrar que atendem as especificações constantes no Termo 
+de Referência, Anexo I deste Edital; 
+d) Indicar a marca/fabricante e modelo, quando exigido no Termo de Referência, Anexo I deste Edital; 
+e) Prazo de validade da proposta não inferior a 60 (sessenta) dias corridos, contados da data prevista para 
+abertura da licitação; 
+f) Conter prazo de entrega do produto, conforme descrito no Anexo I, contados do recebimento da “Nota de 
+Empenho” e/ou quando não houver a formalização do instrumento de contrato; “da ordem de 
+serviço/compra”; 
+g) Indicação do banco, número da conta e agência para fins de pagamento. 
+ 
+11.19. O não envio da proposta ajustada por meio do correio eletrônico com todos os requisitos elencados, 
+juntamente com os documentos de habilitação, ou o descumprimento das diligências determinadas pelo 
+pregoeiro acarretará na desclassificação da proposta, sem prejuízo da instauração de processo sancionatório 
+contra o licitante. 
+ 
+11.20. Em nenhuma hipótese poderá ser alterado o conteúdo da proposta apresentada, seja com relação a 
+prazo e especificações do produto ofertado ou qualquer condição que importe modificação dos seus termos 
+originais, ressalvadas apenas aquelas alterações d estinadas a sanar evidentes erros formais ou quando a 
+alteração representar condições iguais ou superiores às originalmente propostas. 
+ 
+11.22. Se tratando de Lote, a desclassificação de um único item do lote implicará na desclassificação da 
+proposta para todo o lote, ou seja, a proposta somente será aceita se atender aos requisitos para todos os 
+itens que compõem o lote. 
+ 
+11.23. Havendo necessidade, o Pregoeiro suspenderá a sessão, informando no “chat” a nova data e horário 
+para a sua continuidade. 
+ 
+11.24. DO ENCAMINHAMENTO DA PROPOSTA READEQUADA 
+ 
+ATENÇÃO! 
+ 
+11.24.1. Ao final do certame, deverá o licitante vencedor atualizar a proposta com os descontos ofertados de 
+forma homogênea. A Proposta Atualizada com indicação dos quantitativos e dos custos unitários, deverá ser 
+anexada em até uma hora (1h), após o término da sessão de lances e deverá estar assinada pelo representante 
+legal da empresa e por seu responsável técnico. 
+ 
+11.24.2. Será vencedora a empresa que atender aos requisitos do Edital e ofertar o MENOR PREÇO POR LOTE 
+(LOTE ÚNICO) para executar o objeto do contrato. 
+ 
+11.24.3. Poderão ser desclassificadas as propostas de licitantes até a assinatura do contrato, por despacho 
+fundamentado, sem direito a indenização ou ressarcimento e sem prejuízo de outras sanções cabíveis, se tiver 
+conhecimento de fatos supervenientes ou só conhecidos após o julgamento da licitação que desabonem sua 
+idoneidade ou capacidade jurídica, financeira, técnica ou administrativa.  
+ 
+  
+11.24.4. Ultrapassada a fase recursal, será exigido do licitante vencedor a apresentação de proposta comercial 
+definitiva, na forma e prazo previstos neste edital, como condição à adjudicação do objeto licitado. 
+ 
+11.24.5. A Licitante vencedora deverá providenciar a documentação relativa à PROPOSTA DE PREÇO, no prazo 
+estabelecido no item 11.24.1, contados a partir da declaração de vencedor, anexando, na opção “Enviar anexo”, 
+respeitado o limite do sistema eletrônico: <http://www.portaldecompraspublicas.com.br>. 
+ 
+11.24.5.1. Por motivo de força maior, caso o Licitante não consiga enviar a documentação relativa à 
+PROPOSTA DE PREÇO, deverá relatar o problema via e -mail, dentro do prazo estabelecido no item 
+11.24.1, para atendimento.licitacao12@gmail.com, anexando os documentos exigidos que será 
+analisado pelo Pregoeiro. 
+ 
+12. DA FASE DE HABILITAÇÃO 
+ 
+12.1. Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar a 
+capacidade do licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos termos da 
+Lei Federal nº 14.133/2021. 
+ 
+12.1.1. A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico -
+ﬁnanceiro, poderá ser substituída pelo registro cadastral emitido por órgão ou entidade pública, desde que 
+o registro tenha sido feito em obediência a legislação regente.  
+12.1.2. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no registro cadastral 
+da entidade pública e mantê -los atualizados junto aos órgãos responsáveis pela informação, devendo 
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles 
+se tornem desatualizados. 
+12.1.3. A não observância do disposto no item anterior poderá ensejar desclassificação no momento da 
+habilitação.  
+12.1.4. Os documentos apresentados para habilitação deverão estar todos em nome e CNPJ da matriz ou 
+todos em nome e CNPJ da filial, exceto aqueles que comprovadamente só possam ser fornecidos à matriz e 
+referir-se ao local do domicílio ou sede do interessado. 
+12.1.5. As certidões que não apresentarem em seu teor, data de validade previamente estabelecida pelo 
+órgão expedidor, deverão ter sido expedidas até 90 (noventa) dias antes da data da sessão pública deste 
+Pregão. 
+ 
+12.2. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de 
+habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre. 
+12.2.1. Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para fins de 
+assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão 
+traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29 
+de janeiro de 2016, ou de outro que venha a substituí -lo, ou consularizados pelos respectivos consulados ou 
+embaixadas. 
+ 
+12.3. Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando exigida, será 
+feita por meio do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico -
+financeira, quando exigida, será observado o somatório dos valores de cada consorciado. 
+ 
+12.4. Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por cópia 
+autenticada em cartório e/ou por servidor público. 
+ 
+12.5. Os documentos exigidos para fins de habilitação poderão ser substituídos por registro cadastral emitido 
+  
+por órgão ou entidade pública. 
+ 
+12.6. Será verificado se o licitante apresentou declaração de que atende aos requisitos de habilitação, e o 
+declarante responderá pela veracidade das informações prestadas, na forma da lei. 
+ 
+12.7. O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas econômicas 
+compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na 
+Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos 
+termos de ajustamento de conduta vigentes na data de entrega das propostas. 
+ 
+12.8. Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante apresentação 
+dos documentos originais não digitais quando houver dúvida em relação à integridade do documento digital 
+ou quando a lei expressamente o exigir. 
+ 
+12.9.  A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões 
+constitui meio legal de prova, para fins de habilitação. 
+ 
+12.10. Os documentos exigidos para habilitação que não estejam contemplados no registro cadastral deverão 
+ser enviados por meio do sistema, em formato digital, no prazo de 02 (duas) horas , prorrogável por igual 
+período, contado da solicitação do pregoeiro. 
+ 
+12.11.  Os documentos relativos à habilitação e os que constam do Termo de Referência somente serão 
+exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, e apenas do licitante mais 
+bem classificado. 
+ 
+12.12 Após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação 
+de novos documentos, salvo em sede de diligência (art. 64 da Lei Federal nº 14.133/2021): 
+12.12.1. Complementação de informações acerca dos documentos já apresentados pelos licitantes e desde 
+que necessária para apurar fatos existentes à época da abertura do certame; e 
+12.12.2. Atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas. 
+ 
+12.13. Na análise dos documentos de habilitação, o pregoeiro poderá sanar erros ou falhas, que não alterem 
+a substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e 
+acessível a todos, atribuindo-lhes eficácia para fins de habilitação e classificação. 
+ 
+12.14. Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta 
+subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda 
+ao presente edital, observado o prazo disposto no subitem 12.10. 
+ 
+12.15. Somente serão disponibilizados para acesso público os documentos de habilitação do licitante cuja 
+proposta atenda ao edital de licitação, após concluídos os procedimentos de que trata o subitem anterior . 
+ 
+12.16. A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno 
+porte somente será exigida para efeito de contratação, e não como condição para participação na licitação (art. 
+4º do Decreto nº 8.538/2015). 
+ 
+12.17.  Os licitantes que não estiverem cadastrados no sistema de cadastramento a qual esteja vinculado o 
+Município de Brusque deverão apresentar a seguinte documentação relativa à Habilitação Jurídica, à 
+Regularidade Fiscal e Trabalhista, Habilitação Econômico-Financeira e Qualificação Técnica: 
+ 
+  
+12.18. COMPROVAÇÃO DA HABILITAÇÃO JURÍDICA: 
+ 
+I – Inscrição no Registro Público de Empresas Mercantis junto a Junta Comercial da respectiva sede, para o caso 
+de empresário individual; 
+II – Para licitante microempreendedor individual – MEI, Certificado da Condição de Microempreendedor 
+Individual - CCMEI, hipótese em que será realizada a verificação da autenticidade no sítio 
+www.portaldoempreendedor.gov.br; 
+III – Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta Comercial da 
+respectiva sede, acompanhado de documento comprobatório de seus administradores, para os casos de 
+sociedade empresária ou empresa individual de responsabilidade limitada – EIRELI/SLU: 
+IV – Caso o licitante seja sucursal, filial ou agência, inscrição no Registro Público de Empresas Mercantis onde 
+opera, com averbação no Registro onde tem sede a matriz; 
+V – Decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, 
+e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade 
+assim o exigir; 
+ 
+Observação: Os documentos acima deverão estar acompanhados de todas as alterações ou da consolidação 
+respectiva. 
+ 
+12.19. REGULARIDADE FISCAL E TRABALHISTA: 
+ 
+I – Registro no Cadastro Nacional de Pessoa Jurídica – CNPJ; 
+II – Prova de regularidade para com as Fazendas Estadual e Municipal ou Distrital, do domicílio ou sede da 
+licitante; 
+III – Prova de regularidade para com a Fazendas Pública do Município de Brusque, nos termos do art. 119 do 
+Código Tributário Municipal; 
+IV - Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão expedida 
+conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria -Geral da Fazenda 
+Nacional (PGFN), referente a todos os créditos tr ibutários federais e à Dívida Ativa da União (DAU) por elas 
+administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 
+02/10/2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional. 
+V - Certificado de Regularidade perante o FGTS, fornecido pela Caixa Econômica Federal. 
+VI – Certidão de regularidade relativa a débitos inadimplidos perante a Justiça do Trabalho (CNDT), mediante 
+a apresentação de certidão negativa, em plena validade, que poderá ser obtida no site www.tst.jus.br/certidão. 
+ 
+Observação:  
+a) Para a regularidade fiscal e trabalhista, será aceita certidão positiva com efeito de negativa. 
+b) Caso o licitante seja considerado isento de tributos estaduais ou municipais relacionados ao objeto 
+licitatório, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Estadual ou da 
+Fazenda Municipal do domicílio ou sede do fornecedor, ou outra equivalente que demonstre tal isenção. 
+ 
+12.20. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA: 
+ 
+I – Certidão Negativa de Falência, Concordata, Recuperação Judicial ou Extrajudicial, expedida pelo distribuidor 
+da sede da empresa que esteja dentro do prazo de validade expresso na própria Certidão. No caso de praças 
+com mais de um cartório distribuidor, deverão ser apresentadas as certidões de cada um dos distribuidores. 
+ 
+II – Sociedades empresárias em processo de recuperação judicial ou extrajudicial poderão participar deste 
+certame, atendendo à legislação vigente, devendo apresentar o plano de recuperação aprovado/homologado 
+pelo juízo competente quando da entrega da docu mentação de habilitação. Ocorrendo dúvidas quanto à 
+  
+capacidade econômica e financeira da empresa, o pregoeiro ou a equipe de apoio procederão com a devida 
+diligência para assegurar que a situação econômico -financeira da empresa atende aos requisitos do edital e 
+não compromete o cumprimento das obrigações decorrentes do contrato. 
+ 
+III - Balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis  dos 02 
+(dois) últimos exercícios sociais, comprovando, para cada exercício, índices de liquidez geral (lg),  liquidez 
+corrente (lc), e solvência geral (sg) superiores a 1 (um).  Os documentos referidos limitar -se-ão ao último 
+exercício no caso de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos. 
+ 
+IV - Nos termos do art. 15, § 1º, da Lei Federal nº 14.133/2021, quando permitida a participação de empresas 
+reunidas em consórcio, será exigido, para fins de comprovação da habilitação econômico-financeira, acréscimo 
+de 10% (dez por cento) sobre o valor exigid o para o licitante individual, salvo se houver previsão diversa e 
+devidamente justificada no Termo de Referência ou no Estudo Técnico Preliminar. Na ausência de justificativa 
+específica no Termo de Referência que estabeleça percentual distinto, aplicar -se-á automaticamente o 
+percentual mínimo legal de 10% (dez por cento). 
+ 
+12.21. QUALIFICAÇÃO TÉCNICA: 
+ 
+I - Apresentar junto à proposta uma cópia da certificação TIER III nível facility, a ser confirmada se está listada 
+no site do órgão regulador, até a data da licitação. 
+ 
+III - Apresentar junto à proposta a declaração de endereço do local onde está instalado o  datacenter, para 
+comprovar estar situado em território nacional em meio às rotas dos backbones das principais operadoras de 
+telecomunicação em um raio máximo de 200 km da Prefeitura de Brusque. 
+ 
+Observação: 
+a) O fornecedor disponibilizará todas as informações necessárias à comprovação da legitimidade dos 
+documentos. 
+b) O licitante que deixar de entregar documentos ou apresentar documentação falsa exigidos para o certame 
+ficará sujeita a penalidade de impedimento de contratação e de licitar com a União, Estados, Distrito Federal 
+ou Municípios, pelo prazo de até 05 (cinco) anos, sem prejuízo das multas previstas neste edital, contrato e das 
+demais cominações, segundo disposição constante no edital. 
+c) Todos os documentos apresentados para comprovação da infraestrutura e da capacidade técnica deverão 
+estar emitidos em nome da Licitante, com indicação expressa do número de inscrição no Cadastro Nacional da 
+Pessoa Jurídica – CNPJ. 
+d) Caso a Licitante seja a matriz, os documentos deverão obrigatoriamente conter o número do CNPJ da matriz. 
+Se a Licitante for filial, os documentos deverão conter o número do CNPJ da filial, exceto naqueles casos em 
+que, comprovadamente, a natureza do documento justificar sua emissão em nome da matriz. 
+e) O CNPJ constante nos documentos da proposta de preços e da habilitação deverá corresponder exatamente 
+ao estabelecimento que efetivamente executará o fornecimento dos bens e/ou a prestação dos serviços objeto 
+desta licitação. 
+ 
+13. DOS RECURSOS 
+ 
+13.1. A licitante terá o prazo de 3 (três) dias úteis para interpor recurso, no sítio do 
+<http://www.portaldecompraspublicas.com.br>, em conformidade com o que dispõe o art. 165, inc. I da Lei 
+14.133/2021, em face de: 
+a) julgamento das propostas; 
+b) ato de habilitação ou inabilitação de licitante. 
+ 
+  
+13.2. A intenção de recorrer quanto ao disposto na alínea “a” e “b” do item 13.1, deverá ser manifestada 
+imediatamente no encerramento da sessão pública de recebimento das propostas e documentos de 
+habilitação, no prazo máximo de 30 (trinta) minutos, sob p ena de preclusão, sendo concedido o prazo de 03 
+(três) dias úteis para apresentação das razões recursais, a contar do momento da manifestação da licitante de 
+sua irresignação. 
+ 
+13.2.1. A falta de manifestação imediata da licitante importará na preclusão desse direito, ficando o pregoeiro 
+autorizado a adjudicar o objeto à licitante declarada vencedora.  
+13.2.2. Diante da manifestação da intenção de recurso o pregoeiro não adentrará no mérito recursal, mas 
+apenas verificará as condições de admissibilidade do recurso.  
+13.2.3. O Sistema permite, após salvar as informações iniciais e emitir o número de registro do recurso, inserir 
+Anexos antes de fechar a janela. 
+13.2.4. Os recursos registrados no Sistema, constituem meio legal de prova, desde que devidamente 
+assinados, não sendo obrigatório o encaminhamento do original. 
+13.2.5. Não serão conhecidos os recursos apresentados fora do prazo legal. 
+ 
+13.3. O prazo para apresentação de contrarrazões será o mesmo do recurso, qual seja, 3 (três) dias úteis, e, 
+terá início na data da divulgação do ato recorrido no Portal de Compras  Públicas no endereço 
+<http://www.portaldecompraspublicas.com.br>, em consonância com o preceito no §4º do art. 165 da Lei 
+14.133/2021. 
+ 
+13.4. Os recursos deverão ser protocolados EXCLUSIVAMENTE POR MEIO DO SISTEMA PROVEDOR, 
+acompanhada de documentos que comprovem a habilitação do subscritor para agir em nome da recorrente, 
+ficando os demais licitantes, desde logo, intimados para apresentar contrarrazões em igual número de dias e 
+na mesma forma, cujo prazo correrá a partir do término do prazo do recorrente, sendo -lhes assegurada, em 
+qualquer caso, vistas imediatas dos autos. 
+ 
+13.4.1. Não serão conhecidas as manifestações de recurso efetuadas por meio diverso do que o estabelecido 
+no item 13.1 deste edital. 
+ 
+13.5. Caso o pregoeiro decida pelo indeferimento do recurso, a questão será apreciada pela autoridade 
+competente para homologar o resultado final, que poderá ratificar ou não a decisão do pregoeiro antes da 
+adjudicação. 
+ 
+13.5.1. Se o pregoeiro não reconsiderar o ato ou a decisão no prazo de 3 (três) dias úteis, encaminhará o 
+recurso com a sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 
+10 (dez) dias úteis, contado do recebimento d os autos, conforme disposto no art. 165, §2º da Lei nº 
+14.133/2021. 
+ 
+13.6. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que 
+sobrevenha decisão final da autoridade competente. 
+ 
+13.7. Os autos do processo permanecerão com vista franqueada aos interessados no sítio eletrônico: 
+<https://www.brusque.atende.net> e <https://www.portaldecompraspublicas.com.br>. 
+ 
+13.8. Os arquivos eletrônicos com textos das razões e contrarrazões serão baixados do Portal de Compras  
+Públicas e também serão disponibilizados no seguinte endereço eletrônico: 
+<https://www.brusque.atende.net>. 
+ 
+13.9. O acolhimento de recurso importará na invalidação apenas dos atos insuscetíveis de aproveitamento. 
+  
+ 
+13.10. O recurso interposto em desacordo com as condições deste EDITAL e seus ANEXOS não serão 
+conhecidos, inclusive se apresentados fora do prazo legal ou sobre assuntos meramente protelatórios ou 
+quando não justificada a intenção de interpor recurso pelo licitante ou por meio diverso do que o disposto com 
+como condição para conhecimento e apreciação. 
+ 
+13.11. Na contagem dos prazos estabelecidos neste edital e seus anexos, excluir-se-á o dia de início e incluir-
+se-á o do vencimento. 
+ 
+13.12. Quanto ao recurso advindo da extinção do contrato, quando determinada por ato unilateral e escrito 
+da Administração deverá ser observado o regramento constante na Lei nº 14.133/2021. 
+ 
+13.13. Os prazos previstos neste edital e seus anexos iniciam e expiram exclusivamente em dia de expediente 
+no âmbito do Município. 
+ 
+13.14. Conforme preceitua o art. 174, inc. I da Lei nº 14.133/2021, todos os prazos serão computados a partir 
+das publicações no Portal de Compras Públicas, no endereço <http://www.portaldecompraspublicas.com.br>, 
+de forma automática pelo sistema provedor. 
+ 
+14. DA ADJUDICAÇÃO E HOMOLOGAÇÃO: 
+ 
+14.1. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo 
+licitatório será encaminhado à autoridade superior, que poderá: 
+ 
+14.1.1. Determinar o retorno dos autos para saneamento de irregularidades; 
+14.1.2. Revogar a licitação por motivo de conveniência e oportunidade; 
+14.1.3. Proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente 
+ilegalidade insanável; 
+14.1.4. Adjudicar o objeto e homologar a licitação. 
+14.1.5. Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando 
+sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de 
+quem lhes tenha dado causa. 
+14.1.5.1. O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato 
+superveniente devidamente comprovado. 
+14.1.5.2. Nos casos de anulação e revogação, deverá ser assegurada a prévia manifestação dos interessados. 
+14.1.5.3. O disposto no presente tópico será aplicado, no que couber, à contratação direta e aos 
+procedimentos auxiliares da licitação. 
+14.1.6. Encerrada a licitação, o pregoeiro divulgará no site do Município de Brusque os atos de adjudicação do 
+objeto, de homologação do certame. 
+14.1.7. A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento 
+equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação 
+assumida e o sujeitará às penalidades legalm ente estabelecidas e multa de 5% (cinco por cento) do valor da 
+sua proposta em favor do Município. 
+14.1.8. Será facultado à Administração Pública, quando o convocado não assinar o termo de contrato ou não 
+aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes 
+remanescentes, na ordem de classificaç ão, para a celebração do contrato nas condições propostas pelo 
+licitante vencedor. 
+14.1.9. Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do subitem acima, a 
+Administração Pública poderá convocar os licitantes remanescentes, observados o valor estimado e sua 
+eventual atualização nos termos do edital: 
+  
+I - Convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de 
+preço melhor, mesmo que acima do preço do adjudicatário; 
+II - Adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem 
+classificatória, quando frustrada a negociação de melhor condição. 
+ 
+15. DA REABERTURA DA SESSÃO PÚBLICA. 
+ 
+15.1. A sessão pública poderá ser reaberta: 
+ 
+a) Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores à realização da sessão 
+pública precedente ou em que seja anulada a própria sessão pública, situação em que serão repetidos os atos 
+anulados e os que dele dependam. 
+ 
+b) Quando houver erro na aceitação do preço melhor classificado ou quando o licitante declarado vencedor 
+não assinar o contrato, não retirar o instrumento equivalente ou não comprovar a regularização fiscal e 
+trabalhista, nos termos do art. 43, §1º da LC nº 123/2006. Nessas hipóteses, serão adotados os procedimentos 
+imediatamente posteriores ao encerramento da etapa de lances.  
+ 
+15.2. Todos os licitantes remanescentes deverão ser convocados para acompanhar a sessão reaberta. 
+ 
+15.3. A convocação se dará por meio do sistema eletrônico (“chat”), ou e -mail, ou de acordo com a fase do 
+procedimento licitatório. 
+ 
+15.4. A convocação feita por e -mail dar -se-á de acordo com os dados contidos no cadastro do Portal de 
+Compras Públicas, sendo responsabilidade do licitante manter seus dados cadastrais atualizados. 
+ 
+16. DO TERMO DE CONTRATO OU INSTRUMENTO EQUIVALENTE: 
+ 
+16.1. Após a homologação da licitação, a licitante vencedora será convocada para assinar o contrato. 
+ 
+16.2. O prazo de vigência e as condições de reequilíbrio e/ou revisão de preços, observarão as cláusulas 
+contratuais ou as disposições constantes de instrumento equivalente. 
+ 
+16.3. O contrato será disponibilizado por e-mail e/ou aplicativo de WhatsApp ou outro meio eletrônico oficial, 
+para ser assinado eletronicamente, mediante certificado digital emitido em âmbito da Infraestrutura de Chaves 
+Públicas Brasileira (ICP-Brasil) ou via assinador Gov.Br, no prazo de até 03 (três) dias, sob pena de aplicação de 
+penalidades. 
+ 
+16.3.1. O contrato deverá, preferencialmente, ser assinado eletronicamente pela empresa Contratada  nos 
+termos do Decreto Municipal n. 9.549, de 01 de agosto de 20231. 
+16.3.2. O prazo de que trata o subitem 16.3. poderá ser prorrogada uma única vez, por igual período, quando 
+solicitado pela adjudicatária durante o seu transcurso, desde que a justificativa seja aceita pela Prefeitura 
+Municipal. 
+16.3.3. A recusa injustificada do licitante vencedor em assinar o contrato, aceitar ou retirar o instrumento 
+equivalente, dentro do prazo estabelecido no edital, permitirá a convocação dos licitantes que aceitarem 
+executar os serviços com preços iguais aos d o licitante vencedor, seguindo a ordem de classificação, sem 
+prejuízo da aplicação das penalidades previstas em lei e no edital da licitação. 
+ 
+1  Dispõe sobre o uso de assinatura eletrônica no âmbito dos atos e processos administrativos do Município Brusque e dá outras p rovidências. 
+ 
+  
+16.3.4. A recusa injustificada, ou cuja justificativa não seja aceita pelo órgão gerenciador, implicará na 
+instauração de procedimento administrativo autônomo para, após garantidos o contraditório e a ampla 
+defesa, eventual aplicação de penalidades administrativas. 
+ 
+16.4. Por ocasião da assinatura do contrato, a empresa deverá manter as condições de habilitação consignadas 
+neste Edital, as quais deverão, também, ser mantidas pelo licitante durante a vigência do contrato. 
+ 
+16.5. O contrato estabelecerá as hipóteses, prazo e condições de pagamento, prestação das garantias, 
+obrigações das partes contratantes, dentre outras obrigações. 
+ 
+16.6. O presente Edital fará parte integrante do contrato, bem como seus anexos e a proposta apresentada 
+pela licitante vencedora. 
+ 
+16.7. Será designado, pelo menos,  um Fiscal para o contrato que desempenhará as atribuições previstas no 
+Decreto Municipal e na legislação aplicável. 
+ 
+16.8. Subcontratação: Não é admitida a subcontratação do objeto contratual. 
+ 
+16.9. As licitantes reconhecem, desde já, que a assinatura do contrato, ou retirada(s) da(s) nota(s) de empenho 
+emitidas (ou documento equivalente), representam compromisso entre as partes, submetendo -as ao 
+cumprimento do objeto licitado, nos prazos e condições constantes neste Edital e na legislação vigente. 
+ 
+16.10. A contratada deverá prestar garantia de execução contratual, nos termos do art. 96 e seguintes da Lei 
+Federal nº 14.133/2021, em uma das modalidades legalmente admitidas. 
+ 
+16.10.1. Na hipótese de a contratada optar pela modalidade seguro -garantia, nos termos do inciso II do § 1º  
+do art. 96 da Lei nº 14.133/2021, o prazo para apresentação da apólice será de, no mínimo, 1 (um) mês, 
+contado da data de homologação da licitação, devendo sua comprovação ocorrer antes da assinatura do 
+contrato, sob pena de decair do direito à contratação, sem prejuízo das sanções cabíveis, conforme disposição 
+do §3º do art. 96 mencionado. 
+ 
+16.10.2. Caso a contratada opte por modalidade diversa do seguro-garantia, a garantia deverá ser prestada no 
+prazo de até 10 (dez) dias, contados da data de assinatura do contrato, na forma estipulada pelo Termo de 
+Referência. 
+ 
+16.10.3. O não cumprimento dos prazos estabelecidos para apresentação da garantia implicará a aplicação das 
+penalidades previstas neste Edital e na legislação vigente, podendo ensejar a convocação dos licitantes 
+remanescentes, observada a ordem de classificação. 
+10.3.4. Os prazos para apresentação da garantia poderão, excepcionalmente, ser prorrogados, mediante 
+solicitação formal e devidamente justificada pela contratada, desde que apresentada antes do término do 
+prazo originalmente fixado e desde que haja decisão express a e motivada da Administração autorizando a 
+prorrogação. 
+ 
+10.3.5. A eventual prorrogação não afasta a obrigação de prestação integral da garantia nem constitui direito 
+subjetivo da contratada, ficando condicionada à análise de conveniência e oportunidade pela Administração. 
+ 
+17. DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS 
+ 
+17.1. Com fundamento no artigo 156 da Lei n. 14.133/2021, cumulativamente ou não com multa aplicada em 
+  
+razão de qualquer das infrações administrativas previstas no artigo 155 da Lei n. 14.133/2021, a licitante: 
+17.1.1. Ficará impedida de licitar e contratar no âmbito da Administração Pública direta e indireta do Município 
+de Brusque, pelo prazo de até 3 (três) anos, quando praticar as seguintes infrações e não se justificar a 
+imposição de penalidade mais grave: 
+ 
+a) Deixar de entregar a documentação exigida para o certame; 
+b) Não mantiver a proposta, salvo em decorrência de fato superveniente devidamente justificado; 
+c) Não celebrar o contrato ou não entregar a documentação exigida para a contratação, nos prazos 
+estabelecidos, quando convocado dentro do prazo de validade de sua proposta; 
+d) Praticar ato lesivo previsto no art. 5º da Lei n. 12.846/2013; 
+ 
+17.1.2. Será declarada inidônea para licitar e contratar no âmbito da Administração Pública direta e indireta de 
+todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos, quando praticar as 
+seguintes infrações: 
+ 
+a) Aquelas previstas para a sanção de impedimento de licitar e contratar com o Município de Brusque, quando 
+se justificar imposição de penalidade mais grave; 
+b) Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a 
+licitação; 
+c) Fraudar a licitação; 
+d) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza. Reputar -se-ão inidôneos atos 
+como os descritos no Capítulo II-B do Título XI da Parte Especial do Código Penal (Decreto-Lei n. 2.848/1940); 
+e) Praticar atos ilícitos com vistas a frustrar os objetivos da licitação. 
+ 
+17.2. A aplicação das sanções será precedida de regular instrução de processo de responsabilização, 
+constituído e conduzido em observância às regras dispostas nos arts. 157 a 161 da Lei n. 14.133/2021 bem 
+como ao disposto, no que couber do Decreto nº 9.430/2023, assegurados o contraditório e a ampla defesa. 
+ 
+17.3. Na hipótese de abertura de processo administrativo destinado à apuração dos fatos e, se for o caso, 
+aplicação de sanção à licitante, em decorrência de conduta vedada neste Pregão, as comunicações à licitante 
+serão efetuadas por meio do endereço de corre io eletrônico (e -mail) cadastrado no credenciamento da 
+empresa junto ao sistema eletrônico. 
+17.3.1. A licitante deverá manter atualizado o endereço de correio eletrônico (e -mail) cadastrado junto ao 
+sistema eletrônico e confirmar o recebimento de mensagens provenientes do Município de Brusque, não 
+podendo alegar o desconhecimento do recebimento das comunicações por este meio como justificativa para 
+se eximir das responsabilidades assumidas ou eventuais sanções aplicadas. 
+ 
+18.  DISPOSIÇÕES FINAIS 
+ 
+18.1. Interessados poderão adquirir cópia do Edital somente via download do arquivo através do Portal 
+Eletrônico http://www.portaldecompraspublicas.com.br e do site oficial da Prefeitura de Brusque 
+https://brusque.atende.net – link consulta de licitações. 
+ 
+18.2. As atas serão geradas eletronicamente após o encerramento da sessão pelo Pregoeiro. 
+ 
+18.3. A licitante deverá examinar detidamente as disposições contidas neste Edital e seus anexos, pois a simples 
+apresentação da proposta submete a licitante à aceitação incondicional de seus termos, independente de 
+transcrição, bem como representa o conhecimento do objeto em licitação, não sendo aceita alegação de 
+desconhecimento de qualquer pormenor. 
+18.3.1. No caso de eventual divergência entre o Edital de Licitação e seus anexos, prevalecerão as disposições 
+  
+do primeiro.  
+ 
+18.4. A licitante é responsável pela fidelidade e legitimidade das informações prestadas e dos documentos 
+apresentados em qualquer fase da licitação. A falsidade de qualquer documento apresentado ou a inverdade 
+das informações nele contidas implicará a imedia ta desclassificação da licitante que o tiver apresentado, ou, 
+caso tenha sido a adjudicatária, a rescisão do instrumento contratual, sem prejuízos das demais sanções 
+cabíveis.  
+ 
+18.5. A Administração Pública reserva a si o direito de revogar a presente licitação por razões de interesse 
+público ou anulá-la, no todo ou em parte por vício ou ilegalidade, bem como adiar sine die ou prorrogar o prazo 
+para recebimento e/ou abertura da proposta ou da documentação de habilitação , desclassificar qualquer 
+proposta ou desqualificar qualquer licitante, caso tome conhecimento de fato que afete a capacidade 
+financeira, técnica ou comercial da licitante, sem que isto gere direito à indenização ou ressarcimento de 
+qualquer natureza.  
+ 
+18.6. É facultada ao pregoeiro, ou autoridade superior, em qualquer fase desta Licitação, a promoção de 
+diligência destinada a esclarecer ou complementar a instrução do processo, vedada a inclusão posterior de 
+documento ou informação que deveria constar origi nalmente, conforme disposto na Lei Federal nº 
+14.133/2021. 
+ 
+18.7. Na hipótese de não conclusão do processo licitatório dentro do prazo de validade da proposta, poderá a 
+licitante, revalidar, por igual período, o documento, sob pena de ser declarada desistente do feito licitatório.  
+ 
+18.8. A CONTRATADA obriga-se a manter, durante toda a execução do contrato, em compatibilidade com as 
+obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação. 
+ 
+18.9. A simples participação neste certame licitatório importa na aceitação, sem ressalvas e objeções, por parte 
+de todas as empresas licitantes, das disposições contidas neste Edital e seus anexos, dos quais os mesmos 
+atestam, pela participação, terem pleno conhecimento. 
+ 
+18.10. Na hipótese de não conclusão do processo licitatório dentro do prazo de validade da proposta, deverá 
+a licitante, independente de comunicação formal da Prefeitura Municipal, revalidar, por igual período, o 
+documento, sob pena de ser declarada desistente do feito licitatório. 
+ 
+18.11. Fica constituído como obrigação das empresas participantes, o acompanhamento das publicações 
+contidas no Diário Oficial dos Municípios de Santa Catarina (DOM) e através dos sítios: 
+https://www.brusque.atende.net e https://www.portaldecompraspublicas.com.br. 
+ 
+18.12. As decisões referentes a este processo licitatório serão publicadas no Diário Oficial dos Munícipios de 
+Santa Catarina (DOM). As edições do jornal são disponibilizadas no site:  
+https://www.diariomunicipal.sc.gov.br/site/, bem como no site da prefeitura de Brusque: 
+https://brusque.atende.net – link DOM. 
+ 
+18.13. Informações sobre o andamento da licitação poderão ser obtidas junto ao pregoeiro, nos dias úteis, das 
+08h00min às 12h00min e das 13h30min às 17h30min ou pelo e -mail: atendimento.licitacao12@gmail.com. 
+Ainda, poderão ser acompanhadas as fases através do Portal Eletrônico 
+http://www.portaldecompraspublicas.com.br. 
+ 
+18.14. Os casos omissos neste edital serão analisados e resolvidos pela aplicação de normas pertinentes às 
+licitações e contratos, Lei Federal nº 14.133/2021 e ulteriores alterações, através do pregoeiro, eventualmente 
+  
+ouvidos os órgãos técnicos e especializados, as decisões do pregoeiro serão ratificadas pela autoridade 
+superior. 
+ 
+18.15. Objetivando garantir o acesso às informações, bem como a transparência dos atos públicos, todas as 
+informações constantes no edital, bem como no contrato a ser firmado com as empresas que serão 
+contratadas, assim como os demais atos inerentes, são públicos e são instrumentos de transparência da gestão 
+fiscal e serão submetidos a ampla divulgação em observância aos dispostos na Lei 12.527/2011 (acesso a 
+informações) e na Lei geral de Proteção de Dados Pessoais (LGPD n. 13.709/2018), bem como nos artigos 48 e 
+58, ambos da Lei de Responsabilidade Fiscal n. 101/2000, na Lei da Transparência n. 131/2009. 
+ 
+18.16. Fazem parte integrante deste Edital: 
+ 
+Anexo I - Estudo Técnico Preliminar e Termo de Referência; 
+Anexo II- Modelo de Proposta; 
+Anexo III- Minuta de Contrato; 
+Anexo IV - Declaração Cumprimento Requisitos de Habilitação e Inexistência de Fatos Impeditivos de 
+Habilitação; 
+Anexo V - Dotação Orçamentária; 
+Anexo VI  - Declaração de Endereço Eletrônico e Demais Meios de Contato; 
+Anexo VII - Modelo de Declaração de Dados Bancários. 
+ 
+18.17. O foro designado para julgamento de quaisquer questões judiciais resultantes deste Edital será o local 
+da realização do certame, ou seja, foro da Comarca de Brusque (SC). 
+ 
+Datado e assinado digitalmente. 
+ 
+ 
+ 
+ 
+ALLAN DOS SANTOS COSTA 
+DIRETOR-GERAL DE ADMINISTRAÇÃO 
+SECRETARIA DE ADMINISTRAÇÃO E GESTÃO ESTRATÉGICA   
+ORDENADOR DE DESPESA 
+ 
+ 
+ 
+  
+  
+ANEXO I 
+PREGÃO ELETRÔNICO Nº 011/2026 
+ESTUDO TÉCNICO PRELIMINAR E TERMO DE REFERÊNCIA 
+ 
+ 
+1. O Estudo Técnico Preliminar e Termo de Referência, e demais anexos integrantes desse edital, encontram-
+se em arquivos separados, os quais podem ser baixados, gratuitamente, no site do Município 
+<www.brusque.sc.gov.br> e no Portal de Compras Públicas <https://www.portaldecompraspublicas.com.br> e 
+no Portal Nacional de Contratações Públicas - PNCP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ANEXO II 
+PREGÃO ELETRÔNICO Nº 011/2026 
+MODELO DA PROPOSTA  
+ 
+PAPEL TIMBRADO DA LICITANTE 
+NOME DA EMPRESA: _______________________________________________________________ 
+ENDEREÇO_______________________________________________________________________ 
+CIDADE: ______________________________________________________________CEP _______ 
+ESTADO:_________________________________________________________________________ 
+NOME DO REPRESENTANTE LEGAL____________________________________________________ 
+TELEFONE DA EMPRESA ____________________________________________________________ 
+CNPJ Nº._________________________________________________________________________ 
+CONTA CORRENTE: __________________________      AGÊNCIA: _________________ BANCO:___ 
+ 
+A presente proposta tem como objeto _________________________________, de acordo com os itens abaixo 
+discriminados e demais especificações constantes do edital licitatório do Pregão Eletrônico nº ___/2026 em 
+especial seu ANEXO I – Estudo Técnico Preliminar e Termo de Referência. 
+ 
+INSERIR PLANILHA CONTENDO A DESCRIÇÃO DETALHADA DOS ITENS, VALOR UNITÁRIO DE CADA ITEM E O 
+TOTAL, PERCENTUAL DE COMISSIONAMENTO, CONFORME TERMO DE REFERÊNCIA, SENDO O CASO INDICAR 
+MARCA e MODELO QUANDO REQUERIDO NO TERMO DE REFERÊNCIA. 
+ 
+ 
+Valor Global Por Extenso: ********************************************** 
+ 
+Declaro para fins do disposto no § 1.º do art. 63 da Lei Federal n.º 14.133/2021, que a proposta econômica 
+compreende a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na Constituição 
+Federal, nas leis trabalhistas, nas norm as infralegais, nas convenções coletivas de trabalho e nos termos de 
+ajustamento de conduta vigentes na data de entrega das propostas. 
+ 
+a) Validade da proposta: 60 (sessenta) dias as contar da entrega dos envelopes. 
+b) Prazo e local para entrega: conforme estabelecido no edital. 
+c)  Concordo com todas as exigências do Edital. 
+d) Indicar a preposto/responsável pela empresa (nome completo, telefone/WhatsApp comercial e e-mail) 
+ 
+ 
+_____________________________________________________________ 
+Nome completo e Assinatura do responsável legal e carimbo da Empresa 
+LOCAL/DATA 
+ 
+  
+  
+ANEXO III 
+PREGÃO ELETRÔNICO Nº 011/2026 
+MINUTA DO CONTRATO 
+ 
+CONTRATO Nº XX/2026 
+PROCESSO LICITATÓRIO Nº 033/2026 
+PREGÃO ELETRÔNICO Nº 011/2026 
+ 
+ 
+CONTRATO PARA PRESTAÇÃO DE SERVIÇOS DE SOLUÇÃO IAAS 
+(INFRASTRUCTURE AS A SERVICE) PARA HOSPEDAGEM DOS SITES 
+E SERVIÇOS DA PREFEITURA DE BRUSQUE NA MODALIDADE PAYG 
+CLOUD COMPUTING (PAY -AS-YOU-GO CLOUD  COMPUTING) 
+FIRMADO ENTRE [INSERIR A UNIDADE GESTORA]  E A 
+EMPRESA ............................................., MEDIANTE AS 
+CLÁUSULAS E CONDIÇÕES SEGUINTES: 
+ 
+ 
+O MUNICÍPIO DE BRUSQUE, pessoa jurídica de direito público, situado na Praça das Bandeiras, n. 77, Centro, 
+cidade de Brusque, Estado de Santa Catarina, inscrito no CNPJ nº 83.102.343/0001 – 94, através da Secretaria 
+de Administração e Gestão Estratégica  [ALTERAR CONFORME UNIDADE GESTORA] , neste ato representado 
+pela Autoridade Competente  e Ordenador de Despesa , doravante denominado CONTRATANTE e 
+_____________________, pessoa jurídica de direito privado, inscrita no CNPJ sob nº ___________, com sede 
+na ___________________, na Cidade de _____________, neste ato representada por ________________, 
+inscrito no CPF sob nº ______________, doravante denominado CONTRATADA, tendo em vista o que consta 
+no Pregão Eletrônico nº 011/2026 - Processo Licitatório nº 033/2026 e em observância às disposições da Lei 
+nº 14.133, de 1º de abril de 2021, bem como o Decreto Municipal nº 9.430/2023 e demais legislação aplicável, 
+resolvem celebrar o presente Termo de Contrato, mediante as cláusulas e condições a seguir enunciadas. 
+ 
+CLÁUSULA PRIMEIRA 
+DO OBJETO 
+ 
+1.1. Nas condições fixadas no edital e seus anexos e especificações fornecidas pela Administração, bem como 
+as condições descritos na proposta da Contratada, os quais ficam fazendo parte integrante e inseparável deste 
+instrumento, como se aqui integralmente reproduzidos, constitui-se objeto deste contrato: 
+ 
+PRESTAÇÃO DE SERVIÇOS DE SOLUÇÃO IAAS (INFRASTRUCTURE AS A SERVICE) PARA 
+HOSPEDAGEM DOS SITES E SERVIÇOS DA PREFEITURA DE BRUSQUE NA 
+MODALIDADE PAYG CLOUD COMPUTING (PAY -AS-YOU-GO CLOUD COMPUTING) 
+PARA ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE BRU SQUE, 
+conforme especificações e condições estabelecidas no Termo de Referência e demais 
+elementos deste Edital.  
+ 
+1.2. Vinculam esta contratação, independentemente de transcrição:  
+a) O Estudo Técnico Preliminar e o Termo de Referência;  
+b) A Proposta da contratada;  
+c) Eventuais anexos do edital. 
+ 
+1.3. Fundamento Legal: artigo 115 e seguintes, da Lei nº 14.133/2021. 
+ 
+  
+CLÁUSULA SEGUNDA 
+DO VALOR, PRAZO CONTRATUAL, PRORROGAÇÃO E LOCAL DE PRESTAÇÃO DOS SERVIÇOS 
+ 
+2.1. Dá-se como valor global para o presente contrato o valor de [INSERIR O VALOR GLOBAL], conforme 
+proposta apresentada pela empresa contratada, conforme segue: 
+ 
+ITEM DESCRIÇÃO DOS ITENS UNIDADE QUANTIDADE 
+ESTIMADA 
+MEDIANA 
+DE PREÇOS 
+(R$) 
+PREÇO 
+ESTIMADO 
+(R$) 
+01 UNIDADE DE PROCESSAMENTO 
+VIRTUAL (VCPU, COM 2.0GHZ DE 
+FREQUÊNCIA OU SUPERIOR) 
+UN ATÉ 12.600 
+  
+02 UNIDADE, EM GB (GIGABYTE), DE 
+MEMÓRIA DE ACESSO RANDÔMICA 
+(RAM) 
+UN ATÉ 50.400 
+  
+03 UNIDADE, EM GB (GIGABYTE), DE 
+ARMAZENAMENTO NÃO VOLÁTIL EM 
+TECNOLOGIA NVME OU SUPERIOR 
+UN ATÉ 5.400.000 
+  
+04 UNIDADE DE LICENÇA PARA O 
+SOFTWARE MICROSOFT SQL SERVER – 
+STANDARD PARA 4 VCPUS 
+UN ATÉ 72 
+  
+05 UNIDADE, EM GB (GIGABYTE), DE 
+ARMAZENAMENTO NÃO VOLÁTIL 
+PARA BACKUP 
+UN ATÉ 
+14.400.000 
+  
+06 SERVIÇO DE ACESSO À REDE 
+MUNDIAL DE COMPUTADORES POR 
+MEIO DE LINK DE, AO MENOS, 
+300MBPS DEDICADO 
+SERV 36 
+  
+07 SERVIÇO DE ACESSO PRIVADO ENTRE 
+A ESTRUTURA DA PREFEITURA E O 
+DATACENTER POR MEIO DE UM LINK 
+(MPLS) DE, AO MENOS, 1GBPS 
+DEDICADO 
+SERV ATÉ 72 
+  
+08 UNIDADE DE ENDEREÇO IPV4 
+PÚBLICO 
+UN ATÉ 1.080 
+  
+09 SERVIÇO DE PUBLICAÇÃO PARA ATÉ 
+10 DOMÍNIOS UTILIZANDO O 
+PROTOCOLO DNS (DOMAIN NAME 
+SYSTEM) 
+SERV 36 
+  
+10 UNIDADE DE CONTA CORPORATIVA 
+DE E-MAIL COM POOL DE 
+ARMAZENAMENTO DE 30 TB + 
+BACKUP 
+UN ATÉ 72.000 
+  
+11 LICENCIAMENTO DE WINDOWS 
+TERMINAL SERVICE PARA 50 
+USUÁRIOS SIMULTÂNEOS 
+UN ATÉ 72 
+  
+12 SERVIÇO DE FIREWALL LAYER 7 
+VIRTUALIZADO 
+SERV 36 
+  
+13 LOCAÇÃO DE APPLIANCE FIREWALL UN 72 
+  
+  
+LAYER 7 
+14 ESPAÇO FÍSICO EM RACK (U) UN ATÉ 360 
+  
+15 SUPORTE TÉCNICO (HORA) UN 720 
+  
+16 SERVIÇO DE MIGRAÇÃO DE AMBIENTE SERV ATÉ 1 
+  
+VALOR TOTAL R$ 
+ 
+[INCLUIR RATEIO PREFEITURA E EDUCAÇÃO NO CONTRATO FIRMADO COM O MUNICÍPIO] 
+ 
+2.2. O prazo de vigência da contratação será de 3 (três) anos, admitida prorrogação, nos termos do art. 107 da 
+Lei nº 14.133/2021,  respeitada a vigência máxima decenal, desde que demonstrada, de forma motivada, a 
+vantajosidade para a Administração e observados os limites legais, mantidas as condições iniciais da 
+contratação. 
+2.2.1. O fornecimento de bens é enquadrado como continuado tendo em vista que os serviços de hospedagem 
+em nuvem são prestados de forma ininterrupta, sendo  essenciais para o funcionamento constante e seguro 
+dos sites institucionais e sistemas da prefeitura  municipal de Brusque, sendo a vigência plurianual mais 
+vantajosa considerando o estudo técnico  preliminar, a previsibilidade orçamentária, a continuidade dos 
+serviços essenciais e a redução de riscos decorrentes de interrupções contratuais. 
+2.3. A prorrogação de que trata o item anterior é condicionada ao ateste, pela autoridade competente (fiscal 
+técnico, fiscal administrativo e gestor do contrato) de que as condições e os preços permanecem vantajosos 
+para a administração, permitida a negociação com o contratado, atentando, ainda, para o cumprimento dos 
+seguintes requisitos mínimos: 
+a) seja juntado documento que discorra sobre a execução do contrato, com informações de que 
+os serviços tenham sido prestados regularmente; 
+b) seja juntada justificativa e motivo, por escrito, de que a administração mantém interesse na 
+realização do serviço, sobretudo no que concerne a vantajosidade da prorrogação contratual; 
+c) haja manifestação expressa do contratado informando o interesse na prorrogação; 
+d) seja comprovado que o contratado mantém as condições iniciais de habilitação. 
+2.3.2. O contratado não tem direito subjetivo à prorrogação contratual. 
+2.3.3. A prorrogação de contrato deverá ser promovida mediante celebração de termo aditivo. 
+2.3.4. O contrato não poderá ser prorrogado quando o contratado tiver sido penalizado nas sanções de 
+declaração de inidoneidade ou impedimento de licitar e contratar com poder público, observadas as 
+abrangências de aplicação. 
+ 
+2.4. Local da prestação de serviços: conforme Nota de Empenho. 
+ 
+2.5. Contagem de Prazo: Na contagem do prazo de vigência estabelecido neste instrumento, excluir-se-á o dia 
+do início e incluir-se-á o do vencimento, conforme disposto no art. 183 da Lei nº 14.133/2021. Só se iniciam e 
+vencem os prazos previstos neste instrumento em dia de expediente na Prefeitura Municipal de Brusque. 
+ 
+CLÁUSULA TERCEIRA 
+MODELO DE EXECUÇÃO E GESTÃO DE CONTRATO 
+ 
+3.1. O regime de execução contratual, os modelos de gestão e de execução, assim como os prazos e condições 
+de conclusão, entrega, observação e recebimento do objeto constam no Termo de Referência, anexo a este 
+Contrato. 
+ 
+3.2. A execução do contrato será acompanhada e fiscalizada pelo(s) fiscal(is ) e respectivo(s) substituto(s) 
+indicados no Termo de Referência, cujas atribuições encontram-se regulamentadas pelo Decreto Municipal nº 
+9.430/2023. 
+  
+ 
+3.2.1. A eventual indicação nominal constante em instrumento diverso não substitui a necessária designação 
+formal por meio de Portaria específica, devidamente publicada, nos termos do referido Decreto, a qual deverá 
+consignar expressamente os agentes responsáveis pela gestão e fiscalização contratual. 
+ 
+CLÁUSULA QUARTA 
+DAS OBRIGAÇÕES DA CONTRATADA E DA GARANTIA DE EXECUÇÃO 
+ 
+4.1. São obrigações da contratada: 
+a) Manter preposto aceito pela Administração no local do serviço para representá -lo na execução do 
+contrato; 
+b) Atender às determinações regulares emitidas pelo fiscal do contrato ou autoridade superior (art. 137, 
+II da Lei nº 14.133/2021) e prestar todo esclarecimento ou informação por eles solicitados; 
+c) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, no prazo 
+fixado pelo fiscal do contrato, os serviços nos quais se verificarem vícios, defeitos ou incorreções 
+resultantes da execução ou dos materiais empregados; 
+d) Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, de acordo com o Código 
+de Defesa do Consumidor (Lei nº 8.078, de 1990) e o Código Civil, bem como por todo e qualquer dano 
+causado à Administração ou terceiros, não reduzindo essa r esponsabilidade a fiscalização ou o 
+acompanhamento da execução contratual pelo Contratante, que ficará autorizado a descontar dos 
+pagamentos devidos ou da garantia, caso exigida no edital, o valor correspondente aos danos sofridos; 
+e) Não contratar, durante a vigência do contrato, cônjuge, companheiro ou parente em linha reta, 
+colateral ou por afinidade, até o terceiro grau, de dirigente do contratante ou do fiscal ou gestor do 
+contrato, nos termos do artigo 48, parágrafo único, da Lei nº 14.133, de 2021; 
+f) Responsabilizar-se pelo cumprimento das obrigações previstas em Acordo, Convenção, Dissídio 
+Coletivo de Trabalho ou equivalentes das categorias abrangidas pelo contrato, por todas as obrigações 
+trabalhistas, sociais, previdenciárias, tributárias e as demai s previstas em legislação específica, cuja 
+inadimplência não transfere a responsabilidade ao Contratante;  
+g) Prestar todo esclarecimento ou informação solicitada pelo Contratante ou por seus prepostos, 
+garantindo-lhes o acesso, a qualquer tempo, ao local dos trabalhos, bem como aos documentos 
+relativos à execução do contrato; 
+h) Paralisar, por determinação do Contratante, qualquer atividade que não esteja sendo executada de 
+acordo com a boa técnica ou que ponha em risco a segurança de pessoas ou bens de terceiros; 
+i) Submeter previamente, por escrito, ao Contratante, para análise e aprovação, quaisquer mudanças 
+nos métodos executivos que fujam às especificações do memorial descritivo ou instrumento 
+congênere; 
+j) Não permitir a utilização de qualquer trabalho do menor de dezesseis anos, exceto na condição de 
+aprendiz para os maiores de quatorze anos, nem permitir a utilização do trabalho do menor de dezoito 
+anos em trabalho noturno, perigoso ou insalubre; 
+k) Manter durante toda a vigência do contrato, em compatibilidade com as obrigações assumidas, todas 
+as condições exigidas para habilitação na licitação;  
+l) Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do contrato; 
+m) Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos de sua 
+proposta, inclusive quanto aos custos variáveis decorrentes de fatores futuros e incertos, devendo 
+complementá-los, caso o previsto inicialmente em sua proposta nã o seja satisfatório para o 
+atendimento do objeto da contratação, exceto quando ocorrer algum dos eventos arrolados no art. 
+124, II, d, da Lei nº 14.133, de 2021; 
+n) Cumprir, além dos postulados legais vigentes de âmbito federal, estadual ou municipal, as normas de 
+segurança do Contratante; 
+o) Pagar todos os tributos e contribuições fiscais que incidam ou venham a incidir, direta ou 
+  
+indiretamente, sob o serviço prestado; 
+p) Apresentar durante a execução do contrato, se solicitado, documentos que comprovem cumprir com 
+a legislação em vigor no que concerne às obrigações assumidas, em especial: encargos sociais, 
+trabalhistas, previdenciários, tributários, fiscais e comerciais; 
+q) A contratada declara aceitar integralmente todos os métodos e processos de inspeção, verificação e 
+controle a serem adotados pelo município; 
+r) Não transferir a terceiros, por qualquer forma, nem mesmo parcialmente, as obrigações assumidas, 
+nem subcontratar qualquer das prestações a que está obrigada, sem prévia anuência da contratante; 
+s) Assumir todos os encargos decorrentes da prestação do objeto, especialmente os referentes a frete, 
+taxas, seguros, encargos sociais e trabalhistas; 
+t) A contratada deverá assumir integral responsabilidade pelos danos decorrentes deste fornecimento, 
+inclusive perante terceiros; 
+u) Comunicar, após a assinatura do contrato, sempre que houver mudanças em seus meios de 
+comunicação, tais como e -mails e telefone, a fim de possibilitar receber as notificações e 
+comunicações da contratante; 
+v) Atender prontamente quaisquer exigências da contratante, inerentes ao objeto; 
+w) O Contratado obriga -se, durante toda a prestação dos serviços objeto deste contrato, a observar 
+rigorosamente os princípios, normas e diretrizes contidos no documento Ética – Um Guia de Conduta 
+para Prestadores de Serviços, disponibilizado pelo Contratante ou por órgão público competente, bem 
+como todas as suas alterações posteriores; 
+x) Cumprir as demais obrigações constantes no termo de referência, parte integrante do presente 
+contrato. 
+ 
+4.2. Será exigida garantia de execução contratual correspondente a 5% (cinco por cento) do valor total do 
+contrato, nos termos dos arts. 96 a 99 da Lei nº 14.133/2021, destinada a assegurar o fiel cumprimento das 
+obrigações contratuais assumidas pela contratada. 
+4.2.1. A garantia poderá ser prestada nas modalidades de caução em dinheiro, fiança bancária ou seguro -
+garantia. 
+4.2.2. A garantia de execução contratual destina -se exclusivamente à cobertura de eventuais prejuízos 
+decorrentes do inadimplemento contratual, não se aplicando ao presente ajuste disposições típicas de 
+contratos de prestação de serviços com dedicação exclusiva de mão de obra. 
+4.2.3. Em razão da natureza do objeto, que não se caracteriza como serviço com dedicação exclusiva de mão 
+de obra, fica afastada a previsão de pagamento direto a empregados da contratada ou de cobertura específica 
+de obrigações trabalhistas por meio do seg uro-garantia, permanecendo a contratada integralmente 
+responsável pelo cumprimento de tais obrigações, nos termos da legislação vigente. 
+4.2.4. A apólice de seguro-garantia deverá ter validade durante a vigência do contrato e por mais 90 (noventa) 
+dias após término deste prazo de vigência, permanecendo em vigor mesmo que o Contratado não pague o 
+prêmio nas datas convencionadas. 
+4.2.5. Caso o adjudicatário não apresente a apólice de seguro de garantia antes da assinatura do contrato, 
+ocorrerá a preclusão do direito de escolha dessa modalidade de garantia. 
+4.2.6. A apólice de seguro-garantia deverá acompanhar todas as modificações do contrato principal, inclusive 
+aquelas relativas à prorrogação de vigência, alterações quantitativas ou qualitativas do objeto e quaisquer 
+acréscimos que importem aumento do valor contr atual, mediante a emissão do respectivo endosso pela 
+seguradora, de modo a manter atualizados o prazo de cobertura e o valor segurado. 
+4.2.6.1. Será permitida a substituição da apólice de seguro -garantia na data de renovação ou de aniversário, 
+desde que mantidas as condições e coberturas da apólice vigente e nenhum período fique descoberto, 
+  
+ressalvados os períodos de suspensão contratual. 
+4.2.7. Caso o adjudicatário não opte pelo seguro -garantia ou não apresente a apólice de seguro de garantia 
+antes da assinatura do contrato, deverá apresentar, no prazo máximo de 10 (dez) dias, contado da assinatura 
+do contrato, comprovante de prestação de garantia nas modalidades de caução em dinheiro ou fiança bancária. 
+4.2.7.1. Caso seja a garantia em dinheiro a modalidade de garantia escolhida pelo Contratado, deverá ser 
+efetuada em favor do Contratante, em conta específica na Caixa Econômica Federal, com correção monetária 
+(a ser fornecida acompanhada do contrato, a ser assinado). 
+4.2.7.2. No caso de garantia na modalidade de fiança bancária, deverá ser emitida por banco ou instituição 
+financeira devidamente autorizada a operar no País pelo Banco Central do Brasil, e deverá constar expressa 
+renúncia do fiador aos benefícios do artigo 827 do Código Civil. 
+4.2.8. A garantia assegurará, qualquer que seja a modalidade escolhida, sob pena de não aceitação, o 
+pagamento de: 
+4.2.8.1. Prejuízos advindos do não cumprimento do objeto do contrato e do não adimplemento das demais 
+obrigações nele previstas; 
+4.2.8.2. Multas moratórias e punitivas aplicadas pela Administração à contratada; e 
+4.2.8.3. Obrigações trabalhistas e previdenciárias de qualquer natureza e para com o FGTS, não adimplidas 
+pelo Contratado. 
+4.2.9. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser ajustada 
+ou renovada, seguindo os mesmos parâmetros utilizados quando da contratação. 
+4.2.9.1. Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, o Contratado 
+ficará desobrigado de renovar a garantia ou de endossar a apólice de seguro até a ordem de reinício da 
+execução ou o adimplemento pela Administração. 
+4.2.9.2. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, o 
+Contratado obriga-se a fazer a respectiva reposição no prazo máximo de 10 (dez) dias úteis, prorrogáveis por 
+igual período, a critério do Contratante, contados da data em que for notificado. 
+4.2.10. O Contratante executará a garantia na forma prevista na legislação que rege a matéria. 
+4.2.10.1. O emitente da garantia ofertada pelo Contratado deverá ser notificado pelo Contratante quanto ao 
+início de processo administrativo para apuração de descumprimento de cláusulas contratuais. 
+4.2.10.2. Caso se trate da modalidade seguro -garantia, ocorrido o sinistro durante a vigência da apólice, sua 
+caracterização e comunicação poderão ocorrer fora desta vigência, não caracterizando fato que justifique a 
+negativa do sinistro, desde que respeit ados os prazos prescricionais aplicados ao contrato de seguro, nos 
+termos do art. 20 da Circular Susep nº 662, de 11 de abril de 2022. 
+4.2.11. Extinguir-se-á a garantia com a restituição da carta fiança, autorização para a liberação de importâncias 
+depositadas em dinheiro a título de garantia, acompanhada de declaração do Contratante, mediante termo 
+circunstanciado, de que o Contratado cumpriu todas as cláusulas do contrato. 
+4.2.11.1. A extinção da garantia na modalidade seguro-garantia observará a regulamentação da Susep. 
+4.2.11.2. A Administração deverá apurar se há alguma pendência contratual antes do término da vigência da 
+apólice. 
+4.2.11.3. A garantia somente será liberada ou restituída após a fiel execução do contrato ou após a sua extinção 
+por culpa exclusiva da Administração e, quando em dinheiro, será atualizada monetariamente. 
+  
+4.2.11.4. O garantidor não é parte para figurar em processo administrativo instaurado pelo Contratante com o 
+objetivo de apurar prejuízos e/ou aplicar sanções à contratada. 
+4.2.11.5. A garantia de execução é independente de eventual garantia do produto ou serviço prevista no Termo 
+de Referência. 
+CLÁUSULA QUINTA  
+DAS OBRIGAÇÕES DA CONTRATANTE 
+ 
+5.1. São obrigações da contratante: 
+a) Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de acordo com o contrato e 
+seus anexos; 
+b) Acompanhar e fiscalizar a execução do contrato e o cumprimento das obrigações pelo Contratado; 
+c) Emitir a ordem de serviços à empresa vencedora, de acordo com as necessidades, respeitando os 
+prazos para atendimentos; 
+d) Prestar as informações e os esclarecimentos que venham a ser solicitados pelo licitante vencedor; 
+e) Explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução do 
+presente Contrato, ressalvados os requerimentos manifestamente impertinentes, meramente 
+protelatórios ou de nenhum interesse para a boa execução do ajuste; 
+f) Notificar o Contratado por escrito da ocorrência de eventuais imperfeições, falhas ou irregularidades 
+constatadas no curso da execução dos serviços, fixando prazo para a sua correção, certificando-se de 
+que as soluções por ele propostas sejam as mais adequadas; 
+g) Efetuar o pagamento ao Contratado do valor correspondente à execução do objeto, no prazo, forma e 
+condições estabelecidos no presente Contrato e no Termo de Referência; 
+h) Não responder por quaisquer compromissos assumidos pelo Contratado com terceiros, ainda que 
+vinculados à execução do contrato, bem como por qualquer dano causado a terceiros em decorrência 
+de ato do Contratado, de seus empregados, prepostos ou subordinados; 
+i) Emitir a ordem de compra, com todas as informações necessárias, em favor da contratada para a 
+perfeita execução do contrato; 
+j) Assegurar os recursos orçamentários e financeiros para custear a prestação dos serviços; 
+k) Acompanhar, controlar e avaliar a prestação do serviço, através da unidade responsável por esta 
+atribuição; 
+l) Prestar à contratada, em tempo hábil, as informações eventualmente necessárias à execução do 
+serviço; 
+m) É responsabilidade da contratante fiscalizar o cumprimento das obrigações contratuais pela empresa 
+contratada, garantindo que o serviço seja prestado de acordo com o estabelecido no contrato, 
+atendendo aos padrões de qualidade exigidos, bem como, monitorar continuamente a qualidade dos 
+serviços prestados avaliando o desempenho da empresa contratada e tomando as medidas 
+necessárias para corrigir eventuais problemas identificados; 
+n) Zelar para que durante a vigência do contrato sejam cumpridas as obrigações assumidas com a 
+contratada, bem como sejam mantidas todas as condições de habilitação e qualificação exigidas na 
+prestação; 
+o) Serão considerados para efeito de pagamento os serviços efetivamente prestados, e aprovados pelo 
+fiscal de contrato ou responsável pelo recebimento dos relatórios;  
+p) Notificar, formal e tempestivamente, a contratada sobre irregularidades observadas nas 
+peças/serviços; 
+q) Disponibilizar todas as informações necessárias para a correta execução do serviço; 
+r) A Administração não responderá por quaisquer compromissos assumidos pelo Contratado com 
+terceiros, ainda que vinculados à execução do contrato, bem como por qualquer dano causado a 
+terceiros em decorrência de ato do Contratado, de seus empregados, prepostos ou subordinados; 
+  
+s) A Contratante deverá fornecer todas as informações necessárias para a execução adequada do 
+contrato, incluindo especificações técnicas, normas aplicáveis e prazos; 
+t) A Contratante deverá prover as condições necessárias para a execução do objeto; 
+u) Cumprir com as demais obrigações previstas em lei e na documentação que instrui a fase preparatória 
+da contratação. 
+ 
+CLÁUSULA SEXTA 
+DOS CRITÉRIOS DE MEDIÇÃO, PAGAMENTO E REVISÃO CONTRATUAL 
+6.1 Recebimento do Objeto 
+6.1.1. O pagamento pela efetiva entrega do objeto será efetuado em até 30 (trinta) dias contados do 
+recebimento definitivo, mediante apresentação da nota fiscal/fatura com o detalhamento do serviço, 
+devidamente atestada pelo agente responsável, exclusivame nte por transferência bancária para conta de 
+titularidade do credor, observada a ordem cronológica de pagamentos (art. 141 da Lei nº 14.133/2021). 
+6.1.1.1. É vedada a utilização de boletos bancários ou códigos identificadores. 
+6.1.1.2. A contratada deverá, no ato da contratação, apresentar declaração de dados bancários acompanhada 
+de comprovante de titularidade da conta. Qualquer alteração desses dados deverá ser comunicada 
+imediatamente à Administração; eventual atraso ou imped imento de pagamento decorrente de informação 
+incorreta ou desatualizada ocorrerá sob conta e risco da contratada, sem ônus para o Município. 
+6.1.1.3. Havendo erro na nota fiscal ou circunstância que impeça a liquidação, o documento será devolvido ao 
+fornecedor e o pagamento ficará suspenso até a regularização, reiniciando-se o prazo após a reapresentação, 
+sem ônus para a Administração. 
+6.1.2. A critério da Administração, poderão ser descontados dos valores devidos as despesas referentes a 
+multas, indenizações ou quaisquer obrigações da contratada. 
+6.1.3. Para fazer jus ao pagamento, a contratada deverá apresentar, juntamente com o documento de cobrança, 
+a prova de regularidade fiscal exigida pelo art. 68 da Lei nº 14.133/2021. 
+6.1.4. A emissão de documentos fiscais deverá observar o Decreto Municipal nº 9.512/2023 (retenção do IRRF). 
+6.1.5. Nenhum pagamento será efetuado enquanto houver pendências financeiras decorrentes de penalidades 
+ou inadimplemento contratual. 
+6.1.6. É vedado pagamento antecipado, parcial ou total, relativo a parcelas vinculadas ao fornecimento de bens 
+ou à prestação de serviços. 
+6.1.7. Havendo atraso no pagamento da parcela, desde que motivado por responsabilidade por parte do 
+Município, o valor da parcela poderá ser atualizado pro rata die  de acordo com o IPCA (Índice Nacional de 
+Preços ao Consumidor Amplo) do IBGE. A atualização financeira prevista nesta cláusula será incluída na 
+fatura/nota fiscal seguinte à da ocorrência. 
+6.1.8. Os pagamentos estão sujeitos às retenções tributárias cabíveis, conforme legislação vigente. 
+6.2 Liquidação 
+6.2.1 As notas fiscais recebidas devem preferencialmente ser liquidadas no mês de emissão das mesmas. 
+6.2.2 As notas fiscais e demais documentos comprobatórios, emitidos por qualquer tipo de serviço contratado, 
+compra de mercadorias ou demais obrigações, devem ser encaminhadas ao setor responsável até o 10º 
+(décimo) dia do mês subsequente a emissão da nota fiscal, conforme Circular 9.262/2024 – 1 DOC, da Diretoria 
+de Contabilidade da Secretaria de Orçamento e Finanças. 
+  
+6.2.3 Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente, ou circunstância 
+que impeça a liquidação da despesa, esta ficará sobrestada até que o contratado providencie as medidas 
+saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem ônus ao contratante; 
+6.2.4 A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da 
+comprovação da regularidade fiscal, constatada mediante consulta aos sítios eletrônicos oficiais ou à 
+documentação mencionada no art. 68 da Lei nº 14.133/2021. 
+6.2.5 A Administração, por meio da fiscalização contratual, deverá realizar consulta para: a) verificar a 
+manutenção das condições de habilitação exigidas no edital; b) identificar possível razão que impeça a 
+participação em licitação, no âmbito do órgão ou entidade, que implique proibição de contratar com o Poder 
+Público, bem como ocorrências impeditivas indiretas. 
+6.2.6 Constatando-se a situação de irregularidade da CONTRATADA, será providenciada sua notificação, por 
+escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua 
+defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do contratante. 
+6.2.7 Não havendo regularização ou sendo a defesa considerada improcedente, a contratante deverá 
+comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do 
+contratado, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios 
+pertinentes e necessários para garantir o recebimento de seus créditos. 
+6.2.8 Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à rescisão contratual 
+nos autos do processo administrativo correspondente, assegurada ao contratado a ampla defesa. 
+6.2.9 Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida 
+pela rescisão do contrato, caso o contratado não regularize sua situação. 
+6.3 Do Reajuste e da Recomposição do Equilíbrio Econômico-Financeiro 
+6.4.1 O valor do contrato será fixo e irreajustável, porém poderá ser corrigido anualmente após o interregno 
+mínimo de um ano, contado a partir da data limite do orçamento estimado, utilizando como indexador o Índice 
+Preços ao Consumidor Amplo (IPCA), tomando-se por base a data da apresentação do orçamento estimado. 
+6.4.2 A periodicidade do reajuste é anual, aplicado somente aos pagamentos de valores referentes a eventos 
+físicos realizados a partir do 1° (primeiro) dia imediatamente subsequente ao término do 12º (décimo segundo) 
+mês e, assim, sucessivamente, contado desde a data da apresentação da proposta e de acordo com a vigência 
+do contrato. 
+6.4.3 Após a aplicação do reajuste nos termos deste documento, o novo valor da parcela ou saldo contratual 
+terá vigência e passará a ser praticado, pelo próximo período de 01 (um) ano, sem reajuste adicional e, assim, 
+sucessivamente, durante a existência jurídica do contrato. 
+6.4.4 Ocorrendo o desequilíbrio econômico-financeiro do contrato, poderá ser restabelecida a relação que as 
+partes pactuaram inicialmente, nos termos do art. 124, Inciso II, alínea “d”, da Lei nº 14.133/2021, mediante 
+comprovação documental e requerimento expresso do Contratado. 
+6.4.5 O reequilíbrio econômico deverá ser precedido de pesquisa de preços prévia no mercado, banco de dados, 
+índices ou tabelas oficiais e/ou outros meios disponíveis que assegurem o levantamento adequado das 
+condições de mercado, envolvendo todos os elementos materiais para fins de guardar a justa remuneração do 
+objeto contratado e no embasamento da decisão de deferir ou rejeitar o pedido. 
+6.4.6 A empresa deverá fazer uma disputa equilibrada, considerando a manutenção do valor proposto pelo 
+prazo de vigência do contrato, pois oscilação de mercado não é fato suficiente a ensejar reequilíbrio 
+econômico-financeiro. 
+  
+CLÁUSULA SÉTIMA 
+DA DOTAÇÃO ORÇAMENTÁRIA 
+ 
+7.1. As despesas decorrentes do presente contrato serão efetuadas a conta do seguinte recurso financeiro, 
+informado no Parecer Contábil nº 187/2026 (MUNICÍPIO), 188/2026 (SAÚDE) (Subelemento 3390 4021): 
+[INSERIR SALDO DE DOTAÇÃO CONFORME A UNIDADE GESTORA] 
+ 
+CLÁUSULA OITAVA 
+OBRIGAÇÕES PERTINENTES À LGPD 
+ 
+8.1. As partes deverão cumprir a Lei nº 13.709, de 14 de agosto de 2018 (LGPD), quanto a todos os dados 
+pessoais a que tenham acesso em razão do certame ou do contrato administrativo que eventualmente venha 
+a ser firmado, a partir da apresentação da proposta no procedimento de contratação, independentemente de 
+declaração ou de aceitação expressa.  
+ 
+8.2. Os dados obtidos somente poderão ser utilizados para as finalidades que justificaram seu acesso e de 
+acordo com a boa-fé e com os princípios do art. 6º da LGPD.  
+ 
+8.3. É vedado o compartilhamento com terceiros dos dados obtidos fora das hipóteses permitidas em Lei. 
+ 
+8.4. A Administração deverá ser informada no prazo de 5 (cinco) dias úteis sobre todos os contratos de 
+suboperação firmados ou que venham a ser celebrados pelo Contratado.  
+ 
+8.5. Terminado o tratamento dos dados nos termos do art. 15 da LGPD, é dever do contratado eliminá-los, 
+com exceção das hipóteses do art. 16 da LGPD, incluindo aquelas em que houver necessidade de guarda de 
+documentação para fins de comprovação do cumprimento d e obrigações legais ou contratuais e somente 
+enquanto não prescritas essas obrigações.  
+ 
+8.6. É dever do contratado orientar e treinar seus empregados sobre os deveres, requisitos e 
+responsabilidades decorrentes da LGPD.  
+ 
+8.7. O Contratado deverá exigir de suboperadores e subcontratados o cumprimento dos deveres da 
+presente cláusula, permanecendo integralmente responsável por garantir sua observância. 
+ 
+8.8. O Contratante poderá realizar diligência para aferir o cumprimento dessa cláusula, devendo o 
+Contratado atender prontamente eventuais pedidos de comprovação formulados.  
+ 
+8.9. O Contratado deverá prestar, no prazo fixado pelo Contratante, prorrogável justificadamente, 
+quaisquer informações acerca dos dados pessoais para cumprimento da LGPD, inclusive quanto a eventual 
+descarte realizado.  
+ 
+8.10. Bancos de dados formados a partir de contratos administrativos, notadamente aqueles que se 
+proponham a armazenar dados pessoais, devem ser mantidos em ambiente virtual controlado, com registro 
+individual rastreável de tratamentos realizados (LGPD, art. 37) , com cada acesso, data, horário e registro da 
+finalidade, para efeito de responsabilização, em caso de eventuais omissões, desvios ou abusos. 
+8.10.1. Os referidos bancos de dados devem ser desenvolvidos em formato interoperável, a fim de garantir a 
+reutilização desses dados pela Administração nas hipóteses previstas na LGPD. 
+ 
+8.11. O contrato está sujeito a ser alterado nos procedimentos pertinentes ao tratamento de dados pessoais, 
+  
+quando indicado pela autoridade competente, em especial a ANPD por meio de opiniões técnicas ou 
+recomendações, editadas na forma da LGPD. 
+ 
+8.12. Os contratos e convênios de que trata o § 1º do art. 26 da LGPD deverão ser comunicados à autoridade 
+nacional. 
+CLÁUSULA NONA 
+DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS 
+ 
+9.1. Com fundamento no artigo 156 da Lei n. 14.133/2021, cumulativamente ou não com multa aplicada em 
+razão de qualquer das infrações administrativas previstas no artigo 155 da Lei n. 14.133/2021, a licitante: 
+9.1.1. Ficará impedida de licitar e contratar no âmbito da Administração Pública direta e indireta do Município 
+de Brusque, pelo prazo de até 3 (três) anos, quando praticar as seguintes infrações e não se justificar a 
+imposição de penalidade mais grave: 
+a) Deixar de entregar a documentação exigida para o certame; 
+b) Não mantiver a proposta, salvo em decorrência de fato superveniente devidamente justificado; 
+c) Não celebrar o contrato ou não entregar a documentação exigida para a contratação, nos prazos 
+estabelecidos, quando convocado dentro do prazo de validade de sua proposta; 
+d) Praticar ato lesivo previsto no art. 5º da Lei n. 12.846/2013; 
+ 
+9.1.2. Será declarada inidônea para licitar e contratar no âmbito da Administração Pública direta e indireta de 
+todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos, quando praticar as 
+seguintes infrações: 
+ 
+a) Aquelas previstas para a sanção de impedimento de licitar e contratar com o Município de Brusque, quando 
+se justificar imposição de penalidade mais grave; 
+b) Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a 
+licitação; 
+c) Fraudar a licitação; 
+d) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza. Reputar -se-ão inidôneos atos 
+como os descritos no Capítulo II-B do Título XI da Parte Especial do Código Penal (Decreto-Lei n. 2.848/1940); 
+e) Praticar atos ilícitos com vistas a frustrar os objetivos da licitação. 
+ 
+9.2. A aplicação das sanções será precedida de regular instrução de processo de responsabilização, constituído 
+e conduzido em observância às regras dispostas nos arts. 157 a 161 da Lei n. 14.133/2021 bem como ao 
+disposto, no que couber do Decreto nº 9.430/2023, assegurados o contraditório e a ampla defesa. 
+ 
+9.3. Na hipótese de abertura de processo administrativo destinado à apuração dos fatos e, se for o caso, 
+aplicação de sanção à contratada, em decorrência de conduta vedada, as comunicações à licitante serão 
+efetuadas por meio do endereço de correio eletrôni co (e-mail) cadastrado no credenciamento da empresa 
+junto ao sistema eletrônico. 
+9.3.1. A contratada deverá manter atualizado o endereço de correio eletrônico (e -mail) cadastrado junto ao 
+sistema eletrônico e confirmar o recebimento de mensagens provenientes do Município de Brusque, não 
+podendo alegar o desconhecimento do recebimento das comunicações por este meio como justificativa para 
+se eximir das responsabilidades assumidas ou eventuais sanções aplicadas. 
+ 
+9.4. Com fundamento nos artigos 155 e 156 da Lei n. 14.133/2021, a CONTRATADA: 
+9.4.1. Será sancionada com advertência, caso dê causa à inexecução parcial do contrato, quando não se 
+justificar a imposição de penalidade mais grave. 
+9.4.2. Ficará impedida de licitar e contratar no âmbito da Administração Pública direta e indireta do Município 
+  
+de Brusque, pelo prazo de até 3 (três) anos, sem prejuízo da rescisão unilateral do contrato, quando praticar 
+as seguintes infrações e não se justificar a imposição de penalidade mais grave: 
+a) Der causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos 
+serviços públicos ou ao interesse coletivo; 
+b) Der causa à inexecução total do contrato; 
+c) Ensejar o retardamento da execução ou da entrega do objeto do contrato sem motivo justificado. 
+9.4.3. Será declarada inidônea para licitar e contratar no âmbito da Administração Pública direta e indireta de 
+todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos, quando praticar as 
+seguintes infrações: 
+a) Aquelas previstas para a sanção de impedimento de licitar e contratar com o Município de Brusque, quando 
+se justificar imposição de penalidade mais grave; 
+b) Apresentar declaração ou documentação falsa durante a execução do contrato; 
+c) Fraudar ou praticar ato fraudulento na execução do contrato; 
+d) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+e) Praticar ato lesivo previsto no art. 5º da Lei n. 12.846/2013. 
+9.4.4. A multa poderá ser aplicada cumulativamente com as demais sanções, por qualquer das infrações 
+previstas no art. 155 da Lei n. 14.133/2021, e não poderá ser inferior a 0,5% (cinco décimos por cento) ou 
+superior a 30% (trinta por cento) do valor total do empenho. 
+9.4.5. A multa compensatória será aplicada para o caso de inexecução parcial ou total do contrato  
+nos seguintes percentuais e condições: 
+a) De 20% (vinte por cento) do valor da parcela do objeto não entregue, no caso de inexecução parcial do 
+contrato; 
+c) De 30% (trinta por cento) do valor total do empenho, no caso de inexecução total do contrato. 
+9.4.6. A inexecução parcial do contrato restará configurada, entre outras hipóteses, quando a CONTRATADA: 
+a) Atrasar em prazo superior a 30 (trinta) dias a entrega do objeto e esta, apesar de realizada, não ocorreu em 
+sua totalidade. 
+9.4.7. A inexecução total do contrato restará configurada, entre outras hipóteses, quando a CONTRATADA: 
+a) Atrasar a entrega do objeto em prazo superior a 30 (trinta) dias e a sua totalidade não for entregue. 
+9.4.8. A multa de mora será aplicada quando a CONTRATADA ensejar o retardamento da execução ou da 
+entrega do objeto sem motivo justificado e aceito pela CONTRATANTE, entre outras hipóteses: 
+a) Em 0,5% (cinco décimos por cento) do valor unitário do produto, por dia e produto em atraso. 
+9.4.9. Além das multas compensatórias por inexecução parcial ou total do contrato e das multas de mora 
+estabelecidas, serão aplicadas multas por descumprimento de obrigação contratual, entre outras hipóteses, 
+nos seguintes percentuais e condições: 
+a) 1% (um por cento) a 10% (dez por cento) do valor do empenho, quando a CONTRATADA entregar o objeto 
+com especificações incompatíveis com as exigidas no contrato ou no edital e anexos da licitação que deu 
+origem à contratação. 
+9.4.10. A aplicação de multa de mora não impedirá que a CONTRATANTE a converta em compensatória e 
+promova a extinção unilateral do contrato com a aplicação cumulada de outras sanções previstas no contrato. 
+9.4.11. O valor da multa poderá ser descontado das faturas devidas à CONTRATADA. 
+9.4.12. Se os valores das faturas forem insuficientes, fica a CONTRATADA obrigada a recolher a importância 
+devida no prazo de 15 (quinze) dias úteis, contados da comunicação oficial. 
+9.4.13. Esgotados os meios administrativos para cobrança do valor devido pela CONTRATADA à CONTRATANTE, 
+o débito será encaminhado para inscrição em dívida ativa.  
+9.4.14. A sanção de declaração de inidoneidade para licitar ou contratar será precedida de análise jurídica e 
+observará as regras constantes do § 6º do art. 156 da Lei n. 14.133/2021. 
+9.4.14.1. Reputar-se-ão inidôneos, entre outras hipóteses, atos tais como os descritos nos artigos 337-L e 337-
+M, § 2º, do Código Penal (Decreto-Lei n. 2.848/1940). 
+9.4.15. A aplicação das sanções será precedida de regular instrução de processo de responsabilização, 
+constituído e conduzido em observância às regras dispostas nos arts. 157 a 161 da Lei n. 14.133/2021 e em 
+  
+regulamento interno da CONTRATANTE, assegurados o contraditório e a ampla defesa. 
+9.4.16. A aplicação das sanções previstas no contrato não exclui, em hipótese alguma, a obrigação de reparação 
+integral do dano causado à Administração Pública. 
+9.4.17. É admitida a reabilitação da CONTRATADA perante a própria autoridade que aplicou a penalidade, 
+desde que cumpridas, cumulativamente, as exigências dispostas nos incisos I a V e parágrafo único do art. 163 
+da Lei n. 14.133/2021. 
+CLÁUSULA DÉCIMA  
+DA EXTINÇÃO CONTRATUAL 
+ 
+10.1. O contrato poderá ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele 
+fixado, por algum dos motivos previstos no artigo 137 da Lei nº 14.133/21, bem como amigavelmente, 
+assegurados o contraditório e a ampla defesa. 
+ 
+10.2. Quando a extinção do contrata decorrer de culpa do contratado: 
+a) Ficará ele constituído em mora, sendo-lhe aplicáveis as respectivas sanções administrativas; e 
+b) Poderá a Administração optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei 
+para a continuidade da execução contratual. 
+ 
+10.3. A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a extinção se 
+não restringir sua capacidade de concluir o contrato. 
+ 
+10.4. Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo para 
+alteração subjetiva. 
+ 
+10.5. O termo de extinção, sempre que possível, será precedido: 
+ 
+a) Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos; 
+b) Relação dos pagamentos já efetuados e ainda devidos; 
+c) Indenizações e multas. 
+ 
+10.6. A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico -
+financeiro, hipótese em que será concedida indenização por meio de termo indenizatório (art. 131, caput, da 
+Lei n.º 14.133, de 2021).  
+ 
+10.7. O contrato poderá ser extinto caso se constate que o contratado mantém vínculo de natureza técnica,  
+comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com 
+agente público que tenha desempenhado função na licitação ou atue na fiscalização ou na gestão do contrato, 
+ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro 
+grau (art. 14, inciso IV, da Lei n.º 14.133, de 2021). 
+ 
+10.8. O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o contratante, quando esta não 
+dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe 
+oferece vantagem. 
+10.8.1. A extinção nesta hipótese ocorrerá na próxima data de aniversário do contrato, desde que haja a 
+notificação do contratado pelo contratante nesse sentido com pelo menos 2 (dois) meses de antecedência 
+desse dia. 
+10.8.2. Caso a notificação da não-continuidade do contrato de que trata este subitem ocorra com menos de 2 
+(dois) meses da data de aniversário, a extinção contratual ocorrerá após 2 (dois) meses da data da 
+comunicação. 
+ 
+  
+10.9. A extinção do contrato poderá ocorrer nas hipóteses e condições previstas nos artigos 137, 138 e 139 da 
+Lei nº 14.133/2021, sem prejuízo da aplicação das sanções previstas no presente contrato. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA 
+SUBCONTRATAÇÃO 
+ 
+11.1 Não é admitida a subcontratação do objeto contratual. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA 
+DA FORÇA MAIOR OU DO CASO FORTUITO 
+ 
+12.1. Constitui motivo de força maior ou caso fortuito, para justificativa de atraso ou falta cometida por 
+qualquer uma ou ambas as partes, aos termos do presente Instrumento, os fatos cujo efeito não seja possível 
+evitar ou impedir, nos termos do parágrafo único do art. 393 do Código Civil Brasileiro, desde que essas causas 
+afetem, diretamente, as obras/serviços contratados. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA 
+DAS ALTERAÇÕES 
+ 
+13.1. Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da Lei nº 14.133, de 
+2021. 
+ 
+13.2. O contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que 
+se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato. 
+ 
+13.2.1. As alterações contratuais deverão ser promovidas mediante celebração de termo aditivo, submetido à 
+prévia aprovação da consultoria jurídica do contratante,  salvo nos casos de justificada necessidade de 
+antecipação de seus efeitos, hipótese em que a formalização do aditivo deverá ocorrer no prazo máximo de 1 
+(um) mês (art. 132 da Lei nº 14.133, de 2021). 
+ 
+13.3. Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, 
+dispensada a celebração de termo aditivo, na forma do art. 136 da Lei nº 14.133, de 2021. 
+ 
+CLÁUSULA DÉCIMA QUARTA 
+DOS CASOS OMISSOS 
+ 
+14.1. Os casos omissos serão decididos pelo contratante, segundo as disposições contidas na Lei nº 14.133, 
+de 2021, Decreto Municipal n. 9.430/2023 e demais normas federais aplicáveis e, subsidiariamente, segundo 
+as disposições contidas na Lei nº 8.078, de 1990 – Código de Defesa do Consumidor – e normas e princípios 
+gerais dos contratos. 
+ 
+CLÁUSULA DÉCIMA QUINTA 
+PUBLICAÇÃO 
+ 
+15.1. Incumbirá ao contratante divulgar o presente instrumento no Portal Nacional de Contratações Públicas 
+(PNCP), na forma prevista no art. 94 da Lei 14.133, de 2021. 
+ 
+CLÁUSULA DÉCIMA SEXTA  
+DAS PRÁTICAS DE FRAUDE E CORRUPÇÃO 
+ 
+  
+16.1. As partes, por seus agentes públicos ou por seus sócios, acionistas, administradores e colaboradores: 
+ 
+a) declaram que têm conhecimento das normas previstas na legislação, entre as quais nas Leis n° 8.429/1992 
+e 12.846/2013, seus regulamentos e eventuais outras aplicáveis; 
+b) comprometem-se em não adotar práticas ou procedimentos que se enquadrem nas hipóteses previstas nas 
+leis e regulamentos mencionados no inciso anterior e se comprometem em exigir o mesmo pelos terceiros 
+por elas contratados; 
+d) comprometem -se em notificar ao controle interno do Município qualquer irregularidade que tiverem 
+conhecimento acerca da execução do contrato; 
+e) declaram que têm ciência que a violação de qualquer das obrigações previstas neste contrato, além de 
+outras, é causa para a rescisão unilateral do contrato, sem prejuízo da cobrança das perdas e danos, inclusive 
+danos potenciais, causados à parte inocente e das multas pactuadas. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA 
+FORO 
+ 
+17.1. As partes elegem o foro da Comarca de Brusque, para dirimir as controvérsias oriundas da execução do 
+presente instrumento. 
+ 
+Datado e assinado digitalmente. 
+ 
+ 
+ 
+NOME DO ORDENADOR DA UNIDADE GESTORA 
+CARGO DO ORDENADOR DA UNIDADE GESTORA 
+ORDENADOR DE DESPESAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MATHEUS GOMES LIMA  
+DIRETOR DE SISTEMAS E INOVAÇÃO 
+SECRETARIA DE ADMINISTRAÇÃO E GESTÃO ESTRATÉGICA 
+GESTOR DO CONTRATO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EMPRESA XXXXXXXXX 
+CONTRATADA
+ 
+  
+ANEXO IV 
+PREGÃO ELETRÔNICO Nº 011/2026 
+MODELO DE DECLARAÇÃO CUMPRIMENTO REQUISITOS DE HABILITAÇÃO E INEXISTÊNCIA DE FATOS 
+IMPEDITIVOS DE HABILITAÇÃO 
+ 
+PAPEL TIMBRADO DA LICITANTE 
+ 
+Ao Pregoeiro 
+ 
+Ref.: PREGÃO ELETRÔNICO Nº ___/2026 
+ 
+DECLARAÇÃO CUMPRIMENTO REQUISITOS DE HABILITAÇÃO E INEXISTÊNCIA DE FATOS IMPEDITIVOS DE 
+HABILITAÇÃO 
+ 
+ 
+ 
+_______________________ (Razão Social da licitante) __________________ (CNPJ Nº), sediada no (a) 
+___________________ (endereço completo), declara, sob as penas da lei, que cumpre, plenamente, os 
+requisitos de habilitação exigidos no procedimento licitatório referenciado. 
+ 
+Igualmente, declara sob as penas da lei (Lei 14.133/2021 e Lei Orgânica Municipal), que nossos diretores, 
+responsáveis legais ou técnicos, membros de conselho técnico, consultivo, deliberativo ou administrativo ou 
+sócio, não são empregados ou ocupantes de cargo comissionado na PREFEITURA MUNICIPAL DE BRUSQUE, 
+bem como nossa Empresa não está incursa em nenhum dos impedimentos elencados no edital de licitação 
+referenciada. 
+ 
+Finalizando, ............, tendo examinado o Edital de Licitação do Município de Brusque/SC, declara que cumpre 
+plenamente todos os requisitos de habilitação, em conformidade a Lei 14.133/2021. 
+ 
+Declara ainda que está ciente que a não entrega dos documentos de habilitação ou a sua entrega com falta de 
+atendimento as exigências de habilitação ensejarão a aplicação de penalidades previstas nos termos do Edital 
+e seus anexos. Ressalva-se desta declaração somente os privilégios concedidos às ME e EPP , sem prejuízo de 
+aplicação da penalidade se não for regularizada no prazo que a Lei 123/2006 concede. 
+ 
+ 
+Local e Data 
+Atenciosamente, 
+ 
+____________________________________________ 
+EMPRESA LICITANTE/CNPJ 
+ASSINATURA DO REPRESENTANTE LEGAL 
+ 
+ 
+ 
+  
+  
+ANEXO V 
+PREGÃO ELETRÔNICO Nº 011/2026 
+DOTAÇÃO ORÇAMENTÁRIA 
+ 
+ 
+As despesas decorrentes do presente contrato serão efetuadas a conta do s seguintes recursos financeiros, 
+informados nos Pareceres Contábeis nº 187/2026 (Município) e 188/2026 (Saúde) (Subelemento 3390 4021): 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+
+  
+ANEXO VI 
+PREGÃO ELETRÔNICO Nº 011/2026 
+DECLARAÇÃO DE ENDEREÇO ELETRÔNICO E DEMAIS MEIOS DE CONTATO  
+ 
+ 
+Considerando a Lei n° 4.721, de 14 de outubro de 2024, considera-se condição para participação em processos 
+licitatórios o cadastramento do endereço eletrônico de pessoas jurídicas de direito privado, com o objetivo de 
+garantir e facilitar a comunicação entre o Município e as empresas contratadas, conforme modelo do presente 
+anexo. 
+ 
+O formulário preenchido poderá ser entregue pessoalmente em qualquer órgão ou setor da Prefeitura 
+Municipal de Brusque, ou então encaminhadas ao endereço eletrônico centraldecadastro@brusque.sc.gov.br. 
+ 
+ 
+DADOS PARA CONTATO 
+Firma ou razão social  
+CNPJ  
+Endereço da sede  
+Endereço eletrônico (E-mail)  
+Telefones (com DDD)  
+ 
+ 
+Declaro, sob as penas da legislação brasileira, que as informações por mim emitidas para as finalidades da Lei 
+n° 4.721, de 14 de outubro de 2024 são verídicas, estando ciente do dever de atualização cadastral perante a 
+Administração Pública do Município de Brusque sempre que houver alteração de dados pessoais e meios de 
+contato. 
+ 
+Declaro ainda que estou ciente que eventuais comunicações e notificações em procedimentos administrativos 
+perante a Administração Pública direta e indireta municipal, abrangendo todas as secretarias, diretorias e 
+demais setores, serão encaminhadas preferencialmente para o endereço eletrônico (e-mail) acima informado. 
+ 
+ 
+(DATA E ASSINATURA, PREFERENCIALMENTE DIGITAL) 
+  
+  
+ANEXO VII 
+PREGÃO ELETRÔNICO Nº 011/2026 
+MODELO DE DECLARAÇÃO DE DADOS BANCÁRIOS 
+(Pagamento exclusivo por transferência bancária) 
+(A ser apresentado pelo licitante/contratado juntamente com a proposta) 
+ 
+Ao 
+Agente de Contratação/Pregoeiro da Prefeitura Municipal de Brusque 
+ 
+ 
+Eu, ___________________________________________________________, (nome completo do 
+representante legal), CPF nº ________________, atuando na qualidade de representante da empresa: 
+ 
+• Razão Social: _____________________________________________________ 
+• CNPJ: ___________________________________________________________ 
+• Endereço: ________________________________________________________ 
+• Telefone/E-mail: __________________________________________________ 
+ 
+DECLARO, sob as penas da lei, que: 
+1. Estou ciente e de acordo com a determinação de que todos os pagamentos devidos pelo Município, 
+decorrentes do Pregão Eletrônico nº _______/_____ cujo objeto  é ____________________, serão efetuados 
+exclusivamente por transferência bancária. 
+2. Indico, para fins de crédito, a seguinte conta bancária de titularidade da empresa acima identificada: 
+ 
+Banco (código e nome)  
+Agência (com dígito)  
+Conta (com dígito)  
+Tipo de conta* 
+(Opcional) Chave PIX: ____________________________________________ 
+    
+* Conta-corrente, poupança ou conta pagamento. 
+3. Atesto que a conta acima informada é de titularidade exclusiva da empresa, encontrando-se regular e 
+apta a receber créditos via TED/DOC/PIX. 
+4. Comprometo-me a: 
+a. Manter estes dados bancários atualizados enquanto perdurar a relação contratual; 
+b. Comunicar por escrito à entidade contratante qualquer alteração de titularidade ou de dados bancários; 
+c. Reconhecer que eventual atraso ou impossibilidade de pagamento decorrente de informação incorreta ou 
+desatualizada não poderá ser imputado ao Município. 
+5. Declaro, ainda, que não utilizarei boletos bancários, códigos identificadores ou qualquer outra forma 
+de cobrança para recebimento dos valores contratuais. 
+6. Por fim, autorizo a Tesouraria Municipal a efetuar os lançamentos necessários para o correto 
+processamento financeiro dos pagamentos. 
+ 
+(Localidade), ____ de ________________ de 2026. 
+ 
+Assinatura do Representante Legal 
+Empresa 
+Nome: ________________________________________ 
+Cargo: ________________________________________ 
+RG/Órgão Emissor: _____________________________ 

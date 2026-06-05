@@ -1,0 +1,195 @@
+b) A revisão da modelagem do objeto licitado, promovendo o parcelamento da contratação,  
+com a segregação dos serviços de cloud computing/IaaS dos demais serviços acessórios  
+de: conectividade; MPLS; firewall/appliance; colocation/rack físico; serviços de integração  
+e infraestrutura correlata; 
+Quanto ao pedido de revisão da modelagem do objeto licitado para promoção do parcelamento da  
+contratação, esclarece-se que o Termo de Referência justificou expressamente a adoção de lote  
+único em razão da necessidade de integralização operacional dos serviços, estabelecendo que:
+“A forma de julgamento se dará por lote, dada a necessidade de integralização dos itens levando-
+se  em  conta  sua  natureza  e  utilização.  Desta  forma,  o  fornecimento  de  itens  utilizados  em 
+conjunto permanecerá sempre a cargo de um único contratado, resultando num maior nível de  
+controle de qualidade e compatibilidade de peças por parte da Administração, concentrando a  
+responsabilidade e a garantia dos resultados numa única pessoa jurídica.”
+A  contratação  pretendida  não  se  limita  ao  mero  fornecimento  isolado  de  infraestrutura  
+computacional virtualizada, mas sim à disponibilização de ecossistema integrado de serviços  
+críticos  de  tecnologia  da  informação,  abrangendo  conectividade,  segurança,  backup,  
+monitoramento, suporte NOC/ITSM, disaster recovery, firewall, links dedicados, integração de  
+rede, hospedagem de ativos institucionais e sustentação operacional contínua.
+Os itens agrupados no lote possuem dependência técnica e operacional direta, especialmente  
+considerando:
+ necessidade de compatibilidade integral da arquitetura;
+ gestão unificada de incidentes;
+ SLA único e centralizado;
+ rastreabilidade operacional;
+ responsabilidade contratual indivisível;
+ mitigação de conflitos de competência entre fornecedores;
+ continuidade operacional dos serviços públicos essenciais;
+ integração entre conectividade, segurança, virtualização e armazenamento;
+ atuação coordenada em cenários críticos de indisponibilidade.
+O próprio Memorial Descritivo prevê operação integrada da solução IAAS, contemplando:
+ conectividade WAN;
+ NOC/ITSM 24x7x365;
+ monitoramento centralizado;
+ gestão unificada da infraestrutura;
+ disaster recovery;
+ firewall virtualizado e appliances físicos;
+ possibilidade de colocation de ativos institucionais.
+Assim, não se trata de mera reunião arbitrária de objetos autônomos, mas sim de contratação de  
+solução tecnológica integrada e interdependente, cuja fragmentação elevaria significativamente:
+ os riscos operacionais;
+ a complexidade de gestão;
+ os riscos de indisponibilidade;
+ os custos administrativos de fiscalização;
+ os conflitos de responsabilidade entre múltiplos fornecedores;
+ o tempo de resposta em incidentes críticos.
+Importante observar que o próprio Termo de Referência estabelece SLA de disponibilidade mínima 
+de  99,9%,  operação  24x7x365  e  tempos  críticos  de  atendimento  e  solução  extremamente  
+reduzidos.
+A  segregação  da  contratação  entre  múltiplos  fornecedores  comprometeria  diretamente  a  
+governança operacional necessária ao atendimento desses níveis de serviço, especialmente em  
+eventos que envolvam simultaneamente:
+ rede;
+ armazenamento;
+ virtualização;
+ firewall;
+ conectividade;
+ backbone;
+ segurança;
+ integração MPLS;
+ recuperação de desastres.
+Portanto, a modelagem adotada pela Administração encontra-se tecnicamente motivada, alinhada  
+ao interesse público e compatível com a natureza integrada da solução contratada, inexistindo  
+obrigatoriedade  de  parcelamento  quando  demonstrada  a  necessidade  técnica  de  execução  
+unificada do objeto.
+c) A exclusão da limitação geográfica de 200 km para localização do datacenter; 
+No tocante à limitação geográfica de até 200 km da Prefeitura de Brusque, esclarece-se que o  
+requisito encontra-se técnica e detalhadamente motivado no próprio Memorial Descritivo.
+O documento estabelece expressamente que a limitação visa:
+ redução de latência;
+ viabilização de intervenções técnicas presenciais;
+ suporte a cenários de colocation de ativos institucionais da própria Administração;
+ atendimento às práticas de continuidade de negócios e disaster recovery.
+Importante destacar que o Memorial Descritivo prevê expressamente a possibilidade de utilização  
+do ambiente de datacenter em regime de  colocation para ativos tecnológicos institucionais da  
+própria Administração, incluindo appliances de segurança, equipamentos de rede e componentes  
+de integração com sistemas legados.
+Nesses cenários, a proximidade geográfica mostra-se tecnicamente necessária para:
+ instalação de equipamentos;
+ manutenção presencial;
+ substituição de componentes;
+ atuação técnica emergencial;
+ auditorias e verificações presenciais;
+ redução de custos logísticos;
+ mitigação do tempo de resposta operacional.
+Além disso, o próprio Memorial Descritivo fundamenta que a limitação geográfica busca assegurar  
+tempo compatível para atuação presencial em situações excepcionais de indisponibilidade de  
+serviços e continuidade operacional da Administração Pública.
+O documento também estabelece justificativa específica relacionada a disaster recovery, prevendo 
+a  necessidade  de  deslocamento  de  equipes  técnicas  para  atuação  direta  no  ambiente  da  
+contratada em cenários de indisponibilidade prolongada.
+Dessa forma, o raio máximo de 200 km não constitui restrição arbitrária ou desproporcional, mas  
+sim requisito técnico vinculado à operacionalidade, continuidade dos serviços públicos, viabilidade  
+logística, redução de latência e capacidade de resposta presencial da infraestrutura contratada.
+Cumpre  ainda  salientar  que  a  limitação  não  restringe  a  participação  a  município  específico, 
+tampouco inviabiliza a competitividade do certame, havendo múltiplas estruturas aptas a atender  
+os requisitos técnicos estabelecidos pela Administração.
+c) Subsidiariamente, a substituição da limitação territorial por SLA objetivo de atendimento  
+técnico; 
+Quanto  ao  pedido  subsidiário  de  substituição  da  limitação  territorial  por  SLA  objetivo  de  
+atendimento técnico, esclarece-se que tal substituição não atende integralmente às necessidades  
+operacionais previstas no Memorial Descritivo.
+O  edital  não  fundamenta  a  limitação  geográfica  exclusivamente  em  atendimento  remoto  ou  
+tempos de resposta lógicos, mas também em necessidades físicas e operacionais relacionadas a:
+ auditorias presenciais;
+ intervenção técnica local;
+ disaster recovery;
+ instalação e substituição de equipamentos;
+ atuação em cenários excepcionais;
+ colocation de ativos institucionais;
+ continuidade operacional da infraestrutura crítica.
+O próprio Memorial Descritivo prevê expressamente a possibilidade de utilização do ambiente de  
+datacenter  em  regime  de  colocation para  ativos  institucionais  da  Administração,  incluindo  
+appliances de segurança, equipamentos de rede e componentes de integração com sistemas  
+legados.
+Nesses cenários, SLA remoto não substitui:
+ deslocamento físico de equipes;
+ logística operacional;
+ tempo de acesso presencial ao ambiente;
+ atuação direta sobre equipamentos;
+ recuperação física de infraestrutura;
+ intervenções emergenciais em ativos institucionais.
+Além disso, o Termo de Referência já estabelece SLA rigoroso para suporte técnico, tempos de  
+atendimento e disponibilidade.
+A limitação  geográfica,  portanto,  não  substitui  o  SLA,  mas  complementa  os  mecanismos  de  
+continuidade operacional da Administração Pública.
+d) A flexibilização da modelagem de contratação dos recursos computacionais, admitindo  
+soluções equivalentes baseadas em: instâncias fechadas; máquinas virtuais consolidadas;  
+modelos equivalentes de billing; 
+Quanto ao pedido de flexibilização da modelagem de contratação dos recursos computacionais,  
+esclarece-se que o edital não impõe arquitetura proprietária, plataforma específica ou fabricante  
+determinado, mas apenas estabelece critérios objetivos mínimos de mensuração, faturamento e  
+controle dos recursos consumidos.
+A modelagem adotada pela Administração Pública possui como finalidade:
+ previsibilidade orçamentária;
+ granularidade de consumo;
+ rastreabilidade financeira;
+ controle individualizado de recursos;
+ auditoria de utilização;
+ escalabilidade proporcional;
+ compatibilidade com o modelo PAY-AS-YOU-GO previsto no Termo de Referência.
+A contratação por VCPU, RAM e armazenamento individualizado não impede que fornecedores  
+utilizem internamente arquiteturas próprias, famílias de máquinas virtuais, instâncias consolidadas  
+ou modelos distintos de billing, desde que a solução ofertada atenda aos quantitativos, métricas e  
+requisitos operacionais previstos no edital.
+O edital não interfere na arquitetura interna da contratada, mas apenas define a forma objetiva  
+pela qual os recursos deverão ser disponibilizados, mensurados e faturados à Administração  
+Pública.
+Admitir  modelos  sem  correspondência  objetiva  entre  recursos  computacionais  efetivamente  
+disponibilizados e recursos faturados comprometeria:
+ a transparência contratual;
+ a rastreabilidade de consumo;
+ a fiscalização financeira;
+ a comparabilidade objetiva das propostas;
+ o controle de escalabilidade sob demanda.
+e)  A  exclusão  da  exigência  específica  de  tecnologia  NVME,  admitindo  soluções  
+equivalentes mediante comprovação de desempenho e SLA; 
+Por fim, quanto ao pedido de exclusão da exigência de armazenamento NVME, esclarece-se que  
+o Memorial Descritivo não se limita a indicar tecnologia de mercado isoladamente, mas estabelece 
+conjuntamente métricas mínimas objetivas de desempenho, quais sejam:
+ PCIe Gen4 ou superior;
+ leitura sequencial mínima de 4000 MB/s;
+ gravação sequencial mínima de 2000 MB/s;
+ mínimo de 500.000 IOPS aleatórios.
+A exigência de NVME encontra-se diretamente relacionada:
+ à necessidade de baixa latência;
+ ao desempenho transacional;
+ à alta disponibilidade;
+ à sustentação de aplicações críticas da Administração;
+ ao volume expressivo de operações simultâneas;
+ ao ambiente virtualizado de alta densidade previsto no objeto.
+O próprio Memorial Descritivo estabelece que a solução hospedará sistemas administrativos,  
+tributários,  financeiros,  educacionais  e  de  saúde,  além  de  prever  armazenamento  massivo,  
+backup, virtualização e crescimento escalável da infraestrutura.
+Nesse  contexto,  a  Administração  Pública  possui  discricionariedade  técnica  para  definição  da 
+tecnologia mínima necessária ao adequado desempenho operacional do ambiente contratado,  
+especialmente quando acompanhada de métricas objetivas de performance, como efetivamente  
+ocorreu no presente edital.
+Importante destacar que o edital não exige marca, fabricante ou modelo específico, limitando-se a  
+estabelecer  padrão  tecnológico  mínimo  compatível  com  os  requisitos  de  desempenho  e  
+continuidade operacional pretendidos pela Administração.
+Dessa forma, permanecem mantidas as exigências constantes do edital, Memorial Descritivo e  
+Termo  de  Referência,  por  se  mostrarem  tecnicamente  justificadas,  proporcionais  ao  objeto  
+contratado e alinhadas à continuidade operacional, segurança e desempenho da infraestrutura  
+crítica de tecnologia da informação da Administração Municipal.
+Por fim, as exigências constantes do edital, Memorial Descritivo e Termo de Referência guardam  
+pertinência direta com a natureza crítica do objeto contratado, especialmente considerando que a  
+solução  hospedará  serviços  essenciais  da  Administração  Municipal,  incluindo  sistemas  
+administrativos, educacionais e de saúde.
+Assim,  permanecem  mantidas  as  exigências  previstas  no  instrumento  convocatório,  por  se  
+mostrarem tecnicamente justificadas, proporcionais ao objeto contratado e alinhadas ao interesse  
+público, à continuidade operacional e à mitigação de riscos da infraestrutura crítica de tecnologia  
+da informação da Administração Municipal.
+Brusque/SC, 19 de maio de 2026
+_____________________________________
+RAFAEL VANELLI
+AGENTE ADMINISTRATIVO

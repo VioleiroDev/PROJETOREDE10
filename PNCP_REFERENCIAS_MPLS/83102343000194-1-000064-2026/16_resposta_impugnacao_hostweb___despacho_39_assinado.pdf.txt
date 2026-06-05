@@ -1,0 +1,134 @@
+No  tocante  à  limitação  geográfica  de  até 200  km da Prefeitura  de  Brusque,  esclarece-se  que  o  
+requisito encontra-se técnica e detalhadamente motivado no próprio Memorial Descritivo.
+O documento estabelece expressamente que a limitação visa:
+ redução de latência;
+ viabilização de intervenções técnicas presenciais;
+ suporte a cenários de colocation de ativos institucionais da própria Administração;
+ atendimento às práticas de continuidade de negócios e disaster recovery.
+Importante destacar que o Memorial Descritivo prevê expressamente a possibilidade de utilização do  
+ambiente de datacenter em regime de  colocation para ativos tecnológicos institucionais da própria  
+Administração,  incluindo  appliances de  segurança,  equipamentos  de  rede  e  componentes  de  
+integração com sistemas legados.
+Nesses cenários, a proximidade geográfica mostra-se tecnicamente necessária para:
+ instalação de equipamentos;
+ manutenção presencial;
+ substituição de componentes;
+ atuação técnica emergencial;
+ auditorias e verificações presenciais;
+ redução de custos logísticos;
+ mitigação do tempo de resposta operacional.
+Além disso, o próprio Memorial Descritivo fundamenta que a limitação geográfica busca assegurar  
+tempo compatível para atuação presencial em situações excepcionais de indisponibilidade de serviços  
+e continuidade operacional da Administração Pública.
+O documento também estabelece justificativa específica relacionada a disaster recovery, prevendo a  
+necessidade de deslocamento de equipes técnicas para atuação direta no ambiente da contratada em  
+cenários de indisponibilidade prolongada.
+Dessa forma, o raio máximo de 200 km não constitui restrição arbitrária ou desproporcional, mas sim  
+requisito  técnico  vinculado  à  operacionalidade,  continuidade  dos  serviços  públicos,  viabilidade  
+logística, redução de latência e capacidade de resposta presencial da infraestrutura contratada.
+Cumpre ainda salientar que a limitação não restringe a participação a município específico, tampouco  
+inviabiliza a competitividade do certame, havendo múltiplas estruturas aptas a atender os requisitos  
+técnicos estabelecidos pela Administração.
+Quanto à alegação de inadequação técnica da limitação geográfica no contexto de computação em  
+nuvem, esclarece-se que o edital não fundamenta a restrição territorial exclusivamente em critérios  
+abstratos de “ cloud computing”, mas sim em necessidades operacionais concretas e expressamente  
+justificadas no Memorial Descritivo.
+O Memorial Descritivo estabelece que a limitação geográfica possui como fundamentos:
+ redução de latência;
+ necessidade de intervenções presenciais;
+ disaster recovery;
+ colocation de ativos institucionais;
+ continuidade operacional da infraestrutura crítica. 
+Importante destacar que o ambiente contratado não se resume à mera disponibilização remota de  
+máquinas virtuais, mas contempla também:
+ integração de rede;
+ firewall;
+ appliances;
+ conectividade dedicada;
+ hospedagem de ativos institucionais;
+ suporte NOC/ITSM;
+ integração MPLS;
+ recuperação operacional em cenários críticos. 
+O próprio Memorial Descritivo prevê expressamente a possibilidade de utilização do ambiente de  
+datacenter em regime de  colocation para ativos institucionais da Administração Pública, incluindo  
+appliances de segurança, equipamentos de rede e integração com sistemas legados. 
+Nesses cenários, a distância física do datacenter deixa de ser mero aspecto teórico de arquitetura  
+cloud e passa a impactar diretamente:
+ logística operacional;
+ deslocamento de equipes técnicas;
+ tempo de intervenção presencial;
+ instalação e substituição de equipamentos;
+ recuperação de desastres;
+ continuidade dos serviços públicos essenciais.
+Assim, a limitação geográfica estabelecida no edital possui relação direta com a operacionalidade da  
+solução contratada e com a mitigação de riscos relacionados à infraestrutura crítica da Administração.
+Quanto  à  alegação  de  que  a  distância  geográfica  não  influenciaria  desempenho  ou  latência  em 
+ambientes  cloud modernos,  esclarece-se  que,  embora  backbone,  peering  e  roteamento  sejam  
+efetivamente  fatores  relevantes,  a  distância  física  continua  sendo  variável  técnica  diretamente  
+relacionada ao tempo de propagação da rede, especialmente em aplicações sensíveis à latência,  
+integração WAN e ambientes transacionais de alta disponibilidade.
+Além disso, o edital não utiliza exclusivamente a distância geográfica como requisito isolado, mas sim  
+conjuntamente com:
+ integração aos principais backbones;
+ redundância;
+ disponibilidade;
+ suporte operacional;
+ disaster recovery;
+ intervenção presencial;
+ continuidade operacional.
+No tocante à alegação de equivalência entre certificação Tier III Design e Tier III Facility, esclarece-se  
+que as certificações possuem escopos distintos e não se confundem.
+A certificação Tier III Design refere-se à validação documental do projeto conceitual da infraestrutura,  
+enquanto a certificação Tier III Facility envolve validação da infraestrutura efetivamente construída,  
+operacional e implementada.
+A certificação  Tier  III  Facility  contempla  inspeções  presenciais  (“ in  loco”),  validação  da  topologia 
+implantada,  redundância  operacional,  mantenabilidade  concorrente  (“concurrently  maintainable”)  e  
+fiscalização efetiva da infraestrutura crítica construída.
+Já a certificação Tier III Design limita-se à validação do projeto de engenharia e não comprova,  
+isoladamente,  que  a  infraestrutura  física  implementada  corresponde  integralmente  ao  projeto  
+originalmente certificado.
+Assim, a exigência de Tier III Facility possui motivação técnica legítima relacionada à necessidade de  
+validação  da  infraestrutura  efetivamente  operacional  que  suportará  os  serviços  críticos  da  
+Administração Pública.
+Importante  destacar  ainda  que  o  edital  não  exige  marca,  fabricante  ou  fornecedor  específico  de 
+datacenter, limitando-se à definição de requisito objetivo de infraestrutura crítica compatível com os  
+níveis de disponibilidade e continuidade operacional pretendidos.
+Quanto ao requisito de latência de 5 ms, no Memorial Descritivo e no Estudo Técnico Preliminar, onde  
+se lê:
+“A  CONTRATADA  DEVERÁ  GARANTIR  UM  TEMPO  MÉDIO  DE  DESEMPENHO  MENSAL  DE  
+LATÊNCIA NO NÚCLEO DA REDE WAN DE NO MÁXIMO, 5 MS.”
+Leia-se:
+“A CONTRATADA DEVERÁ GARANTIR DESEMPENHO DE REDE COMPATÍVEL COM APLICAÇÕES 
+CRÍTICAS  DA ADMINISTRAÇÃO  PÚBLICA,  ASSEGURANDO  BAIXA LATÊNCIA,  ESTABILIDADE  
+OPERACIONAL  E  ADEQUADA  COMUNICAÇÃO  ENTRE  OS  AMBIENTES  DA  SOLUÇÃO  
+CONTRATADA E A INFRAESTRUTURA DA CONTRATANTE.”
+Quanto à alegação de prejuízo à competitividade decorrente da limitação territorial, esclarece-se que a  
+Administração Pública não está impedida de estabelecer requisitos técnicos restritivos quando estes  
+forem:
+ tecnicamente motivados;
+ proporcionais ao objeto;
+ relacionados à adequada execução contratual;
+ necessários à mitigação de riscos operacionais.
+No presente caso, a limitação geográfica não possui finalidade arbitrária ou direcionadora, mas decorre 
+diretamente:
+ da criticidade da solução;
+ da necessidade de continuidade operacional;
+ da possibilidade de atuação presencial;
+ do disaster recovery;
+ da integração física de ativos institucionais;
+ da necessidade de rápida resposta operacional em cenários excepcionais.
+Importante destacar que o requisito não restringe a participação a município específico, tampouco  
+inviabiliza  a  competitividade  do  certame,  existindo  múltiplas  estruturas  aptas  ao  atendimento  das 
+exigências previstas no edital dentro do raio estabelecido.
+Por fim, as exigências constantes do instrumento convocatório guardam pertinência direta com a  
+natureza crítica da infraestrutura contratada, estando alinhadas ao interesse público, à continuidade  
+operacional da Administração Municipal e à mitigação de riscos relacionados aos serviços essenciais  
+suportados pela solução.
+Desta forma, excetuando-se pela cláusula da latência que é, deveras, restritiva, permanecem mantidas  
+as disposições constantes do edital, Memorial Descritivo e Termo de Referência, por se mostrarem  
+tecnicamente justificadas, proporcionais ao objeto contratado e compatíveis com as necessidades  
+operacionais da Administração Pública Municipal.
+Brusque/SC, 19 de maio de 2026
+_____________________________________
+RAFAEL VANELLI
+AGENTE ADMINISTRATIVO

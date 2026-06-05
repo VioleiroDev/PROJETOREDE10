@@ -1,0 +1,13 @@
+{
+  "query": "comunicação de dados comodato substituição equipamentos disponibilidade",
+  "generatedAt": "2026-06-05T18:23:11",
+  "source": "https://pncp.gov.br/api/consulta",
+  "results": [
+    {
+      "_avisosConsulta": [
+        "contratacoes/publicacao modalidade 6 2024-06-05..2026-06-05: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20240605&dataFinal=20260605&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/publicacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-05T18:23:10.119-03:00\",\"status\":\"422\"}",
+        "contratacoes/atualizacao modalidade 6 2024-06-05..2026-06-05: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/atualizacao?dataInicial=20240605&dataFinal=20260605&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/atualizacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-05T18:23:10.300-03:00\",\"status\":\"422\"}"
+      ]
+    }
+  ]
+}

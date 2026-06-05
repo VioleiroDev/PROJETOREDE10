@@ -1,0 +1,17 @@
+22203 - COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO
+195006 - CIA DE DESENV. DO VALE DO SAO FRANCISCO-DF
+RELAÇÃO DE ITENS - PREGÃO ELETRÔNICO  Nº 90003/2025-000
+1 - Itens da Licitação
+1 - Tráfego de Dados Via Cabo
+Descrição Detalhada: Tráfego de Dados Via Cabo - Conforme item 1.1 do termo de referência, Contratação de rede WAN corporativa com tecnologia
+MPLS, incluindo instalação e configuração de equipamentos, gerenciamento proativo e interligação dos sites da CODEVASF,
+garantindo comunicação eficiente e segura, distribuídos em 21 (vinte e um) itens.
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 1.433.232,00
+Unidade de Fornecimento: MEGA BITS/SEGUNDO
+Intervalo Mínimo entre Lances (%): 0,50
+Local de Entrega (Quantidade): BRASÍLIA/DF (1)
+PREGÃO ELETRÔNICO  Nº 90003/2025-000 UASG 195006 (1/1)28/04/2025  10:50

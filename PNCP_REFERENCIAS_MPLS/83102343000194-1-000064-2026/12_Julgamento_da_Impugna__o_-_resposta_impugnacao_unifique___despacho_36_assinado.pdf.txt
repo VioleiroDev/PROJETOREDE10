@@ -1,0 +1,68 @@
+DECISÃO ADMINISTRATIVA
+Pregão Eletrônico nº 011/2026
+Processo Licitatório nº 033/2026
+Impugnante: UNIFIQUE TELECOMUNICAÇÕES S.A.
+Objeto: Prestação de serviços de solução IAAS — Infrastructure as a Service — para hospedagem  
+dos sites e serviços da Prefeitura de Brusque na modalidade Pay-As-You-Go Cloud Computing
+RELATÓRIO
+Trata-se de impugnação ao edital apresentada por UNIFIQUE TELECOMUNICAÇÕES S.A. , em face  
+do Edital do Pregão Eletrônico nº 011/2026, Processo Licitatório nº 033/2026, cujo objeto consiste  
+na contratação de solução IAAS — Infrastructure as a Service — para hospedagem dos sites e  
+serviços da Prefeitura Municipal de Brusque na modalidade Pay-As-You-Go Cloud Computing.
+A impugnante questiona a exigência editalícia de comprovação cumulativa dos índices de Liquidez  
+Geral — LG, Liquidez Corrente — LC e Solvência Geral — SG superiores a 1, sustentando, em  
+síntese, possível restrição à competitividade, inadequação da modelagem econômico-financeira às  
+características  específicas  do  mercado  de  tecnologia  e  cloud  computing  e  necessidade  de  
+flexibilização dos critérios de habilitação econômico-financeira.
+Ao final, requer a adequação do edital, com previsão alternativa de comprovação da qualificação  
+econômico-financeira mediante patrimônio líquido mínimo ou capital social mínimo.
+É o relatório.
+ADMISSIBILIDADE
+Presentes os pressupostos de admissibilidade, conhece-se da impugnação apresentada.
+ANÁLISE DE MÉRITO
+Embora a exigência de índices de Liquidez Geral, Liquidez Corrente e Solvência Geral superiores a 1 
+encontre amparo no art. 69 da Lei nº 14.133/2021, a Administração, em reavaliação superveniente 
+das  condições  de  habilitação  econômico-financeira  e  considerando  os  princípios  da  
+competitividade, proporcionalidade, razoabilidade e seleção da proposta mais vantajosa, entendeu 
+conveniente  promover  adequação  da  modelagem  editalícia  às  características  específicas  do  
+mercado de infraestrutura em nuvem e serviços de tecnologia da informação.
+Verificou-se que empresas atuantes no segmento de cloud computing frequentemente possuem  
+estrutura patrimonial e operacional baseada em ativos intangíveis, escalabilidade tecnológica e  
+receitas  recorrentes,  circunstâncias  que  recomendam  flexibilização  da  forma  de  aferição  da  
+capacidade econômico-financeira, sem prejuízo à segurança da contratação.
+A Administração reconhece que os índices econômico-financeiros inicialmente previstos no edital  
+constituem  mecanismos  legítimos  e  usualmente  empregados  para  aferição  da  capacidade  
+econômico-financeira  das  licitantes,  nos  termos  do  art.  69  da  Lei  nº  14.133/2021.  Contudo,  
+considerando as particularidades do mercado de tecnologia e infraestrutura em nuvem, bem como 
+a necessidade de ampliação da competitividade e da participação de empresas especializadas no  
+segmento, entendeu-se conveniente promover adequação pontual das exigências editalícias.
+A  medida  não  compromete  a  segurança  da  futura  contratação,  uma  vez  que  permanecem  
+mantidas as demais exigências técnicas, operacionais e contratuais previstas no edital, incluindo  
+requisitos  de  qualificação  técnica,  níveis  mínimos  de  disponibilidade,  SLA,  suporte  técnico  
+especializado, garantias contratuais, obrigações de continuidade operacional e demais mecanismos 
+de mitigação de risco contratual.
+Assim, com fundamento nos arts. 5º, 69 e 9º da Lei nº 14.133/2021, bem como no poder-dever de  
+autotutela administrativa, acolhe-se parcialmente a impugnação para promover adequação das  
+exigências de habilitação econômico-financeira do edital, mantendo-se, contudo, a necessidade de 
+comprovação objetiva da capacidade econômica da futura contratada.
+Dessa forma, será promovida alteração da cláusula referente à qualificação econômico-financeira,  
+com inclusão da seguinte previsão:
+“Caso a licitante apresente resultado igual ou inferior a 1 em qualquer dos índices de  
+Liquidez  Geral,  Liquidez  Corrente  ou  Solvência  Geral,  poderá  comprovar  sua  
+qualificação  econômico-financeira  mediante  patrimônio  líquido  mínimo  ou  capital  
+social mínimo correspondente a no mínimo 10% do valor estimado da contratação.”
+A alteração visa compatibilizar as exigências editalícias com as características específicas do setor  
+de tecnologia da informação e computação em nuvem, sem afastar a necessária verificação da  
+capacidade econômico-financeira mínima da futura contratada.
+CONCLUSÃO
+Diante do exposto, conheço da impugnação apresentada por UNIFIQUE TELECOMUNICAÇÕES S.A. 
+e, no mérito, dou-lhe parcial provimento, para promover adequação das exigências de habilitação  
+econômico-financeira  do  edital,  mediante  inclusão  de  critério  alternativo  de  comprovação  da 
+capacidade econômico-financeira da licitante, nos termos da fundamentação acima.
+Determina-se a retificação do edital e dos documentos correlatos, com posterior republicação do  
+instrumento convocatório e reabertura dos prazos legais, nos termos do art. 55, §1º, da Lei nº  
+14.133/2021.
+Brusque/SC, 19 de maio de 2026
+_____________________________________
+RAFAEL VANELLI
+AGENTE ADMINISTRATIVO

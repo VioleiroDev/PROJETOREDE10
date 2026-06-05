@@ -1,0 +1,97 @@
+Questionamento técnico ao item 12.21, incisos I e III — Qualificação Técnica 
+ 
+O item 12.21, inciso I, do edital exige, juntamente com a apresentação da proposta, 
+cópia da certificação TIER III Facility. 
+Entretanto, considerando que a certificação Tier  III é emitida especificamente pelo 
+Uptime Institute, entende-se que a exigência deve ser interpretada de forma técnica e 
+funcional, admitindo-se certificações equivalentes que comprovem o mesmo nível de 
+disponibilidade, redundância, resiliência e seguranç a operacional do ambiente de 
+datacenter. 
+Nesse sentido, questiona -se: será aceita certificação equivalente ao padrão Tier III, 
+emitida por outro organismo técnico reconhecido, como, por exemplo, certificação Rated 
+3, baseada na norma ANSI/TIA-942? 
+Tal inte rpretação é necessária para preservar os princípios da competitividade, 
+isonomia, julgamento objetivo, eficiência, razoabilidade e seleção da proposta mais 
+vantajosa, previstos na Lei nº 14.133/2021 . O art. 5º da referida lei estabelece que as 
+licitações devem observar, entre outros, os princípios da legalidade, impessoalidade, 
+igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, 
+vinculação ao edital, julgamento objetivo, segurança jurídica, razoabilidade, 
+competitividade, proporcionalidade, celeridade e economicidade. 
+A exigência de certificação emitida exclusivamente por um único organismo certificador, 
+sem admitir equivalência técnica, pode restringir indevidamente a competitividade, 
+especialmente quando existirem certificaç ões reconhecidas no mercado que atestem 
+requisitos equivalentes ou superiores de infraestrutura de datacenter. 
+Ainda sobre o item 12.21, inciso I, solicita-se esclarecer se será aceita a certificação 
+emitida em nome do datacenter efetivamente utilizado pela licitante, ainda que este seja 
+de propriedade de empresa terceira, ou se a Administração exigirá que a certificação 
+esteja necessariamente em nome da própria licitante. 
+Ressalta-se que, no mercado de computação em nuvem, hospedagem, colocation e 
+serviços SaaS/IaaS, é prática comum que provedores utilizem datacenters de terceiros, 
+devidamente certificados, sem que a edificação esteja em nome do provedor 
+contratante. Inclusive, grandes provedores globais de cloud, como AWS, Google Cloud, 
+Microsoft Azure e Oracle Cloud, operam seus serviços mediante infraestrutura própria 
+e/ou de terceiros, sendo o aspecto tecnicamente relevante a certificação do ambiente 
+físico onde os serviços são efetivamente hospedados, e não a titularidade formal da 
+edificação. 
+Assim, exigir que a certificação esteja obrigatoriamente em nome da licitante, e não do 
+datacenter utilizado, pode criar restrição desproporcional, sem ganho técnico efetivo 
+para a Administração. A Lei nº 14.133/2021, em seu art. 67 , limita a documentação de 
+qualificação técnica à comprovação da capacidade técnico -profissional e técnico -
+operacional necessária à execução do objeto, devendo tais exigências guardar 
+pertinência, proporcionalidade e relação direta com a prestação contratada. 
+Dessa forma, entende -se que o  requisito deve ser considerado atendido mediante 
+apresentação de certificação válida do datacenter onde a solução será hospedada, 
+acompanhada de documento que comprove o vínculo da licitante com tal infraestrutura, 
+seja por contrato, declaração, termo de parceria, colocation, hosting, cloud, revenda 
+autorizada ou documento equivalente. 
+Já o item 12.21, inciso III , exige comprovação do endereço onde está instalado o 
+datacenter, para fins de comprovação de operação em território nacional e localização 
+de ope radoras de telecomunicações em raio máximo de 200 km da Prefeitura de 
+Brusque. 
+Com a devida vênia, tal exigência merece revisão, pois a limitação geográfica em raio 
+máximo de 200 km pode restringir de forma significativa a competitividade do certame, 
+impedindo a participação de licitantes que utilizem datacenters localizados em outros 
+polos nacionais de alta conectividade, como o Estado de São Paulo, reconhecidamente 
+um dos principais hubs de datacenter, telecomunicações e interconexão do país. 
+Do ponto de vista técnico, a proximidade física do datacenter em relação à sede da 
+Administração não é, por si só, garantia de melhor desempenho, disponibilidade, 
+segurança ou qualidade do serviço. Em serviços de cloud, hospedagem e aplicações 
+web, a qualidade da pres tação está relacionada a fatores como redundância de links, 
+baixa latência, conectividade com múltiplas operadoras, rotas BGP, capacidade de 
+processamento, armazenamento, segurança física e lógica, backup, monitoramento, 
+SLA e arquitetura de alta disponibilidade. 
+Assim, um datacenter localizado fora do raio de 200 km, mas situado em região com 
+maior densidade de conectividade, múltiplas operadoras, IX.br, redundância elétrica, 
+refrigeração, segurança física e certificações técnicas, pode oferecer desempenho igual 
+ou superior ao de uma estrutura localizada geograficamente mais próxima. 
+A Lei nº 14.133/2021 veda  a inclusão de condições que comprometam, restrinjam ou 
+frustrem o caráter competitivo da licitação, inclusive nos casos em que a exigência 
+imponha pre ferência ou distinção em razão de circunstâncias impertinentes ou 
+irrelevantes para o objeto contratado. 
+Além disso, a jurisprudência e a orientação dos órgãos de controle caminham no sentido 
+de que exigências de qualificação técnica devem ser estritamente  necessárias, 
+proporcionais e justificadas, não podendo impor requisitos excessivos ou sem relação 
+direta com a execução do objeto. O material de orientação do TCU sobre habilitação 
+técnica reforça que as exigências devem guardar pertinência com a capacida de 
+necessária à execução contratual, evitando restrições indevidas à disputa. 
+ 
+Diante disso, requer-se o esclarecimento e/ou adequação do edital para que: 
+ 
+- seja aceita certificação Tier III ou equivalente técnico, tal como Rated 3/TIA-942, desde 
+que comp rove nível compatível de disponibilidade, redundância e segurança 
+operacional; 
+- seja aceita certificação em nome do datacenter utilizado pela licitante, ainda que 
+pertencente a terceiro, desde que comprovado o vínculo técnico/comercial da licitante 
+com a infraestrutura certificada; 
+- seja revista ou suprimida a exigência de datacenter localizado em raio máximo de 200 
+km da Prefeitura de Brusque, admitindo-se datacenter localizado em território nacional, 
+desde que atendidos os requisitos de disponibilidade,  segurança, conectividade, 
+redundância, SLA e desempenho definidos no edital; 
+ 
+Diante do exposto, entende-se que a interpretação mais adequada ao interesse público 
+e aos princípios da Lei nº 14.133/2021 é admitir certificações tecnicamente equivalentes, 
+certificações emitidas em nome do datacenter efetivamente utilizado pela licitante e 
+estruturas localizadas em território nacional, sem limitação geográfica desproporcional, 
+desde que comprovados os requisitos técnicos de segurança, disponibilidade, 
+redundância, conectividade e desempenho exigidos para a adequada execução 
+contratual. 

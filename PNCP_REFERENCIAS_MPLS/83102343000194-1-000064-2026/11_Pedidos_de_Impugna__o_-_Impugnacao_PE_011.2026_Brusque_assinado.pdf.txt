@@ -1,0 +1,274 @@
+ 
+ 
+ 
+ILUSTRÍSSIMO SENHOR(A) PREGOEIRO(A) DO MUNICÍPIO DE BRUSQUE  
+ 
+ 
+ 
+Ref.: EDITAL PREGÃO ELETRÔNICO Nº 011/2026 
+ 
+ 
+VELORA SOLUCOES EM TECNOLOGIA LTDA , pessoa jurídica de direito privado, 
+inscrita no CNPJ/MF sob nº  37.170.748/0001-42, com sede na Rua José Versolato, nº 111, 
+Bloco B, Sala 3102, Centro, São Bernardo do Campo/SP , por seu representante legal infra 
+assinado, tempestivamente, vem, com fulcro no art. 164 da Lei nº 14.133/21, à presença de 
+Vossa Senhoria, a fim de impetrar a devida 
+ 
+IMPUGNAÇÃO AO EDITAL 
+ 
+em face das cláusulas restritivas constantes do instrumento convocatório do Pregão 
+Eletrônico nº 011/2026, pelas razões técnicas e jurídicas a seguir expostas. 
+ 
+ 
+I – DOS FATOS E DO DIREITO DA IMPUGNAÇÃO 
+ 
+1) DA RESTRIÇÃO COMPETITIVA POR AGLUTINAÇÃO INDEVIDA DO OBJETO 
+Embora o edital tenha por objeto formal a contratação de solução de:  “IAAS (Infrastructure 
+as a Service)” , a modelagem adotada pela Administração impôs exigências técnicas e 
+operacionais incompatíveis com parcela relevante do mercado nacional de cloud computing, 
+restringindo indevidamente a competitividade. 
+ 
+Ao analisar o Termo de Referência, Memorial Descritivo e demais documentos técnicos do 
+procedimento, verifica -se que o edital não está contratando exclusivamente serviços de 
+cloud computing/IaaS. 
+ 
+Na realidade, a Administração agrupou, dentro de um único lote, serviços de naturezas 
+ 
+ 
+ 
+completamente distintas, pertencentes a mercados tecnológicos diversos, tais como: 
+• infraestrutura em nuvem (cloud/IaaS); 
+• conectividade dedicada; 
+• MPLS; 
+• firewall layer 7; 
+• appliance físico de segurança; 
+• colocation/rack físico; 
+• licenciamento de software; 
+• serviços de rede e DNS; 
+• migração de ambiente; 
+• serviços acessórios de suporte e integração. 
+ 
+Trata-se, portanto, de contratação híbrida que reúne simultaneamente:  cloud computing ; 
+telecomunicações; segurança da informação;  infraestrutura física de datacenter;  e 
+conectividade dedicada. Todavia, tais serviços pertencem a segmentos distintos do mercado 
+de tecnologia, normalmente executados por empresas especializadas diferentes. 
+ 
+É entendimento pacífico do TCU, de que , para a formação do lote, os itens que irão compô-
+lo necessitam ter a mesma natureza, bem como guardar relação entre si, inclusive quanto 
+aos seus fornecedores.  
+ 
+A inserção, em mesmo lote, de itens usualmente produzidos por 
+empresas de ramos distintos restringe o caráter competitivo da 
+licitação. [...] (TCU - Informativo de Jurisprudência nº 88). 
+ 
+ 
+Além disso, a  jurisprudência do TCU está pacificada no sentido de que a regra é que a 
+adjudicação ocorra por item, sendo a adjudicação por lote a exceção, desde que 
+devidamente justificada a razão de sua necessidade. Essa questão está expressa na 
+Súmula TCU 247:  
+ 
+É obrigatória a admissão da adjudicação por item e não por preço global, 
+nos editais das licitações para a contratação de obras, serviços, compras 
+e alienações, cujo objeto seja divisível, desde que não haja prejuízo para o 
+conjunto ou complexo ou perda de economia de escala, tendo em vista o 
+ 
+ 
+ 
+objetivo de propiciar a ampla participação de licitantes que, embora não 
+dispondo de capacidade para a execução, fornecimento ou aquisição 
+da totalidade do objeto, possam fazê -lo com relação a itens ou 
+unidades autônomas, devendo as exigências de habilitação adequar -se a 
+essa divisibilidade. (grifos nossos) 
+ 
+No presente caso, a Impugnante atua exclusivamente no mercado de cloud computing/IaaS, 
+possuindo plena capacidade técnica para fornecimento de: 
+• infraestrutura virtualizada; 
+• processamento computacional; 
+• armazenamento em nuvem; 
+• hospedagem de ambientes críticos; 
+• alta disponibilidade; 
+• monitoramento remoto; 
+• escalabilidade sob demanda. 
+ 
+Contudo, o edital inviabiliza a sua participação , não por incapacidade de execução do 
+núcleo principal do objeto — que é justamente cloud/IaaS, mas em razão da aglutinação de 
+serviços acessórios e requisitos específicos que extrapolam a atividade principal de 
+infraestrutura em nuvem. 
+ 
+Em outras palavras, a restrição competitiva decorre da modelagem adotada pela 
+Administração, que concentrou em um único lote serviços distintos e independentes, 
+restringindo artificialmente a participação de empresas especializadas no mercado cloud. 
+ 
+Importante destacar que a Administração não demonstrou tecnicamente: a indivisibilidade do 
+objeto; a impossibilidade de parcelamento; a dependência técnica obrigatória entre todos os 
+serviços agrupados;  e nem a necessidade de concentração integral da execução em um 
+único fornecedor. 
+ 
+A mera alegação genérica de “integração” ou “controle operacional” não é suficiente para 
+afastar os princípios da competitividade, proporcionalidade e seleção da proposta mais 
+vantajosa previstos na Lei nº 14.133/2021. 
+ 
+ 
+ 
+ 
+Assim, a presente impugnação busca questionar a modelagem excessivamente restritiva 
+adotada no edital, que acaba excluindo empresas plenamente aptas à execução do núcleo 
+principal da contratação relacionado à infraestrutura em nuvem , pois r eferidas exigências 
+são restritivas e extrapolam o necessário para atendimento do interesse público, em afronta 
+aos princípios da competitividade, proporcionalidade, razoabilidade e seleção da proposta 
+mais vantajosa previstos na Lei nº 14.133/2021. 
+ 
+2) DA LIMITAÇÃO GEOGRÁFICA DO DATACENTER – EXIGÊNCIA DE 200 KM 
+O edital estabelece limitação geográfica para o datacenter da contratada, restringindo sua 
+localização a distância máxima de 200 km do Município de Brusque/SC , apresentando 
+justificativas relacionadas a: 
+• redução de latência; 
+• intervenção técnica presencial; 
+• colocation; 
+• disaster recovery. 
+ 
+Todavia, tais fundamentos não demonstram tecnicamente a indispensabilidade da restrição 
+territorial, senão vejamos: 
+ 
+2.1. AUSÊNCIA DE COMPROVAÇÃO TÉCNICA OBJETIVA 
+A Administração não apresentou: estudo de latência; medições técnicas; benchmark; análise 
+de RTT;  SLA mínimo de desempenho;  e nem comprovação de inviabilidade de operação 
+remota. 
+ 
+Desse modo, as justificativas constantes do edital são genéricas e abstratas, tendo em vista 
+que, em ambientes modernos de cloud computing , o desempenho depende 
+predominantemente de:  backbone; peering; qualidade de conectividade;  roteamento; 
+arquitetura de rede; e não exclusivamente da distância geográfica linear entre contratante e 
+datacenter. 
+ 
+2.2. CONTRADIÇÃO COM O PRÓPRIO MODELO CLOUD DESCRITO NO ETP 
+O Estudo Técnico Preliminar descreve:  gestão centralizada;  suporte remoto 24x7;  
+ 
+ 
+ 
+monitoramento remoto;  provisionamento sob demanda;  elasticidade; e virtualização, 
+reconhecendo que a solução opera mediante modelo essencialmente remoto e, ainda assim, 
+o edital utiliza hipóteses eventuais de atuação presencial para justificar limitação territorial 
+ampla e restritiva. 
+ 
+2.3. HIPÓTESES EVENTUAIS NÃO JUSTIFICAM RESTRIÇÃO À COMPETITIVIDADE 
+As justificativas do edital utilizam expressões como:  “eventual necessidade”;  “situações 
+excepcionais”; “quando necessário”.  Contudo, restrições à competitividade não podem se 
+fundamentar em hipóteses abstratas ou excepcionais. 
+ 
+2.4. DA AUSÊNCIA DE JUSTIFICATIVA PARA O LIMITE ESPECÍFICO DE 200 KM 
+O edital não demonstra: 
+• por que exatamente 200 km; 
+• por que não outro limite; 
+• por que SLA de atendimento não seria suficiente; 
+• por que suporte remoto especializado não atenderia à necessidade administrativa. 
+ 
+A jurisprudência do Tribunal de Contas da União (TCU) considera ilegal e restritiva  
+qualquer cláusula de edital que limite a participação em licitações com base na localização 
+geográfica da sede da empresa. Contudo, a restrição pode ser admitida de forma 
+excepcional se for indispensável para a execução do contrato. 
+ 
+A limitação territorial, portanto, revela -se arbitrária e restritiva , ferindo o caráter competitivo 
+da licitação e os princípios da isonomia e da busca pela proposta mais vantajosa (Art. 37, 
+XXI, da CF). 
+ 
+3. DA MODELAGEM RESTRITIVA DE CONTRATAÇÃO DOS RECURSOS CLOUD 
+O Termo de Referência exige contratação extremamente específica e individualizada de:  
+vCPU; memória RAM; armazenamento; recursos computacionais unitizados. 
+ 
+Todavia, parcela significativa do mercado cloud opera legitimamente mediante: 
+• instâncias fechadas; 
+ 
+ 
+ 
+• famílias de máquinas virtuais; 
+• bundles computacionais; 
+• modelos consolidados de billing por VM. 
+ 
+A Impugnante, por exemplo, opera mediante arquitetura de máquinas virtuais fechadas, 
+modelo amplamente utilizado no mercado de cloud computing. 
+ 
+A Administração, contudo, modelou a contratação com arquitetura específica de 
+comercialização de recursos computacionais, restringindo fornecedores que operam com 
+modelos equivalentes de infraestrutura. 
+ 
+O objetivo da contratação pública deve ser:  desempenho; disponibilidade; capacidade 
+computacional; eficiência operacional, de modo que n ão cabe à Administração restringir a 
+competitividade impondo modelo específico de composição comercial interna dos 
+fornecedores, especialmente sem demonstração técnica de indispensabilidade. 
+ 
+Assim, a  exigência de contratação exclusivamente “ a la carte ” acaba restringindo 
+fornecedores plenamente aptos à execução do serviço. 
+ 
+4. DA EXIGÊNCIA DE NVME SEM JUSTIFICATIVA TÉCNICA SUFICIENTE 
+O edital exige armazenamento: “NVME ou superior”. Todavia, não apresenta  métricas 
+objetivas de desempenho ou estudo técnico que demonstre a indispensabilidade da 
+tecnologia NVME ou que demonstre a inviabilidade de soluções equivalentes. 
+ 
+Em contratações de infraestrutura cloud, o adequado tecnicamente é a definição de:  
+desempenho mínimo;  SLA; disponibilidade; tempo de resposta;  métricas operacionais 
+objetivas; e não a imposição de tecnologia específica de mercado sem justificativa concreta. 
+ 
+A exigência exclusiva de NVME acaba restringindo modelos legítimos e amplamente 
+utilizados no mercado de cloud computing , inclusive arquiteturas modernas de 
+armazenamento distribuído, soluções híbridas e plataformas virtualizadas que entregam 
+desempenho equivalente ou superior mediante tecnologias distintas. 
+ 
+ 
+ 
+ 
+Importante destacar que a finalidade da contratação pública deve ser a obtenção do 
+resultado operacional esperado, e não a imposição da arquitetura interna específica utilizada 
+pelos fornecedores. 
+ 
+Ao exigir determinada tecnologia específica sem demonstrar tecnicamente  a sua 
+indispensabilidade; proporcionalidade; e impossibilidade de equivalência técnica , a 
+Administração restringe indevidamente a competitividade, reduzindo o universo de 
+fornecedores aptos a participar do certame. 
+ 
+Além disso, a exigência não observa o princípio da neutralidade tecnológica, amplamente 
+adotado nas contratações de tecnologia da informação, segundo o qual a Administração 
+deve priorizar requisitos funcionais e de desempenho, evitando direcionamento para 
+arquiteturas ou tecnologias específicas sem justificativa robusta. 
+ 
+Dessa forma, requer -se a revisão da cláusula, para que sejam admitidas soluções 
+tecnologicamente equivalentes, desde que comprovadamente aptas a atender os requisitos 
+mínimos de desempenho, disponibilidade, segurança e continuidade operacional exigidos 
+pela Administração. 
+ 
+5. DOS PEDIDOS 
+Diante do exposto, requer: 
+ 
+a) O recebimento e processamento da presente impugnação; 
+b) A revisão da modelagem do objeto licitado, promovendo o parcelamento da contratação, 
+com a segregação dos serviços de cloud computing/IaaS dos demais serviços acessórios 
+de: conectividade; MPLS; firewall/appliance; colocation/rack físico; serviços de integração e 
+infraestrutura correlata; 
+c) A exclusão da limitação geográfica de 200 km para localização do datacenter; 
+c) Subsidiariamente, a substituição da limitação territorial por SLA objetivo de atendimento 
+técnico; 
+d) A flexibilização da modelagem de contratação dos recursos computacionais, admitindo 
+ 
+ 
+ 
+soluções equivalentes baseadas em:  instâncias fechadas; máquinas virtuais consolidadas;  
+modelos equivalentes de billing; 
+e) A exclusão da exigência específica de tecnologia NVME, admitindo soluções equivalentes 
+mediante comprovação de desempenho e SLA; 
+f) A republicação do edital com reabertura integral dos prazos legais, caso haja alteração 
+das cláusulas restritivas. 
+ 
+Nestes termos, 
+Pede deferimento. 
+ 
+ 
+ São Bernardo do Campo, 15 de maio de 2026. 
+ 
+ 
+ 
+ 
+ 
+VELORA SOLUÇÕES EM TECNOLOGIA LTDA 
+NOME: Willian de Lima Souza 
+CARGO: Sócio / Administrador 
+CPF: 360.909.578-44 

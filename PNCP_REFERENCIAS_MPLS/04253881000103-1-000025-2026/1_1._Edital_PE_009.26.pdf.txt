@@ -1,0 +1,944 @@
+ 
+   Página 1 de 26 
+ 
+PROCESSO Nº 018/2026 
+EDITAL Nº 009/2026 – PREGÃO ELETRÔNICO Nº 009/2026 
+ 
+ 
+ 
+PREÂMBULO 
+ 
+O Serviço Nacional de Aprendizagem Rural – Administração Regional de Mato Grosso do 
+Sul (SENAR-AR/MS), sediado na Rua Marcino dos San tos, nº 401, Bairro Chácara Cachoeira 
+II, na cidade de Campo Grande, Estado de Mato Grosso do Sul, torna públic a a realização de 
+licitação na modalidade  PREGÃO ELETRÔNICO, critério de julgamento  MENOR PREÇO  
+representado pelo MENOR PREÇO POR LOTE, que será regido em conformidade com os 
+preceitos do Regulamento de Licitações e Contratos (RLC) do SENAR , revisto e consolidado 
+pela Resolução nº 030/2024/CD, de 02/05/2024 do Conselho Deliberativo do SENAR  e demais 
+disposições aplicáveis à licitação  e aos  contratos administrativos, disponibilizadas na página 
+eletrônica do SENAR http://senarms.org.br/sites/default/files/licitacoes/RLC-SENAR_0.pdf  
+Os trabalhos licitatórios serão coordenados pela Pregoeira e Comissão Permanente de 
+Licitação – CPL, nomeadas pelas Portarias n.º 001/25/PRES.CA e n.º 008/25/PRES.CA. 
+RETIRADA DO EDITAL: no site da Regional  http://senarms.org.br/licitacoes-contratos, 
+diretamente no site do Banco do Brasil S/A, no endereço eletrônico  https://licitacoes-
+e2.bb.com.br/aop-inter-estatico/ pelo identificador n.º 1091249, na sede da Administração 
+Regional do SENAR em Mato Grosso do Sul  ou ainda mediante solicitação pelo e -mail 
+licitacoes@senarms.org.br. 
+INÍCIO DE ACOLHIMENTO DAS PROPOSTAS DE PREÇOS: dia 05 de maio de 2026. 
+INÍCIO DA SESSÃO DE DISPUTA DE LANCES: A sessão pública de lances, por via 
+eletrônica, terá início às 09:30h (horário de Brasília/DF), do dia 13 de maio de 2026 no site 
+do Banco do Brasil S/A, no endereço eletrônico https://licitacoes-e2.bb.com.br/aop-inter-
+estatico/. 
+1.1.  Contratação de solução de Computação de Borda (Edge Computing) , composta por 
+infraestrutura de datacenter com características TIER III e rede de comunicação de baixa 
+latência para atendimento das demandas do SENAR-AR/MS. 
+1.2. As especificações técnicas estão descritas no Termo de Referência – ANEXO I do 
+presente Edital. 
+1. DO OBJETO 
+ 
+   Página 2 de 26 
+ 
+1.3. Os ANEXOS I, II, III, IV, V e VI são considerados partes integrantes e indissociáveis deste 
+Edital, independente de transcrição. 
+2.1. O valor total máximo estimado para presente licitação é de R$ 1.156.490,40 (um milhão e 
+cento e cinquenta e seis mil e quatrocentos e noventa reais e quarenta centavos) para o 
+período de 12 (doze) meses. 
+2.2. As despesas correrão por conta dos recursos previstos no orçamento anual do SENAR-
+AR/MS, por conta dos seguintes códigos orçamentários: 8701.  
+3.1. Poderão participar desta licitação: 
+3.1.1. As licitantes cuja atividade seja compatível com o objeto licitado, legalmente 
+estabelecidas no país, desde que comprovarem possuir os requisitos estabelecidos neste 
+instrumento convocatório, respeitadas as demais condições normativas e as constantes deste 
+Edital e seus Anexos e que estejam devidamente cadastradas junto ao órgão provedor do 
+sistema “Licitações-e”, através do portal https://licitacoes-e2.bb.com.br/aop-inter-estatico/. 
+3.2. Não será permitida a participação direta ou indireta nesta licitação: 
+3.2.1. Pessoa jurídica c ujo objeto social não seja pertinente e compatível com o objeto desta 
+licitação. 
+3.2.2. Empregado, dirigente ou membro, titular ou suplente, dos Conselhos Deliberativo, 
+Administrativo e Fiscal de suas respectivas unidades federativas. 
+3.2.3. Pessoas jurídicas reunidas em consórcio. 
+3.2.4. Pessoas jurídicas cuja falência  tenha sido decretada ou que estiver em curso de 
+credores, em processo de recuperação, dissolução, cisão, fusão ou incorporação. 
+3.2.5. Pessoas jurídicas que tenham sido declaradas impedidas de licitar ou contratar com o 
+SENAR-AR/MS. 
+3.2.6. Pessoas jurídicas qu e tenham sido declaradas inidôneas por qualquer esfera da 
+Administração Pública.  
+3.2.7. Pessoas jurídicas que tenham em seus quadros societários ou que sejam constituídas 
+por empregado, dirigente ou membro, efetivo ou suplente, dos Conselhos Deliberativo, 
+Administrativo e Fiscal de suas respectivas unidades federativas. 
+3.2.8. Pessoas jurídicas que tenham assento nos Conselhos Deliberativo, Administrativo e 
+Fiscal de suas respectivas unidades federativas. 
+2. DOS VALORES E DAS FONTES DE RECURSOS 
+3. DAS CONDIÇÕES DE PARTICIPAÇÃO  
+ 
+   Página 3 de 26 
+ 
+3.2.8.1. As vedações impostas nos itens 3.2.7 e 3.2.8 não se aplicam aos serviços sociais 
+autônomos, nem às pessoas jurídicas integrantes da Administração Pública direta ou indireta, 
+federal, estadual ou municipal. 
+3.2.9. A pessoa jurídica que tenha como sócio ou titular ex -membro, titular ou suplente, dos 
+Conselhos Deliberativo, Administrativo e Fiscal do Senar, não poderá prestar serviços para a 
+sua respectiva unidade federativa, antes do decurso do prazo mínimo de 180 (cento e oitenta) 
+dias, contados a partir do respectivo desligamento. 
+3.2.10. A pessoa jurídica que tenha como sócio ou titular ex -empregado do Senar, não poderá 
+prestar serviços para a sua respectiva unidade federativa, antes do decurso do prazo de 18 
+(dezoito) meses, contados a partir da sua demissão ou desligamento, exceto para os casos em 
+que o desligamento tenha sido decorrente de aposentadoria. 
+3.2.11. As vedações impostas estendem -se aos parentes em linha reta, colateral ou por 
+afinidade, até o 3º grau. 
+3.3. Como condição de participação, a CPL verificará a existência de sanção que impeça a 
+participação no certame ou a futura contratação, mediante a consulta aos seguintes cadastros:  
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas – CEIS; 
+b) Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas – CEPIM; 
+c) Cadastro Nacional de Empresas Punidas – CNEP; 
+d) Cadastro Nacional de Condenações Cíveis por Ato de Improbidade Administrativa, do 
+Conselho Nacional de Justiça – CNJ. 
+3.3.1. O resultado da pesquisa constará no processo e impedirá o prosseguimento da licitante 
+no certame, por falta de cumprimento das condições de contratação, estabelecidas pela 
+Política de Due Diligence do SENAR-AR/MS – Resolução n.º 012/2021/PRES.CA. 
+3.4. A participação na presente licitação implica aceitação integral e irretratável dos termos e  
+condições deste Edital e dos seus Anexos, bem como do RLC do SENAR. 
+4.1. Os pedidos de esclarecimento ao Edital e seus Anexos deverão ser encaminhados à CPL, 
+em até 03 (três) dias úteis antes da data designada como de abertura da sessão pública , 
+exclusivamente para o e-mail licitacoes@senarms.org.br, apontando de forma clara e  objetiva 
+as falhas e/ou irregularidades que entende tê-lo viciado. 
+4.1.1. O documento deverá ser encaminhado anexo ao e-mail em formato “.pdf”, assinado pelo 
+representante legal da licitante. 
+4.1.2. A CPL poderá requisitar subsídios formais aos responsáveis pela elaboração do Edital e 
+seus Anexos. 
+4. DOS PEDIDOS DE ESCLARECIMENTO E DA IMPUGNAÇÃO 
+ 
+   Página 4 de 26 
+ 
+4.1.3. As respostas aos pedidos de esclarecimentos serão divulgadas tanto no site do SENAR-
+AR/MS, no endereço eletrônico  http://senarms.org.br/licitacoes-contratos, bem como no portal 
+de licitações do Banco do Brasil  https://licitacoes-e2.bb.com.br/aop-inter-estatico/, ficando as 
+licitantes interessadas em participar do certame obrigadas a acessá -la para a obtenção das 
+informações prestadas, e somente no site  http://senarms.org.br/licitacoes-contratos, quando o 
+sistema “Licitações-e” não suportar o tamanho do arquivo. 
+4.2. Qualquer pessoa poderá impugnar os termos do Edital do Pregão, até 03 (três) dias úteis 
+antes da data fixada para abertura da sess ão p ública, exclusivamente por e-mail 
+licitacoes@senarms.org.br, apontando de forma clara e objetiva as falhas e/ou  irregularidades 
+que entende tê-lo viciado. 
+4.2.1. O documento deverá ser encaminhado anexo ao e-mail em formato “.pdf”, assinado pelo 
+representante legal da licitante. 
+4.2.2. A impugnação n ão possui efeito suspensivo e caber á ao Pregoeiro, auxiliado  pelos 
+responsáveis pela elaboração do Edital e seus Anexos, decidir sobre a impugnação. 
+4.2.3. As respostas aos pedidos de  impugnação serão divulgadas tanto no site do SENAR-
+AR/MS, no endereço eletrônico  http://senarms.org.br/licitacoes-contratos, bem como no portal 
+de licitações do Banco do Brasil  https://licitacoes-e2.bb.com.br/aop-inter-estatico/, ficando as 
+licitantes interessadas em participar do certame obrigadas a acessá -la para a obtenção das 
+informações prestadas, e somente no site  http://senarms.org.br/licitacoes-contratos, quando o 
+sistema “Licitações-e”não suportar o tamanho do arquivo. 
+4.2.4. Se procedente e acolhida à impugnação deste Edital, as alterações serão comunicadas 
+aos interessados pela mesma forma constante no subitem 4.2.3, reabrindo -se o prazo 
+inicialmente estabelecido, exceto quando a alteração não afetar a formulação das Propostas de 
+Preços. 
+4.3. A ausência de manifestação motivada das  licitantes, bem como a não apresentação de  
+memoriais fundados naquelas razões, ou documentos que instruam a impugnação, no  prazo 
+estipulado n este item , pressupõe que os elementos fornecidos são suficientemente claros e 
+precisos para permitir a apresentação de Propostas de Preços  e documentos de habilitação, 
+não cabendo as licitantes o direito a qualquer reclamação posterior. 
+4.4. O SENAR-AR/MS não se responsabilizará por eventuais e-mails que, por qualquer motivo, 
+não sejam recebidos no prazo em virtude de possíveis  problemas no servidor ou navegador, 
+tanto do SENAR-AR/MS quanto do remetente da mensagem. 
+5. DA REPRESENTAÇÃO E DO CREDENCIAMENTO 
+ 
+   Página 5 de 26 
+ 
+5.1. Para participar da presente licitação  as licitantes deverão estar credenciadas no provedor 
+do sistema “Licitações-e”, do Banco do Brasil S/A, na página https://licitacoes-
+e2.bb.com.br/aop-inter-estatico/. 
+5.2. O credenciamento dar -se-á pela atribuição de chaves de identificação e de senhas 
+individuais a serem fornecidas pelo provedor do sistema quando do credenciamento. 
+5.2.1. O uso da senha de acesso ao sistema eletrônico é pessoal e intransferível, de inteira  
+responsabilidade da interessada, não cabendo ao provedor do sistema ou ao SENAR-AR/MS, 
+responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que  por 
+terceiros. 
+5.3. O credenciamento da licitante e de seu representante legal junto ao sistema eletrônico 
+implica a responsabilidade legal pelos atos praticados e a presunção de capacidade técnica 
+para realização das transações inerentes ao Pregão Eletrônico. 
+5.4. Maiores informações sobre o credenciamento poderão ser obtidas em qualquer agência do 
+Banco do Brasil S/A ou pelos telefones 4004-0001 – Capitais e Regiões 
+Metropolitanas e 0800-729-0001 – demais localidades. 
+6.1. A participação na licitação dar -se-á por meio da conexão das licitantes ao site  
+https://licitacoes-e2.bb.com.br/aop-inter-estatico/, mediante digitação de sua senha privativa  
+(emitida nos termos do  item 5 deste Edital) e subsequente encaminhamento da  Proposta de 
+Preços e Documentos de Habilitação , observados os prazos, condições, especificações,  além 
+de datas e horários limites estabelecidos neste Edital. 
+6.2. As licitantes serão responsáveis por todas as transações que forem efetuadas em seus  
+nomes no sistema eletrônico, assumindo como firmes e verdadeiras suas Propostas de Preços 
+e seus lances. 
+6.3. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão 
+Eletrônico, o sistema eletrônico licitações -e https://licitacoes-e2.bb.com.br/aop-inter-estatico/ 
+poderá permanecer acessível às licitantes para a recepção dos lances. 
+7.1. Após a divulgação do Edital no sítio eletrônico, as licitantes encaminharão, exclusivamente 
+por meio do sistema, sua Proposta de Preços contendo a descrição do objeto ofertado, marca, 
+modelo e valor unitário dos itens que compõem o lote, até a data e o horário estabelecidos para 
+abertura da sessão pública. 
+7.1.1. A etapa de que trata o item anterior será encerrada com a abertura da sessão pública. 
+7.1.2. O envio da proposta ocorrerá por meio de chave de acesso e senha. 
+6. DA CONEXÃO COM O SISTEMA 
+7. DA APRESENTAÇÃO DA PROPOSTA DE PREÇOS 
+ 
+   Página 6 de 26 
+ 
+7.2. Para fins de julgamento será considerada a proposta em 02 (duas) formas não 
+excludentes: 
+a) PROPOSTA ELETRÔNICA: Proposta de valor total por lote enviada pela licitante através do 
+sistema “Licitações-e”. 
+b) PROPOSTA AJUSTADA: Proposta detalhada enviada pela licitante arrematante. 
+7.3. PROPOSTA ELETRÔNICA 
+7.3.1. A licitante deverá encaminhar a Proposta de Preços por meio do sistema eletrônico até a 
+data e horário marcados para abertura da sessão  pública, quando, então, encerrar -se-á 
+automaticamente a fase de recebimento das Propostas. 
+7.3.2. A licitante deverá enviar sua Proposta de Preços mediante o preenchimento dos campos, 
+no sistema eletrônico, indicando dentre outras informações: 
+a) Valores unitários dos itens que compõem o lote. 
+b) Descrição detalhada das características técnicas mínimas solicitadas, com a descrição do 
+sítio de internet para facilitar e agilizar a consulta. (no campo Descrição/observação) 
+c) A licitante deverá registrar em sua proposta de preços as especificações do objeto. Não 
+serão aceitas Propostas de Preços  que contenham somente a expressão “conforme Edital”, 
+“conforme Termo de Referência” ou quaisquer outra que não a especificação do objeto licitado. 
+7.3.2.1. Não será admitida a cotação de materiais usados, reaproveitados, recauchutados, 
+remanufaturados ou que não sejam novos. 
+7.3.3. A apresentação do valor total da Proposta de Preços  eletrônica pressupõe o 
+cumprimento das condições estabelecidas neste Edital e seus Anexos, em especial:  
+7.3.3.1. O cumprimento das especificações constante do Termo de Referência – ANEXO I.  
+7.3.3.2. Que os valores totais apresentados correspondem ao fornecimento de acordo com a 
+forma de julgamento constante neste Edital. 
+7.3.4. A Proposta de Preços  deverá ser cotada por preço unitário e total, fixo, em moeda 
+corrente nacional (Real R$), em algarismos com no máximo  02 (duas) casas decimais 
+após a vírgula e preferencialmente por extenso, incluindo todas as despesas com encargos 
+sociais, tributos, descontos, emolumentos, impostos, fretes, despesas diretas e indiretas em 
+geral e demais condições de fornecimento (no caso de materiais) que sejam devidas em 
+decorrência, direta e indireta, da execução do objeto, inclusive diferencial de alíquota do ICMS 
+referente aos produtos fornecidos por empresas situadas fora do estado do Mato Grosso do 
+Sul.  
+7.3.5. Nos preços propostos estarão inclusos ainda custos operacionais, encargos  
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou 
+indiretamente no fornecimento dos bens, incluindo despesas com amostras, seguros, taxas e 
+ 
+   Página 7 de 26 
+ 
+demais encargos, não sendo lícita a cobrança posterior de qualquer ônus, ficando a licitante 
+obrigada a fornecer o objeto pelo valor resultante de sua Proposta de Preços , sem que lhe 
+caiba, em qualquer caso, direito regressivo em relação ao SENAR-AR/MS, nem qualquer outro 
+pagamento adicional, sem possibilidade de outras inclusões de custos. 
+7.3.6. Acaso sejam ofertados valores considerando centésimos, estes serão desconsiderados, 
+sem qualquer arredondamento. 
+7.3.7. A licitante não poderá cotar/ofertar quantidade inferior ou superior à especificada para o 
+objeto licitado. 
+7.3.8. O SENAR-AR/MS é considerado consumidor final, portanto não está sujeito a mesma 
+tributação das empresas comerciais, contudo, vale destacar que para as empresas sediadas 
+fora do estado de MS há uma cobrança de diferencial de alíquota de ICMS, que pode girar em 
+torno de +/- 10%, dependendo da região, conforme Decreto n.º 13.162, de 27 de abril de 2011 
+editado pelo governo do Estado e Mato Grosso do Sul. A diferença de imposto deverá ser 
+suportada pela licitante vencedora nos termos do subitem 7.3.4 deste Edital.  
+7.3.9. Os preços ofertados, tanto na Proposta de Preços, quanto na etapa de lances, serão de 
+exclusiva responsabilidade da licitante, não lhe assistindo o direito de pleitear qualquer 
+alteração, sob alegação de erro, omissão ou qualquer outro pretexto. 
+7.3.10. A licitante será responsável por todas as transações que forem efetuadas em seu nome 
+no sistema eletrônico, assumindo como firmes e verdadeiras suas Propostas de Preços  e 
+lances. 
+7.3.11. Incumbirá à licitante acompanhar as operações no sistema eletrônico durante a sessão 
+pública do Pregão, ficando responsável pelo ônus decorrente da perda de negócios, diante da 
+inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão.  
+7.3.12. Até a abertura da sessão pública, as licitantes poderão retirar ou substituir as Propostas 
+de Preços apresentadas. 
+7.4. PROPOSTA AJUSTADA: 
+7.4.1. A Proposta de Preços Ajustada deverá ser apresentada pela licitante classificada como 
+primeira colocada , observando preferencialmente o modelo constante no ANEXO II , 
+contendo a descrição completa do objeto ofertado, marca, modelo, valores unitários e totais, 
+sem emendas, ressalvas, rasuras ou entrelinhas, devendo ser datada, impressa e assinada 
+pelo representante legal da licitante na última folha e rubricada nas demais. 
+7.4.2. As folhas devem ser numeradas utilizando -se a seguinte grafia: número da folha / 
+quantidade total de folhas. A grafia citada visa indicar, com precisão, a quantidade total de 
+folhas e a numeração de cada folha em relação a esse total. Como exemplo, supondo o total 
+de vinte folhas, teríamos a seguinte numeração: 1/20, 2/20, 3/20... 20/20. 
+ 
+   Página 8 de 26 
+ 
+7.4.3. Havendo discrepância entre os preços unitários e totais da Proposta de Preços ajustada, 
+prevalecerá o valor total arrematado e, havendo discordância entre o valor total da proposta em 
+algarismo e o total por extenso, prevalecerá o que equivaler ao valor arrematado.  
+7.4.4. A validade da Proposta de Preços não poderá ser inferior a 60 (sessenta) dias corridos, 
+contados da data da abertura do pregão. A ausência de inserção de data e prazo na Proposta 
+de Preços implica na presunção de aceite da data determinada neste Edital. 
+7.4.4.1. Caso haja o vencimento da validade da Proposta de Preços sem que a licitação tenha 
+sido homologada e o contrato assinado, esta fica automaticamente prorrogada, exceto se 
+houver manifestação contrária formal da licitante, através do e-mail licitacoes@senarms.org.br, 
+dirigida à CPL, caracterizando seu declínio em continuar na licitação.  
+7.4.5. A licitante deverá indicar na Proposta de Preços o número da conta bancária, agência e 
+banco para fins de pagamentos, bem como os dados do Representante Legal que assinará o 
+contrato ou instrumento equivalente: Nome Completo, nº do RG, nº do CPF e e-mail pessoal. 
+7.4.6. Os termos constantes da Proposta de Preços ajustada são de exclusiva 
+responsabilidade da licitante, não lhe assistindo o direito a qualquer modificação. 
+7.4.7. Após a apresentação da Proposta de Preços escrita (independente do meio de 
+envio/recebimento), não cabe desistência pela licitante, salvo por motivo justo, decorrente de 
+fato superveniente, e que venha a ser aceito pelo SENAR-AR/MS. 
+7.5. A apresentação da Proposta de Preços  implicará plena aceitação, por parte da 
+proponente, de todas as condições estabelecidas neste Edital e seus Anexos. 
+8.1. Encerrada a etapa de lances da sessão pública, a análise da proposta e a negociação, a 
+(s) licitante(s) encaminharão, exclusivamente por meio do sistema eletrônico licitações -e 
+https://licitacoes-e2.bb.com.br/aop-inter-estatico/, até o prazo máximo de 03 (três) horas 
+após o encerramento da fase de lances , os documentos de habilitação exigidos no Edital, 
+SENDO NECESSÁRIO ANEXAR AO SISTEMA, SOB PENA DE DESCLASSIFICAÇÃO, 
+TODOS OS DOCUMENTOS DE HABILITAÇÃO A SEGUIR DISCRIMINADOS. A Habilitação 
+dos licitantes será verificada exclusivamente por meio dos arquivos encaminhados por meio do 
+sistema https://licitacoes-e2.bb.com.br/aop-inter-estatico/. 
+8.2. HABILITAÇÃO JURÍDICA 
+8.2.1. Em se tratando de pessoa jurídica deverá ser apresentado o Ato Constitutivo, ou a Prova 
+de Registro de Empresário Individual ou o Estatuto ou Contrato Social em vigor, inclusive a 
+última alteração (podendo ser substituído por ato consolidado) devidamente registrado. 
+8. DOS DOCUMENTOS DE HABILITAÇÃO 
+ 
+   Página 9 de 26 
+ 
+a) em se tratando de sociedades comerciais e, no caso de sociedade por ações, ato de 
+nomeação ou de eleição dos administradores, devidamente registrado no órgão competente, 
+na hipótese de terem sido nomeados ou eleitos em separado. 
+8.2.2. Declarações nos termos do modelo constante do ANEXO III deste Edital. 
+8.2.3. Cédula de identidade do(s) sócio(s).  
+8.3. QUALIFICAÇÃO TÉCNICA 
+8.3.1. Atestado de Capacidade Técnica, expedido por pessoa jurídica de direito público ou 
+privado, em seu nome, que indique, qualifique e comprove aptidão para fornecimento de 
+produtos com características semelhantes ao objeto deste Edital, em especial ao constante 
+no Termo de Referência – ANEXO I do Edital, por ser considerada como parcela de maior 
+relevância no presente caso. 
+8.3.1.1. A licitante deverá comprovar aptidão para desempenho de atividade pertinente e 
+compatível em características tecnológicas e operacionais com o objeto licitado, mediante 
+apresentação de atestado(s) de capacidade técnico-operacional, emitido(s) por pessoa jurídica 
+de direito público ou privado, que comprovem a entrega e operação de serviço de Infraestrutura 
+como Serviço (IaaS) em ambiente de produção, com capacidade mínima comprovada de, no 
+mínimo, 80 vCPUs e 140 GB de memória RAM alocados em ambiente de produção, admitido o 
+somatório de atestados. 
+8.3.1.2. Para fins deste instrumento, considera -se parcela de maior relevância técnica a 
+comprovação de fornecimento e operação de ambiente de Infraestrutura como Serviço (IaaS) 
+em produção, com recursos computacionais virtualizados, alta disponibilidade e mecanismos 
+de segurança compatíveis com os requisitos estabelecidos no Termo de Referência. 
+8.3.1.3. O atestado deverá ser fornecido em papel timbrado de cliente da proponente, no qual 
+expressamente constará o detalhamento do objeto anteriormente fornecido,  data de emissão 
+do atestado, assinatura e identificação do signatário (nome, cargo e função que exerce junto à 
+licitante emitente). 
+8.3.1.4. Para fins de comprovar a atuação em trabalhos similares da forma como determinado 
+no item 8.3.1 o atestado poderá ser acompanhado de outros documentos pertinentes. 
+8.4. À QUALIFICAÇÃO ECONÔMICA E FINANCEIRA 
+8.4.1. Balanço Patrimonial e Demonstração do Resultado do Exercício – DRE referente ao 
+último exercício social, apresentados na forma da Lei e Resoluções do Conselho Federal de 
+Contabilidade – CFC, ou balanço de abertura no caso de empresa recém -constituída que 
+comprovem a boa situação financeira da licitante, vedada a substituição das demonstrações 
+contábeis por balancetes ou balanços provisórios. 
+8.4.1.1. As empresas com menos de um exercício financeiro devem cumprir a exigência deste 
+ 
+   Página 10 de 26 
+ 
+subitem mediante a apresentação do Balanço de Abertura. 
+8.4.1.2. Serão considerados aceitos como na forma da lei o balanço patrimonial e 
+demonstrações contábeis assim apresentados: 
+a) No caso de sociedades anônimas, balanço patrimonial e demonstrações contábeis, 
+publicados no Diário Oficial do Estado/ Distrito Federal ou, se houver, do Município da sede da 
+empresa ou; 
+b) Publicados em jornal de grande circulação ou; 
+c) Registrados na Junta Comercial da sede ou domicílio do licitante ou; 
+d) Registrados, via Livro Digital, contendo Termo de Autenticação – Livro Digital, Termo de 
+Abertura, Balanço Patrimonial, Demonstração do Resultado do Exercício – DRE e Termo de 
+Encerramento ou; 
+e) Registrados Digitalmente, via arquivamento, contendo Requerimento, Registro Digital – 
+Capa de Processo, Balanço Patrimonial e Demonstração do Resultado do Exercício – DRE ou; 
+f) Páginas do Livro Diário, contendo Termo de Abertura, Balanço Patrimonial, Demonstração 
+do Resultado do Exercício – DRE e Termo de Encerramento, com o respectivo registro na 
+Junta Comercial e, no caso de sociedades simples (cooperativas), no cartório competente ou; 
+g) Páginas transmitidas via Sistema Público de Escrituração Digital – Sped, contendo Recibo 
+de Entrega e Escrituração Contábil Digital, Termo de Abertura e Encerramento, Balanço 
+Patrimonial, Demonstração do Resultado do Exercício – DRE. 
+8.4.1.2.1. O marco temporal para apresentação das demonstrações do último exercício social 
+exigível será o último dia útil do mês de junho do ano seguinte ao ano -calendário a que se 
+refere a escrituração, nos termos da IN RFB n. 2.142/2023. 
+8.4.1.3. A comprovação da boa situação financeira do licitante será avaliada pelo  cálculo dos 
+Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC) maiores ou 
+iguais (>/=) a 1 (um) , resultantes da aplicação das fórmulas abaixo, considerando os valores 
+extraídos de seu balanço patrimonial , mediante apresentação de documento assinado pelo 
+contador responsável e/ou pelo representante legal da licitante, que contenha os referidos 
+índices e suas respectivas fórmulas. 
+LG =  
+Ativo Circulante + Realizável a Longo Prazo 
+Passivo Circulante + Passivo Não Circulante 
+  
+SG = 
+Ativo Total 
+Passivo Circulante + Passivo Não Circulante 
+  
+LC = Ativo Circulante 
+ 
+   Página 11 de 26 
+ 
+Passivo Circulante 
+a) Os índices apresentados estarão sujeitos a conferência pela Pregoeira e Equipe de Apoio, 
+que poderão refazer os cálculos, conforme critérios estabelecidos acima, para fins de 
+verificação de sua autenticidade, aceitação e habilitação nesta licitação. 
+b) A licitante que apresentar índices econômicos inferiores (<) a 01 (um) em qualquer dos 
+índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC) deverá 
+comprovar que possui patrimônio líquido equivalente a 10% (dez por cento) do valor total 
+estimado da contratação ou do lote pertinente. 
+8.4.2. Certidão negativa de falência, concordata ou recuperação judicial expedida pelo cartório 
+distribuidor da sede de pessoa jurídica ou de execução patrimonial, em plena validade, ou com 
+data de emissão não superior à 90 (noventa) dias da data da abertura do certame. 
+8.5. À REGULARIDADE FISCAL 
+8.5.1. Prova de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ) relativo ao domicílio 
+ou sede da licitante e onde conste atividade operacional classificada no CNAE – Classificação 
+Nacional de Atividades Econômicas em caráter pertinente e compatível com o objeto desta 
+licitação. 
+8.5.2. Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, se houver, 
+relativo ao domicílio ou sede da licitante, pertinente ao seu ramo de atividade e compatível com 
+o objeto. 
+8.5.2.1. Como prova de inscrição no Cadastro de Contribuintes Estadual deverá ser 
+apresentado o CCI disponível no site http://www.sintegra.gov.br/ ou ainda no site 
+http://www1.sefaz.ms.gov.br/Cadastro/sintegra/cadastromsCCI.asp (para empresas do MS), ou 
+ainda, se for o caso, apresentar declaração devidamente assinada pelo Contador (e com nº do 
+CRC) e proprietário da empresa licitante expressando a desobrigação de inscrição estadual; ou 
+8.5.2.2. Como prova de inscrição no Cadastro de Contribuintes Municipal deverá ser 
+apresentado o “Cartão de Inscrição” ou Alvará de Funcionamento. 
+8.5.3. Prova de regularidade para com as Fazendas Federal, Estadual e Municipal do domicílio 
+ou sede da licitante, ou outra equivalente, na forma da lei.  
+8.5.3.1. A prova de regularidade para com a Fazenda Federal e Previdência Social (INSS) 
+deverá ser atendida mediante apresentação da Certidão Negativa de Débitos relativos a 
+Créditos Tributários Federais e à Dívida Ativa da União (CND) expedida conjuntamente pela 
+Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria -Geral da Fazenda Nacional 
+(PGFN) ou documento equivalente que comprove essa regularidade. 
+8.5.3.2. A prova de regularidade para com a Fazenda Estadual deverá ser atendida por meio 
+ 
+   Página 12 de 26 
+ 
+da Certidão Negativa de Débitos da Fazenda Estadual, para fins de verificação. 
+8.5.3.3. A prova de regularidade para com a Fazenda Municipal do domicílio ou sede da 
+licitante deverá ser apresentada, para fins de verificação, podendo ser atendida por meio da 
+Certidão Negativa de Débitos Mobiliários ou equivalente na forma da lei. 
+8.5.4. Certificado de Regularidade de Situação para com o Fundo de Garantia por Tempo de 
+Serviço – FGTS, emitido pela Caixa Econômica Federal. 
+8.5.5. Certidão Negativa de Débitos Trabalhistas , emitida no portal do Tribunal Superior do 
+Trabalho, comprovando a inexistência de débitos trabalhistas. 
+8.6. Caso as certidões que provem a regularidade para com as Fazendas Federal, Estadual e 
+Municipal sejam POSITIVAS, o SENAR-AR/MS se reserva o direito de só aceitá -las se  
+contiverem expressamente o efeito de NEGATIVA, nos termos do art. 206 do Código Tributário 
+Nacional, passado pelo seu emitente. 
+8.7. No encaminhamento da documentação a licitante ainda deverá observar o seguinte:  
+8.7.1. Se a licitante for a matriz, todos os documentos devem estar em nome da matriz. 
+8.7.2. Se a licitante for filial, todos os documentos devem estar em nome da filial, exceto 
+aqueles para os quais a legislação permita ou exija a emissão apenas em nome da Matriz. 
+8.7.3. Em se tratando de matriz ou filial, na hipótese em que a pessoa jurídica que efetivamente 
+vai executar o objeto não for a mesma que participou da sessão pública, os documentos de 
+habilitação da pessoa jurídica que constará no instrumento contratual ou documento 
+equivalente emitido pelo SENAR-AR/MS também deverão ser apresentados,  junto com os 
+Documentos de Habilitação, ressalvadas as hipóteses de exceção citadas no subitem 8.7.2 
+acima. 
+8.8. Não havendo prazo de validade previsto na(s) certidão(ões) apresentada(s), entender-se-á 
+(ão) válida(s) por 90 (noventa) dias contados de sua expedição. 
+8.8.1. Os prazos de validade previstos neste Edital prevalecem caso os órgãos expedidores 
+não estabeleçam outro no documento. 
+8.9. Para habilitação, a licitante interessada deverá apresentar os documentos de habilitação, 
+originais ou em c ópia autenticada por cartório competente, ou ainda, publicação em órgão de 
+imprensa oficial, e/ou documento disponível no site oficial do órgão emissor, em 01 (uma) via, 
+preferencialmente, numerados, dispostos ordenadamente,  sendo aceitos somente os que 
+estiverem em plena validade. 
+8.10. A habilitação das licitantes fica condicionada à verificação dos documentos de 
+habilitação, bem como da respectiva validade, podendo a CPL efetuar as consultas que julgar 
+adequadas sempre que houver dúvidas sobre a legitimidade/autenticidade dos documentos 
+apresentados. 
+ 
+   Página 13 de 26 
+ 
+8.11. Os documentos que forem emitidos pela Internet, bem como aqueles cuja aceitação 
+esteja condicionada a verificação de sua autenticidade na Internet, estarão sujeitos a  
+conferência na página eletrônica do órgão emissor, para fins de verificação de sua 
+autenticidade e aceitação pela CPL. 
+8.12. Para a análise dos documentos de habilitação afetos aos aspectos técnicos, a CPL 
+poderá utilizar de assessoramento técnico específico, o qual emitirá parecer que integrará o 
+processo. 
+9.1. A licitante se obriga a adotar conduta justa e ética, respeitando as diretrizes estabelecidas 
+no Código de Conduta e nas Políticas do Programa de Integridade do SENAR -AR/MS, 
+disponível no endereço eletrônico http://www.senarms.org.br, o qual desde já declara conhecer 
+e estar vinculada, bem como assinar o Termo de observância ao Código de Conduta e às 
+Políticas do Programa de Integridade do SENAR -AR/MS – Anexo V e a Declaração de 
+Potenciais Conflitos – Anexo VI, ambos deste Edital. 
+9.1.1. O “Termo de Observância – ANEXO V” e a “Declaração de Potenciais Conflitos – Anexo 
+VI” deverão ser apresentadas juntamente com os Documentos de Habilitação. 
+10.1. A abertura da presente licitação dar -se-á em sessão pública, por meio de sistema 
+eletrônico, na data, horário e local indicados neste Edital. 
+10.2. A apresentação da Proposta de Preços eletrônica pressupõe o fiel cumprimento do 
+estabelecido neste Edital e seus anexos, inferindo -se, portanto, a não necessidade de análise 
+para fins de classificação de propostas. Não obstante, a CPL, a seu exclusivo critério, poderá 
+optar pela análise d as propostas encaminhadas, desclassificando aquelas que não estiverem 
+em consonância com o estabelecido neste Edital,  contenham vícios insanáveis ou não 
+apresentem as especificações técnicas exigidas no Termo de Referência  – Anexo I, cabendo 
+ao Pregoeiro registrar e disponibilizar a decisão, em campo próprio no sistema eletrônico, para 
+acompanhamento em tempo real pelas licitantes. 
+10.2.1. Também será desclassificada a Proposta de Preços que identifique a licitante. 
+10.2.3. A desclassificação será sempre fundamentada e registrada no sistema, com 
+acompanhamento em tempo real por todos os participantes. 
+10.2.4. A não desclassificação da Proposta de Preços não impede o seu julgamento definitivo 
+em sentido contrário, levado a efeito na fase de aceitação. 
+9. DA OBSERVÂNCIA DO CÓDIGO DE CONDUTA E DAS POLÍTICAS DO PROGRAMA 
+DE INTEGRIDADE DO SENAR-AR/MS 
+10. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E DO ENVIO DE 
+LANCES 
+ 
+   Página 14 de 26 
+ 
+10.3. O sistema ordenará automaticamente as Propostas de Preços  classificadas, sendo que 
+somente estas participarão da fase de lances. 
+10.4. A validade da licitação não ficará comprometida, se inviabilizada a fase de lances, em 
+razão da apresentação e/ou classificação de apenas 01 (uma) Proposta de Preços, conforme 
+previsto no inciso II do § 4º do art. 6º do RLC. 
+10.5. INICIADA A FASE DE LANCES , as licitantes, autoras das Propostas de Preços  
+classificadas, poderão oferecer lances sem restrições de quantidade ou de qualquer ordem 
+classificatória ou cronológica específica, mas sempre inferior ao seu último lance ofertado. 
+10.6. Todos os lances oferecidos serão registrados pelo sistema eletrônico, que estará sempre 
+indicando o lance de menor valor para acompanhamento em tempo real pelas licitantes. 
+10.7. Durante o transcurso da sessão pública de disputa de preços, as licitantes serão 
+informadas, em tempo real, do valor do menor lance registrado. O sistema não identificará a 
+autora dos lances às demais licitantes. 
+10.8. Na hipótese de haver lances iguais prevalecerá, como de menor valor, o lance que tiver 
+sido primeiramente registrado. 
+10.9. A etapa de envio de lances na sess ão pública durará 10 (dez) minutos e, após isso, será 
+prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos 02 (dois) 
+minutos do período de duração da sessão. 
+10.9.1. A prorrogação automática da etapa de envio de lances, de que trata o  subitem anterior, 
+será de 02 (dois) minutos e ocorrer á sucessivamente sempre que houver lances enviados 
+nesse período de prorrogação, inclusive quando se tratar de lances intermediários. 
+10.9.2. Na hipótese de não haver novos lances na forma estabelecida no subitem 10.9 e 10.9.1 
+a sessão pública será encerrada automaticamente. 
+10.9.3. Encerrada a sessão pública sem prorrogação automática pelo sistema, nos termos do 
+disposto subitem 10.9.1, o Pregoeiro poder á, assessorado pela equipe de apoio, admitir o 
+reinício da etapa de envio de lances, em prol da consecu ção do melhor pre ço, mediante 
+justificativa. 
+10.10. No caso de não haver lances na sessão pública de disputa de preços, serão 
+considerados válidos os valores obtidos na fase de abertura das Propostas de Preços. 
+10.11. Após o encerramento da etapa de lances o sistema informará imediatamente, a 
+Proposta de Preços de menor preço.  
+10.12. Será classificada como primeira colocada do lote a licitante que atender as condições 
+deste Edital e apresentar o menor preço p ara o lote. As demais licitantes, que atenderem às 
+exigências de apresentação da Proposta de Preços, serão classificadas em ordem crescente. 
+ 
+   Página 15 de 26 
+ 
+10.13. Considera-se empate entre licitantes a apresentação de propostas com valores 
+idênticos, após esgotadas todas as formas de desempate previstas: lances e negociação. 
+Permanecendo o empate, o(a) Pregoeiro(a) do SENAR-AR/MS realizará sorteio entre as 
+propostas empatadas, como critério de desempate. 
+10.13.1. O sorteio será conduzido pela Comissão Permanente de Licitação – CPL, na sede do 
+SENAR-AR/MS, com a devida publicidade e transparência, conforme a legislação vigente e ao 
+SENAR-AR/MS aplicável,  sendo o resultado disponibilizado às licitantes envolvidas. 
+10.14. DA ACEITABILIDADE DA PROPOSTA 
+10.14.1. ENCERRADA A ETAPA COMPETITIVA  e ordenadas as ofertas, de acordo com o 
+menor preço apresentado , o (a) pregoeiro (a) examinará a proposta mais bem classificada 
+quanto à compatibilidade do preço ofertado com o valor máximo estimado e à compatibilidade 
+da proposta com as especificações técnicas do objeto. 
+10.14.1.1. Não se admitirá proposta que apresente valores simbólicos, irrisórios ou de valor 
+zero, incompatíveis com os preços de mercado, exceto quando se referirem a materiais e 
+instalações de propriedade da licitante, para os quais ela renuncie à parcela ou à totalidade de 
+remuneração. 
+10.14.1.2. Não serão aceitas propostas com valor unitário superior ao máximo estimado ou 
+com preços manifestamente inexequíveis. 
+a) Considerar-se-á inexequível a proposta que não venha a ter demonstrada sua viabilidade 
+por meio de documentação que comprove que os custos envolvidos na contratação são 
+coerentes com os de mercado do objeto deste Pregão. 
+b) Será desclassificada a proposta que não corrigir ou não justificar eventuais falhas apontadas 
+pelo Pregoeiro. 
+10.15. A licitante que abandonar o certame, deixando de enviar a documentação indicada 
+neste Edital, será desclassificada e sujeitar -se-á às sanções previstas neste instrumento 
+convocatório. 
+10.16. É vedada a desistência de lances já ofertados, sujeitando -se a licitante proponente às  
+sanções previstas neste Edital, salvo por motivo justo decorrente de fato superveniente e aceito 
+pela CPL. 
+10.16.1. As justificativas de que tratam o subitem anterior, deverão ser encaminhadas através 
+do e-mail licitacoes@senarms.org.br, não sendo aceita outra forma de  encaminhamento 
+destas. 
+11. DA NEGOCIAÇÃO E DO ENVIO DA PROPOSTA DE PREÇOS AJUSTADA 
+ 
+   Página 16 de 26 
+ 
+11.1. Encerrada a etapa de envio de lances da sess ão pública, ordenados os preços ofertados 
+em ordem crescente, o Pregoeiro deverá encaminhar, pelo sistema eletrônico, contraproposta 
+à licitante que tenha apresentado o melhor pre ço, para que seja obtida melhor proposta, 
+vedada a negociação em condições diferentes das previstas no Edital. 
+11.1.1. A negocia ção ser á realizada por meio do sistema e poder á ser acompanhada pel as 
+demais licitantes. 
+11.2. Após negociação, o Pregoeiro examinará a Proposta de Preços classificada em primeiro 
+lugar quanto à adequação ao objeto e à compatibilidade do pre ço em rela ção ao m áximo 
+estipulado no Termo de Referência e determinará à licitante classificada como primeira 
+colocada que encaminhe sua PROPOSTA AJUSTADA, no prazo máximo de 24 (vinte e quatro) 
+horas, após o encerramento da  etapa de negociação (contraproposta) , observando o disposto 
+no item 7.4 e ainda:  
+11.2.1. O documento dev erá ser enviado digitalizado no formato “ .pdf” ou formato ZIP , 
+através da página principal do “Licitações-e”, conforme orientação da cartilha para 
+fornecedores. 
+11.2.2. No caso de fatores que impeçam o envio por meio eletrônico, a licitante deverá entrar 
+em contato com o SENAR-AR/MS por meio do telefone (67) 3320 -9700 para que seja 
+viabilizado outro meio de envio, quando então esta, será submetida a análise da CPL quanto 
+sua conformidade às exigências deste Edital. 
+11.2.3. Somente mediante autorização da CPL e em caso de indisponibilidade do sistema, será 
+aceito o envio da Proposta de Preços por outro meio de envio. 
+11.2.4. Após o recebimento da Proposta de Preços Ajustada, a CPL analisará os preços 
+unitários e totais e a aceitabilidade dos mesmos e desclassificará aquela que: 
+a) não estiver em consonância com o estabelecido neste Edital, contenha vício insanável ou 
+não apresente as especificações técnicas exigidas no Termo de Referência – Anexo I. 
+b) Apresentar preços iguais a zero ou superiores aos preços unitários máximos dos itens,  
+estabelecidos no Termo de Referência – ANEXO I do presente Edital. 
+c) Apresentar quantitativo menor ou maior que o previsto no Termo de Referência – ANEXO I. 
+11.3. No que concerne a Proposta de Preços Ajustada, mesmo tendo sido realizada a análise e 
+classificação da proposta eletrônica, se for identificada divergência com o previsto neste Edital 
+e seus anexos, a critério da CPL, poderá haver desclassificação da Proposta de Preços 
+Ajustada. 
+11.4. Não serão consideradas vantagens não previstas neste Edital ou baseadas nas ofertas 
+dos demais. 
+ 
+   Página 17 de 26 
+ 
+12.1. Antes de declarar a licitante vencedora, a CPL promoverá a verificação da  Proposta de 
+Preços ajustada e dos Documentos de Habilitação da licitante que, na ordenação  feita pelo 
+sistema, apresentou o menor preço por lote.  
+12.2. Se a Proposta de Preços por lote não for aceitável, ou se a licitante  desatender às 
+exigências de habilitação, a CPL examinará a oferta subsequente, na ordem de classificação, 
+verificando a sua aceitabilidade e solicitando, via sistema “Licitações-e” do Banco do Brasil, à 
+respectiva licitante os documentos necessários à comprovação de sua habilitação, bem como a  
+Proposta de Preços ajustada, repetindo o procedimento,  sucessivamente, se assim vier a se 
+justificar, até a apuração de uma oferta que atenda às condições deste Edital. 
+12.3. Serão inabilitadas as licitantes que não atenderem no todo ou em parte as condições  
+estabelecidas neste Edital e seus Anexos, ou que apresentem documentação vaga, omissa, 
+que contenha quaisquer tipos de vícios e/ou erros de conteúdo, ou ainda, que estejam com 
+prazos de validade expirados. 
+12.4. A CPL poderá, visando  o interesse do SENAR-AR/MS em manter o caráter competitivo 
+desta licitação, aceitar simples omissões irrelevantes (erros formais), para o fiel entendimento 
+da proposta/documentação  que não caracterizam  motivos de desclassificação/inabilitação  e 
+que não causem prejuízo ao SENAR-AR/MS ou lesem direitos das demais licitantes.  
+12.5. Acaso eventual omissão , falha ou outras irregularidades possam ser suprida s com a 
+consulta em sítio da internet no transcurso da própria sessão  pública, poderá ser a licitante 
+habilitada, ficando esta prerrogativa a critério da CPL. 
+12.6. Será (ão) declarada(s) vencedora(s)  a(s) licitante(s) que tiver (em) a sua proposta 
+classificada, apresentar(em) o “MENOR PREÇO POR LOTE”, tiver(em) seus documentos de 
+habilitação validados, desde que considerada(s) habilitada(s) nos termos deste Edital. 
+13.1. Fica facultado à CPL, solicitar à (s) licitante(s) vencedora(s) o envio, no prazo máximo de 
+03 (três) dias úteis, a contar da declaração d a ven cedora, a documentação apresentada 
+para a referida licitação, constante no item 8 deste Edital, obrigatoriamente em invólucro único 
+e lacrado, no qual externamente deverá ser  informado o nome da empresa licitante , o 
+número e a data da presente licitação e a  inscrição/menção “Documentos de Habilitação ”, 
+endereçados à Comissão Permanente de Licitação  (CPL) do SENAR-AR/MS, conforme 
+endereço presente no preâmbulo deste Edital: 
+À COMISSÃO PERMANENTE DE LICITAÇÃO 
+SENAR-AR/MS 
+12. DA ANÁLISE E JULGAMENTO DA PROPOSTA DE PREÇOS AJUSTADA E DOS 
+DOCUMENTOS DE HABILITAÇÃO 
+13. DO ENVIO DOS DOCUMENTOS DE HABILITAÇÃO – VIAS ORIGINAIS 
+ 
+   Página 18 de 26 
+ 
+PREGÃO ELETRÔNICO Nº 009/2026 – DATA: xx/xx/xxxx 
+PROPOSTA DE PREÇOS E DOCUMENTOS DE HABILITAÇÃO 
+LICITANTE: xxxxxxxxxxxxxxxxxxx 
+13.2. Os documentos de Habilitação enviados via correio deverão ser os mesmos inseridos no 
+sistema do Licitações-e quando do cadastro da Proposta de Preços. 
+13.2.1. Quando os documentos inseridos no sistema forem as vias originais, a licitante , caso 
+solicitado pela CPL, deverá enviar estas mesmas vias originais ou ainda providenciar cópia 
+autenticada por cartório competente, desses documentos e enviá-los, via correio. 
+13.2.2. Quando a licitante optar por inserir no sistema os documentos por meio de cópia 
+autenticada por cartório competente, estas mesmas cópias autenticadas deverão ser enviadas, 
+via correio, caso solicitado pela CPL. 
+13.2.3. Não haverá necessidade de envio d os documentos de habilitação apresentados, 
+quando estes forem certificados e/ou assinados digitalmente. 
+13.3. O não cumprimento do prazo estabelecido no subitem 13.1, poderá ocasionar a 
+desclassificação imediata  da licitante , sendo, por conseguinte, convocadas (quando for 
+possível) as demais licitantes via sistema “Licitações-e”, por ordem de classificação, salvo por 
+motivo justo, decorrente de fato superveniente, e que venha a ser aceito pelo SENAR-AR/MS. 
+14.1. Declarada a vencedora do certame, qualquer licitante que assim desejar poderá, 
+exclusivamente em campo próprio do sistema eletrônico do Banco do Brasil S/A 
+(https://licitacoes-e2.bb.com.br/aop-inter-estatico/), manifestar , de forma imediata e motivada, 
+sua intenção de recorrer, registrando, na oportunidade, a síntese das suas razões de recurso. 
+14.1.1. Entende-se por manifestação imediata aquela apresentada pela licitante nas primeiras 
+24 (vinte e quatro) horas após a declaração do vencedor e por  manifestação motivada a 
+descrição sucinta e clara do fato motivador do recurso a ser interposto. 
+14.1.2. A manifestação da intenção de recorrer deverá ser registrada diretamente no sistema 
+eletrônico do Banco do Brasil S/A, em campo próprio, de acordo com a Cartilha dos 
+Fornecedores. 
+14.2. Somente caberão recursos escritos e fundamentados da decisão que declarar a 
+vencedora, no prazo de 02 (dois) dias úteis contados da comunicação desta decisão, os quais 
+serão dirigidos, por intermédio da CPL, ao Superintendente do SENAR-AR/MS. 
+14.3. A licitante que puder vir a ter a sua situação no processo afetada pela reconsideração da 
+decisão poderão se manifestar sobre o pedido no prazo de 02 (dois) dias úteis, a contar da 
+publicação do resultado , que começará a fluir, automaticamente, do fim do prazo recursal , 
+assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses. 
+14. DOS RECURSOS ADMINISTRATIVOS 
+ 
+   Página 19 de 26 
+ 
+14.4. Os recursos deverão ser apresentados por meio eletrônico no próprio sistema do Banco 
+do Brasil S/A (https://licitacoes-e2.bb.com.br/aop-inter-estatico/). 
+14.4.1. Somente com autorização da CPL (solicitada no próprio sistema do Banco do Brasil S/A 
+(https://licitacoes-e2.bb.com.br/aop-inter-estatico/), as licitantes poderão encaminhar seus 
+recursos por meio do e-mail licitacoes@senarms.org.br, de segunda à sexta -feira, a ser 
+encaminhado em formato “.pdf”, assinado pelo representante legal da empresa. 
+14.5. Caberá ao Pregoeiro e à CPL, findo o prazo de manifestação, receber, examinar e instruir 
+os recursos interpostos contra suas decisões e encaminhá -los à autoridade competente, para 
+decisão final. 
+14.6. Os recursos serão julgados pelo Superintendente do SENAR-AR/MS ou por quem este 
+delegar competência  no prazo de até 10 (dez) dias úteis, contados da data final para sua 
+interposição ou, quando for o caso, daquela prevista para a manifestação do § 2º do art. 30. 
+14.6.1. Na hipótese do subitem anterior, constatando-se a necessidade de majoração no prazo, 
+considerar-se-á este certame, como suspenso, até que se tenha um julgamento definitivo. 
+14.7. A reconsideração da decisão somente invalidará os atos insuscetíveis de aproveitamento. 
+14.8. Os recursos terão efeito suspensivo. 
+14.9. A ausência de manifestação imediata e motivada da licitante, quanto à sua intenção de  
+interpor recurso, bem como a não apresentação de memoriais fundados naquelas  razões, ou 
+documentos que instruam o recurso, no prazo estabelecido para tal,  importará na decadência 
+desse direito, ficando a CPL, desde logo,  autorizada a encaminhar o processo para  
+homologação da licitação à licitante declarada vencedora do certame. 
+14.10. Transcorrido o prazo recursal ou, julgados os recursos eventualmente interpostos, ou na 
+hipótese da renúncia à apresentação de recursos, será o resultado da licitação submetido ao 
+Presidente do Conselho Administrativo do SENAR-AR/MS para o procedimento de 
+homologação. 
+15.1. A homologação dos atos deste Pregão  Eletrônico serão efetivadas pelo Presidente do 
+Conselho Administrativo do SENAR-AR/MS. 
+16.1. O SENAR-AR/MS convocará a licitante vencedora  após homologado o resultado do 
+presente Edital, por escrito, para, no prazo máximo de 0 5 (cinco) dias úteis, contados da data 
+da convocação, assinar o contrato. 
+15. DA AUTORIDADE COMPETENTE PARA A HOMOLOGAÇÃO DO RESULTADO DA 
+LICITAÇÃO 
+16. DA CONVOCAÇÃO PARA A ASSINATURA DO CONTRATO 
+ 
+   Página 20 de 26 
+ 
+16.2. Independentemente de sua transcrição, para todos os efeitos legais, farão parte do 
+contrato a ser assinado, todas as condições estabelecidas no presente Edital e seus A nexos, 
+Proposta de Preços, Documentação de Habilitação e Declarações. 
+16.3. Quando a licitante convocada não assinar o instrumento contratual, no prazo e nas 
+condições estabelecidas, serão convocadas as licitantes remanescentes, na ordem de 
+classificação, para formalização da contratação nas condições de suas propostas, limitado ao 
+valor estimado e sua eventual atualização nos termos deste Edital. 
+17.1. A execução do objeto está detalhada no Termo de Referência – Anexo I deste 
+instrumento. 
+17.2. Na execução do objeto  deverão ser observadas, de modo geral, as Especificações, 
+Posturas, Normas Técnicas, Leis e Regulamentos vigentes em todo o território nacional, bem 
+como será necessário possuir e/ou observar, independente de exigência expressa neste 
+instrumento ou seus anexos, as licenças, alvarás e/ou certificados necessários à fabricação, 
+comercialização, distribuição, fornecimento e/ou prestação de serviços relacionados a qualquer 
+dos materiais envolvidos no objeto  contratado, incluindo, mas não se limitando, as expedidas 
+pelos órgãos fiscalizadores, agências de regulação, institutos de metrologia, órgãos de controle 
+ambiental. 
+18.1. O prazo de vigência d o contrato s erá de 12 (doze) meses, já contemplando o prazo de 
+execução do objeto, podendo ser prorrogado, nos termos do art. 33 do RLC do SENAR, desde 
+que verificadas as hipóteses de conveniência e oportunidade por parte do SENAR-AR/MS 
+cumuladas ao interesse da CONTRATADA. 
+18.2. O pagamento, decorrente da execução do objeto será efetuado mensalmente, por meio 
+de crédito em conta bancária de natureza jurídica após a apresentação da nota fiscal e 
+recebimento do objeto, em até 25 (vinte e cinco) dias, respeitando o Cronograma de 
+Pagamentos do SENAR-AR/MS, onde: 
+a) Os pagamentos serão efetuados nos dias 15 e 30 de cada mês, mediante crédito em conta 
+bancária de sua titularidade, sendo programados para o primeiro dia útil subsequente caso 
+recaiam sobre feriado, final de semana ou data em que não haja expediente no SENAR-
+AR/MS. 
+b) As notas fiscais recebidas e aceitas entre os dias 21 e o dia 05 do mês seguinte terão seus 
+pagamentos executados no dia 15 mais próximo. 
+17. DA FORMA DE EXECUÇÃO DO OBJETO 
+18. DO PRAZO DE VIGÊNCIA E DO PAGAMENTO 
+ 
+   Página 21 de 26 
+ 
+c) As notas fiscais recebidas e aceitas entre os dias 06 e 20 de cada mês terão seus 
+pagamentos executados no dia 30 mais próximo. 
+18.2.1. A liquidação financeira ficará condicionada à entrega e aceitação do objeto, bem como 
+o envio da respectiva nota fiscal para o e-mail notafiscal@senarms.org.br. 
+18.2.2. Os documentos fiscais encaminhados em data que não houver expediente no SENAR-
+AR/MS, serão considerados como recebidos no primeiro dia útil subsequente. 
+18.2.3. As notas fiscais deverão ser encaminhadas para o e-mail notafiscal@senarms.org.br no 
+ato de sua emissão, a fim de evitar transtornos caso seja necessário o seu cancelamento. 
+18.2.4. Não produzirão efeitos, notas fiscais endereçadas a e-mail que não seja aquele previsto 
+no subitem 18.2.3, nem documentos fiscais cujo envio não tenha sido autorizado pelo SENAR-
+AR/MS. 
+18.3. A nota fiscal , para liquidação e pagamento da despesa deverá estar obrigatoriamente 
+atestada pelo SENAR-AR/MS, acompanhada do relatório dos serviços executados no período 
+faturado,  ficando a CONTRATADA obrigada a comprovar a regularidade  fiscal para com a  
+Fazenda Federal e Previdência Social (INSS), Fazenda Estadual ou Municipal (aquela que for 
+pertinente ao seu ramo de atividade e compatível com o objeto deste instrumento) , o Fundo de 
+Garantia por Tempo de Serviço (FGTS) e Justiça do Trabalho (CNDT – TST). 
+18.3.1. O pagamento dos itens 1, 2, 3, 4 e 5  será realizado com base nos recursos 
+efetivamente alocados e disponibilizados o SENAR-AR/MS. Para esse fim, a  CONTRATADA 
+deverá encaminhar, juntamente com a respectiva Nota Fiscal, relatório comprobatório dos 
+recursos alocados de forma exclusiva o SENAR-AR/MS. O item 6 caracteriza-se como serviço 
+de natureza contínua, sendo faturado mensalmente por valor fixo. 
+18.3.2. Caso a execução do objeto seja realizada através de nota fiscal da Matriz ou Filial cujo 
+CNPJ seja diferente do constante na Proposta apresentada, esta deverá estar acompanhada 
+das mesmas certidões mencionadas no item anterior. 
+18.3.2.1. Somente poderá ocorrer a situação acima, caso não ocorra à alteração de Alíquota de 
+ICMS ou qualquer outro custo que possa ser creditado ao SENAR-AR/MS. 
+18.4. Deverá constar na nota fiscal emitida: o objeto, o período faturado, as quantidades, o 
+valor unitário, o valor total, o número da conta bancária de natureza jurídica, agência e banco a 
+ser efetuado o pagamento, o número do Contrato.  
+18.5. Valores constantes da Nota Fiscal deverão refletir fidedignamente o objeto contratado 
+pelo SENAR-AR/MS. 
+18.6. As notas fiscais não aprovadas pelo SENAR-AR/MS serão devolvidas à CONTRATADA, 
+para as devidas correções, acompanhadas dos motivos de sua rejeição, renovando -se o prazo 
+ 
+   Página 22 de 26 
+ 
+para pagamento estabelecido no subitem 18.2 deste Instrumento, a partir da sua 
+reapresentação, sem qualquer tipo de correção de seu valor. 
+18.7. A inadimplência da CONTRATADA, com referência aos encargos pertinentes à execução 
+do objeto não transfere a responsabilidade por seu pagamento ao SENAR-AR/MS, nem pode 
+onerar o objeto contratado. 
+19.1. DA RECUSA EM ASSINAR O CONTRATO. 
+19.1.1. A recusa injustificada da licitante vencedora em assinar o contrato, dentro do prazo 
+fixado, caracterizará o descumprimento total da obrigação assumida e poderá acarretar à 
+licitante as seguintes penalidades, a exclusivo critério do SENAR-AR/MS: 
+I – perda do direito à contratação; 
+II – perda da caução em dinheiro ou execução das demais garantias de propostas oferecidas, 
+sem prejuízo de outras penalidades previstas no Edital; 
+III – suspensão do direito de licitar ou contratar com o SENAR-AR/MS, pelo prazo de até 03 
+(três) anos. 
+IV – Multa de natureza não compensatória, de 10% sob o valor total da proposta apresentada. 
+19.1.2. As hipóteses previstas neste artigo ensejarão impedimento do direito de licitar e terão 
+abrangência nacional, por prazo mínimo de 04 (quatro) anos e máximo de 06 (seis) anos: 
+l - apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração 
+falsa durante a licitação ou a execução do contrato; 
+ll - fraudar a licitação ou praticar ato fraudulento na execução do contrato; 
+lll - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+lV - praticar atos ilícitos com vistas a frustrar os objetivos da licitação. 
+19.2. DA INEXECUÇÃO DAS OBRIGAÇÕES FIRMADAS PELO CONTRATADA 
+19.2.1. A inexecução, total ou parcial, injustificada ou a execução deficiente, irregular ou 
+inadequada do objeto contratado, assim como o descumprimento dos prazos e das condições 
+estipuladas no contrato poderá, garantida a prévia defesa da CONTRATADA, ensejar sua 
+rescisão, sendo que para quaisquer destas hipóteses, mesmo que não resultante de rescisão 
+contratual, o SENAR-AR/MS poderá, igualmente garantida à prévia defesa, aplicar as 
+seguintes penalidades: 
+I – ADVERTÊNCIA, nas hipóteses de: 
+a) prestação de serviço em desconformidade com as especificações técnicas, de execução 
+irregular ou extemporânea do ato de entrega, que não resulte em prejuízo para a execução do 
+contrato. 
+19. DAS PENALIDADES 
+ 
+   Página 23 de 26 
+ 
+b) deixar de manter e/ou comprovar sua regularidade fiscal e demais condições de habilitação 
+exigidas para a correta execução do objeto, até finda vigência do contrato. 
+II – MULTA MORATÓRIA  de natureza não compensatória pelo não cumprimento das 
+condições estabelecidas no contrato, correspondente a: 
+a) 0,5% (meio por cento) ao dia sobre o valor do serviço não executado, até o limite de 10% 
+(dez por cento) de seu valor. 
+b) 10% (dez por cento) sobre o valor do serviço contratado, quando no ato de seu pagamento 
+não for comprovada a regularidade fiscal para com a Fazenda Federal e Previdência Social 
+(INSS), Fazenda Estadual ou Municipal (aquela que for pertinente ao seu ramo de atividade e 
+compatível com o objeto deste instrumento), o Fundo de Garantia por Tempo de Serviço 
+(FGTS) e Justiça do Trabalho (CNDT – TST) e a CONTRATADA não providenciar após 
+notificada. 
+III – MULTA COMPENSATÓRIA, correspondente à: 
+a) 10% (dez por cento) sobre o valor contratado na hipótese de recusa em iniciar a prestação 
+dos serviços após iniciada a vigência contratual. 
+b) 10% (dez por cento) sobre o valor contratado na hipótese em que a CONTRATADA perder 
+os requisitos de habilitação e não os restabelecer após notificada. 
+c) 10% (dez por cento) sobre o valor contratado na hipótese em que se verificar o 
+inadimplemento total ou parcial do ajuste por parte da CONTRATADA, determinante para 
+ensejar o cancelamento do contrato. 
+IV – SUSPENSÃO TEMPORÁRIA do direito de licitar ou contratar com o SENAR-AR/MS pelo 
+prazo de até 03 (três) anos. 
+19.3. A ausência de regularidade fiscal da CONTRATADA ensejará a interrupção da execução 
+do objeto, sem prejuízo da rescisão unilateral do contrato pelo SENAR-AR/MS. 
+19.4. Para a aplicação das penalidades previstas neste instrumento, a CONTRATADA será 
+notificada para apresentação de defesa prévia, no prazo de 05 (cinco) dias úteis, contados do 
+recebimento da notificação. 
+19.5. Será instaurado processo administrativo interno (PAI) nas hipóteses de inobservância, 
+pela CONTRATADA, do Código de Conduta e das Políticas do Programa de Integridade do 
+SENAR-AR/MS. 
+19.6. As multas serão cobradas, a critério do SENAR-AR/MS, por uma das formas a seguir 
+enumeradas: 
+a) Mediante descontos nos recebimentos a que a contratada tiver direito; 
+b) Mediante cobrança judicial. 
+ 
+   Página 24 de 26 
+ 
+19.6.1. As multas poderão ser aplicadas tantas vezes quantas forem as irregularidades 
+constatadas. 
+19.7. As penalidades previstas são independentes entre si, podendo ser aplicadas isolada ou 
+cumulativamente com as outras penalidades previstas neste item, assim como com a 
+penalidade de rescisão unilateral do contrato, sem prejuízo da adoção de outras medidas 
+extrajudiciais e/ou judiciais cabíveis. 
+19.8. Após a decisão definitiva, em se aplicando a penalidade de multa, o SENAR-AR/MS, 
+poderá descontá-la dos pagamentos eventualmente devidos à CONTRATADA ou proceder a 
+sua cobrança administrativa, devendo ser recolhidas diretamente ao SENAR-AR/MS através 
+de depósito em conta bancária indicada no prazo de 05 (cinco) dias úteis a contar da data da 
+notificação de sua aplicação, ou ainda, se for o caso, cobradas judicialmente. 
+19.9. Acaso os prejuízos decorrentes do inadimplemento por parte da CONTRATADA superem 
+o valor das penalidades impostas, o SENAR-AR/MS se reserva ao direito de cobrar 
+judicialmente a diferença verificada. 
+19.10. Fica expressamente acordado que, em caso de rescisão, nenhuma remuneração será 
+cabível, a não ser o ressarcimento de despesas autorizadas pelo SENAR-AR/MS e 
+comprovadamente realizadas pela CONTRATADA.  
+19.11. Em caso de REINCIDÊNCIA da CONTRATADA em qualquer das hipóteses de 
+inexecução, poderá ser rescindido o contrato unilateralmente, no que tange ao item no qual 
+tenha se sagrado vencedora, cumuladas as penalidades previstas, garantida a defesa prévia. 
+20.1. Todos os atos referentes a presente licitação serão divulgados no site da Instituição, no 
+endereço eletrônico http://senarms.org.br/licitacoes-contratos e no site do Banco do Brasil S/A, 
+no endereço eletrônico https://licitacoes-e2.bb.com.br/aop-inter-estatico/.   
+20.2. O SENAR-AR/MS se reserva o direito de cancelar esta licitação a qualquer momento, 
+sem que isto gere às licitantes qualquer direito, inclusive de reparação a eventuais perdas e 
+danos ou de lucros cessantes, conforme art. 62 do RLC do SENAR. 
+20.3. A CPL poderá solicitar, a seu critério, esclarecimentos e informações complementares ou 
+efetuar diligências, caso julgue necessário, visando melhor desempenhar  suas funções 
+institucionais. 
+20.4. Fica permitida a inclusão de documento complementar ou atualizado, desde que não 
+altere a substância das propostas, dos documentos e sua validade jurídica e seja 
+comprobatório de condição atendida pela licitante quando apresentada sua proposta, que não 
+foi juntado com os demais documentos por equívoco ou falha, o qual deverá ser solicitado e 
+avaliado pelo Pregoeiro. 
+20.   DAS DISPOSIÇÕES GERAIS 
+ 
+   Página 25 de 26 
+ 
+20.5. Na hipótese de necessidade de diligências para saneamento de erros ou falhas 
+identificadas durante a sessão pública, esta poderá ser suspensa, mediante aviso no sistema 
+eletrônico, devendo ser informado o horário previsto para o retorno da sessão. 
+20.6. O Pregoeiro poderá, no julgamento da habilitação e das propostas de preços, sanar erros 
+ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, 
+mediante decisão fundamentada, registrada em ata e acess ível às licitantes, e lhes atribuir á 
+validade e eficácia para fins de habilitação e classificação. 
+20.7. As licitantes interessadas deverão manter -se atualizadas de quaisquer alterações e/ou 
+esclarecimentos sobre o Edital, através de consulta permanente ao site da Instituição, no 
+endereço eletrônico  http://senarms.org.br/licitacoes-contratos, ou ainda no site do Banco do 
+Brasil S/A, no endereço eletrônico https://licitacoes-e2.bb.com.br/aop-inter-estatico/, não 
+cabendo ao SENAR-AR/MS a responsabilidade pela não observância deste procedimento. 
+20.8. A Proposta de Preços, após sua abertura, vincula o licitante aos termos do presente 
+Edital e do Regulamento de Licitações e Contratos do SENAR. 
+20.9. As licitantes deverão manter as condições de habilitação iniciais durante todo o certame e 
+período de vigência do instrumento contratual. 
+20.10. Os autos do proce sso administrativo permanecerão com vista franqueada aos 
+interessados, na sede do SENAR-AR/MS, da forma como indicado no preâmbulo deste Edital. 
+20.11. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a 
+realização d a sessão pública na data marcada, a sessão  pública será automaticamente 
+transferida para o primeiro dia útil subsequente, no mesmo local e horário anteriormente 
+estabelecidos, salvo comunicação em contrário. 
+20.12. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do 
+início e incluir -se-á o do vencimento,  e considerar-se-á dias consecutivos, exceto quando for 
+explicitamente disposto em contrário, sendo que somente se iniciam ou se interrompem prazos 
+em dia de expediente no SENAR-AR/MS. 
+20.13. Fica entendido que as especificações, e toda a documentação apresentada pela licitante 
+são complementares entre si, de modo que qualquer informação que se mencione em um 
+documento e se omita em outro, será considerado especificado e válido. 
+20.14. Os casos omissos serão solucionados diretamente pela CPL, observando-se o 
+Regulamento de Licitações e Contratos (RLC) do SENAR, revisto e consolidado pela 
+Resolução nº 030/2024/CD, de 02/05/2024 do Conselho Deliberativo do SENAR. 
+20.15. Fica eleito o Foro de Campo Grande/MS, para dirimir eventual controvérsia que decorra 
+da presente licitação. 
+ 
+   Página 26 de 26 
+ 
+20.16. Constituem partes integrantes e complementares deste instrumento os seguintes  
+Anexos: 
+• ANEXO I – Termo de Referência. 
+• ANEXO II – Modelo de Tabela Proposta de Preço. 
+• ANEXO III – Modelo de Declarações. 
+• ANEXO IV – Minuta do Contrato. 
+• ANEXO V – Minuta do Termo de Observância ao Código de Conduta e às Políticas do 
+Programa de Integridade do SENAR-AR/MS. 
+• ANEXO VI – Minuta da Declaração de Potenciais Conflitos. 
+ 
+Campo Grande/MS, 05 de maio de 2026. 
+ 
+Comissão Permanente de Licitação 

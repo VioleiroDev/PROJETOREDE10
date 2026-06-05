@@ -1,0 +1,44 @@
+[
+  {
+    "sequencialDocumento": 1,
+    "titulo": "DFD",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\1_DFD.pdf",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 162507
+  },
+  {
+    "sequencialDocumento": 2,
+    "titulo": "ETP",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\2_ETP.pdf",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 204761
+  },
+  {
+    "sequencialDocumento": 3,
+    "titulo": "LEVANTAMENTO DE MERCADO",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\3_LEVANTAMENTO_DE_MERCADO.pdf",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 6926570
+  },
+  {
+    "sequencialDocumento": 4,
+    "titulo": "MEMÓRIA DE CÁLCULO",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\4_MEM_RIA_DE_C_LCULO.pdf",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 500715
+  },
+  {
+    "sequencialDocumento": 5,
+    "titulo": "TERMO DE REFERÊNCIA",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\5_TERMO_DE_REFER_NCIA.pdf",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 589212
+  },
+  {
+    "sequencialDocumento": 6,
+    "titulo": "PREGÃO ELETRÔNICO N.º 153/2026",
+    "arquivo": "PNCP_REFERENCIAS_MPLS\\83021808000182-1-000200-2026\\6_PREG_O_ELETR_NICO_N._153_2026",
+    "contentType": "application/octet-stream;charset=ISO-8859-1",
+    "bytes": 546405
+  }
+]

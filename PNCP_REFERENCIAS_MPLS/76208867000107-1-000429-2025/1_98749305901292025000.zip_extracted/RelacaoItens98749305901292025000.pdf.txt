@@ -1,0 +1,167 @@
+97905 - PREFEITURA DE CASCAVEL / PR
+987493 - PREFEITURA MUNICIPAL DE CASCAVEL - PR
+RELAÇÃO DE ITENS - PREGÃO ELETRÔNICO  Nº 90129/2025-000
+1 - Itens da Licitação
+1 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO DE LINK DE DADOS (MPLS) 200 (DUZENTOS) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 8
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 182.400,00
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (8)
+Grupo: G1
+2 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO DE LINK DE DADOS (MPLS) 70 (SETENTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 140
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 1.125.600,00
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (140)
+Grupo: G1
+3 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO DE LINK DE DADOS (MPLS) 50(CINQUENTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 25
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 155.001,00
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (25)
+Grupo: G1
+4 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO DE LINK DE DADOS (MPLS) 30 (TRINTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 204
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 899.223,84
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (204)
+Grupo: G1
+PREGÃO ELETRÔNICO  Nº 90129/2025-000 UASG 987493 (1/4)15/10/2025  12:23
+5 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO DE LINK DE DADOS (MPLS) 10 (DEZ) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 160
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 310.406,40
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (160)
+Grupo: G1
+6 - Serviço de Link Via Cabo
+Descrição Detalhada: LOCAÇÃO LINK CONCENTRADOR
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 174.000,00
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (1)
+Grupo: G1
+7 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO DE LINK DE DADOS (MPLS) 200 (DUZENTOS) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 8
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 2.746,64
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (8)
+Grupo: G1
+8 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO DE LINK DE DADOS (MPLS) 70 (SETENTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 140
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 48.066,20
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (140)
+Grupo: G1
+PREGÃO ELETRÔNICO  Nº 90129/2025-000 UASG 987493 (2/4)15/10/2025  12:23
+9 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO DE LINK DE DADOS (MPLS) 50 (CINQUENTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 25
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 8.583,25
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (25)
+Grupo: G1
+10 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO DE LINK DE DADOS (MPLS) 30 (TRINTA) MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 204
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 70.039,32
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (204)
+Grupo: G1
+11 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO DE LINK DE DADOS (MPLS) 10 (DEZ)MBPS
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 160
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 54.932,80
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (160)
+Grupo: G1
+12 - serviço de instalação  / montagem  / remanejamento e Manutenção de rede local de computadores
+Descrição Detalhada: INSTALAÇÃO LINK CONCENTRADOR
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 5.500,00
+Unidade de Fornecimento: PONTO DE REDE
+Intervalo Mínimo entre Lances (R$): 1,00
+Local de Entrega (Quantidade): Cascavel/PR (1)
+Grupo: G1
+2 - Composição dos Grupos
+81 Serviço de Link Via Cabo UNIDADE
+1402 Serviço de Link Via Cabo UNIDADE
+253 Serviço de Link Via Cabo UNIDADE
+2044 Serviço de Link Via Cabo UNIDADE
+1605 Serviço de Link Via Cabo UNIDADE
+16 Serviço de Link Via Cabo UNIDADE
+Grupo 1
+Nº do Item Descrição Quantidade Total Unidade de Fornecimento
+PREGÃO ELETRÔNICO  Nº 90129/2025-000 UASG 987493 (3/4)15/10/2025  12:23
+87 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+1408 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+259 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+20410 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+16011 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+112 serviço de instalação  / montagem  / remanejamento e Manutenção de
+rede local de computadores
+PONTO DE REDE
+PREGÃO ELETRÔNICO  Nº 90129/2025-000 UASG 987493 (4/4)15/10/2025  12:23

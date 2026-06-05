@@ -1,0 +1,464 @@
+ 
+ILUSTRÍSSIMO(A) SENHOR(A) PREGOEIRO(A) DA PREFEITURA 
+MUNICIPAL DE BRUSQUE/SC 
+PREGÃO ELETRÔNICO Nº 011/2026 
+PROCESSO LICITATÓRIO Nº 033/2026 
+OBJETO: PRESTAÇÃO DE SERVIÇOS DE SOLUÇÃO IAAS (INFRASTRUCTURE 
+AS A SERVICE) PARA HOSPEDAGEM DOS SITES E SERVIÇOS DA PREFEITURA 
+DE BRUSQUE NA MODALIDADE PAYG CLOUD COMPUTING (PAY-AS-YOU-GO 
+CLOUD COMPUTING). 
+IMPUGNAÇÃO AO EDITAL 
+ 
+A UNIFIQUE TELECOMUNICAÇÕES S.A., pessoa jurídica de direito privado, inscrita 
+no CNPJ sob nº 02.255.187/0001-08, por intermédio de seu representante legal infra-
+assinado, vem, tempestivamente, com fundamento no art. 164 da Lei nº 14.133/2021, 
+apresentar IMPUGNAÇÃO AO EDITAL, pelos fundamentos jurídicos a seguir 
+expostos. 
+ 
+I – DA EXIGÊNCIA DE QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 
+O edital estabeleceu, para fins de habilitação econômico-financeira, a obrigatoriedade de 
+comprovação cumulativa de índices de Liquidez Geral (LG), Liquidez Corrente (LC) e 
+Solvência Geral (SG) superiores a 1 (um), relativamente aos dois últimos exercícios 
+sociais. 
+A definição de critérios de habilitação econômico-financeira insere-se na esfera de 
+atuação administrativa da Administração Pública, no âmbito da discricionariedade técnica 
+conferida pela legislação de licitações. Contudo, tal discricionariedade não é absoluta, 
+encontrando limites nos princípios constitucionais e legais que regem o regime jurídico 
+administrativo. 
+Nesse sentido, o art. 37, inciso XXI, da Constituição Federal estabelece que as exigências 
+de qualificação técnica e econômico-financeira somente podem ser aquelas 
+indispensáveis à garantia do cumprimento das obrigações contratuais, constituindo 
+verdadeira norma de contenção à atuação administrativa na fase de habilitação. 
+No mesmo sentido, a Lei nº 14.133/2021, especialmente em seu art. 5º, consagra os 
+princípios da isonomia, competitividade, razoabilidade, proporcionalidade e motivação, 
+que devem nortear a elaboração e a aplicação das exigências editalícias. 
+Especificamente quanto à qualificação econômico-financeira, a Lei nº 14.133/2021 
+admite a utilização de índices e coeficientes econômicos como forma de aferição da 
+capacidade financeira das licitantes, desde que compatíveis com o objeto da contratação 
+e com os riscos envolvidos, devendo sua definição decorrer da fase de planejamento da 
+contratação. 
+ 
+A utilização de índices de liquidez e solvência como critério eliminatório, portanto, não 
+possui caráter automático ou universal, devendo estar tecnicamente vinculada à 
+demonstração concreta de sua necessidade para a adequada execução do objeto 
+contratual. 
+Ocorre que, no caso concreto, o edital estabelece a exigência de forma genérica, sem 
+apresentar motivação técnica específica que demonstre a pertinência e a necessidade da 
+adoção cumulativa dos índices LG, LC e SG superiores a 1. 
+Não há indicação objetiva de riscos contratuais que justifiquem a restrição imposta, 
+tampouco demonstração de que tais índices sejam indispensáveis à execução de serviços 
+de infraestrutura em nuvem (IAAS), o que compromete a validade material da exigência. 
+A ausência de fundamentação técnica adequada impede o controle de razoabilidade e 
+proporcionalidade do ato administrativo, elementos essenciais à validade das exigências 
+de habilitação no regime da Lei nº 14.133/2021. 
+Ademais, a aplicação rígida de parâmetros contábeis tradicionais, sem consideração da 
+realidade econômica do setor de tecnologia e computação em nuvem, pode resultar em 
+restrição indevida à competitividade, com potencial afastamento de licitantes plenamente 
+aptos à execução do objeto. 
+ 
+II – DA AUSÊNCIA DE MOTIV AÇÃO TÉCNICA ESPECÍFICA 
+ 
+A definição de critérios de qualificação econômico-financeira em procedimentos 
+licitatórios não constitui faculdade irrestrita da Administração, estando submetida ao 
+dever de planejamento, à adequada instrução do processo administrativo e à necessária 
+motivação dos atos administrativos que possam restringir a competitividade do certame. 
+A exigência de índices contábeis como condição de habilitação possui natureza 
+potencialmente restritiva, na medida em que pode limitar o universo de participantes. Por 
+essa razão, sua adoção demanda demonstração técnica clara e objetiva de sua pertinência 
+em relação ao objeto contratual, com indicação dos riscos concretos que se pretende 
+mitigar. 
+No regime da Lei nº 14.133/2021, a fase preparatória da licitação assume papel essencial 
+na legitimação das exigências editalícias, exigindo que o Estudo Técnico Preliminar e 
+demais peças de planejamento contenham elementos suficientes para justificar as 
+escolhas administrativas realizadas, especialmente aquelas que impactam a 
+competitividade. 
+No caso concreto, entretanto, não se verifica no edital, no Estudo Técnico Preliminar ou 
+no Termo de Referência qualquer justificativa técnica específica que demonstre a 
+necessidade da exigência cumulativa de índices de Liquidez Geral (LG), Liquidez 
+ 
+Corrente (LC) e Solvência Geral (SG) superiores a 1 para a adequada execução de 
+serviços de infraestrutura em nuvem (IAAS). 
+A mera adoção de parâmetros contábeis tradicionais, desacompanhada de fundamentação 
+técnica individualizada, não permite identificar a relação entre os índices exigidos e os 
+riscos efetivos da contratação, como continuidade do serviço, estabilidade operacional ou 
+capacidade de suporte da solução. 
+Tal ausência de motivação específica compromete a validade da exigência, por impedir a 
+verificação de sua adequação, necessidade e proporcionalidade em relação ao objeto 
+licitado, elementos indispensáveis à conformação dos atos administrativos restritivos de 
+competitividade. 
+Não se trata de questionar a possibilidade de utilização de índices econômico-financeiros 
+como critério de habilitação, mas sim de exigir que sua aplicação seja devidamente 
+justificada no caso concreto, evitando-se a adoção de critérios padronizados sem 
+correlação efetiva com a realidade da contratação. 
+Dessa forma, a inexistência de motivação técnica suficiente torna a exigência suscetível 
+de revisão, na medida em que compromete a coerência entre o critério adotado e a 
+finalidade pública do procedimento licitatório. 
+ 
+III – DA RESTRIÇÃO INDEVIDA À COMPETITIVIDADE 
+ 
+O princípio da competitividade constitui vetor estruturante do regime jurídico das 
+licitações públicas, encontrando fundamento expresso no art. 5º da Lei nº 14.133/2021, 
+bem como no art. 11 do mesmo diploma, que estabelece como objetivo do processo 
+licitatório a seleção da proposta mais vantajosa para a Administração Pública, em 
+condições de igualdade entre os licitantes. 
+Nesse contexto, o art. 9º, inciso I, da Lei nº 14.133/2021 veda a inclusão de cláusulas que 
+comprometam, restrinjam ou frustrem o caráter competitivo da licitação, impondo à 
+Administração o dever de estruturar suas exigências de forma estritamente necessária à 
+garantia da execução contratual. 
+Exigências de qualificação econômico-financeira possuem natureza potencialmente 
+restritiva, razão pela qual sua adoção deve observar estrita relação de pertinência com o 
+objeto licitado, bem como ser devidamente justificada à luz dos riscos concretos da 
+contratação. 
+Quando tais exigências são estabelecidas de forma rígida, sem demonstração técnica 
+individualizada de sua necessidade, produzem efeito prático de redução do universo de 
+competidores, o que impacta diretamente a obtenção da proposta mais vantajosa e 
+compromete a eficiência do certame. 
+ 
+No caso de contratações envolvendo serviços de tecnologia da informação e infraestrutura 
+em nuvem (IAAS), a análise exclusivamente baseada em indicadores contábeis 
+tradicionais pode não refletir adequadamente a real capacidade operacional e de execução 
+das licitantes. 
+Isso porque tais modelos de negócio são estruturados, em regra, com elevada intensidade 
+tecnológica, ativos intangíveis relevantes, escalabilidade operacional e receitas 
+recorrentes, fatores que não se traduzem de forma precisa em índices clássicos de 
+liquidez. 
+Dessa forma, a aplicação isolada e cumulativa de índices econômico-financeiros, sem 
+contextualização com a natureza do objeto contratual e sem a previsão de mecanismos 
+alternativos de comprovação da capacidade econômico-financeira, pode resultar em 
+indevida restrição ao caráter competitivo do certame. 
+Tal cenário implica o afastamento potencial de licitantes tecnicamente aptas à execução 
+do objeto, não por incapacidade operacional, mas por inadequação do critério de 
+avaliação financeira adotado, o que contraria a lógica de seleção da proposta mais 
+vantajosa e a finalidade pública da licitação. 
+ 
+IV – DO ART. 69 DA LEI Nº 14.133/2021 E DA ADEQUAÇÃO DOS CRITÉRIOS 
+DE QUALIFICAÇÃO ECONÔMICO-FINANCEIRA 
+ 
+O art. 69 da Lei nº 14.133/2021 disciplina a habilitação econômico-financeira como etapa 
+destinada à verificação da capacidade da licitante de cumprir as obrigações decorrentes 
+da execução contratual, devendo tal análise ser compatível com a natureza, a 
+complexidade e os riscos envolvidos na contratação. 
+A interpretação sistemática do dispositivo evidencia que a aferição da capacidade 
+econômico-financeira não se limita à adoção de índices contábeis abstratos, mas deve 
+observar critérios tecnicamente adequados ao objeto licitado, de modo a preservar o 
+equilíbrio entre segurança contratual e ampliação da competitividade. 
+Nesse contexto, o §4º do art. 69 da Lei nº 14.133/2021 autoriza a Administração a exigir 
+capital social mínimo ou patrimônio líquido mínimo de até 10% do valor estimado da 
+contratação, como parâmetro objetivo adicional de qualificação econômico-financeira. 
+Trata-se de faculdade conferida ao gestor público, a ser exercida de forma motivada e 
+conforme a natureza da contratação, funcionando como mecanismo legal de reforço da 
+análise de capacidade econômico-financeira, especialmente em contratações de maior 
+complexidade ou risco. 
+Embora não constitua imposição legal, tal previsão revela opção legislativa por 
+instrumentos mais objetivos e potencialmente mais aderentes à realidade econômica de 
+ 
+determinados setores, permitindo maior flexibilidade na estruturação dos critérios de 
+habilitação. 
+Em contratações de serviços de tecnologia da informação e infraestrutura em nuvem 
+(IAAS), é comum que a estrutura econômico-financeira das empresas não seja 
+adequadamente refletida por indicadores tradicionais de liquidez, em razão da 
+predominância de ativos intangíveis, modelos de receita recorrente e elevada 
+escalabilidade operacional. 
+Nessas situações, o patrimônio líquido pode representar parâmetro mais adequado de 
+aferição da solidez econômico-financeira, por refletir de forma mais direta a capacidade 
+de absorção de riscos contratuais. 
+Dessa forma, a disciplina do art. 69 deve ser interpretada em conjunto com os princípios 
+da razoabilidade, proporcionalidade e competitividade, de modo a evitar a adoção de 
+critérios excessivamente restritivos ou dissociados da realidade do objeto licitado. 
+ 
+V- DA INCOERÊNCIA NA APLICAÇÃO DOS CRITÉRIOS DE 
+QUALIFICAÇÃO ECONÔMICO-FINANCEIRA ENTRE LICITANTES 
+INDIVIDUAIS E CONSÓRCIOS 
+ 
+O edital prevê, em relação à participação de empresas reunidas em consórcio, a aplicação 
+de acréscimo de 10% (dez por cento) sobre os requisitos de qualificação econômico-
+financeira exigidos dos licitantes individuais, nos termos do art. 15, §1º, da Lei nº 
+14.133/2021. 
+Tal previsão evidencia que a própria Administração reconhece a necessidade de 
+calibragem e proporcionalidade na aferição da capacidade econômico-financeira, 
+admitindo tratamento específico para determinadas formas de participação, conforme a 
+estrutura organizacional do licitante. 
+Ocorre que, apesar de admitir flexibilização ou majoração de requisitos para consórcios, 
+o edital não estabelece qualquer mecanismo equivalente de adequação ou alternativa 
+proporcional para sociedades empresárias individuais, inclusive sociedades anônimas de 
+grande porte, limitando-se à exigência rígida de índices contábeis como condição 
+eliminatória. 
+Essa assimetria de tratamento entre consórcios e empresas individuais gera distorção na 
+lógica de aferição da capacidade econômico-financeira, pois permite maior flexibilidade 
+a estruturas formadas por múltiplas empresas, ao mesmo tempo em que impõe maior rigor 
+absoluto a sociedades que, individualmente, podem possuir robusta capacidade 
+patrimonial e operacional. 
+A diferenciação estabelecida, sem justificativa técnica expressa no processo 
+administrativo, compromete a isonomia material entre os licitantes, uma vez que 
+ 
+situações potencialmente equivalentes em termos de capacidade de execução contratual 
+passam a ser tratadas de forma desigual. 
+O princípio da isonomia, no regime jurídico das licitações públicas, não se limita à 
+igualdade formal entre participantes, exigindo tratamento proporcional e compatível com 
+as condições reais de execução do objeto, de modo a evitar distorções concorrenciais 
+injustificadas. 
+Dessa forma, ao admitir ajuste percentual para consórcios e não prever solução 
+equivalente ou justificativa técnica para a manutenção de critérios mais rígidos aplicáveis 
+a licitantes individuais, o edital incorre em assimetria regulatória interna, com potencial 
+restrição indevida à competitividade do certame. 
+ 
+ 
+VI – DO FORMALISMO MODERADO E DA FINALIDADE DA LICITAÇÃO 
+ 
+O regime jurídico instituído pela Lei nº 14.133/2021 orienta o procedimento licitatório 
+por uma lógica de instrumentalidade das formas, na qual os requisitos de habilitação 
+devem ser compreendidos como meios destinados à verificação mínima da aptidão do 
+licitante para execução do objeto contratual, e não como fins em si mesmos. 
+A interpretação das exigências editalícias deve observar a finalidade pública do certame, 
+de modo a evitar que formalidades ou critérios excessivamente rígidos se convertam em 
+obstáculos indevidos à participação de potenciais competidores. 
+Nesse contexto, a atuação administrativa deve ser orientada por uma racionalidade de 
+formalismo moderado, compreendido como diretriz de interpretação e aplicação das 
+normas do procedimento licitatório, em consonância com os princípios da eficiência, da 
+competitividade e da seleção da proposta mais vantajosa. 
+A imposição de requisitos econômico-financeiros deve, portanto, guardar relação direta 
+com a garantia mínima de execução contratual, não podendo ser estruturada de forma a 
+restringir o universo de licitantes para além do necessário à proteção do interesse público. 
+A licitação não se destina à seleção de empresas com melhor desempenho contábil 
+abstrato, mas sim à obtenção da proposta mais vantajosa, em condições de ampla 
+competitividade, nos termos dos princípios que regem o art. 5º da Lei nº 14.133/2021. 
+Dessa forma, qualquer interpretação ou aplicação de critérios de habilitação que resulte 
+em restrição desnecessária à participação de licitantes aptos deve ser evitada, sob pena de 
+desvio da finalidade do procedimento licitatório e comprometimento de sua função 
+pública essencial. 
+ 
+ 
+ 
+VII – DO PEDIDO 
+ 
+Diante do exposto, requer: 
+a) o recebimento e processamento da presente impugnação; 
+b) seja apresentada motivação técnica específica que justifique a exigência cumulativa de 
+LG, LC e SG superiores a 1; 
+c) a retificação do edital para inclusão de alternativa de comprovação da qualificação 
+econômico-financeira mediante patrimônio líquido mínimo ou capital social mínimo de 
+até 10% do valor estimado da contratação, nos termos do art. 69, §4º, da Lei nº 
+14.133/2021; 
+d) a adequação do edital para garantir tratamento isonômico entre sociedades empresárias 
+individuais e consórcios, evitando distinções desproporcionais na aferição da capacidade 
+econômico-financeira; 
+e) a republicação do edital com reabertura dos prazos legais, caso haja alteração das 
+condições de habilitação. 
+Nestes termos, 
+Pede deferimento. 
+ 
+Timbó/SC, 14 de maio de 2026 
+ 
+ 
+________________________________________________ 
+UNIFIQUE TELECOMUNICAÇÕES S/A 
+CNPJ 02.255.187/0001-08 
+GUILHERME FERNANDES DE CAMPOS 
+Procurador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+República Federativa do Brasil
+Estado de Santa Catarina
+Município e Comarca de Timbó
+TABELIONATO DE NOTAS E DE PROTESTO DE TIMBÓ/SC
+MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO - Tabeliã
+Livro: 220
+Folha: 007
+Protocolo: 47111
+Data do protocolo: 08/12/2025
+PROCURAÇÃO PÚBLICA PARA LICITAÇÕES TRASLADO
+___________________________________________________________________
+PROCURAÇÃO bastante que faz UNIFIQUE TELECOMUNICAÇÕES S/A, na
+forma que segue: SAIBAM quantos este público instrumento de procuração bastante
+virem que, aos 08 (oito) dias do mês de dezembro (12) do ano de 2025 (dois mil e
+vinte e cinco), nesta cidade e Comarca de Timbó, Estado de Santa Catarina, neste
+Tabelionato, compareceu como outorgante, UNIFIQUE TELECOMUNICAÇÕES
+S/A, sociedade anônima aberta, inscrita no CNPJ sob nº 02.255.187/0001-08, com
+sede na Rua Duque de Caxias, n° 831, Centro, na cidade de Timbó/SC, CEP:
+89090-003, neste ato representada por seu Diretor Presidente, Fabiano Busnardo,
+CPF nº 777.742.219-72, brasileiro, casado, empresário, portador do R.G. nº
+2.621.657-SESP/SC, residente e domiciliado na Rua Erwin Reguse, n° 253, Bairro
+dos Estados, na cidade de Timbó/SC, CEP 89120-000,
+(fabiano@redeunifique.com.br), conforme estatuto social datado de 14/08/2023, sob
+n° 20238388158, registrado em 30/08/2023, ata da reunião do conselho de
+administração realizada em 02 de maio de 2024, sob o nº 20244347883, registrada
+em 09/05/2024, termo de posse datado de 02/05/2024, sob n° 20244346771, em
+09/05/2024 e, certidão simplificada emitida em 20/10/2025, sob n° 254936016; o
+representante legal declara, sob pena de responsabilidade civil e penal, não
+haver alterações contratuais posteriores até a presente data; o comparecente
+devidamente identificado e qualificado por mim, Catharine Postai Chenta Riemer,
+Escrevente Notarial, juridicamente capaz para o ato dou fé; e que, por este público
+instrumento, nomeia e constitui seus bastantes procuradores MARILHA
+CONCEIÇÃO SALVADOR REINHEIMER, de nacionalidade brasileira, natural de
+Três de Maio/RS, nascida em 08/12/1978, filha de Luiz Pedro Salvador e de Cleni
+Peres Salvador, casada, coordenadora de licitação, portadora do RG e CPF nº
+930.551.610-68, órgão emissor - SESP/SC, residente e domiciliada na Rua Augusto
+Maas, nº 78, Bairro Vila Germer, na cidade de Timbó/SC, CEP: 89120-000; JAIR
+FRANCISCO, de nacionalidade brasileira, natural de Ibirama/SC, nascido em
+09/07/1970, filho de José Francisco e de Elenir Francisco, casado, diretor de
+mercado, portador do RG nº 2.122.801, órgão emissor - SESP/SC, inscrito no CPF
+nº 659.472.159-34, residente e domiciliado na Rua São Paulo, nº 933, Bairro das
+Capitais, na cidade de Timbó/SC, CEP: 89120-000; GUILHERME FERNANDES DE
+CAMPOS, de nacionalidade brasileiro, solteiro, consultor de relacionamento em
+licitação, portador do RG nº 9087562956, órgão emissor - SSP/RS, inscrito no CPF
+nº 008.232.840-42, residente e domiciliado na Rua Glorinha, nº 326, Centro, na
+cidade de Glorinha/RS, CEP: 94380-000; e ADRIELI PORTES DE FREITAS, de
+nacionalidade brasileira, natural de Taquara/RS, nascida em 06/09/2001, filha de
+Jose Carlos de Freitas e Neuza Candido Portes, solteira, analista de licitação,
+portadora do RG nº 2132317071, órgão emissor - SSP/RS, inscrita no CPF nº
+030.477.450-21, residente e domiciliada na Rua Santo Onofre, nº 24, Bairro João
+Paulo II, na cidade de Indaial/SC, CEP: 89083-018, a quem outorga e confere
+poderes para, ISOLADAMENTE, perante MATRIZ E DEMAIS FILIAIS,
+representarem a outorgante em licitações públicas de qualquer natureza, em
+repartições públicas ou administrativas federais, estaduais, municipais, inclusive
+perante pessoas físicas e jurídicas, em qualquer estado da federação; podendo
+Rua Mônaco, 252 - Das Nações - Timbó/SC - 89120-000
+E-mail: tabelionatotimbo@tabelionatotimbo.com.br - Telefone: (47) 3382-0093
+__________________________________________________________________
+Continua na próxima página (Página 1 de 4).
+Esse documento foi assinado por MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO.
+Para validar o documento e suas assinaturas acesse https://assinatura.e-notariado.org.br/validate e informe o código JUTKL-
+EA92D-347XB-JFALX
+República Federativa do Brasil
+Estado de Santa Catarina
+Município e Comarca de Timbó
+TABELIONATO DE NOTAS E DE PROTESTO DE TIMBÓ/SC
+MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO - Tabeliã
+Livro: 220
+Folha: 007v
+Protocolo: 47111
+Data do protocolo: 08/12/2025
+PROCURAÇÃO PÚBLICA PARA LICITAÇÕES TRASLADO
+___________________________________________________________________
+requerer inscrição, apresentar propostas, dar lances, assinar abertura de propostas,
+apresentar protestos, impugnações, reclamações, ou recursos contra quaisquer
+irregularidades, oferecer vantagens ou descontos em caso de empate bem como
+praticar quaisquer outros atos e tomar as devidas providências necessárias para
+que a outorgante esteja dentro das mesmas ocorrências; assinar contratos de
+fornecimentos e ordens de serviço; podendo ainda praticar os demais atos
+necessários ao fiel desempenho do presente mandato, podendo ainda
+substabelecer. A presente procuração é válida por 180 dias a contar da
+presente data. Fica ciente o representante da outorgante que cessa o
+mandato nas seguintes condições: a) pela revogação ou pela renúncia, b)
+pela morte ou interdição de uma das partes, c) pela mudança de estado que
+inabilite o mandante a conferir os poderes, ou o mandatário para os exercer,
+d) pelo término do prazo ou pela conclusão do negócio, nos termos do artigo
+682 do Código Civil. Certifico ter dado ciência ao representante da Outorgante
+sobre sua responsabilidade civil e criminal em relação as declarações por ele
+firmadas, especialmente sobre a qualificação do procurador, bem como
+demais elementos constantes do presente mandato, isentando este
+Tabelionato de Notas de qualquer responsabilidade oriunda de eventual
+falsidade ou incorreção destes dados. Em cumprimento à Lei Geral de Proteção
+de Dados (LGPD, Lei nº 13.709 de 2018), informamos que o Tabelionato de Notas
+e Protestos em Geral de Timbó/SC está comprometido em proteger a privacidade e
+segurança dos seus dados pessoais. Coletamos, armazenamos e processamos
+suas informações apenas mediante à possibilidade jurídica (expressa em leis,
+decretos, provimentos e/ou outro embasamento legal) e adotamos medidas
+técnicas e organizacionais para garantir a confidencialidade dos dados. Suas
+informações serão utilizadas apenas para fins legítimos e respeitando as
+obrigações legais aplicáveis. Assim o disse e me pediu este instrumento que lhe li,
+aceitou e assina-o comigo, Catharine Postai Chenta Riemer, Escrevente Notarial,
+que o digitei, assino e dou fé. Observação: Eventualmente, a quantidade de folhas
+do livro e traslado podem divergir, pois o livro dependerá do número de partes
+envolvidas no ato e o traslado dependerá da quantidade de selos utilizados, onde os
+mesmos saem impressos ao final do traslado. Assinou presencialmente a
+procuração FABIANO BUSNARDO como Diretor Presidente representando a
+UNIFIQUE TELECOMUNICAÇÕES S/A. Observação: Eventualmente, a quantidade
+de folhas do livro e traslado podem divergir, pois o livro dependerá do número de
+partes envolvidas no ato e o traslado dependerá da quantidade de selos utilizados,
+onde os mesmos saem impressos ao final do traslado. Emolumentos: 1 Selo de
+Fiscalização Normal (HQP94847-WINV) - R$ 0,00, 1 Procuração para atos
+negociais - R$ 75,42, 1 FRJ (Destinação: 24,42% FUPESC, até 24,42% Assist.
+Jud. Gratuita, 4,88% MP, 26,73% Ressarc. de atos isentos, 19,55% TJSC.) -
+R$ 17,14, 1 Imposto Sobre Serviços de Qualquer Natureza - R$ 2,26, Total:
+R$ 94,82.
+Timbó - SC, 08 de dezembro de 2025.
+Rua Mônaco, 252 - Das Nações - Timbó/SC - 89120-000
+E-mail: tabelionatotimbo@tabelionatotimbo.com.br - Telefone: (47) 3382-0093
+__________________________________________________________________
+Continua na próxima página (Página 2 de 4).
+Esse documento foi assinado por MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO.
+Para validar o documento e suas assinaturas acesse https://assinatura.e-notariado.org.br/validate e informe o código JUTKL-
+EA92D-347XB-JFALX
+República Federativa do Brasil
+Estado de Santa Catarina
+Município e Comarca de Timbó
+TABELIONATO DE NOTAS E DE PROTESTO DE TIMBÓ/SC
+MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO - Tabeliã
+Livro: 220
+Folha: 008
+Protocolo: 47111
+Data do protocolo: 08/12/2025
+PROCURAÇÃO PÚBLICA PARA LICITAÇÕES TRASLADO
+___________________________________________________________________
+Poder Judiciário
+Estado de Santa Catarina
+Selo Digital de Fiscalização
+Normal
+HQP94847-WINV
+Confira os dados em:
+http://selo.tjsc.jus.br/
+________________________________________________________________________________
+Documento impresso por meio eletrônico. Qualquer rasura ou indício de adulteração será considerado fraude.
+O espaço abaixo e o verso estão reservados às anotações e/ou averbações.
+MARINA MOURA LISBOA
+CARNEIRO DE FARIAS
+CARVALHO
+Tabeliã
+Rua Mônaco, 252 - Das Nações - Timbó/SC - 89120-000
+E-mail: tabelionatotimbo@tabelionatotimbo.com.br - Telefone: (47) 3382-0093
+__________________________________________________________________
+Continua na próxima página (Página 3 de 4).
+Esse documento foi assinado por MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO.
+Para validar o documento e suas assinaturas acesse https://assinatura.e-notariado.org.br/validate e informe o código JUTKL-
+EA92D-347XB-JFALX
+Assinado digitalmente por:
+MARINA MOURA LISBOA
+CARNEIRO DE FARIAS
+CARVALHO
+CPF: 052.963.279-93
+Certificado emitido por AC
+Certisign RFB G5
+Data: 08/12/2025 15:00:41 -03:00
+República Federativa do Brasil
+Estado de Santa Catarina
+Município e Comarca de Timbó
+TABELIONATO DE NOTAS E DE PROTESTO DE TIMBÓ/SC
+MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO - Tabeliã
+Livro: 220
+Folha: 008v
+Protocolo: 47111
+Data do protocolo: 08/12/2025
+PROCURAÇÃO PÚBLICA PARA LICITAÇÕES TRASLADO
+___________________________________________________________________
+EM BRANCO
+Rua Mônaco, 252 - Das Nações - Timbó/SC - 89120-000
+E-mail: tabelionatotimbo@tabelionatotimbo.com.br - Telefone: (47) 3382-0093
+__________________________________________________________________
+(Página 4 de 4).
+Esse documento foi assinado por MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO.
+Para validar o documento e suas assinaturas acesse https://assinatura.e-notariado.org.br/validate e informe o código JUTKL-
+EA92D-347XB-JFALX
+MANIFESTO DE
+ASSINATURAS
+Código de validação: JUTKL-EA92D-347XB-JFALX
+Este documento foi assinado pelos seguintes signatários nas datas indicadas (Fuso
+horário de Brasília):
+MARINA MOURA LISBOA CARNEIRO DE FARIAS CARVALHO (CPF
+052.963.279-93) em 08/12/2025 15:00 (Titular)
+Para verificar as assinaturas acesse https://assinatura.e-notariado.org.br/validate e
+informe o código de validação ou siga o link a abaixo:
+https://assinatura.e-notariado.org.br/validate/JUTKL-EA92D-347XB-JFALX
+.

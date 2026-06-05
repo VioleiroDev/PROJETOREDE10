@@ -1,0 +1,2923 @@
+Objeto:
+- Contratação de empresa especializada na prestação dos serviços de provedor de acesso à internet com link dedicado, via
+rede de ﬁbra óptica de alto desempenho, com baixa latência e suporte a tráfego intenso, com velocidade mínima garantida
+de 1,5 Gbps (Gigabits por segundo), com equipamentos homologados pela ANATEL e software compatíveis, para
+distribuição, de forma simétrica (a mesma para upload e download) e contínua, às unidades da Administração Municipal de
+Capão Bonito do Sul, por meio de duas interligações físicas independentes, com no mínimo duas rotas de redundância,
+ambas partindo do backbone da sede do provedor contratado, até os pontos de entrega nas localidades especiﬁcadas, de
+modo a garantir alta disponibilidade (mínimo de 99,5%) e conﬁabilidade na prestação do serviço. O serviço deverá estar
+disponível nas unidades da Prefeitura Municipal localizadas na Sede do Município (Centro Administrativo Municipal;
+Secretaria de Saúde e Assistência Social; Unidade Básica de Saú... Continuar Lendo >
+   Editais
+Ato que autoriza a Contratação Direta nº
+DL 91/2025
+Última atualização 15/08/2025
+Local: Capão Bonito do Sul/RS Órgão: MUNICIPIO DE CAPAO BONITO DO SUL
+Unidade compradora: 1 - PREFEITURA MUNICIPAL CAPÃO BONITO DO SUL
+Modalidade da contratação: Dispensa Amparo legal: Lei 14.133/2021, Art. 75, II
+Tipo: Ato que autoriza a Contratação Direta Modo de disputa: Não se aplica Registro de preço: Não
+Fonte orçamentária: Não informada
+Data de divulgação no PNCP: 15/08/2025 Situação: Divulgada no PNCP
+Id contratação PNCP: 04215971000100-1-000088/2025 Fonte: Betha Sistemas
+VALOR TOTAL ESTIMADO DA COMPRA
+R$ 54.450,00
+VALOR TOTAL HOMOLOGADO DA
+COMPRA
+R$ 0,00
+Itens Arquivos Histórico
+Númeroc Descriçãoc Quantidadec Valor unitário estimadoc
+Portal Nacional de Contratações Públicas  Entrar
+27/04/2026, 09:11 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/04215971000100/2025/88 1/3
+1 - Contratação de empresa
+especializada na prestação dos
+serviços de provedor de acesso à
+internet com link dedicado, via rede de
+ﬁbra óptica de alto desempenho, com
+baixa latência e suporte a tráfego
+intenso, com velocidade mínima
+garantida de 1,5 Gbps (Gigabits por
+segundo), com equipamentos
+homologados pela ANATEL e software
+compatíveis, para distribuição, de forma
+simétrica (a mesma para upload e
+download) e contínua, às unidades da
+Administração Municipal de Capão
+Bonito do Sul, por meio de duas
+interligações físicas independentes,
+com no mínimo duas rotas de
+redundância, ambas partindo do
+backbone da sede do provedor
+contratado, até os pontos de entrega
+nas localidades especiﬁcadas, de modo
+a garantir alta disponibilidade (mínimo
+de 99,5%) e conﬁabilidade na prestação
+do serviço. O serviço deverá estar
+disponível nas unidades da Prefeitura
+Municipal localizadas na Sede do
+Município (Centro Administrativo
+Municipal; Secretaria de Saúde e
+Assistência Social; Unidade Básica de
+Saúde da Sede do Município; Centro de
+Referência em Assistência Social-CRAS;
+Escola Municipal Firmino Frizzo; Escola
+Municipal de Educação Infantil Joana
+Scopel Bolsonelo; Conselho Tutelar;
+Garagem da Secretaria de
+Infraestrutura; Secretaria de Agricultura,
+Desenvolvimento Econômico e Meio
+Ambiente; Praça Pública Laura Feijó,
+Ginásio de Esportes Clélio Francisco
+Ramos; Parque Municipal de Eventos
+João Lindolfo Bolsonelo; Posto de
+Atendimento do Reassentamento 25 de
+Novembro e Posto de Atendimento da
+Brigada Militar) e no Distrito de Barretos
+(Escola Horácio Severo da Costa e
+Posto de Saúde de Barretos); com
+funcionamento ininterrupto: 24 horas
+por dia, nos 7 dias da semana. - O
+provedor contratado deverá possuir
+certiﬁcação da ANATEL para operação
+do serviço de telecomunicações, como
+Prestadora de Serviço de Comunicação
+Multimídia (SCM), estando
+regularmente habilitado a operar nessa
+categoria. - A empresa contratada
+deverá possuir endereçamento IP
+válido próprio (IP público próprio),
+registrado junto ao Registro.br (NIC.br),
+com capa
+12 R$ 4.537,50
+Exibir: 1-1 de 1 itens Página:5 1
+
+
+ Voltar
+27/04/2026, 09:11 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/04215971000100/2025/88 2/3
+AGRADECIMENTO AOS PARCEIROS
+Texto destinado a exibição de informações relacionadas à licença de uso.
+Criado pela Lei nº 14.133/21, o Portal Nacional de Contratações Públicas (PNCP) é
+o sítio eletrônico oﬁcial destinado à divulgação centralizada e obrigatória dos atos
+exigidos em sede de licitações e contratos administrativos abarcados pelo novel
+diploma.
+É gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, um
+colegiado deliberativo com suas atribuições estabelecidas no Decreto nº 10.764,
+de 9 de agosto de 2021.
+O desenvolvimento dessa versão do Portal é um esforço conjunto de construção
+de uma concepção direta legal, homologado pelos indicados a compor o aludido
+comitê.
+A adequação, ﬁdedignidade e corretude das informações e dos arquivos relativos
+às contratações disponibilizadas no PNCP por força da Lei nº 14.133/2021 são de
+estrita responsabilidade dos órgãos e entidades contratantes.
+ https://portaldeservicos.gestao.gov.br
+ 0800 978 9001
+27/04/2026, 09:11 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/04215971000100/2025/88 3/3
+Objeto:
+Contratação de empresa especializada prestação de serviços de comunicação de dados, conectividade e telefonia,
+abrangendo links dedicados de internet, conexão à internet e interligação por ﬁbra óptica, fornecimento de telefonia ﬁxa e
+virtual (PABX), para atender às necessidades integradas de tecnologia da informação e comunicação das Secretarias
+municipais e do Fundo Municipal de Saúde do município de Capivari de Baixo.
+   Editais
+Edital nº PE 16/2026
+Última atualização 13/04/2026
+Local: Capivari de Baixo/SC Órgão: MUNICIPIO DE CAPIVARI DE BAIXO
+Unidade compradora: 1 - PREFEITURA MUNICIPAL DE CAPIVARI DE BAIXO - SC
+Modalidade da contratação: Pregão - Eletrônico Amparo legal: Lei 14.133/2021, Art. 28, I Tipo: Edital
+Modo de disputa: Aberto Registro de preço: Não Fonte orçamentária: Não informada
+Data de divulgação no PNCP: 13/04/2026 Situação: Divulgada no PNCP
+Data de início de recebimento de propostas: 09/04/2026 08:00 (horário de Brasília)
+Data ﬁm de recebimento de propostas: 24/04/2026 08:00 (horário de Brasília)
+Id contratação PNCP: 95780441000160-1-000028/2026 Fonte: Betha Sistemas
+VALOR TOTAL ESTIMADO DA COMPRA
+R$ 230.094,48
+VALOR TOTAL HOMOLOGADO DA
+COMPRA
+R$ 0,00
+Itens Arquivos Histórico
+Númeroc Descriçãoc Quantidadec Valor unitário estimadoc
+Portal Nacional de Contratações Públicas  Entrar
+27/04/2026, 09:13 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/95780441000160/2026/28 1/3
+AGRADECIMENTO AOS PARCEIROS
+1 Link IP dedicado com capacidade de 2
+Gbps, com 3IP`s válidos, para
+atendimento ao Sistema de Servidor do
+Paço Municipal – Serviço Mensal
+12 R$ 1.923,89
+2 Fornecimento de Internet Fibra Óptica
+com velocidade de 1 Gbps Download e
+500 Mbps de Upload para outras
+Secretarias ou Serviços Municipais fora
+do Paço Municipal – Serviço mensal. G1
+24 R$ 155,49
+3 Licença para Central PABX Virtual para
+200 ramais, instalação e conﬁguração,
+comportando 10 ligações simultâneas
+por ramal, com atendimento digital
+virtual programável e registro de
+gravação das ligações. Pacote de
+minutos ilimitados para ﬁxo e móvel.
+24 R$ 2.293,08
+4 Entroncamento com 450 DDR (SIP) e
+30 canais ativos simultaneamente, com
+ligações ilimitadas para tráfego local e
+LDN – Serviço Mensal
+24 R$ 1.495,00
+5 Linha de Telefonia Fixa 12 R$ 94,81
+Exibir: 1-5 de 64 itens Página:5 1
+ 
+ Voltar
+Criado pela Lei nº 14.133/21, o Portal Nacional de Contratações Públicas (PNCP) é
+o sítio eletrônico oﬁcial destinado à divulgação centralizada e obrigatória dos atos
+exigidos em sede de licitações e contratos administrativos abarcados pelo novel
+diploma.
+É gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, um
+colegiado deliberativo com suas atribuições estabelecidas no Decreto nº 10.764,
+de 9 de agosto de 2021.
+O desenvolvimento dessa versão do Portal é um esforço conjunto de construção
+de uma concepção direta legal, homologado pelos indicados a compor o aludido
+comitê.
+A adequação, ﬁdedignidade e corretude das informações e dos arquivos relativos
+às contratações disponibilizadas no PNCP por força da Lei nº 14.133/2021 são de
+estrita responsabilidade dos órgãos e entidades contratantes.
+ https://portaldeservicos.gestao.gov.br
+ 0800 978 9001
+27/04/2026, 09:13 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/95780441000160/2026/28 2/3
+Texto destinado a exibição de informações relacionadas à licença de uso.
+27/04/2026, 09:13 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/95780441000160/2026/28 3/3
+Página 1 de 4
+ 
+Ata de Realização do Pregão Eletrônico
+Número de Pregão Eletrônico: 156/2025
+Nº Ata:
+Nº Edital:
+Nº Processo:
+1
+156/2025
+156/2025
+Objeto:
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE TELECOMUNICAÇÕES PARA FORNECIMENTO
+DE INTERNET VIA FIBRA ÓPTICA, INTERCONEXÃO DE UNIDADES E DISPONIBILIZAÇÃO DE WI-FI PÚBLICO.,
+conforme especificação - ANEXO, do Edital.
+1 1.154.141,85Val. Ref. Total:
+Item: 1 Quant.: 12,00 Val. Ref.: 84.000,00Unidade: mês
+Link de fibra Óptica dedicado 2.000 Mbps
+Item: 2 Quant.: 60,00 Val. Ref.: 27.980,00Unidade: mês
+Link de fibra Óptica dedicado 10 Mbps
+Item: 3 Quant.: 72,00 Val. Ref.: 29.973,60Unidade: mês
+Link de fibra Óptica Interconexão 500 Mbps
+Item: 4 Quant.: 600,00 Val. Ref.: 212.235,00Unidade: mês
+Link de fibra Óptica Interconexão 250 Mbps
+Item: 5 Quant.: 1200,00 Val. Ref.: 259.836,00Unidade: mês
+Link de fibra Óptica Interconexão 100 Mbps
+Item: 6 Quant.: 1560,00 Val. Ref.: 316.628,05Unidade: mês
+Link de fibra Óptica Interconexão 20 Mbps
+Item: 7 Quant.: 360,00 Val. Ref.: 63.468,00Unidade: mês
+Link de fibra Óptica Interconexão 10 Mbps
+Item: 8 Quant.: 600,00 Val. Ref.: 160.021,20Unidade: mês
+Banda Larga Empresarial com IP fixo via fibra óptica 400/200 Mbps
+Propostas Iniciais
+Fornecedor (apelido) Valor
+Licitante 01 1.150.992,00
+Licitante 02 1.154.141,85
+Licitante 03 1.154.141,85
+Licitante 04 1.154.127,00
+Licitante 05 1.154.127,00
+Evento Data/Hora inicial
+Eventos do Lote
+Aguardando Abertura de Propostas 10/10/2025 08.01.48
+Declaro iniciada a fase de AGUARDANDO ABERTURA DE PROPOSTAS.
+Lances 10/10/2025 08.05.36
+Declaro iniciada a fase de LANCES.
+Licitante 03 Último Lance 343.000,00
+Licitante 02 Último Lance 765.000,00
+Licitante 04 Último Lance 362.000,00
+10/10/2025 09.13.37
+Declaro iniciada a fase de ABERTURA DE VISTAS.
+Abertura de Vistas
+Habilitação 10/10/2025 09.27.21
+Fase alterada para HABILITAÇÃO.
+Habilitado o licitante Unifique Telecomunicações S/A pelo motivo: Considerando os princípios da razoabilidade, da proporcionalidade e do formalismo
+moderado, entende a Pregoeira que a documentação está de acordo com o Instrumento Convocatório, ficando
+Habilitação 16/10/2025 14.05.58
+declarado como vencedor no(s) lote(s) 1 e 2..
+Intenção de Recurso 16/10/2025 14.23.18
+Não houve manifestação de recurso para o lote.
+Adjudicação 16/10/2025 14.23.18
+Enviada para próxima fase.
+Declaro adjudicado o pregão do lote 1 para o licitante Unifique Telecomunicações S/A com o valor de R$ 342.999,60.
+Nº Ata:
+Nº Edital:
+Nº Processo:
+1
+156/2025
+156/2025
+Objeto:
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE TELECOMUNICAÇÕES PARA FORNECIMENTO
+DE INTERNET VIA FIBRA ÓPTICA, INTERCONEXÃO DE UNIDADES E DISPONIBILIZAÇÃO DE WI-FI PÚBLICO.,
+conforme especificação - ANEXO, do Edital.
+2 292.944,41Val. Ref. Total:
+Item: 1 Quant.: 240,00 Val. Ref.: 120.258,41Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 800 Mbps
+Item: 2 Quant.: 360,00 Val. Ref.: 99.792,00Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 400 Mbps
+Item: 3 Quant.: 120,00 Val. Ref.: 50.394,00Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 800 Mbps Temporário para Eventos
+Item: 4 Quant.: 10,00 Val. Ref.: 3.750,00Unidade: mês
+Taxa de Instalação e desinstalação pontos itinerantes - Hotspot/Access Point
+Item: 5 Quant.: 50,00 Val. Ref.: 18.750,00Unidade: mês
+Taxa de Instalação pontos fixos - Hotspot/Access Point
+Propostas Iniciais
+Fornecedor (apelido) Valor
+Licitante 01 292.740,00
+Licitante 02 292.944,41
+Licitante 03 292.942,80
+Evento Data/Hora inicial
+Eventos do Lote
+Aguardando Abertura de Propostas 10/10/2025 08.01.48
+Declaro iniciada a fase de AGUARDANDO ABERTURA DE PROPOSTAS.
+Lances 10/10/2025 08.24.09
+Declaro iniciada a fase de LANCES.
+Licitante 02 Último Lance 290.046,00
+10/10/2025 08.34.10
+Declaro iniciada a fase de ABERTURA DE VISTAS.
+Abertura de Vistas
+Habilitação 10/10/2025 09.27.22
+Fase alterada para HABILITAÇÃO.
+Habilitado o licitante Unifique Telecomunicações S/A pelo motivo: Considerando os princípios da razoabilidade, da proporcionalidade e do formalismo
+moderado, entende a Pregoeira que a documentação está de acordo com o Instrumento Convocatório, ficando declarado como vencedor no(s) lote(s)
+1 e 2..
+Intenção de Recurso 16/10/2025 14.23.18
+Não houve manifestação de recurso para o lote.
+Adjudicação 16/10/2025 14.23.18
+Enviada para próxima fase.
+Declaro adjudicado o pregão do lote 2 para o licitante Unifique Telecomunicações S/A com o valor de R$ 290.046,00.
+Pregoeiro: Inã Carini Zapelini Zanella
+Nada mais a tratar, o Pregoeiro encerrou a sessão pública de pregão eletrônico, agradecendo a participação de todos e
+fez lavrar a presente Ata, que após lida e achada conforme, vai ser assinada pela equipe.
+Rua Condá, 1825-D Chapecó, SCFone/FAX: (0xx49) 3321-4800CEP 89812-201 http://www.superip.com.br  
+ ESTADO DE SANTA CATARINA PREFEITURA MUNICIPAL DE CHAPECÓ   Avenida Getúlio Vargas, 957 S     Fone/Fax - 049 3321 8456     CEP  89812-000- CHAPECÓ-SC     CNPJ  83.021.808/0001-82      Orçamento  Discriminação dos Serviços Lote 1                           Valor Total Mensal R$ 121.250,00 Discriminação dos Serviços Lote 2           Valor Total Mensal R$ 15.000,00 Validade do orçamento 60 dias  Chapecó-SC, 07 de abril de 2026.   Eliete Marchioro Socio-Administrador CPF 018.173.809-07  
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+MUNICIPIO DE CHAPECO
+ 
+15/04/2026
+ 
+Contato:
+Massimiliano Prodan De Pol
+ 
+(49) 3321-8411
+ 
+ 
+ 
+ 
+Facilitando Comunicações, Potencializando Resultados
+Prezado 
+Daia Peixe
+Thays Fortes Borges de Oliveira
+Massimiliano Prodan De Pol
+ 
+Em busca de crescimento sustentado através do nosso sucesso e do excelente serviço que oferecemos aos
+provedores e usuários finais. Estabelecemos parcerias estratégicas com os melhores PTTs do país para garantir uma
+conexão contínua aos nossos usuários, proporcionando segurança e tecnologia avançada.
+Com uma equipe de aproximadamente 1.200 colaboradores, entre próprios e terceirizados, que trabalham em
+conjunto para oferecer um atendimento de qualidade. Além disso, temos mais de 100 empresas parceiras que
+contribuem para o nosso crescimento e indicadores de negócios sólidos.
+Temos presença física em mais de 20 pontos estratégicos, incluindo um call center com capacidade para atender mais
+de 50 mil chamadas por mês. Além do suporte técnico Nível I disponível 24/7 e um setor de NOC Nível II dedicado ao
+atendimento corporativo.
+Uma variedade de produtos e serviços incluindo: internet fibra óptica, telefonia fixa, telefonia móvel (MVNO), TV por
+assinatura, intranet, link IP dedicado full e circuito ponto a ponto. Também comprometidos em atender às
+necessidades dos provedores regionais.
+Na Mhnet Telecom, estamos empenhados em fornecer soluções de comunicação confiáveis e inovadoras.
+Nossa Rede / BackBone
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+Com uma extensa rede de fibra óptica que se estende por mais de 25 mil quilômetros, cobrimos mais de 300
+municípios em todo o país.  Atendemos os três estados do Sul do Brasil e com ramificações do backbone em parte
+dos Estados de São Paulo e também do Mato Grosso do Sul. 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+SUPORTE E PÓS-VENDA
+Gerência dos circuitos
+Os circuitos contratados, serão monitorados 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, mantendo um
+centro de gerencia de rede, nível II, disponível através do número do telefone indicado abaixo, o qual deve ser
+notificado sobre qualquer anormalidade que possa afetar o funcionamento dos circuitos:
+Central de Atendimento: 049 3199-1234
+E-mail: 
+noc@mhnet.com.br
+ 
+ 
+SLA
+O SLA (Service Level Agreement –acordo de nível de serviços ou garantia de desempenho) de manutenção da
+disponibilidade dos serviços envolvidos, será de 98,30% do tempo, em cada mês civil, para 100% da velocidade
+contratada.
+ 
+Na apuração do “Tempo Total de Interrupção” deverá ser considerado somente o tempo das interrupções não
+previstas, causadas por responsabilidade comprovada da contratada.
+Eventos de manutenção programada, que ocorrerão preferencialmente em horários durante a madrugada para causar
+o menor impacto possível nas operações e comunicados/agendados previamente com o cliente não serão
+computados no tempo total de indisponibilidade do serviço.
+ 
+ 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+0 15 de abril de 2026 Proposta nº 2.705   
+ 
+MUNICIPIO DE CHAPECO
+ 
+A/C:
+ 
+Massimiliano Prodan De Pol
+Telefone:
+ 
+(49) 3321-8411
+E-mail:
+ 
+dir.modernizacao@chapeco.sc.gov.br
+ 
+Seguem condições da proposta comercial:
+ 
+Item
+Nome
+Quantidade
+Valor Mensal
+Desconto
+Total Mensal
+1
+Internet IP 10 GB
+3
+R$  
+38.000,00
+%
+R$  
+114.000,00
+2
+Internet IP 500 Mb Full
+3
+R$  
+3.500,00
+%
+R$  
+10.500,00
+3
+Link MPLS 1 GB
+226
+R$  
+5.900,00
+%
+R$  
+1.333.400,00
+4
+IP /27
+1
+R$  
+1.920,00
+%
+R$  
+1.920,00
+Total   
+R$ 
+1.459.820,00
+ 
+ Forma de Pagamento
+ 
+Boleto
+ 
+ Prazo de Entrega
+ 
+Conforme edital
+ 
+ 
+ 
+ 
+ 
+ 
+IMPOSTOS 
+Todos os tributos, incluindo impostos, contribuições e taxas, bem como quaisquer outros encargos que incidam ou venham
+a incidir sobre o pagamento dos serviços prestados serão suportados pelo Cliente, de modo que aos referidos pagamentos
+deverão ser acrescidos os valores correspondentes a quaisquer tributos incidentes, inclusive, mas não limitado aos valores
+correspondentes: (i) ao Imposto de Renda e proventos de Qualquer Natureza retido na Fonte; (ii) ao Imposto sobre Serviços
+de Qualquer Natureza – ISSQN; (iii) Imposto Sobre Circulação De Mercadorias e Serviços – ICMS; (iv) à Contribuição ao
+Programa de Integração Social e Formação do Patrimônio do Servidor Público – PIS; e (v) à Contribuição para o
+Financiamento da Seguridade Social – COFINS. Da mesma forma, caso, por força de lei ou norma regulamentar, o Cliente
+estiver obrigado a reter ou deduzir do pagamento feito ao Provedor quaisquer tributos, tais montantes deverão ser
+acrescidos aos pagamentos de modo que o Provedor receba o mesmo valor que seria devido caso nenhuma retenção ou
+ 
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dedução fosse realizada (gross-up).
+ 
+VALIDADE DA PROPOSTA
+A presente proposta possui validade de 30 dias, contados a partir da data de envio.
+ 
+Atenciosamente:
+ 
+Nara Rubia Machado Santos
+Executivo de Contas
+nara.rubia@mhnet.com.br
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 4
+ 
+Ata de Realização do Pregão Eletrônico
+Número de Pregão Eletrônico: 156/2025
+Nº Ata:
+Nº Edital:
+Nº Processo:
+1
+156/2025
+156/2025
+Objeto:
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE TELECOMUNICAÇÕES PARA FORNECIMENTO
+DE INTERNET VIA FIBRA ÓPTICA, INTERCONEXÃO DE UNIDADES E DISPONIBILIZAÇÃO DE WI-FI PÚBLICO.,
+conforme especificação - ANEXO, do Edital.
+1 1.154.141,85Val. Ref. Total:
+Item: 1 Quant.: 12,00 Val. Ref.: 84.000,00Unidade: mês
+Link de fibra Óptica dedicado 2.000 Mbps
+Item: 2 Quant.: 60,00 Val. Ref.: 27.980,00Unidade: mês
+Link de fibra Óptica dedicado 10 Mbps
+Item: 3 Quant.: 72,00 Val. Ref.: 29.973,60Unidade: mês
+Link de fibra Óptica Interconexão 500 Mbps
+Item: 4 Quant.: 600,00 Val. Ref.: 212.235,00Unidade: mês
+Link de fibra Óptica Interconexão 250 Mbps
+Item: 5 Quant.: 1200,00 Val. Ref.: 259.836,00Unidade: mês
+Link de fibra Óptica Interconexão 100 Mbps
+Item: 6 Quant.: 1560,00 Val. Ref.: 316.628,05Unidade: mês
+Link de fibra Óptica Interconexão 20 Mbps
+Item: 7 Quant.: 360,00 Val. Ref.: 63.468,00Unidade: mês
+Link de fibra Óptica Interconexão 10 Mbps
+Item: 8 Quant.: 600,00 Val. Ref.: 160.021,20Unidade: mês
+Banda Larga Empresarial com IP fixo via fibra óptica 400/200 Mbps
+Propostas Iniciais
+Fornecedor (apelido) Valor
+Licitante 01 1.150.992,00
+Licitante 02 1.154.141,85
+Licitante 03 1.154.141,85
+Licitante 04 1.154.127,00
+Licitante 05 1.154.127,00
+Evento Data/Hora inicial
+Eventos do Lote
+Aguardando Abertura de Propostas 10/10/2025 08.01.48
+Declaro iniciada a fase de AGUARDANDO ABERTURA DE PROPOSTAS.
+Lances 10/10/2025 08.05.36
+Declaro iniciada a fase de LANCES.
+Licitante 03 Último Lance 343.000,00
+Licitante 02 Último Lance 765.000,00
+Licitante 04 Último Lance 362.000,00
+10/10/2025 09.13.37
+Declaro iniciada a fase de ABERTURA DE VISTAS.
+Abertura de Vistas
+Habilitação 10/10/2025 09.27.21
+Fase alterada para HABILITAÇÃO.
+Habilitado o licitante Unifique Telecomunicações S/A pelo motivo: Considerando os princípios da razoabilidade, da proporcionalidade e do formalismo
+moderado, entende a Pregoeira que a documentação está de acordo com o Instrumento Convocatório, ficando
+Habilitação 16/10/2025 14.05.58
+declarado como vencedor no(s) lote(s) 1 e 2..
+Intenção de Recurso 16/10/2025 14.23.18
+Não houve manifestação de recurso para o lote.
+Adjudicação 16/10/2025 14.23.18
+Enviada para próxima fase.
+Declaro adjudicado o pregão do lote 1 para o licitante Unifique Telecomunicações S/A com o valor de R$ 342.999,60.
+Nº Ata:
+Nº Edital:
+Nº Processo:
+1
+156/2025
+156/2025
+Objeto:
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE TELECOMUNICAÇÕES PARA FORNECIMENTO
+DE INTERNET VIA FIBRA ÓPTICA, INTERCONEXÃO DE UNIDADES E DISPONIBILIZAÇÃO DE WI-FI PÚBLICO.,
+conforme especificação - ANEXO, do Edital.
+2 292.944,41Val. Ref. Total:
+Item: 1 Quant.: 240,00 Val. Ref.: 120.258,41Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 800 Mbps
+Item: 2 Quant.: 360,00 Val. Ref.: 99.792,00Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 400 Mbps
+Item: 3 Quant.: 120,00 Val. Ref.: 50.394,00Unidade: mês
+Wi-Fi Público - Hotspot/Access Point - 800 Mbps Temporário para Eventos
+Item: 4 Quant.: 10,00 Val. Ref.: 3.750,00Unidade: mês
+Taxa de Instalação e desinstalação pontos itinerantes - Hotspot/Access Point
+Item: 5 Quant.: 50,00 Val. Ref.: 18.750,00Unidade: mês
+Taxa de Instalação pontos fixos - Hotspot/Access Point
+Propostas Iniciais
+Fornecedor (apelido) Valor
+Licitante 01 292.740,00
+Licitante 02 292.944,41
+Licitante 03 292.942,80
+Evento Data/Hora inicial
+Eventos do Lote
+Aguardando Abertura de Propostas 10/10/2025 08.01.48
+Declaro iniciada a fase de AGUARDANDO ABERTURA DE PROPOSTAS.
+Lances 10/10/2025 08.24.09
+Declaro iniciada a fase de LANCES.
+Licitante 02 Último Lance 290.046,00
+10/10/2025 08.34.10
+Declaro iniciada a fase de ABERTURA DE VISTAS.
+Abertura de Vistas
+Habilitação 10/10/2025 09.27.22
+Fase alterada para HABILITAÇÃO.
+Habilitado o licitante Unifique Telecomunicações S/A pelo motivo: Considerando os princípios da razoabilidade, da proporcionalidade e do formalismo
+moderado, entende a Pregoeira que a documentação está de acordo com o Instrumento Convocatório, ficando declarado como vencedor no(s) lote(s)
+1 e 2..
+Intenção de Recurso 16/10/2025 14.23.18
+Não houve manifestação de recurso para o lote.
+Adjudicação 16/10/2025 14.23.18
+Enviada para próxima fase.
+Declaro adjudicado o pregão do lote 2 para o licitante Unifique Telecomunicações S/A com o valor de R$ 290.046,00.
+Pregoeiro: Inã Carini Zapelini Zanella
+Nada mais a tratar, o Pregoeiro encerrou a sessão pública de pregão eletrônico, agradecendo a participação de todos e
+fez lavrar a presente Ata, que após lida e achada conforme, vai ser assinada pela equipe.
+Objeto:
+Contratação de empresa especializada para a prestação de serviços continuados de acesso à internet, por meio de link
+dedicado em ﬁbra óptica, com garantia de banda, incluindo a implantação da infraestrutura necessária, fornecimento de
+equipamentos em regime de comodato, instalação, conﬁguração, suporte técnico, monitoramento, manutenção preventiva e
+corretiva, destinados ao atendimento das unidades administrativas vinculadas às Secretarias Municipais do Município de
+Santiago do Sul/SC, conforme especiﬁcações e condições estabelecidas neste Termo de Referência.
+   Editais
+Edital nº PE 11/2026
+Última atualização 22/04/2026
+Local: Santiago do Sul/SC Órgão: MUNICIPIO DE SANTIAGO DO SUL
+Unidade compradora: 980940 - PREFEITURA MUNICIPAL DE SANTIAGO DO SUL - SC
+Modalidade da contratação: Pregão - Eletrônico Amparo legal: Lei 14.133/2021, Art. 28, I Tipo: Edital
+Modo de disputa: Aberto Registro de preço: Não Fonte orçamentária: Não informada
+Data de divulgação no PNCP: 22/04/2026 Situação: Divulgada no PNCP
+Data de início de recebimento de propostas: 23/04/2026 08:00 (horário de Brasília)
+Data ﬁm de recebimento de propostas: 11/05/2026 08:00 (horário de Brasília)
+Id contratação PNCP: 01612781000138-1-000061/2026 Fonte: Betha Sistemas
+VALOR TOTAL ESTIMADO DA COMPRA
+R$ 38.603,52
+VALOR TOTAL HOMOLOGADO DA
+COMPRA
+R$ 0,00
+Itens Arquivos Histórico
+Númeroc Descriçãoc Quantidadec Valor unitário estimadoc
+Portal Nacional de Contratações Públicas  Entrar
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 1/7
+1 PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 500
+MBPS, VIA FIBRA ÓPTICA, COM
+INSTALAÇÃO DOS SEGUINTES
+EQUIPAMENTOS: 04 (QUATRO) ACCESS
+POINTS CORPORATIVOS PADRÃO WI-
+FI 6 OU SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT COM NO MÍNIMO
+04 PORTAS POE E INTERFACES
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) NOBREAK COM
+POTÊNCIA MÍNIMA DE 1500 VA, COM
+SUPORTE A BANCO DE BATERIA
+EXTERNA E ACOMPANHADO DE
+BATERIA ESTACIONÁRIA SELADA COM
+CAPACIDADE MÍNIMA DE 40 AH, DO
+TIPO VRLA, AGM OU GEL, LIVRE DE
+MANUTENÇÃO, DESTINADO À
+PROTEÇÃO DOS EQUIPAMENTOS DE
+REDE, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 300M
+(TREZENTOS METROS) DE CABO DE
+REDE COM CONDUTOR 100% COBRE,
+PADRÃO CAT5E OU SUPERIOR, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 10 (DEZ) NOVOS PONTOS
+DE REDE. - PRESTAÇÃO DE SERVIÇO
+DE CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 500
+MBPS, VIA FIBRA ÓPTICA, COM
+INSTALAÇÃO DOS SEGUINTES
+EQUIPAMENTOS: 04 (QUATRO) ACCESS
+POINTS CORPORATIVOS PADRÃO WI-
+FI 6 OU SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT COM NO MÍNIMO
+04 PORTAS POE E INTERFACES
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) NOBREAK COM
+POTÊNCIA MÍNIMA DE 1500 VA, COM
+SUPORTE A BANCO DE BATERIA
+EXTERNA E ACOMPANHADO DE
+BATERIA ESTACIONÁRIA SELADA COM
+CAPACIDADE MÍNIMA DE 40 AH, DO
+TIPO VRLA, AGM OU GEL, LIVRE DE
+MANUTENÇÃO, DESTINADO À
+PROTEÇÃO DOS EQUIPAMENTOS DE
+REDE, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 300M
+(TREZENTOS METROS) DE CABO DE
+REDE COM CONDUTOR 100% COBRE,
+PADRÃO CAT5E OU SUPERIOR, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 10 (DEZ) NOVOS PONTOS
+DE REDE.
+12 R$ 369,63
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 2/7
+2 PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO FULL (GARANTIA DE 100%
+DA BANDA PARA UPLOAD E
+DOWNLOAD), COM VELOCIDADE
+MÍNIMA DE 500 MBPS, VIA FIBRA
+ÓPTICA, COM INSTALAÇÃO DOS
+SEGUINTES EQUIPAMENTOS: 07
+(SETE) ACCESS POINTS
+CORPORATIVOS PADRÃO WI-FI 6 OU
+SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT GERENCIÁVEL
+COM NO MÍNIMO 24 PORTAS
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 01 (UM) SWITCH GIGABIT
+DE MESA COM SUPORTE A POE, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 01 (UM) NOBREAK COM
+POTÊNCIA MÍNIMA DE 1500 VA, COM
+SUPORTE A BANCO DE BATERIA
+EXTERNA E ACOMPANHADO DE
+BATERIA ESTACIONÁRIA SELADA COM
+CAPACIDADE MÍNIMA DE 40 AH, DO
+TIPO VRLA, AGM OU GEL, LIVRE DE
+MANUTENÇÃO, DESTINADO À
+PROTEÇÃO DOS EQUIPAMENTOS DE
+REDE, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 300M
+(TREZENTOS METROS) DE CABO DE
+REDE COM CONDUTOR 100% COBRE,
+PADRÃO CAT5E OU SUPERIOR, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 10 (DEZ) NOVOS PONTOS
+DE REDE; 01 (UM) RACK DE PAREDE
+METÁLICO PADRÃO 19”, COM
+CAPACIDADE MÍNIMA DE 12U, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 80M (OITENTA METROS) DE
+CABO DE REDE BLINDADO, PADRÃO
+CAT6 OU SUPERIOR, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 01 (UM) NOBREAK COM
+POTÊNCIA MÍNIMA DE 1200 VA PARA
+PROTEÇÃO DE EQUIPAMENTOS
+AUXILIARES, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR.
+EQUIPAMENTOS DISPONIBILIZADOS
+NA MODALIDADE DE COMODATO, SEM
+CUSTO DE INSTALAÇÃO. SERVIÇOS DE
+MANUTENÇÃO E CONFIGURAÇÃO
+DOS EQUIPAMENTOS INCLUSOS,
+INCLUINDO TROCA DE
+EQUIPAMENTOS OU CABO DE FIBRA
+ÓPTICA COM DEFEITO,
+GERENCIAMENTO E LIBERAÇÃO DE
+PORTAS DE REDE, CONFIGURAÇÃO DE
+REGRAS DE FIREWALL, CONTROLE DE
+BANDA E DEMAIS CONFIGURAÇÕES
+NECESSÁRIAS PARA O
+GERENCIAMENTO DA REDE, SEMPRE
+QUE SOLICITADO PELO MUNICÍPIO.
+INTERNET E EQUIPAMENTOS A SEREM
+INSTALADOS NA SECRETARIA
+12 R$ 369,63
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 3/7
+MUNICIPAL DE SAÚDE DO MUNICÍPIO
+DE SANTIAGO DO SUL/SC. -
+PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO FULL (GARANTIA DE 100%
+DA BANDA PARA UPLOAD E
+DOWNLOAD), COM VELOCI
+3 PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 500
+MBPS, VIA FIBRA ÓPTICA, COM
+INSTALAÇÃO DOS SEGUINTES
+EQUIPAMENTOS: 07 (SETE) ACCESS
+POINTS CORPORATIVOS PADRÃO WI-
+FI 6 OU SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT GERENCIÁVEL
+COM NO MÍNIMO 24 PORTAS
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 02 (DOIS) SWITCHES
+GIGABIT DE MESA COM SUPORTE A
+POE, OU TECNICAMENTE
+EQUIVALENTES OU SUPERIORES; 01
+(UM) NOBREAK COM POTÊNCIA
+MÍNIMA DE 1500 VA, COM SUPORTE A
+BANCO DE BATERIA EXTERNA E
+ACOMPANHADO DE BATERIA
+ESTACIONÁRIA SELADA COM
+CAPACIDADE MÍNIMA DE 40 AH, DO
+TIPO VRLA, AGM OU GEL, LIVRE DE
+MANUTENÇÃO, DESTINADO À
+PROTEÇÃO DOS EQUIPAMENTOS DE
+REDE, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 400M
+(QUATROCENTOS METROS) DE CABO
+DE REDE COM CONDUTOR 100%
+COBRE, PADRÃO CAT5E OU SUPERIOR,
+OU TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 160M (CENTO E SESSENTA
+METROS) DE CABO DROP DE FIBRA
+ÓPTICA PARA INTERLIGAÇÃO DE
+PONTOS DE REDE OU
+EQUIPAMENTOS, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 15
+(QUINZE) NOVOS PONTOS DE REDE; 01
+(UM) RACK DE PAREDE METÁLICO
+PADRÃO 19”, COM CAPACIDADE
+MÍNIMA DE 12U, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 01 (UM)
+RACK DE PAREDE METÁLICO PADRÃO
+19”, COM CAPACIDADE MÍNIMA DE 8U,
+OU TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 04 (QUATRO) PARES DE
+MÓDULOS SFP PARA INTERLIGAÇÃO
+DE EQUIPAMENTOS DE REDE POR
+FIBRA ÓPTICA, OU TECNICAMENTE
+EQUIVALENTES OU SUPERIORES; 01
+(UM) NOBREAK COM POTÊNCIA
+MÍNIMA DE 1200 VA PARA PROTEÇÃO
+DE EQUIPAMENTOS AUXILIARES, OU
+TECNICAMENTE EQUIVALENTE OU
+12 R$ 402,97
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 4/7
+SUPERIOR. EQUIPAMENTOS
+DISPONIBILIZADOS NA MODALIDADE
+DE COMODATO, SEM CUSTO DE
+INSTALAÇÃO. SERVIÇOS DE
+MANUTENÇÃO E CONFIGURAÇÃO
+DOS EQUIPAMENTOS INCLUSOS,
+INCLUINDO TROCA DE
+EQUIPAMENTOS OU CABO DE FIBRA
+ÓPTICA COM DEFEITO,
+GERENCIAMENTO E LIBERAÇÃO DE
+PORTAS DE REDE, CONFIGURAÇÃO DE
+REGRAS DE FIREWALL, CONTROLE DE
+BANDA E DEMAIS CONFIGURAÇÕES
+NECESSÁRIAS PARA O GE
+4 PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 500
+MBPS, VIA FIBRA ÓPTICA, COM
+INSTALAÇÃO DOS SEGUINTES
+EQUIPAMENTOS: 06 (SEIS) ACCESS
+POINTS CORPORATIVOS PADRÃO WI-
+FI 6 OU SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT GERENCIÁVEL
+COM NO MÍNIMO 24 PORTAS
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 01 (UM) NOBREAK COM
+POTÊNCIA MÍNIMA DE 1500 VA, COM
+SUPORTE A BANCO DE BATERIA
+EXTERNA E ACOMPANHADO DE
+BATERIA ESTACIONÁRIA SELADA COM
+CAPACIDADE MÍNIMA DE 40 AH, DO
+TIPO VRLA, AGM OU GEL, LIVRE DE
+MANUTENÇÃO, DESTINADO À
+PROTEÇÃO DOS EQUIPAMENTOS DE
+REDE, OU TECNICAMENTE
+EQUIVALENTE OU SUPERIOR; 300M
+(TREZENTOS METROS) DE CABO DE
+REDE COM CONDUTOR 100% COBRE,
+PADRÃO CAT5E OU SUPERIOR, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 09 (NOVE) NOVOS PONTOS
+DE REDE; 01 (UM) RACK DE PAREDE
+METÁLICO PADRÃO 19”, COM
+CAPACIDADE MÍNIMA DE 12U, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR. EQUIPAMENTOS
+DISPONIBILIZADOS NA MODALIDADE
+DE COMODATO, SEM CUSTO DE
+INSTALAÇÃO. SERVIÇOS DE
+MANUTENÇÃO E CONFIGURAÇÃO
+DOS EQUIPAMENTOS INCLUSOS,
+INCLUINDO TROCA DE
+EQUIPAMENTOS OU CABO DE FIBRA
+ÓPTICA COM DEFEITO,
+GERENCIAMENTO E LIBERAÇÃO DE
+PORTAS DE REDE, CONFIGURAÇÃO DE
+REGRAS DE FIREWALL, CONTROLE DE
+BANDA E DEMAIS CONFIGURAÇÕES
+NECESSÁRIAS PARA O
+GERENCIAMENTO DA REDE, SEMPRE
+ Í
+12 R$ 402,97
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 5/7
+QUE SOLICITADO PELO MUNICÍPIO.
+INTERNET E EQUIPAMENTOS A SEREM
+INSTALADOS NA CRECHE MUNICIPAL
+CANTINHO DA ALEGRIA DO MUNICÍPIO
+DE SANTIAGO DO SUL/SC. -
+PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 500
+MBPS, VIA FIBRA ÓPTICA, COM
+INSTALAÇÃO DOS SEGUINTES
+EQUIPAMENTOS: 06 (SEIS) ACCESS
+POINTS CORPORATIVOS PADRÃO WI-
+FI 6 OU SUPERIOR, GERENCIÁVEIS, OU
+TECNICAMENTE EQUIVALENTES OU
+SUPERIORES; 01 (UM) SWITCH
+ETHERNET GIGABIT GERENCIÁVEL
+COM NO MÍNIMO 24 PORTAS
+10/100/1000 MBPS, OU
+TECNICAMENTE EQUIVALENTE OU
+SUPERIOR; 01
+5 PRESTAÇÃO DE SERVIÇO DE
+CONEXÃO DE INTERNET COM LINK
+DEDICADO (GARANTIA DE 100% DA
+BANDA PARA UPLOAD E DOWNLOAD),
+COM VELOCIDADE MÍNIMA DE 200
+MBPS, VIA FIBRA ÓPTICA, SEM CUSTO
+DE INSTALAÇÃO. SERVIÇOS DE
+MANUTENÇÃO E CONFIGURAÇÃO
+DOS EQUIPAMENTOS INCLUSOS,
+INCLUINDO TROCA DE
+EQUIPAMENTOS OU CABO DE FIBRA
+ÓPTICA COM DEFEITO,
+GERENCIAMENTO E LIBERAÇÃO DE
+PORTAS DE REDE, CONFIGURAÇÃO DE
+REGRAS DE FIREWALL, CONTROLE DE
+BANDA E DEMAIS CONFIGURAÇÕES
+NECESSÁRIAS PARA O
+GERENCIAMENTO DA REDE, SEMPRE
+QUE SOLICITADO PELO MUNICÍPIO.
+INTERNET A SER INSTALADA NA
+SECRETARIA MUNICIPAL DE
+EDUCAÇÃO DO MUNICÍPIO DE
+SANTIAGO DO SUL/SC. - PRESTAÇÃO
+DE SERVIÇO DE CONEXÃO DE
+INTERNET COM LINK DEDICADO
+(GARANTIA DE 100% DA BANDA PARA
+UPLOAD E DOWNLOAD), COM
+VELOCIDADE MÍNIMA DE 200 MBPS,
+VIA FIBRA ÓPTICA, SEM CUSTO DE
+INSTALAÇÃO. SERVIÇOS DE
+MANUTENÇÃO E CONFIGURAÇÃO
+DOS EQUIPAMENTOS INCLUSOS,
+INCLUINDO TROCA DE
+EQUIPAMENTOS OU CABO DE FIBRA
+ÓPTICA COM DEFEITO,
+GERENCIAMENTO E LIBERAÇÃO DE
+PORTAS DE REDE, CONFIGURAÇÃO DE
+REGRAS DE FIREWALL, CONTROLE DE
+BANDA E DEMAIS CONFIGURAÇÕES
+NECESSÁRIAS PARA O
+GERENCIAMENTO DA REDE, SEMPRE
+QUE SOLICITADO PELO MUNICÍPIO.
+INTERNET A SER INSTALADA NA
+SECRETARIAMUNICIPALDE
+12 R$ 136,57
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 6/7
+AGRADECIMENTO AOS PARCEIROS
+Texto destinado a exibição de informações relacionadas à licença de uso.
+SECRETARIA MUNICIPAL DE
+EDUCAÇÃO DO MUNICÍPIO DE
+SANTIAGO DO SUL/SC.
+Exibir: 1-5 de 14 itens Página:5 1
+ 
+ Voltar
+Criado pela Lei nº 14.133/21, o Portal Nacional de Contratações Públicas (PNCP) é
+o sítio eletrônico oﬁcial destinado à divulgação centralizada e obrigatória dos atos
+exigidos em sede de licitações e contratos administrativos abarcados pelo novel
+diploma.
+É gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, um
+colegiado deliberativo com suas atribuições estabelecidas no Decreto nº 10.764,
+de 9 de agosto de 2021.
+O desenvolvimento dessa versão do Portal é um esforço conjunto de construção
+de uma concepção direta legal, homologado pelos indicados a compor o aludido
+comitê.
+A adequação, ﬁdedignidade e corretude das informações e dos arquivos relativos
+às contratações disponibilizadas no PNCP por força da Lei nº 14.133/2021 são de
+estrita responsabilidade dos órgãos e entidades contratantes.
+ https://portaldeservicos.gestao.gov.br
+ 0800 978 9001
+27/04/2026, 09:21 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01612781000138/2026/61 7/7
+Objeto:
+a Contratação de empresa para fornecimento de um link de internet redundante com rota de ﬁbra óptica totalmente
+independente do link principal e backbone diferente do link principal para o Paço da Prefeitura de Umuarama.
+   Editais
+Edital nº 51/2025
+Última atualização 11/08/2025
+Local: Umuarama/PR Órgão: MUNICIPIO DE UMUARAMA
+Unidade compradora: 76247378000156 - Unidade administrativa
+Modalidade da contratação: Pregão - Eletrônico Amparo legal: Lei 14.133/2021, Art. 28, I Tipo: Edital
+Modo de disputa: Aberto-Fechado Registro de preço: Não Fonte orçamentária: Não informada
+Data de divulgação no PNCP: 18/07/2025 Situação: Divulgada no PNCP
+Data de início de recebimento de propostas: 18/07/2025 09:00 (horário de Brasília)
+Data ﬁm de recebimento de propostas: 29/08/2025 08:00 (horário de Brasília)
+Id contratação PNCP: 76247378000156-1-000108/2025 Fonte: Elotech Gestão Pública Ltda
+VALOR TOTAL ESTIMADO DA COMPRA
+R$ 13.323,24
+VALOR TOTAL HOMOLOGADO DA
+COMPRA
+R$ 10.680,00
+Itens Arquivos Contratos/Empenhos Histórico
+Númeroc Descriçãoc Quantidadec Valor unitário estimadoc
+1 Link de Internet Dedicado de 500Mbps,
+por meio de cabo optico, simetrico com
+ao menos 1 IPv4 publico.
+12 R$ 1.110,27
+Exibir: 1-1 de 1 itens Página:5 1
+
+
+ Voltar
+Criado pela Lei nº 14.133/21, o Portal Nacional de Contratações Públicas (PNCP) é
+o sítio eletrônico oﬁcial destinado à divulgação centralizada e obrigatória dos atos
+exigidos em sede de licitações e contratos administrativos abarcados pelo novel
+diploma.
+É gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, um
+colegiado deliberativo com suas atribuições estabelecidas no Decreto nº 10.764,
+de 9 de agosto de 2021.
+O desenvolvimento dessa versão do Portal é um esforço conjunto de construção
+de uma concepção direta legal, homologado pelos indicados a compor o aludido
+comitê.
+Portal Nacional de Contratações Públicas  Entrar
+27/04/2026, 09:18 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/76247378000156/2025/108 1/2
+AGRADECIMENTO AOS PARCEIROS
+Texto destinado a exibição de informações relacionadas à licença de uso.
+A adequação, ﬁdedignidade e corretude das informações e dos arquivos relativos
+às contratações disponibilizadas no PNCP por força da Lei nº 14.133/2021 são de
+estrita responsabilidade dos órgãos e entidades contratantes.
+ https://portaldeservicos.gestao.gov.br
+ 0800 978 9001
+27/04/2026, 09:18 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/76247378000156/2025/108 2/2
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 1 de 9
+ATA FINAL
+Prefeitura Municipal de Venâncio Aires
+Departamento de Licitações e Compras
+Pregão Eletrônico - 051/2025
+Datas Relevantes
+Publicado Inicio de Propostas Limite de Impugnação Final de Propostas Inicio da Sessão
+02/09/2025 07:45 02/09/2025 08:00 15/09/2025 23:59 18/09/2025 08:59 18/09/2025 09:00
+Lotes Licitados
+Lote Item Descrição V. Referência Qtde Unidade Situação Julgamento
+0001
+0001 SERVIÇO DE INTERNET:
+LINK DE INTERNET SEM LIMITAÇÃO
+DE TRÁFEGO COM VELOCIDADE
+DE 500MB DE DOWNLOAD E 250MB
+DE UPLOAD, QUE ATENDA AOS
+SEGUINTES REQUISITOS:
+A ENTREGA EM TODAS AS
+INSTALAÇÕES DEVERÁ SER 100%
+VIA FIBRA ÓPTICA, ALTA
+DISPONIBILIDADE DO BACKBONE
+SUPERIOR A 98,00%,
+ADMINISTRAÇÃO DE DNS
+REVERSO OU DELEGAÇÃO DO
+MESMO, DEVERÁ SER
+DISPONIBILIZADO ALGUMA FORMA
+PARA O MONITORAMENTO DE
+CONSUMO DE CADA PONTO
+ATIVADO, SLA 8 HORAS
+CORRIDAS, GARANTIA MÍNIMA DE
+50 % DA BANDA CONTRATADA EM
+UPLOAD E DOWNLOAD, EM CADA
+PONTO ATIVADO DEVERÁ
+OCORRER A ENTREGA DE UM /32
+IPV4 VÁLIDO FIXO E IPV6 UMA
+REDE /56, DISPONIBILIZAÇÃO DE
+UM ROTEADOR WIFI DUAL BAND
+AC 1200 MBPS (ESSE INCLUSO NO
+VALOR FIXO PARA CADA PONTO).
+COM MANUTENÇÃO E
+CONFIGURAÇÃO, EVENTUAL
+SUBSTITUIÇÃO DO EQUIPAMENTO
+OU COMPONENTES DO MESMO,
+TROCA DAS SENHAS E OU
+MUDANÇA DE SSID
+PERIODICAMENTE OU QUANDO
+NECESSÁRIO SOB
+RESPONSABILIDADE DA
+CONTRATADA, SEM CUSTOS
+ADICIONAIS;
+46 (QUARENTA E SEIS LOCAIS /
+PONTOS DE INSTALAÇÃO).
+634,00 552 UND Homologado Menor
+Preço
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 2 de 9
+0002 LINK DE ACESSO DEDICADO À
+INTERNET 500 MBPS FULL
+DUPLEX, SEM LIMITAÇÃO DE
+TRÁFEGO:
+COM GARANTIA DE 100% DA
+BANDA CONTRATADA, 24 (VINTE E
+QUATRO) HORAS DIÁRIAS, 7
+(SETE) DIAS POR SEMANA. SLA 4
+HORAS CORRIDAS, CONEXÃO
+DEVERÁ SER DE FIBRA ÓPTICA,
+COM CABO AS DE NO MÍNIMO 6
+VIAS, PODENDO SER CABO DO
+TIPO DROP APENAS DO POSTE
+PARA DENTRO DO PRÉDIO. A
+LATÊNCIA DEVERÁ SER INFERIOR
+1MS. DEVERÃO SER
+DISPONIBILIZADOS PARA ACESSO
+EXTERNO REDE IPV4 /28 (16 IPS) E
+UMA REDE IPV6 /56 (256 REDES
+/64).
+O BACKBONE DEVERÁ SER
+PROVIDO ATRAVÉS DA PRÓPRIA
+PRESTADORA DE SERVIÇOS DE
+TELECOMUNICAÇÕES (LICITANTE),
+SEM PASSAR POR PROVEDORES
+DE ACESSO INTERMEDIÁRIOS, A
+DISPONIBILIDADE DO BACKBONE
+IP DEVE SER DE NO MÍNIMO 99%.
+EVENTUAL SUBSTITUIÇÃO DO
+EQUIPAMENTO OU COMPONENTES
+DO MESMO, RECONFIGURAÇÕES
+OU AJUSTES QUANDO
+NECESSÁRIO DEVERÃO OCORRER
+SOB RESPONSABILIDADE DA
+CONTRATADA, SEM CUSTOS
+ADICIONAIS,
+INSTALAÇÃO DEVERÁ OCORRER
+SEM CUSTOS PARA
+CONTRATANTE.
+1 (UM LOCAL /PONTO DE
+INSTALAÇÃO).
+4.014,92 12 MÊS Homologado Menor
+Preço
+VALOR TOTAL ESTIMADO 398.147,04
+Documentos Anexados ao Processo
+Data Documento
+02/09/2025 - 07:41 Pregão 051-2025 - Eletrônico - Links de Internet.pdf
+Mensagens Enviadas pelo Pregoeiro
+Data Assunto Frase
+18/09/2025 - 09:34:29 Você recebeu uma nova negociação no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 09:46:36 Envio de Propostas Readequadas
+051/2025
+Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 11:50
+do dia 18/09/2025.
+18/09/2025 - 09:48:06 Documentos solicitados para o
+processo 051/2025
+Foram solicitadas diligências no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 09:54:43 Você recebeu uma nova proposta readequada no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 10:26:41 Você recebeu um novo documento em resposta à diligência no lote 0001 do processo
+051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 14:43:41 Envio de Propostas Readequadas
+051/2025
+Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 16:45
+do dia 18/09/2025.
+18/09/2025 - 14:44:07 Documentos solicitados para o
+processo 051/2025
+Foram solicitadas diligências no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 15:22:04 Você recebeu um novo documento em resposta à diligência no lote 0001 do processo
+051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+18/09/2025 - 15:38:41 Você recebeu uma nova proposta readequada no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+19/09/2025 - 12:08:11 Você recebeu uma nova negociação no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+19/09/2025 - 13:15:58 Envio de Propostas Readequadas
+051/2025
+Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 15:15
+do dia 19/09/2025.
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 3 de 9
+19/09/2025 - 13:16:30 Documentos solicitados para o
+processo 051/2025
+Foram solicitadas diligências no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+19/09/2025 - 14:06:42 Você recebeu uma nova proposta readequada no lote 0001 do processo 051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+19/09/2025 - 14:08:00 Você recebeu um novo documento em resposta à diligência no lote 0001 do processo
+051/2025.
+Acesse o seu ambiente logado para verificar os detalhes.
+Vencedores
+F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA - Tipo: Ltda/Eireli - LC123: Não - Documento
+08.468.094/0001- 30 - Endereço: Rua Tiradentes - CEP: 95800000 - UF: RS - Município: - Telefone:
+(51) 99890- 0878
+Lote Item Produto Modelo Marca/ Fabricante Quantidade Melhor Lance Valor Total
+0001 Serviços de internet
+0001 Serviço de internet:
+Link de Internet sem limitação de
+tráfego com velocidade de 500MB
+de Download e 250MB de Upload,
+que atenda aos seguintes
+requisitos:
+A entrega em todas as instalações
+deverá ser 100% via fibra óptica,
+alta disponibilidade do backbone
+superior a 98,00%, administração
+de DNS reverso ou delegação do
+mesmo, deverá ser disponibilizado
+alguma forma para o
+monitoramento de consumo de
+cada ponto ativado, SLA 8 horas
+corridas, garantia mínima de 50 %
+da banda contratada em Upload e
+Download, em cada ponto ativado
+deverá ocorrer a entrega de um
+/32 IPv4 Válido Fixo e IPv6 uma
+rede /56, disponibilização de um
+Roteador Wifi Dual Band AC 1200
+Mbps (esse incluso no valor fixo
+para cada ponto).
+Com manutenção e configuração,
+eventual substituição do
+equipamento ou componentes do
+mesmo, troca das senhas e ou
+mudança de SSID periodicamente
+ou quando necessário sob
+responsabilidade da contratada,
+sem custos adicionais;
+46 (quarenta e seis locais / Pontos
+de instalação).
+N/C N/C 552 UND R$ 599,00 R$ R$ 330.648,00
+0002 Link de acesso dedicado à internet
+500 Mbps Full Duplex, sem
+limitação de tráfego:
+com garantia de 100% da banda
+contratada, 24 (vinte e quatro)
+horas diárias, 7 (sete) dias por
+semana. SLA 4 horas corridas,
+conexão deverá ser de fibra
+óptica, com cabo AS de no mínimo
+6 vias, podendo ser cabo do tipo
+DROP apenas do poste para
+dentro do prédio. A latência deverá
+ser inferior 1ms. Deverão ser
+disponibilizados para acesso
+externo rede ipv4 /28 (16 IPS) e
+uma rede IPv6 /56 (256 redes /64).
+O Backbone deverá ser provido
+através da própria prestadora de
+serviços de telecomunicações
+(licitante), sem passar por
+provedores de acesso
+intermediários, a Disponibilidade
+do Backbone IP deve ser de no
+mínimo 99%.
+Eventual substituição do
+equipamento ou componentes do
+mesmo, reconfigurações ou
+ajustes quando necessário
+deverão ocorrer sob
+responsabilidade da contratada,
+sem custos adicionais,
+Instalação deverá ocorrer sem
+custos para contratante.
+1 (um local /ponto de instalação).
+N/C N/C 12 MÊS R$ 3.404,33 R$ R$ 40.851,96
+TOTAL DO LOTE R$ 371.499,96
+TOTAL DO VENCEDOR R$ 371.499,96
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 4 de 9
+Declarações Obrigatórias
+Título Declaração
+Declaração de conhecimento do Edital Declaro que estou ciente e concordo com as condições contidas no edital e seus anexos, bem como de que cumpro
+plenamente os requisitos de habilitação definidos no edital.
+Declaração de reserva de cargos Declaro cumprir as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social,
+previstas em lei e em outras normas específicas.
+Declaração de proposta econômica Sob pena de desclassificação, declaro que minhas propostas econômicas compreendem a integralidade dos custos para
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas
+convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de entrega das propostas.
+Declaração de Não-Emprego de menores Declaro para fins do inciso XXXIII do artigo 7° da Constituição Federal, com redação dada pela Emenda Constitucional, nº
+20/98, que não emprega menores de dezoito anos em trabalho noturno, perigoso ou insalubre e de que qualquer trabalho a
+menores de 16 anos.
+Declaração de Não-Emprego de trabalho
+degradante
+Declaro não possuir em sua cadeia produtiva, empregados executando trabalho degradante ou forçado, nos termos do inciso
+III e IV do art.1º e no inciso III do art.5º da Constituição Federal.
+Declaração de Acessibilidade Declaro que, conforme disposto no art. 93 da Lei nº 8.213, de 24 de julho de 1991, estou ciente do cumprimento da reserva
+de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que, se aplicado ao
+número de funcionários da minha empresa, atendo às regras de acessibilidade previstas na legislação.
+Declaração de Inexistência de Fato Superveniente Declaro sob as penas da lei, que até a presente data inexistem fatos impeditivos para sua habilitação no presente processo
+licitatório, ciente da obrigatoriedade de declarar ocorrências posteriores.
+* As declarações supracitadas foram aceitas por todos os participantes.
+Propostas Enviadas
+LOTE 0001 - ITEM 0001 - Serviço de internet:
+Link de Internet sem limitação de tráfego com velocidade de 500MB de Download e 250MB de Upload,
+que atenda aos seguintes requisitos:
+A entrega em todas as instalações deverá ser 100% via fibra óptica, alta disponibilidade do backbone
+superior a 98,00%, administração de DNS reverso ou delegação do mesmo, deverá ser disponibilizado
+alguma forma para o monitoramento de consumo de cada ponto ativado, SLA 8 horas corridas, garantia
+mínima de 50 % da banda contratada em Upload e Download, em cada ponto ativado deverá ocorrer a
+entrega de um /32 IPv4 Válido Fixo e IPv6 uma rede /56, disponibilização de um Roteador Wifi Dual
+Band AC 1200 Mbps (esse incluso no valor fixo para cada ponto).
+Com manutenção e configuração, eventual substituição do equipamento ou componentes do mesmo,
+troca das senhas e ou mudança de SSID periodicamente ou quando necessário sob responsabilidade
+da contratada, sem custos adicionais;
+46 (quarenta e seis locais / Pontos de instalação).
+Fornecedor CNPJ/CPF Data Modelo Marca/ Fabricante Quantidade Lance Valor Total LC
+123/2006
+Tecmidiaweb Ltda 09.049.228/0001-
+40
+15/09/2025 -
+15:36:47
+N/C N/C 552 R$634,00 R$ 349.968,00 Sim
+F B SERVICOS DE
+COMUNICACAO
+MULTIMIDIA LTDA
+08.468.094/0001-
+30
+17/09/2025 -
+14:52:03
+N/C N/C 552 R$634,00 R$ 349.968,00 Não
+ABA LINK LTDA 29.605.329/0001-
+68
+17/09/2025 -
+17:17:53
+N/C N/C 552 R$634,00 R$ 349.968,00 Sim
+Bsb Consultoria Técnica
+Ltda
+04.202.019/0001-
+71
+17/09/2025 -
+23:43:52
+N/C N/C 552 R$634,00 R$ 349.968,00 Sim
+LOTE 0001 - ITEM 0002 - Link de acesso dedicado à internet 500 Mbps Full Duplex, sem limitação de tráfego:
+com garantia de 100% da banda contratada, 24 (vinte e quatro) horas diárias, 7 (sete) dias por semana. SLA 4 horas corridas,
+conexão deverá ser de fibra óptica, com cabo AS de no mínimo 6 vias, podendo ser cabo do tipo DROP apenas do poste para
+dentro do prédio. A latência deverá ser inferior 1ms. Deverão ser disponibilizados para acesso externo rede ipv4 /28 (16 IPS) e
+uma rede IPv6 /56 (256 redes /64).
+O Backbone deverá ser provido através da própria prestadora de serviços de telecomunicações (licitante), sem passar por
+provedores de acesso intermediários, a Disponibilidade do Backbone IP deve ser de no mínimo 99%.
+Eventual substituição do equipamento ou componentes do mesmo, reconfigurações ou ajustes quando necessário deverão
+ocorrer sob responsabilidade da contratada, sem custos adicionais,
+Instalação deverá ocorrer sem custos para contratante.
+1 (um local /ponto de instalação).
+Fornecedor CNPJ/CPF Data Modelo Marca/ Fabricante Quantidade Lance Valor Total LC
+123/2006
+Tecmidiaweb Ltda 09.049.228/0001-
+40
+15/09/2025 -
+15:37:43
+N/C N/C 12 R$4.014,91 R$ 48.178,92 Sim
+F B SERVICOS DE
+COMUNICACAO
+MULTIMIDIA LTDA
+08.468.094/0001-
+30
+17/09/2025 -
+14:52:17
+N/C N/C 12 R$4.014,92 R$ 48.179,04 Não
+ABA LINK LTDA 29.605.329/0001-
+68
+17/09/2025 -
+17:18:23
+N/C N/C 12 R$4.014,92 R$ 48.179,04 Sim
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 5 de 9
+Bsb Consultoria Técnica
+Ltda
+04.202.019/0001-
+71
+17/09/2025 -
+23:44:21
+N/C N/C 12 R$4.014,00 R$ 48.168,00 Sim
+Validade das Propostas
+Fornecedor CPF/CNPJ Validade (conforme edital)
+Bsb Consultoria Técnica Ltda 04.202.019/0001-71 090 dias
+Tecmidiaweb Ltda 09.049.228/0001-40 90 dias
+ABA LINK LTDA 29.605.329/0001-68 90 dias
+F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA 08.468.094/0001-30 90 dias
+Lances Enviados
+0001 - Serviços de internet
+Data Valor CNPJ Situação
+15/09/2025 - 15:37:44 398.146,92 (proposta) 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+17/09/2025 - 14:52:17 398.147,04 (proposta) 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+17/09/2025 - 17:18:23 398.147,04 (proposta) 29.605.329/0001-68 - ABA LINK LTDA Cancelado
+17/09/2025 - 23:44:22 398.136,00 (proposta) 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:05:01 397.136,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:09:03 396.136,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+18/09/2025 - 09:09:43 395.136,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:10:05 395.126,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+18/09/2025 - 09:10:27 390.000,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:12:20 389.300,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+18/09/2025 - 09:13:11 388.000,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:13:23 388.000,00 29.605.329/0001-68 - ABA LINK LTDA Cancelado
+18/09/2025 - 09:14:02 387.000,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:14:35 386.500,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:14:59 385.500,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:16:37 385.400,00 29.605.329/0001-68 - ABA LINK LTDA Cancelado
+18/09/2025 - 09:16:52 385.200,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+18/09/2025 - 09:17:20 384.400,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:17:29 385.000,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:18:24 384.200,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:19:15 383.200,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:19:23 384.150,00 29.605.329/0001-68 - ABA LINK LTDA Cancelado
+18/09/2025 - 09:20:10 380.000,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:20:46 379.000,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:22:19 377.000,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 6 de 9
+18/09/2025 - 09:23:04 375.000,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:24:15 374.000,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:24:59 374.900,00 09.049.228/0001-40 - Tecmidiaweb
+Ltda
+Válido
+18/09/2025 - 09:26:36 373.000,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:27:52 372.000,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+18/09/2025 - 09:30:19 371.999,00 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 09:34:29 371.500,80 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Cancelado
+18/09/2025 - 14:40:29 371.500,00 29.605.329/0001-68 - ABA LINK LTDA Cancelado
+19/09/2025 - 12:08:11 371.500,00 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+19/09/2025 - 14:06:42 371.499,96 08.468.094/0001-30 - F B SERVICOS
+DE COMUNICACAO MULTIMIDIA
+LTDA
+Válido
+Arquivos Enviados pelos Fornecedores
+Lote Data/Hora Enviado por Arquivo
+Model 18/09/2025 - 10:26:41 04.202.019/0001-71 - Bsb Consultoria
+Técnica Ltda
+Bsb_01.zip
+Model 18/09/2025 - 15:22:04 29.605.329/0001-68 - ABA LINK LTDA Habilitacao ABA LINK 16.09.2025.zip
+Model 18/09/2025 - 15:22:04 29.605.329/0001-68 - ABA LINK LTDA ONU.zip
+Model 18/09/2025 - 15:22:04 29.605.329/0001-68 - ABA LINK LTDA RB.zip
+Model 19/09/2025 - 14:08:00 08.468.094/0001-30 - F B SERVICOS DE
+COMUNICACAO MULTIMIDIA LTDA
+documentos edital 051_2025.tar.gz
+Inabilitados / Desclassificados
+Data Fornecedor CNPJ Detalhe
+19/09/2025 - 11:44:51 ABA LINK LTDA 29.605.329/0001-68 Item 0001 - Serviços de internet
+Desclassificação: Empresa não apresentou documentação referente as especificações técnicas do equipamento roteador, conforme exigido no item 13.4.1 do Edital.
+18/09/2025 - 13:41:26 Bsb Consultoria Técnica Ltda 04.202.019/0001-71 Item 0001 - Serviços de internet
+Empresa não enviou os seguintes documentos exigidos no item 13.4.1 do Edital: relação de equipamentos, contendo as especificações técnicas, a serem utilizados,
+acompanhado do respectivos datasheet.
+Intenções de Recurso, Recursos e Contrarrazões
+Prazos
+Intenção de Recurso Recurso Contrarrazão
+22/09/2025 - 12:00 25/09/2025 - 23:59 30/09/2025 - 23:59
+0001 - Serviços de internet
+Intenções de Recurso
+CNPJ Data de Envio Intenção Julgamento
+09049228000140 -
+Tecmidiaweb Ltda
+18/09/2025 - 09:37:22 posso dar um lance menor? Deferido
+09049228000140 -
+Tecmidiaweb Ltda
+18/09/2025 - 09:38:59 consigo chegar em 369,000 Deferido
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 7 de 9
+08468094000130 - F B
+SERVICOS DE
+COMUNICACAO
+MULTIMIDIA LTDA
+18/09/2025 - 09:54:15 Conforme item 2 especificações 2.1 na letra G: consta "O Backbone deverá ser
+provido através da própria prestadora de serviços de telecomunicações (licitante),
+sem passar por provedores de acesso intermediários;"
+Como o fornecedor não é uma empresa da região, desconhecemos que tenha
+backbone local para cumprir o item G.
+Item 3- letra B.
+b) Equipe Técnica e Suporte:
+"A empresa fornecedora deverá manter na localidade sede do contratante, no
+mínimo, 01 (um)
+funcionário para manutenção e operação do serviço contratado, e deverá
+solucionar o problema dentro
+do prazo estipulado de SLA para cada item, após abertura de chamado."
+ITEM C
+"Comprovação de Capacidade Operacional:
+Demonstração de que a empresa possui infraestrutura compatível, como:
+Backbone próprio;Equipamentos, rede e redundância;"
+OU seja todo as conexões do LOTE, deve ser entregue por BACKBONE proprio
+não podendo sub-contratar ou terceirizar.
+Deferido
+08468094000130 - F B
+SERVICOS DE
+COMUNICACAO
+MULTIMIDIA LTDA
+18/09/2025 - 09:55:46 podemos dar lance menor ? Deferido
+04202019000171 - Bsb
+Consultoria Técnica Ltda
+18/09/2025 - 15:49:53 intenção de recurso visto falha em nossa desclassificacao, conforme
+demonstraremos em nossa peça recursal
+Deferido
+Classificação Parcial
+LOTE 0001 - Serviços de internet
+Classif. Fornecedor CPF/CNPJ Situação ¹ Valor Global
+1º F B SERVICOS DE COMUNICACAO MULTIMIDIA
+LTDA
+08.468.094/0001-30 Arrematante 371.499,96
+2º ABA LINK LTDA 29.605.329/0001-68 Desclassificado 371.500,00
+3º Bsb Consultoria Técnica Ltda 04.202.019/0001-71 Desclassificado 371.500,80
+4º Tecmidiaweb Ltda 09.049.228/0001-40 Classificado 374.900,00
+¹ Arrematante; Desclassifcado; Inabilitado, Classifcado e Rejeitado.
+Chat
+Data Apelido Frase
+18/09/2025 - 09:00:28 Pregoeiro Bom dia, senhores licitantes. Primeiramente estaremos analisando as propostas enviadas, após iniciaremos
+a fase de lances.
+18/09/2025 - 09:00:30 Sistema O processo está em fase de análise das propostas
+18/09/2025 - 09:01:00 Sistema As propostas foram analisadas e o processo foi aberto
+18/09/2025 - 09:01:00 Sistema No modo de disputa aberto a etapa de envio de lances na sessão pública durará dez minutos e, após isso,
+será prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do
+período de duração da sessão pública.
+18/09/2025 - 09:01:00 Sistema O processo utiliza o intervalo de lances de R$ 0,01. Se o lance for inferior ao limite mínimo, o intervalo será
+desconsiderado.
+18/09/2025 - 09:01:08 Sistema O lote 0001 foi aberto pelo pregoeiro.
+18/09/2025 - 09:01:08 Sistema O lote 0001 tem empresas beneficiadas pela LC 123/2006 em sua disputa.
+18/09/2025 - 09:29:52 Sistema O lote 0001 foi encerrado e foram identificadas MEs/EPPs na situação de desempate conforme a LC
+123/2006.
+18/09/2025 - 09:29:52 Sistema O fornecedor que ofertou o lance no valor de R$ 373.000,00 pode dar um lance de desempate pela LC
+123/2006 para o lote 0001 até 18/09/2025 às 09:34:52.
+18/09/2025 - 09:30:19 Sistema O lote 0001 recebeu um lance de desempate da LC 123/2006 no valor de R$ 371.999,00.
+18/09/2025 - 09:30:19 Sistema O lote 0001 foi encerrado.
+18/09/2025 - 09:30:38 Sistema O lote 0001 teve como arrematante Bsb Consultoria Técnica Ltda - EPP/SS com lance de R$ 371.999,00.
+18/09/2025 - 09:31:42 Sistema Foi aberta negociação para o lote 0001. O prazo é até às 11:30 do dia 18/09/2025.
+18/09/2025 - 09:31:42 Sistema Motivo: Bsb Consultoria Técnica Ltda, consegue chegar em R$ 371.500,00 ?
+18/09/2025 - 09:34:29 Sistema O Lote 0001 recebeu um lance negociado no valor de R$ 371.500,80.
+18/09/2025 - 09:37:22 Sistema O fornecedor Tecmidiaweb Ltda - DEMAIS declarou intenção de recurso para o lote 0001.
+18/09/2025 - 09:38:59 Sistema O fornecedor Tecmidiaweb Ltda - DEMAIS declarou intenção de recurso para o lote 0001.
+18/09/2025 - 09:46:36 Sistema Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 11:50 do dia
+18/09/2025.
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 8 de 9
+18/09/2025 - 09:48:06 Sistema Foram solicitadas diligências para o lote 0001. O prazo de envio é até às 11:50 do dia 18/09/2025.
+18/09/2025 - 09:48:06 Sistema Motivo: Solicito que seja anexada a proposta atualizada, bem como demais documentos exigidos no item 13
+do Edital.
+18/09/2025 - 09:48:51 F. Bsb Consultoria Técnica
+Ltda
+Documentação Lote 0001: ok sr. pregoeiro ja estamos providenciando o envio
+18/09/2025 - 09:54:15 Sistema O fornecedor F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA - Ltda/Eireli declarou intenção de
+recurso para o lote 0001.
+18/09/2025 - 09:54:43 Sistema O lote 0001 recebeu uma nova proposta readequada.
+18/09/2025 - 09:55:46 Sistema O fornecedor F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA - Ltda/Eireli declarou intenção de
+recurso para o lote 0001.
+18/09/2025 - 10:26:41 Sistema A diligência do lote 0001 foi anexada ao processo.
+18/09/2025 - 13:41:26 Sistema O fornecedor Bsb Consultoria Técnica Ltda foi desclassificado no processo.
+18/09/2025 - 13:41:26 Sistema Motivo: Empresa não enviou os seguintes documentos exigidos no item 13.4.1 do Edital: relação de
+equipamentos, contendo as especificações técnicas, a serem utilizados, acompanhado do respectivos
+datasheet.
+18/09/2025 - 13:41:26 Sistema O fornecedor Bsb Consultoria Técnica Ltda foi desclassificado para o lote 0001 pelo pregoeiro.
+18/09/2025 - 13:41:26 Sistema O lote 0001 tem como novo arrematante F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA com lance
+de R$ 372.000,00.
+18/09/2025 - 13:41:26 Sistema Para o lote 0001, o fornecedor Tecmidiaweb Ltda tem direito a lance de desempate conforme a LC 123/2006
+e o mesmo será agendado pelo pregoeiro(a).
+18/09/2025 - 13:42:48 Sistema A data do direito de lance de desempate conforme a LC 123/2006 do Lote 0001 para o fornecedor
+Tecmidiaweb Ltda foi definida pelo pregoeiro para 18/09/2025 às 14:10, encerrando às 14:15:00.
+18/09/2025 - 14:15:01 Sistema O lote 0001 não recebeu lance de desempate da LC 123/2006.
+18/09/2025 - 14:15:01 Sistema Para o lote 0001, o fornecedor ABA LINK LTDA tem direito a lance de desempate conforme a LC 123/2006 e
+o mesmo será agendado pelo pregoeiro(a).
+18/09/2025 - 14:20:29 Sistema A data do direito de lance de desempate conforme a LC 123/2006 do Lote 0001 para o fornecedor ABA LINK
+LTDA foi definida pelo pregoeiro para 18/09/2025 às 14:40, encerrando às 14:45:00.
+18/09/2025 - 14:40:29 Sistema O lote 0001 recebeu um lance de desempate da LC 123/2006 no valor de R$ 371.500,00.
+18/09/2025 - 14:40:29 Sistema O lote 0001 tem como novo arrematante ABA LINK LTDA com lanceR$ 371.500,00.
+18/09/2025 - 14:43:41 Sistema Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 16:45 do dia
+18/09/2025.
+18/09/2025 - 14:44:07 Sistema Foram solicitadas diligências para o lote 0001. O prazo de envio é até às 16:45 do dia 18/09/2025.
+18/09/2025 - 14:44:07 Sistema Motivo: Solicito que seja anexada a proposta atualizada, bem como demais documentos exigidos no item 13
+do Edital.
+18/09/2025 - 15:22:04 Sistema A diligência do lote 0001 foi anexada ao processo.
+18/09/2025 - 15:38:41 Sistema O lote 0001 recebeu uma nova proposta readequada.
+18/09/2025 - 15:49:53 Sistema O fornecedor Bsb Consultoria Técnica Ltda - EPP/SS declarou intenção de recurso para o lote 0001.
+19/09/2025 - 11:44:51 Sistema O fornecedor ABA LINK LTDA foi desclassificado para o lote 0001 pelo pregoeiro.
+19/09/2025 - 11:44:51 Sistema Motivo: Empresa não apresentou documentação referente as especificações técnicas do equipamento
+roteador, conforme exigido no item 13.4.1 do Edital.
+19/09/2025 - 11:44:51 Sistema O lote 0001 tem como novo arrematante F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA com lance
+de R$ 372.000,00.
+19/09/2025 - 11:46:01 Sistema Foi aberta negociação para o lote 0001. O prazo é até às 14:00 do dia 19/09/2025.
+19/09/2025 - 11:46:01 Sistema Motivo: F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA, consegue chegar em R$ 371.500,00 ?
+19/09/2025 - 12:08:11 Sistema O Lote 0001 recebeu um lance negociado no valor de R$ 371.500,00.
+19/09/2025 - 13:15:58 Sistema Foi solicitado a proposta readequada para o item lote 0001. O prazo de envio é até às 15:15 do dia
+19/09/2025.
+19/09/2025 - 13:16:30 Sistema Foram solicitadas diligências para o lote 0001. O prazo de envio é até às 15:20 do dia 19/09/2025.
+19/09/2025 - 13:16:30 Sistema Motivo: Solicito que seja anexada a proposta atualizada, bem como demais documentos exigidos no item 13
+do Edital.
+19/09/2025 - 14:06:42 Sistema O lote 0001 recebeu uma nova proposta readequada.
+19/09/2025 - 14:08:00 Sistema A diligência do lote 0001 foi anexada ao processo.
+22/09/2025 - 08:18:53 Sistema A proposta readequada enviada para o lote 0001 foi aprovada pelo Pregoeiro.
+22/09/2025 - 08:18:53 Sistema O valor vencedor para o lote 0001 foi alterado para R$ 371.499,96 para corresponder a proposta
+readequada.
+22/09/2025 - 08:21:59 Sistema O fornecedor F B SERVICOS DE COMUNICACAO MULTIMIDIA LTDA teve sua proposta aceita no lote
+0001.
+22/09/2025 - 08:22:05 Sistema A data limite de intenção de recursos para o item 0001 foi definida pelo pregoeiro para 22/09/2025 às 08:32.
+22/09/2025 - 09:32:06 Sistema Para o lote 0001 foi habilitado e declarado vencedor o fornecedor F B SERVICOS DE COMUNICACAO
+MULTIMIDIA LTDA.
+22/09/2025 - 09:32:17 Sistema A data limite de intenção de recursos para o item 0001 foi definida pelo pregoeiro para 22/09/2025 às 12:00.
+22/09/2025 - 13:29:03 Sistema O prazo para recursos no item 0001 foi definido pelo pregoeiro para 25/09/2025 às 23:59, com limite de
+contrarrazão para 30/09/2025 às 23:59.
+26/09/2025 - 07:51:20 Sistema A sessão foi finalizada e o processo foi encaminhado para adjudicação.
+26/09/2025 - 07:54:34 Sistema O lote 0001 foi adjudicado por Jarbas Daniel da Rosa.
+26/09/2025 - 07:54:44 Sistema O lote 0001 foi homologado por Jarbas Daniel da Rosa.
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 26/09/2025 às 07:54:46.
+Código verificador: E76A6C
+Página 9 de 9
+Fernanda Konzen Schmitz
+Pregoeiro
+Jarbas Daniel da Rosa
+Autoridade Competente
+Cássio André Stein
+Apoio
+Ezequiel Josue da Silva
+Apoio
+Maiquel Henn
+Apoio
+Rua Condá, 1825-D Chapecó, SCFone/FAX: (0xx49) 3321-4800CEP 89812-201 http://www.superip.com.br  
+ ESTADO DE SANTA CATARINA PREFEITURA MUNICIPAL DE CHAPECÓ   Avenida Getúlio Vargas, 957 S     Fone/Fax - 049 3321 8456     CEP  89812-000- CHAPECÓ-SC     CNPJ  83.021.808/0001-82      Orçamento  Discriminação dos Serviços Lote 1                           Valor Total Mensal R$ 121.250,00 Discriminação dos Serviços Lote 2           Valor Total Mensal R$ 15.000,00 Validade do orçamento 60 dias  Chapecó-SC, 07 de abril de 2026.   Eliete Marchioro Socio-Administrador CPF 018.173.809-07  
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+MUNICIPIO DE CHAPECO
+ 
+15/04/2026
+ 
+Contato:
+Massimiliano Prodan De Pol
+ 
+(49) 3321-8411
+ 
+ 
+ 
+ 
+Facilitando Comunicações, Potencializando Resultados
+Prezado 
+Daia Peixe
+Thays Fortes Borges de Oliveira
+Massimiliano Prodan De Pol
+ 
+Em busca de crescimento sustentado através do nosso sucesso e do excelente serviço que oferecemos aos
+provedores e usuários finais. Estabelecemos parcerias estratégicas com os melhores PTTs do país para garantir uma
+conexão contínua aos nossos usuários, proporcionando segurança e tecnologia avançada.
+Com uma equipe de aproximadamente 1.200 colaboradores, entre próprios e terceirizados, que trabalham em
+conjunto para oferecer um atendimento de qualidade. Além disso, temos mais de 100 empresas parceiras que
+contribuem para o nosso crescimento e indicadores de negócios sólidos.
+Temos presença física em mais de 20 pontos estratégicos, incluindo um call center com capacidade para atender mais
+de 50 mil chamadas por mês. Além do suporte técnico Nível I disponível 24/7 e um setor de NOC Nível II dedicado ao
+atendimento corporativo.
+Uma variedade de produtos e serviços incluindo: internet fibra óptica, telefonia fixa, telefonia móvel (MVNO), TV por
+assinatura, intranet, link IP dedicado full e circuito ponto a ponto. Também comprometidos em atender às
+necessidades dos provedores regionais.
+Na Mhnet Telecom, estamos empenhados em fornecer soluções de comunicação confiáveis e inovadoras.
+Nossa Rede / BackBone
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+Com uma extensa rede de fibra óptica que se estende por mais de 25 mil quilômetros, cobrimos mais de 300
+municípios em todo o país.  Atendemos os três estados do Sul do Brasil e com ramificações do backbone em parte
+dos Estados de São Paulo e também do Mato Grosso do Sul. 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+SUPORTE E PÓS-VENDA
+Gerência dos circuitos
+Os circuitos contratados, serão monitorados 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, mantendo um
+centro de gerencia de rede, nível II, disponível através do número do telefone indicado abaixo, o qual deve ser
+notificado sobre qualquer anormalidade que possa afetar o funcionamento dos circuitos:
+Central de Atendimento: 049 3199-1234
+E-mail: 
+noc@mhnet.com.br
+ 
+ 
+SLA
+O SLA (Service Level Agreement –acordo de nível de serviços ou garantia de desempenho) de manutenção da
+disponibilidade dos serviços envolvidos, será de 98,30% do tempo, em cada mês civil, para 100% da velocidade
+contratada.
+ 
+Na apuração do “Tempo Total de Interrupção” deverá ser considerado somente o tempo das interrupções não
+previstas, causadas por responsabilidade comprovada da contratada.
+Eventos de manutenção programada, que ocorrerão preferencialmente em horários durante a madrugada para causar
+o menor impacto possível nas operações e comunicados/agendados previamente com o cliente não serão
+computados no tempo total de indisponibilidade do serviço.
+ 
+ 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+0 15 de abril de 2026 Proposta nº 2.705   
+ 
+MUNICIPIO DE CHAPECO
+ 
+A/C:
+ 
+Massimiliano Prodan De Pol
+Telefone:
+ 
+(49) 3321-8411
+E-mail:
+ 
+dir.modernizacao@chapeco.sc.gov.br
+ 
+Seguem condições da proposta comercial:
+ 
+Item
+Nome
+Quantidade
+Valor Mensal
+Desconto
+Total Mensal
+1
+Internet IP 10 GB
+3
+R$  
+38.000,00
+%
+R$  
+114.000,00
+2
+Internet IP 500 Mb Full
+3
+R$  
+3.500,00
+%
+R$  
+10.500,00
+3
+Link MPLS 1 GB
+226
+R$  
+5.900,00
+%
+R$  
+1.333.400,00
+4
+IP /27
+1
+R$  
+1.920,00
+%
+R$  
+1.920,00
+Total   
+R$ 
+1.459.820,00
+ 
+ Forma de Pagamento
+ 
+Boleto
+ 
+ Prazo de Entrega
+ 
+Conforme edital
+ 
+ 
+ 
+ 
+ 
+ 
+IMPOSTOS 
+Todos os tributos, incluindo impostos, contribuições e taxas, bem como quaisquer outros encargos que incidam ou venham
+a incidir sobre o pagamento dos serviços prestados serão suportados pelo Cliente, de modo que aos referidos pagamentos
+deverão ser acrescidos os valores correspondentes a quaisquer tributos incidentes, inclusive, mas não limitado aos valores
+correspondentes: (i) ao Imposto de Renda e proventos de Qualquer Natureza retido na Fonte; (ii) ao Imposto sobre Serviços
+de Qualquer Natureza – ISSQN; (iii) Imposto Sobre Circulação De Mercadorias e Serviços – ICMS; (iv) à Contribuição ao
+Programa de Integração Social e Formação do Patrimônio do Servidor Público – PIS; e (v) à Contribuição para o
+Financiamento da Seguridade Social – COFINS. Da mesma forma, caso, por força de lei ou norma regulamentar, o Cliente
+estiver obrigado a reter ou deduzir do pagamento feito ao Provedor quaisquer tributos, tais montantes deverão ser
+acrescidos aos pagamentos de modo que o Provedor receba o mesmo valor que seria devido caso nenhuma retenção ou
+ 
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dedução fosse realizada (gross-up).
+ 
+VALIDADE DA PROPOSTA
+A presente proposta possui validade de 30 dias, contados a partir da data de envio.
+ 
+Atenciosamente:
+ 
+Nara Rubia Machado Santos
+Executivo de Contas
+nara.rubia@mhnet.com.br
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Objeto:
+Contratação de empresa autorizada pela Agência Nacional de Telecomunicações (ANATEL) para operar serviços de
+comunicação multimídia (SCM), para prestar serviços de comunicação de dados e formação de redes privativas e para
+acesso à Internet, destinados ao atendimento da sede e dos escritórios regionais do PARANACIDADE, pelo prazo de 12 (doze)
+meses, conforme condições, especiﬁcações e quantitativos estabelecidos no Termo de Referência e nos demais elementos
+instrutores do processo.
+   Editais
+Edital nº 001/2026
+Última atualização 26/03/2026
+Acessar Contratação
+Local: Curitiba/PR Órgão: SERVICO SOCIAL AUTONOMO PARANACIDADE
+Unidade compradora: 1 - SERVICO SOCIAL AUTONOMO PARANACIDADE
+Modalidade da contratação: Pregão - Eletrônico Amparo legal: Lei 14.133/2021, Art. 28, I Tipo: Edital
+Modo de disputa: Aberto-Fechado Registro de preço: Não Fonte orçamentária: Não informada
+Data de divulgação no PNCP: 26/03/2026 Situação: Divulgada no PNCP
+Data de início de recebimento de propostas: 26/03/2026 12:00 (horário de Brasília)
+Data ﬁm de recebimento de propostas: 14/04/2026 09:00 (horário de Brasília)
+Id contratação PNCP: 01450804000155-1-000001/2026 Fonte: BLL Compras
+VALOR TOTAL ESTIMADO DA COMPRA
+R$ 399.600,00
+VALOR TOTAL HOMOLOGADO DA
+COMPRA
+R$ 0,00
+Itens Arquivos Histórico
+Númeroc Descriçãoc Quantidadec Valor unitário estimadoc
+Portal Nacional de Contratações Públicas  Entrar
+27/04/2026, 09:39 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01450804000155/2026/1 1/2
+AGRADECIMENTO AOS PARCEIROS
+Texto destinado a exibição de informações relacionadas à licença de uso.
+1 Link Internet - Eurípides Garcez do
+Nascimento, 1195 - Curitiba - Conforme
+especiﬁcação técnica - 1 Gb
+12 R$ 12.537,00
+2 Rede MPLS Tronco - Eurípides Garcez
+do Nascimento, 1195 - Curitiba -
+Conforme especiﬁcação técnica - 800
+Mbps
+12 R$ 6.919,25
+3 Rede MPLS - Rua Comendador
+Santiago Colle, 112 - Curitiba -
+Conforme especiﬁcação técnica - 200
+Mbps
+12 R$ 3.168,79
+4 Rede MPLS - Avenida Ayrton Senna da
+Silva, 575, SALAS 501 e 506 - Londrina -
+Conforme especiﬁcação técnica - 100
+Mbps
+12 R$ 1.779,16
+5 Rede MPLS - Avenida Humaitá, 268 -
+Maringa - Conforme especiﬁcação
+técnica - 100 Mbps
+12 R$ 1.779,16
+Exibir: 1-5 de 9 itens Página:5 1
+ 
+ Voltar
+Criado pela Lei nº 14.133/21, o Portal Nacional de Contratações Públicas (PNCP) é
+o sítio eletrônico oﬁcial destinado à divulgação centralizada e obrigatória dos atos
+exigidos em sede de licitações e contratos administrativos abarcados pelo novel
+diploma.
+É gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, um
+colegiado deliberativo com suas atribuições estabelecidas no Decreto nº 10.764,
+de 9 de agosto de 2021.
+O desenvolvimento dessa versão do Portal é um esforço conjunto de construção
+de uma concepção direta legal, homologado pelos indicados a compor o aludido
+comitê.
+A adequação, ﬁdedignidade e corretude das informações e dos arquivos relativos
+às contratações disponibilizadas no PNCP por força da Lei nº 14.133/2021 são de
+estrita responsabilidade dos órgãos e entidades contratantes.
+ https://portaldeservicos.gestao.gov.br
+ 0800 978 9001
+27/04/2026, 09:39 Portal Nacional de Contratações Públicas
+https://pncp.gov.br/app/editais/01450804000155/2026/1 2/2
+Rua Condá, 1825-D Chapecó, SCFone/FAX: (0xx49) 3321-4800CEP 89812-201 http://www.superip.com.br  
+ ESTADO DE SANTA CATARINA PREFEITURA MUNICIPAL DE CHAPECÓ   Avenida Getúlio Vargas, 957 S     Fone/Fax - 049 3321 8456     CEP  89812-000- CHAPECÓ-SC     CNPJ  83.021.808/0001-82      Orçamento  Discriminação dos Serviços Lote 1                           Valor Total Mensal R$ 121.250,00 Discriminação dos Serviços Lote 2           Valor Total Mensal R$ 15.000,00 Validade do orçamento 60 dias  Chapecó-SC, 07 de abril de 2026.   Eliete Marchioro Socio-Administrador CPF 018.173.809-07  
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+MUNICIPIO DE CHAPECO
+ 
+15/04/2026
+ 
+Contato:
+Massimiliano Prodan De Pol
+ 
+(49) 3321-8411
+ 
+ 
+ 
+ 
+Facilitando Comunicações, Potencializando Resultados
+Prezado 
+Daia Peixe
+Thays Fortes Borges de Oliveira
+Massimiliano Prodan De Pol
+ 
+Em busca de crescimento sustentado através do nosso sucesso e do excelente serviço que oferecemos aos
+provedores e usuários finais. Estabelecemos parcerias estratégicas com os melhores PTTs do país para garantir uma
+conexão contínua aos nossos usuários, proporcionando segurança e tecnologia avançada.
+Com uma equipe de aproximadamente 1.200 colaboradores, entre próprios e terceirizados, que trabalham em
+conjunto para oferecer um atendimento de qualidade. Além disso, temos mais de 100 empresas parceiras que
+contribuem para o nosso crescimento e indicadores de negócios sólidos.
+Temos presença física em mais de 20 pontos estratégicos, incluindo um call center com capacidade para atender mais
+de 50 mil chamadas por mês. Além do suporte técnico Nível I disponível 24/7 e um setor de NOC Nível II dedicado ao
+atendimento corporativo.
+Uma variedade de produtos e serviços incluindo: internet fibra óptica, telefonia fixa, telefonia móvel (MVNO), TV por
+assinatura, intranet, link IP dedicado full e circuito ponto a ponto. Também comprometidos em atender às
+necessidades dos provedores regionais.
+Na Mhnet Telecom, estamos empenhados em fornecer soluções de comunicação confiáveis e inovadoras.
+Nossa Rede / BackBone
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+Com uma extensa rede de fibra óptica que se estende por mais de 25 mil quilômetros, cobrimos mais de 300
+municípios em todo o país.  Atendemos os três estados do Sul do Brasil e com ramificações do backbone em parte
+dos Estados de São Paulo e também do Mato Grosso do Sul. 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+SUPORTE E PÓS-VENDA
+Gerência dos circuitos
+Os circuitos contratados, serão monitorados 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, mantendo um
+centro de gerencia de rede, nível II, disponível através do número do telefone indicado abaixo, o qual deve ser
+notificado sobre qualquer anormalidade que possa afetar o funcionamento dos circuitos:
+Central de Atendimento: 049 3199-1234
+E-mail: 
+noc@mhnet.com.br
+ 
+ 
+SLA
+O SLA (Service Level Agreement –acordo de nível de serviços ou garantia de desempenho) de manutenção da
+disponibilidade dos serviços envolvidos, será de 98,30% do tempo, em cada mês civil, para 100% da velocidade
+contratada.
+ 
+Na apuração do “Tempo Total de Interrupção” deverá ser considerado somente o tempo das interrupções não
+previstas, causadas por responsabilidade comprovada da contratada.
+Eventos de manutenção programada, que ocorrerão preferencialmente em horários durante a madrugada para causar
+o menor impacto possível nas operações e comunicados/agendados previamente com o cliente não serão
+computados no tempo total de indisponibilidade do serviço.
+ 
+ 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+0 15 de abril de 2026 Proposta nº 2.705   
+ 
+MUNICIPIO DE CHAPECO
+ 
+A/C:
+ 
+Massimiliano Prodan De Pol
+Telefone:
+ 
+(49) 3321-8411
+E-mail:
+ 
+dir.modernizacao@chapeco.sc.gov.br
+ 
+Seguem condições da proposta comercial:
+ 
+Item
+Nome
+Quantidade
+Valor Mensal
+Desconto
+Total Mensal
+1
+Internet IP 10 GB
+3
+R$  
+38.000,00
+%
+R$  
+114.000,00
+2
+Internet IP 500 Mb Full
+3
+R$  
+3.500,00
+%
+R$  
+10.500,00
+3
+Link MPLS 1 GB
+226
+R$  
+5.900,00
+%
+R$  
+1.333.400,00
+4
+IP /27
+1
+R$  
+1.920,00
+%
+R$  
+1.920,00
+Total   
+R$ 
+1.459.820,00
+ 
+ Forma de Pagamento
+ 
+Boleto
+ 
+ Prazo de Entrega
+ 
+Conforme edital
+ 
+ 
+ 
+ 
+ 
+ 
+IMPOSTOS 
+Todos os tributos, incluindo impostos, contribuições e taxas, bem como quaisquer outros encargos que incidam ou venham
+a incidir sobre o pagamento dos serviços prestados serão suportados pelo Cliente, de modo que aos referidos pagamentos
+deverão ser acrescidos os valores correspondentes a quaisquer tributos incidentes, inclusive, mas não limitado aos valores
+correspondentes: (i) ao Imposto de Renda e proventos de Qualquer Natureza retido na Fonte; (ii) ao Imposto sobre Serviços
+de Qualquer Natureza – ISSQN; (iii) Imposto Sobre Circulação De Mercadorias e Serviços – ICMS; (iv) à Contribuição ao
+Programa de Integração Social e Formação do Patrimônio do Servidor Público – PIS; e (v) à Contribuição para o
+Financiamento da Seguridade Social – COFINS. Da mesma forma, caso, por força de lei ou norma regulamentar, o Cliente
+estiver obrigado a reter ou deduzir do pagamento feito ao Provedor quaisquer tributos, tais montantes deverão ser
+acrescidos aos pagamentos de modo que o Provedor receba o mesmo valor que seria devido caso nenhuma retenção ou
+ 
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dedução fosse realizada (gross-up).
+ 
+VALIDADE DA PROPOSTA
+A presente proposta possui validade de 30 dias, contados a partir da data de envio.
+ 
+Atenciosamente:
+ 
+Nara Rubia Machado Santos
+Executivo de Contas
+nara.rubia@mhnet.com.br
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rua Condá, 1825-D Chapecó, SCFone/FAX: (0xx49) 3321-4800CEP 89812-201 http://www.superip.com.br  
+ ESTADO DE SANTA CATARINA PREFEITURA MUNICIPAL DE CHAPECÓ   Avenida Getúlio Vargas, 957 S     Fone/Fax - 049 3321 8456     CEP  89812-000- CHAPECÓ-SC     CNPJ  83.021.808/0001-82      Orçamento  Discriminação dos Serviços Lote 1                           Valor Total Mensal R$ 121.250,00 Discriminação dos Serviços Lote 2           Valor Total Mensal R$ 15.000,00 Validade do orçamento 60 dias  Chapecó-SC, 07 de abril de 2026.   Eliete Marchioro Socio-Administrador CPF 018.173.809-07  
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+MUNICIPIO DE CHAPECO
+ 
+15/04/2026
+ 
+Contato:
+Massimiliano Prodan De Pol
+ 
+(49) 3321-8411
+ 
+ 
+ 
+ 
+Facilitando Comunicações, Potencializando Resultados
+Prezado 
+Daia Peixe
+Thays Fortes Borges de Oliveira
+Massimiliano Prodan De Pol
+ 
+Em busca de crescimento sustentado através do nosso sucesso e do excelente serviço que oferecemos aos
+provedores e usuários finais. Estabelecemos parcerias estratégicas com os melhores PTTs do país para garantir uma
+conexão contínua aos nossos usuários, proporcionando segurança e tecnologia avançada.
+Com uma equipe de aproximadamente 1.200 colaboradores, entre próprios e terceirizados, que trabalham em
+conjunto para oferecer um atendimento de qualidade. Além disso, temos mais de 100 empresas parceiras que
+contribuem para o nosso crescimento e indicadores de negócios sólidos.
+Temos presença física em mais de 20 pontos estratégicos, incluindo um call center com capacidade para atender mais
+de 50 mil chamadas por mês. Além do suporte técnico Nível I disponível 24/7 e um setor de NOC Nível II dedicado ao
+atendimento corporativo.
+Uma variedade de produtos e serviços incluindo: internet fibra óptica, telefonia fixa, telefonia móvel (MVNO), TV por
+assinatura, intranet, link IP dedicado full e circuito ponto a ponto. Também comprometidos em atender às
+necessidades dos provedores regionais.
+Na Mhnet Telecom, estamos empenhados em fornecer soluções de comunicação confiáveis e inovadoras.
+Nossa Rede / BackBone
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+Com uma extensa rede de fibra óptica que se estende por mais de 25 mil quilômetros, cobrimos mais de 300
+municípios em todo o país.  Atendemos os três estados do Sul do Brasil e com ramificações do backbone em parte
+dos Estados de São Paulo e também do Mato Grosso do Sul. 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+SUPORTE E PÓS-VENDA
+Gerência dos circuitos
+Os circuitos contratados, serão monitorados 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, mantendo um
+centro de gerencia de rede, nível II, disponível através do número do telefone indicado abaixo, o qual deve ser
+notificado sobre qualquer anormalidade que possa afetar o funcionamento dos circuitos:
+Central de Atendimento: 049 3199-1234
+E-mail: 
+noc@mhnet.com.br
+ 
+ 
+SLA
+O SLA (Service Level Agreement –acordo de nível de serviços ou garantia de desempenho) de manutenção da
+disponibilidade dos serviços envolvidos, será de 98,30% do tempo, em cada mês civil, para 100% da velocidade
+contratada.
+ 
+Na apuração do “Tempo Total de Interrupção” deverá ser considerado somente o tempo das interrupções não
+previstas, causadas por responsabilidade comprovada da contratada.
+Eventos de manutenção programada, que ocorrerão preferencialmente em horários durante a madrugada para causar
+o menor impacto possível nas operações e comunicados/agendados previamente com o cliente não serão
+computados no tempo total de indisponibilidade do serviço.
+ 
+ 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+0 15 de abril de 2026 Proposta nº 2.705   
+ 
+MUNICIPIO DE CHAPECO
+ 
+A/C:
+ 
+Massimiliano Prodan De Pol
+Telefone:
+ 
+(49) 3321-8411
+E-mail:
+ 
+dir.modernizacao@chapeco.sc.gov.br
+ 
+Seguem condições da proposta comercial:
+ 
+Item
+Nome
+Quantidade
+Valor Mensal
+Desconto
+Total Mensal
+1
+Internet IP 10 GB
+3
+R$  
+38.000,00
+%
+R$  
+114.000,00
+2
+Internet IP 500 Mb Full
+3
+R$  
+3.500,00
+%
+R$  
+10.500,00
+3
+Link MPLS 1 GB
+226
+R$  
+5.900,00
+%
+R$  
+1.333.400,00
+4
+IP /27
+1
+R$  
+1.920,00
+%
+R$  
+1.920,00
+Total   
+R$ 
+1.459.820,00
+ 
+ Forma de Pagamento
+ 
+Boleto
+ 
+ Prazo de Entrega
+ 
+Conforme edital
+ 
+ 
+ 
+ 
+ 
+ 
+IMPOSTOS 
+Todos os tributos, incluindo impostos, contribuições e taxas, bem como quaisquer outros encargos que incidam ou venham
+a incidir sobre o pagamento dos serviços prestados serão suportados pelo Cliente, de modo que aos referidos pagamentos
+deverão ser acrescidos os valores correspondentes a quaisquer tributos incidentes, inclusive, mas não limitado aos valores
+correspondentes: (i) ao Imposto de Renda e proventos de Qualquer Natureza retido na Fonte; (ii) ao Imposto sobre Serviços
+de Qualquer Natureza – ISSQN; (iii) Imposto Sobre Circulação De Mercadorias e Serviços – ICMS; (iv) à Contribuição ao
+Programa de Integração Social e Formação do Patrimônio do Servidor Público – PIS; e (v) à Contribuição para o
+Financiamento da Seguridade Social – COFINS. Da mesma forma, caso, por força de lei ou norma regulamentar, o Cliente
+estiver obrigado a reter ou deduzir do pagamento feito ao Provedor quaisquer tributos, tais montantes deverão ser
+acrescidos aos pagamentos de modo que o Provedor receba o mesmo valor que seria devido caso nenhuma retenção ou
+ 
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dedução fosse realizada (gross-up).
+ 
+VALIDADE DA PROPOSTA
+A presente proposta possui validade de 30 dias, contados a partir da data de envio.
+ 
+Atenciosamente:
+ 
+Nara Rubia Machado Santos
+Executivo de Contas
+nara.rubia@mhnet.com.br
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+MUNICIPIO DE CHAPECO
+ 
+15/04/2026
+ 
+Contato:
+Massimiliano Prodan De Pol
+ 
+(49) 3321-8411
+ 
+ 
+ 
+ 
+Facilitando Comunicações, Potencializando Resultados
+Prezado 
+Daia Peixe
+Thays Fortes Borges de Oliveira
+Massimiliano Prodan De Pol
+ 
+Em busca de crescimento sustentado através do nosso sucesso e do excelente serviço que oferecemos aos
+provedores e usuários finais. Estabelecemos parcerias estratégicas com os melhores PTTs do país para garantir uma
+conexão contínua aos nossos usuários, proporcionando segurança e tecnologia avançada.
+Com uma equipe de aproximadamente 1.200 colaboradores, entre próprios e terceirizados, que trabalham em
+conjunto para oferecer um atendimento de qualidade. Além disso, temos mais de 100 empresas parceiras que
+contribuem para o nosso crescimento e indicadores de negócios sólidos.
+Temos presença física em mais de 20 pontos estratégicos, incluindo um call center com capacidade para atender mais
+de 50 mil chamadas por mês. Além do suporte técnico Nível I disponível 24/7 e um setor de NOC Nível II dedicado ao
+atendimento corporativo.
+Uma variedade de produtos e serviços incluindo: internet fibra óptica, telefonia fixa, telefonia móvel (MVNO), TV por
+assinatura, intranet, link IP dedicado full e circuito ponto a ponto. Também comprometidos em atender às
+necessidades dos provedores regionais.
+Na Mhnet Telecom, estamos empenhados em fornecer soluções de comunicação confiáveis e inovadoras.
+Nossa Rede / BackBone
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+Com uma extensa rede de fibra óptica que se estende por mais de 25 mil quilômetros, cobrimos mais de 300
+municípios em todo o país.  Atendemos os três estados do Sul do Brasil e com ramificações do backbone em parte
+dos Estados de São Paulo e também do Mato Grosso do Sul. 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+SUPORTE E PÓS-VENDA
+Gerência dos circuitos
+Os circuitos contratados, serão monitorados 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, mantendo um
+centro de gerencia de rede, nível II, disponível através do número do telefone indicado abaixo, o qual deve ser
+notificado sobre qualquer anormalidade que possa afetar o funcionamento dos circuitos:
+Central de Atendimento: 049 3199-1234
+E-mail: 
+noc@mhnet.com.br
+ 
+ 
+SLA
+O SLA (Service Level Agreement –acordo de nível de serviços ou garantia de desempenho) de manutenção da
+disponibilidade dos serviços envolvidos, será de 98,30% do tempo, em cada mês civil, para 100% da velocidade
+contratada.
+ 
+Na apuração do “Tempo Total de Interrupção” deverá ser considerado somente o tempo das interrupções não
+previstas, causadas por responsabilidade comprovada da contratada.
+Eventos de manutenção programada, que ocorrerão preferencialmente em horários durante a madrugada para causar
+o menor impacto possível nas operações e comunicados/agendados previamente com o cliente não serão
+computados no tempo total de indisponibilidade do serviço.
+ 
+ 
+ 
+ 
+ MHNET CORPORATIVO
+CNPJ:
+ 
+05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+0 15 de abril de 2026 Proposta nº 2.705   
+ 
+MUNICIPIO DE CHAPECO
+ 
+A/C:
+ 
+Massimiliano Prodan De Pol
+Telefone:
+ 
+(49) 3321-8411
+E-mail:
+ 
+dir.modernizacao@chapeco.sc.gov.br
+ 
+Seguem condições da proposta comercial:
+ 
+Item
+Nome
+Quantidade
+Valor Mensal
+Desconto
+Total Mensal
+1
+Internet IP 10 GB
+3
+R$  
+38.000,00
+%
+R$  
+114.000,00
+2
+Internet IP 500 Mb Full
+3
+R$  
+3.500,00
+%
+R$  
+10.500,00
+3
+Link MPLS 1 GB
+226
+R$  
+5.900,00
+%
+R$  
+1.333.400,00
+4
+IP /27
+1
+R$  
+1.920,00
+%
+R$  
+1.920,00
+Total   
+R$ 
+1.459.820,00
+ 
+ Forma de Pagamento
+ 
+Boleto
+ 
+ Prazo de Entrega
+ 
+Conforme edital
+ 
+ 
+ 
+ 
+ 
+ 
+IMPOSTOS 
+Todos os tributos, incluindo impostos, contribuições e taxas, bem como quaisquer outros encargos que incidam ou venham
+a incidir sobre o pagamento dos serviços prestados serão suportados pelo Cliente, de modo que aos referidos pagamentos
+deverão ser acrescidos os valores correspondentes a quaisquer tributos incidentes, inclusive, mas não limitado aos valores
+correspondentes: (i) ao Imposto de Renda e proventos de Qualquer Natureza retido na Fonte; (ii) ao Imposto sobre Serviços
+de Qualquer Natureza – ISSQN; (iii) Imposto Sobre Circulação De Mercadorias e Serviços – ICMS; (iv) à Contribuição ao
+Programa de Integração Social e Formação do Patrimônio do Servidor Público – PIS; e (v) à Contribuição para o
+Financiamento da Seguridade Social – COFINS. Da mesma forma, caso, por força de lei ou norma regulamentar, o Cliente
+estiver obrigado a reter ou deduzir do pagamento feito ao Provedor quaisquer tributos, tais montantes deverão ser
+acrescidos aos pagamentos de modo que o Provedor receba o mesmo valor que seria devido caso nenhuma retenção ou
+ 
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dedução fosse realizada (gross-up).
+ 
+VALIDADE DA PROPOSTA
+A presente proposta possui validade de 30 dias, contados a partir da data de envio.
+ 
+Atenciosamente:
+ 
+Nara Rubia Machado Santos
+Executivo de Contas
+nara.rubia@mhnet.com.br
+ 
+​
+ 
+ MHNET CORPORATIVO CNPJ:  05.245.502/0001-04
+(49) 3198-3198
+CHAPECÓ
+ 
+- 
+1167D
+ 
+ 
+15/04/2026
+ 
+0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Licitações e Compras Diretoria de Modernização e Inovação
+<compras.inovacao@chapeco.sc.gov.br>
+Fwd: URGENTE: Solicitação de Cotação de Preços - Telecomunicações de Missão
+Crítica - Município de Chapecó/SC - A/C Massimiliano Prodan De Pol
+3 mensagens
+Massimiliano Prodan De Pol <dir.modernizacao@chapeco.sc.gov.br> 30 de março de 2026 às 15:37
+Para: Licitações e Compras Diretoria de Modernização e Inovação <compras.inovacao@chapeco.sc.gov.br>
+Massimiliano Prodan De Pol
+Diretor de Modernização Administrativa
+Prefeitura Municipal de Chapecó
+---------- Forwarded message ---------
+De: Massimiliano Prodan De Pol <dir.modernizacao@chapeco.sc.gov.br>
+Date: seg., 30 de mar. de 2026 às 14:34
+Subject: URGENTE: Solicitação de Cotação de Preços - Telecomunicações de Missão Crítica - Município de
+Chapecó/SC - A/C Massimiliano Prodan De Pol
+To: <licitacoes@mhnet.com.br>, <governo@unifique.com.br>, <atendimento@nti-chapeco.com.br>,
+<governo@mhnet.com.br>, <nti@nti-chapeco.com.br>
+Prezados,
+O Município de Chapecó/SC, através da Diretoria de Modernização Administrativa, está a realizar o levantamento
+de preços para a futura contratação de serviços de telecomunicações de alta performance (Missão Crítica), em total
+conformidade com a Lei Federal nº 14.133/2021.
+Anexo a este e-mail, enviamos o Termo de Referência (TR) detalhado. Devido à natureza sensível e essencial dos
+dados trafegados (interligação de Postos de Saúde, Segurança Pública e Educação), solicitamos que a vossa
+proposta considere rigorosamente os seguintes requisitos obrigatórios:
+1. INFRAESTRUTURA PRÓPRIA (Item 2.5 do TR): Exigência de, no mínimo, 80% de rede própria no
+Município de Chapecó. É terminantemente vedado o uso de redes neutras ou partilhadas para o transporte de
+dados das unidades críticas.
+2. SLA DE 4 HORAS (Item 3.2 do TR): Tempo máximo de reparação de 04 (quatro) horas, com atendimento
+presencial e suporte 24x7x365.
+3. ESCOPO TÉCNICO:
+LOTE 1: Link Principal Dedicado de 10 Gbps (Dupla Abordagem) + Rede MPLS para 226 unidades (1
+Gbps por ponto).
+LOTE 2: Link de Backup Dedicado de 10 Gbps (com rota física 100% independente do Lote 1).
+A proposta comercial deverá ser apresentada em papel timbrado da empresa e enviada até à data limite de 06 de
+abril de 2026.
+Favor direcionar a resposta aos cuidados de: Massimiliano Prodan De Pol E-mail:
+dir.modernizacao@chapeco.sc.gov.br
+Agradecemos a vossa atenção e solicitamos a confirmação da recepção desta mensagem.
+Atenciosamente,
+Massimiliano Prodan De Pol
+Diretoria de Modernização Administrativa
+Prefeitura Municipal de Chapecó
+TR Licitação Links Prefeitura Chapecó — Versão Final (1).pdf
+384K
+
+Massimiliano Prodan De Pol <dir.modernizacao@chapeco.sc.gov.br> 1 de abril de 2026 às 10:43
+Para: Licitações e Compras Diretoria de Modernização e Inovação <compras.inovacao@chapeco.sc.gov.br>
+[Texto das mensagens anteriores oculto]
+TR Licitação Links Prefeitura Chapecó — Versão Final (1).pdf
+384K
+Massimiliano Prodan De Pol <dir.modernizacao@chapeco.sc.gov.br> 2 de abril de 2026 às 10:38
+Para: Licitações e Compras Diretoria de Modernização e Inovação <compras.inovacao@chapeco.sc.gov.br>
+[Texto das mensagens anteriores oculto]
+TR Licitação Links Prefeitura Chapecó — Versão Final (1).pdf
+384K

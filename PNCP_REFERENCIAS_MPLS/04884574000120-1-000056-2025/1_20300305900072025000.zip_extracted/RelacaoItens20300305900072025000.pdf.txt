@@ -1,0 +1,44 @@
+20203 - AGENCIA NACIONAL DO CINEMA
+203003 - AGENCIA NACIONAL DO CINEMA - PR
+RELAÇÃO DE ITENS - PREGÃO ELETRÔNICO  Nº 90007/2025-000
+1 - Itens da Licitação
+1 - Serviço de Link Via Cabo
+Descrição Detalhada: Link de Internet com proteção contra DDoS - Brasília e Rio de Janeiro (Graça Aranha.
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 2
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 175.124,88
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 10,00
+Local de Entrega (Quantidade): Rio de Janeiro/RJ (2)
+Grupo: G1
+2 - Serviço de Link Via Cabo
+Descrição Detalhada: Link MPLS com SD-WAN - Rio de Janeiro (Graça Aranha).
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 1
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 98.541,28
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 10,00
+Local de Entrega (Quantidade): Rio de Janeiro/RJ (1)
+Grupo: G1
+3 - Serviço de Link Via Cabo
+Descrição Detalhada: Link MPLS com SD-WAN - Brasília e Rio de Janeiro (Augusto Severo).
+Tratamento Diferenciado: Não
+Aplicabilidade Decreto 7174/2010: Não
+Quantidade Total: 2
+Critério de Julgamento: Menor Preço Critério de Valor: Valor Estimado
+Valor Total (R$): 141.010,08
+Unidade de Fornecimento: UNIDADE
+Intervalo Mínimo entre Lances (R$): 10,00
+Local de Entrega (Quantidade): Rio de Janeiro/RJ (2)
+Grupo: G1
+2 - Composição dos Grupos
+21 Serviço de Link Via Cabo UNIDADE
+12 Serviço de Link Via Cabo UNIDADE
+23 Serviço de Link Via Cabo UNIDADE
+Grupo 1
+Nº do Item Descrição Quantidade Total Unidade de Fornecimento
+PREGÃO ELETRÔNICO  Nº 90007/2025-000 UASG 203003 (1/1)19/09/2025  11:23
