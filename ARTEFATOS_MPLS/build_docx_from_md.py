@@ -204,6 +204,8 @@ def build(md_path):
             doc.add_heading(clean_inline(line[3:]), level=1)
         elif line.startswith("### "):
             doc.add_heading(clean_inline(line[4:]), level=2)
+        elif line.startswith("#### "):
+            doc.add_heading(clean_inline(line[5:]), level=3)
         elif re.match(r"^\d+\.\s+", line):
             add_rich_paragraph(doc, re.sub(r"^\d+\.\s+", "", line), style="List Number")
         elif line.startswith("- "):

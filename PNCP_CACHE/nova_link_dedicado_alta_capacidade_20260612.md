@@ -1,0 +1,20 @@
+# Pesquisa de preços PNCP
+
+Data da consulta: 2026-06-12T18:11:34
+Consulta textual: `link dedicado ponto a ponto 10 Gbps metro ethernet`
+Termos obrigatórios: link
+Termos proibidos: satélite, starlink, móvel, telefonia
+Janela: últimos 730 dias
+Documentos localizados: 10
+
+| Score | Órgão | UF | PNCP | Modalidade | Item | Valor | Tipo | Qtd. | Total | Link |
+| ---: | --- | --- | --- | --- | --- | ---: | --- | ---: | ---: | --- |
+| 0.0329 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | Switch de rede Requisitos Mínimos Tipo: Gerenciável com 48 Portas Gigabit Ethernet com POE + 4 Portas SFP ou Superior Recursos: Vlan, SpanningTree, Multicast, QoS, L2, L3Acesso Web Fonte de alimentaçã Material UNIDADE | 3546.00 | estimado | 2.0 | 7092.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0292 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | Ponto de acesso WiFi 7 Standard WiFi 7 Fluxos Espaciais 6 Área de Cobertura 140 m² (1.500 ft²) Contagem Máxima de Clientes +300 Material UNIDADE | 1455.77 | estimado | 30.0 | 43673.1 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0284 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | Keystone Femea RJ45 CAT 6 Características Principais: Tipo de Conector: Conector RJ45 Fêmea para cabos UTP Cat6, que garante uma cone-xão estável e segura, ideal para redes Ethernet de alta desempenho Material UNIDADE | 38.00 | estimado | 100.0 | 3800.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0278 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | Conector Macho de Passagem Rj45 CAT.6 Tipo Plug: RJ-45 Posição: 8x8 Perfeito para uso em Redes Cat6 10/100/1000 (Gigabit) Alta qualidade e desempenho Suporta conexões de até 1000 Mbps Garantia de 12 m Material UNIDADE | 0.36 | estimado | 100.0 | 36.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0242 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | LINK DE INTERNET DEDICADO (FULL) VIA FIBRA OPTICA, COM AS SEGUINTES CARACTERISTICAS MINIMAS OBRIGATORIAS: VELOCIDADE: 2000 MBPS (2 GBPS), COM GARANTIA DE 100% DA BANDA, TANTO PARA DOWNLOAD QUANTO PARA Serviço MES | 1111.37 | homologado | 12.0 | 217320.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0222 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | CONECTOR FIBRA ÓPTICA FAST SC/APC ESPECIFICAÇÕES TÉCNICAS: TIPO DE FIBRA: MONOMODO TIPO DE CONECTOR: SC (SUBSCRIBERCONNECTOR) COM ACABAMENTO APC (ANGLEDPHYSICALCONTACT) COR DO CONECTOR: NORMALMENTE VE Material UNIDADE | 157.03 | estimado | 5.0 | 785.15 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.022 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | CONECTOR FAST SC UPC / APC CONECTOR UTP (RJ45) TOTALMENTE COMPATÍVEL COM IEEE802.3 10BASE-T, IEEE802.3U 100BASE-TX/IEEE802.3U 100BASE-FX, IEEE802.3Z 1000BASE-FXAUTO-DETECÇÃO DE HALF/FULL DUPLEX MODO D Material UNIDADE | 7.88 | estimado | 20.0 | 157.6 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0217 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | Cabo de Rede Caracteristicas Tecnicas: Categoria: Cat 6 Condutores: 4 pares de condutores de cobre solido de alta pureza, bitola 23AWG. Tipo de Cabo: U/UTP (sem blindagem) Revestimento: PVC retardante Material CAIXA 305 ME | 1389.98 | homologado | 2.0 | 2780.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |
+| 0.0212 | CAMARA MUNICIPAL DE RONDONOPOLIS | MT | 00177279000183-1-000010/2025 | Pregão - Eletrônico | RACK DE PAREDE, REQUISITOS MÍNIMOS: PADRÃO 19’’ 8U, COOLER EMBUTIDO NO TETO: 2 UNIDADES, VISOR DE ACRÍLICO E CHAVE NA PORTA,REGUÁ ELÉTRICA P/ RACK19 C/8 TOMADAS 20A CABO 2,5 METROS ALTURA EXTERNA: 420 Material UNIDADE | 690.00 | estimado | 2.0 | 1380.0 | https://pncp.gov.br/app/compras/00177279000183/2025/10 |

@@ -1,0 +1,103 @@
+{
+  "consulta": {
+    "query": "internet 2 Gbps anti-ddos",
+    "required": [
+      "internet",
+      "2 gbps",
+      "ddos"
+    ],
+    "forbidden": [
+      "satélite",
+      "starlink",
+      "móvel"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 15,
+    "status": "completo",
+    "data_hora": "2026-06-12T17:23:55"
+  },
+  "evidencias": [
+    {
+      "fonte_nome": "PNCP / CLICK NET BRASIL TELECOMUNICACAO LTDA",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/26963645000113/2025/38",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/26963645000113/compras/2025/38/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/26963645000113/compras/2025/38/itens/1/resultados",
+      "titulo": "Serviço de Link Via Cabo Serviço UNIDADE",
+      "descricao_documento": "Contratação de empresa especializada para fornecimento e instalação de link de dados de 2 Gbps (dois gigabits por segundo) para acessodedicado à Internet com serviços anti DoS (Denial of Service) / DDoS (Distributed Denial of Service) na Câmara Legislativa do Distrito Federal, com garantia e suporte técnico durante toda a vigência do contrato, conforme condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus Anexos.",
+      "preco_brl": 21600.0,
+      "tipo_valor": "homologado",
+      "fornecedor": "CLICK NET BRASIL TELECOMUNICACAO LTDA",
+      "orgao": "CAMARA LEGISLATIVA DO DISTRITO FEDERAL",
+      "uf": "DF",
+      "modalidade": "Dispensa",
+      "numero_controle_pncp": "26963645000113-1-000038/2025",
+      "numero_item": "1",
+      "quantidade": 1.0,
+      "unidade_medida": "UNIDADE",
+      "valor_total": 29616.0,
+      "data_publicacao_pncp": "2025-07-25T17:08:42.998252",
+      "data_resultado": "2025-08-05",
+      "evidencia_textual": "Aviso de Contratação Direta nº 90021/2025 Contratação de empresa especializada para fornecimento e instalação de link de dados de 2 Gbps (dois gigabits por segundo) para acessodedicado à Internet com serviços anti DoS (Denial of Service) / DDoS (Distributed Denial of Service) na Câmara Legislativa do Distrito Federal, com garantia e suporte técnico durante toda a vigência do contrato, conforme condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus Anexos. CAMARA LEGISLATIVA DO DISTRITO FEDERAL 26963645000113-1-000038/2025 Serviço de Link Via Cabo Serviço UNIDADE",
+      "score_correspondencia": 0.0714,
+      "observacoes": "Preco publico nacional extraido do PNCP (homologado).",
+      "data_hora_coleta": "2026-06-12T17:23:54"
+    },
+    {
+      "fonte_nome": "PNCP / INSTITUTO DE PESQUISA ECONOMICA APLICADA",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/33892175000100/2026/33",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/33892175000100/compras/2026/33/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/33892175000100/compras/2026/33/itens/1/resultados",
+      "titulo": "Serviço de Link Via Cabo Serviço UNIDADE",
+      "descricao_documento": "Contratação de serviços de tecnologia da informação e comunicação de rede, que consistem no fornecimento de 02 (dois) links dedicados de acesso à Internet, cada um com velocidade mínima de 2 Gbps simétrica (garantindo a mesma velocidade de upload e download) e serviço de proteção contra ataques distribuídos de negação de serviço (Anti-DDoS), sendo um na unidade do Ipea em Brasília/DF e outro na unidade do Ipea no Rio de Janeiro/RJ.",
+      "preco_brl": 3600.0,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "INSTITUTO DE PESQUISA ECONOMICA APLICADA",
+      "uf": "DF",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "33892175000100-1-000033/2026",
+      "numero_item": "1",
+      "quantidade": 12.0,
+      "unidade_medida": "UNIDADE",
+      "valor_total": 43200.0,
+      "data_publicacao_pncp": "2026-05-22T07:16:53.463517",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 90047/2026 Contratação de serviços de tecnologia da informação e comunicação de rede, que consistem no fornecimento de 02 (dois) links dedicados de acesso à Internet, cada um com velocidade mínima de 2 Gbps simétrica (garantindo a mesma velocidade de upload e download) e serviço de proteção contra ataques distribuídos de negação de serviço (Anti-DDoS), sendo um na unidade do Ipea em Brasília/DF e outro na unidade do Ipea no Rio de Janeiro/RJ. INSTITUTO DE PESQUISA ECONOMICA APLICADA 33892175000100-1-000033/2026 Serviço de Link Via Cabo Serviço UNIDADE",
+      "score_correspondencia": 0.0656,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T17:23:55"
+    },
+    {
+      "fonte_nome": "PNCP / INSTITUTO DE PESQUISA ECONOMICA APLICADA",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/33892175000100/2026/33",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/33892175000100/compras/2026/33/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/33892175000100/compras/2026/33/itens/2/resultados",
+      "titulo": "Serviço de Link Via Cabo Serviço UNIDADE",
+      "descricao_documento": "Contratação de serviços de tecnologia da informação e comunicação de rede, que consistem no fornecimento de 02 (dois) links dedicados de acesso à Internet, cada um com velocidade mínima de 2 Gbps simétrica (garantindo a mesma velocidade de upload e download) e serviço de proteção contra ataques distribuídos de negação de serviço (Anti-DDoS), sendo um na unidade do Ipea em Brasília/DF e outro na unidade do Ipea no Rio de Janeiro/RJ.",
+      "preco_brl": 3600.0,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "INSTITUTO DE PESQUISA ECONOMICA APLICADA",
+      "uf": "DF",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "33892175000100-1-000033/2026",
+      "numero_item": "2",
+      "quantidade": 12.0,
+      "unidade_medida": "UNIDADE",
+      "valor_total": 43200.0,
+      "data_publicacao_pncp": "2026-05-22T07:16:53.463517",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 90047/2026 Contratação de serviços de tecnologia da informação e comunicação de rede, que consistem no fornecimento de 02 (dois) links dedicados de acesso à Internet, cada um com velocidade mínima de 2 Gbps simétrica (garantindo a mesma velocidade de upload e download) e serviço de proteção contra ataques distribuídos de negação de serviço (Anti-DDoS), sendo um na unidade do Ipea em Brasília/DF e outro na unidade do Ipea no Rio de Janeiro/RJ. INSTITUTO DE PESQUISA ECONOMICA APLICADA 33892175000100-1-000033/2026 Serviço de Link Via Cabo Serviço UNIDADE",
+      "score_correspondencia": 0.0656,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T17:23:55"
+    }
+  ],
+  "alertas": []
+}

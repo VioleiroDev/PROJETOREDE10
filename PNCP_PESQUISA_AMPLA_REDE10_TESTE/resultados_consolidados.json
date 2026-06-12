@@ -1,0 +1,8 @@
+{
+  "mpls_1gbps": [],
+  "mpls_500mbps": [],
+  "mpls_100mbps": [],
+  "internet_4gbps_antiddos": [],
+  "internet_2gbps_antiddos": [],
+  "link_dedicado_25gbps": []
+}

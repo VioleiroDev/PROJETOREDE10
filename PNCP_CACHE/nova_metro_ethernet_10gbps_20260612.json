@@ -1,0 +1,29 @@
+{
+  "consulta": {
+    "query": "metro ethernet ponto a ponto fibra 10 Gbps",
+    "required": [
+      "ethernet",
+      "gbps"
+    ],
+    "forbidden": [
+      "switch",
+      "wifi",
+      "keystone",
+      "conector",
+      "cabo",
+      "rack",
+      "satélite",
+      "starlink",
+      "móvel"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 10,
+    "status": "completo",
+    "data_hora": "2026-06-12T18:12:03"
+  },
+  "evidencias": [],
+  "alertas": []
+}

@@ -1,0 +1,14 @@
+{
+  "query": "internet dedicada anti-ddos 2 Gbps",
+  "generatedAt": "2026-06-12T08:57:56",
+  "source": "https://pncp.gov.br/api/consulta",
+  "results": [
+    {
+      "_avisosConsulta": [
+        "contratacoes/publicacao modalidade 6 2024-06-12..2026-06-12: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20240612&dataFinal=20260612&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/publicacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-12T08:57:54.336-03:00\",\"status\":\"422\"}",
+        "contratacoes/atualizacao modalidade 6 2024-06-12..2026-06-12: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/atualizacao?dataInicial=20240612&dataFinal=20260612&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/atualizacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-12T08:57:54.564-03:00\",\"status\":\"422\"}",
+        "contratos 2024-06-12..2026-06-12: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratos?dataInicial=20240612&dataFinal=20260612&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratos\",\"message\":\"Período maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-12T08:57:54.795-03:00\",\"status\":\"422\"}"
+      ]
+    }
+  ]
+}

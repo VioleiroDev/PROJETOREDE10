@@ -1,0 +1,102 @@
+{
+  "consulta": {
+    "query": "MPLS 1 Gbps rede privada",
+    "required": [
+      "mpls"
+    ],
+    "forbidden": [
+      "satélite",
+      "starlink",
+      "móvel",
+      "telefonia"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 7,
+    "status": "completo",
+    "data_hora": "2026-06-12T20:11:21"
+  },
+  "evidencias": [
+    {
+      "fonte_nome": "PNCP / MUNICIPIO DE CHAPECO",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/83021808000182/2026/200",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens/3/resultados",
+      "titulo": "Rede Privada MPLS para 20 pontos com reserva/expansão com velocidade e 1 Gbps cada, devidamente segmentados por VLAN por secretaria. Serviço MES",
+      "descricao_documento": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ.",
+      "preco_brl": 11480.0,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "MUNICIPIO DE CHAPECO",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "83021808000182-1-000200/2026",
+      "numero_item": "3",
+      "quantidade": 12.0,
+      "unidade_medida": "MES",
+      "valor_total": 137760.0,
+      "data_publicacao_pncp": "2026-05-01T00:00:12.091366257",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 153/2026/2026 CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ. MUNICIPIO DE CHAPECO 83021808000182-1-000200/2026 Rede Privada MPLS para 20 pontos com reserva/expansão com velocidade e 1 Gbps cada, devidamente segmentados por VLAN por secretaria. Serviço MES",
+      "score_correspondencia": 0.08,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T20:11:21"
+    },
+    {
+      "fonte_nome": "PNCP / MUNICIPIO DE CHAPECO",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/83021808000182/2026/200",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens/2/resultados",
+      "titulo": "Rede Privada MPLS para 205 pontos com velocidade de 500 Mbps cada, devidamente segmentados por VLAN por secretaria. Serviço MES",
+      "descricao_documento": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ.",
+      "preco_brl": 84050.0,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "MUNICIPIO DE CHAPECO",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "83021808000182-1-000200/2026",
+      "numero_item": "2",
+      "quantidade": 12.0,
+      "unidade_medida": "MES",
+      "valor_total": 1008600.0,
+      "data_publicacao_pncp": "2026-05-01T00:00:12.091366257",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 153/2026/2026 CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ. MUNICIPIO DE CHAPECO 83021808000182-1-000200/2026 Rede Privada MPLS para 205 pontos com velocidade de 500 Mbps cada, devidamente segmentados por VLAN por secretaria. Serviço MES",
+      "score_correspondencia": 0.06,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T20:11:21"
+    },
+    {
+      "fonte_nome": "PNCP / MUNICIPIO DE CHAPECO",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/83021808000182/2026/200",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/83021808000182/compras/2026/200/itens/1/resultados",
+      "titulo": "Link de Internet Dedicada 05 Gbps Full Duplex. Entrega em fibra óptica com dupla abordagem (redundância física) no CPD Central. Este link atuará como o Gateway principal de saída para a internet de to Serviço MES",
+      "descricao_documento": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ.",
+      "preco_brl": 8500.0,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "MUNICIPIO DE CHAPECO",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "83021808000182-1-000200/2026",
+      "numero_item": "1",
+      "quantidade": 12.0,
+      "unidade_medida": "MES",
+      "valor_total": 102000.0,
+      "data_publicacao_pncp": "2026-05-01T00:00:12.091366257",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 153/2026/2026 CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE TELECOMUNICAÇÃO, COMPREENDENDO TRANSPORTE DE DADOS EM TECNOLOGIA MPLS VIA FIBRA ÓPTICA, FORNECIMENTO DE LINKS DE INTERNET DEDICADA E LINKS TEMPORÁRIOS MÓVEIS, PARA A PREFEITURA MUNICIPAL DE CHAPECÓ. MUNICIPIO DE CHAPECO 83021808000182-1-000200/2026 Link de Internet Dedicada 05 Gbps Full Duplex. Entrega em fibra óptica com dupla abordagem (redundância física) no CPD Central. Este link atuará como o Gateway principal de saída para a internet de to Serviço MES",
+      "score_correspondencia": 0.0351,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T20:11:21"
+    }
+  ],
+  "alertas": []
+}

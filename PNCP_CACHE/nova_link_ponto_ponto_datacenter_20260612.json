@@ -1,0 +1,31 @@
+{
+  "consulta": {
+    "query": "link dedicado ponto a ponto datacenter fibra",
+    "required": [
+      "link",
+      "dedicado"
+    ],
+    "forbidden": [
+      "switch",
+      "wifi",
+      "keystone",
+      "conector",
+      "cabo",
+      "rack",
+      "satélite",
+      "starlink",
+      "móvel"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 0,
+    "status": "parcial_com_alertas",
+    "data_hora": "2026-06-12T18:12:04"
+  },
+  "evidencias": [],
+  "alertas": [
+    "Falha PNCP search para 'link dedicado ponto a ponto datacenter fibra'/edital: Falha ao consultar https://pncp.gov.br/api/search/?q=link+dedicado+ponto+a+ponto+datacenter+fibra&tipos_documento=edital: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto"
+  ]
+}

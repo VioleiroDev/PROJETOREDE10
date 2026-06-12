@@ -34,11 +34,11 @@ Trata-se de servico comum continuado, pois os padroes de desempenho e qualidade 
 
 ### 3. Da fundamentacao da contratacao
 
-A fundamentacao consta do ETP, especialmente quanto a necessidade de interconexao privada das unidades a Sede, centralizacao de saida de Internet na Sede, existencia de 3 saidas de Internet redundantes e manutencao da SD-WAN atual como camada preferencial para Internet e contingencia.
+A fundamentacao consta do ETP, especialmente quanto a necessidade de interconexao privada das unidades a Sede, manutencao da SD-WAN atual como camada preferencial para Internet e contingencia, e utilizacao da infraestrutura de Internet/borda da Sede apenas como componente existente e correlato, fora do objeto desta contratacao.
 
 ### 4. Da descricao da solucao
 
-A solucao contempla uma rede privada corporativa em topologia hub-and-spoke, com Sede como concentrador preferencial. Todas as demais localidades deverao se conectar a Sede por MPLS. O MPLS sera utilizado preferencialmente para trafego critico e institucional; a SD-WAN vigente sera utilizada preferencialmente para trafego de Internet. Em caso de indisponibilidade, degradacao relevante ou manutencao de qualquer uma das camadas, MPLS e SD-WAN deverao poder transportar os fluxos necessarios a continuidade dos servicos, conforme politicas de roteamento aprovadas pela CDTEC. A saida de Internet sera preferencialmente realizada pela Sede, que conta com 3 saidas redundantes.
+A solucao contempla uma rede privada corporativa em topologia hub-and-spoke, com Sede como concentrador preferencial. Todas as demais localidades deverao se conectar a Sede por MPLS. O MPLS sera utilizado preferencialmente para trafego critico e institucional; a SD-WAN vigente sera utilizada preferencialmente para trafego de Internet. Em caso de indisponibilidade, degradacao relevante ou manutencao de qualquer uma das camadas, MPLS e SD-WAN deverao poder transportar os fluxos necessarios a continuidade dos servicos, conforme politicas de roteamento aprovadas pela CDTEC. A saida de Internet pela Sede, quando aplicavel, utilizara infraestrutura existente e fora do escopo desta contratacao.
 
 ![Figura 1 - Arquitetura proposta SD-WAN + MPLS](../diagrama_topologia_revisada.png)
 

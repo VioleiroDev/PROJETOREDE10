@@ -1,0 +1,1457 @@
+1 de 32
+Relatório de pesquisa de preço
+Relatório Detalhado
+Informações básicas
+Número da Pesquisa UASG Status Editado por
+11/2025 927692 Concluída JOANA SUELENE DE SA
+Título: Serviços de Telecomunicações e internet dedicada
+Observações: Serviços de internet dedicada de 100 mgps.
+Total de itens cotados: 1 Valor total da pesquisa de preços: R$ 945,6750
+Itens cotados
+Item: 1
+Descrição do item Unidade de Fornecimento Quantidade
+26174 - Acesso a internet - stfc (banda larga) MEGA BITS/SEGUNDO 1
+Consolidação dos preços cotados
+Menor Preço Média  Mediana
+R$ 700,0000 R$ 1.292,9875 R$ 945,6750
+ Coeficiente de Variação: 58,0747%
+ Desvio Padrão: 750,8990
+Maior Preço: R$ 2.580,6000
+Método de cálculo adotado: Mediana
+Filtro Aplicado
+Data início: 01/10/2024
+Data fim: 03/09/2025
+Modalidade(s): Pregão, Dispensa, Cotação
+Esfera: Federal, Estadual, Municipal
+Critério Julgamento Item: Menor Preço
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+1 IV ITS TELECOMUNICACOES LTDA - 
+Fornecedor 1 R$ 1.500,0000 22/08/2025 Não
+Identificação do Fornecedor Endereço Eletrônico
+08.772.214/0001-98 https://www.itsbrasil.net
+Data da Cotação Hora da Cotação Validade da Cotação
+22/08/2025 13:19 22/09/2025
+Contato Informacões Adicionais
+ariane@itsbrasil.net Contratação prestação de serviços de internet de 100mb de link dedicado.
+Anexos
+Cotação ITS Brasil Janeiro de 2025.pdf
+2 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+2 I ESTADO DO MARANHAO - Compras.
+gov.br 2 MEGA BITS/SEGUNDO R$ 27.600,0000 28/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92698205900202025 28/08/2025 3
+Objeto: Pregão Eletrônico - A 
+contratação de empresa para a 
+prestação de serviços de internet 
+banda larga com implantação e 
+manutenção de sistema VOIP (Voz 
+sobre IP), em todos os endereços da 
+SEAP da capital e interior
+Esfera UASG Forma Modalidade
+Estadual 926982 SISPP Pregão
+Fornecedor
+WIKI TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+LINK DE INTERNET - 1000 MB PONTO A PONTO (FULL DUPLEX)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+3 I ESTADO DO MARANHAO - Compras.
+gov.br 3 MEGA BITS/SEGUNDO R$ 12.000,0000 28/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92698205900202025 28/08/2025 2
+Objeto: Pregão Eletrônico - A 
+contratação de empresa para a 
+prestação de serviços de internet 
+banda larga com implantação e 
+manutenção de sistema VOIP (Voz 
+sobre IP), em todos os endereços da 
+SEAP da capital e interior
+Esfera UASG Forma Modalidade
+Estadual 926982 SISPP Pregão
+Fornecedor
+WIKI TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+LINK DE INTERNET - 200 MB PONTO A PONTO (FULL DUPLEX)
+3 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+4 I ESTADO DO MARANHAO - Compras.
+gov.br 45 MEGA BITS/SEGUNDO R$ 6.540,0000 28/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92698205900202025 28/08/2025 1
+Objeto: Pregão Eletrônico - A 
+contratação de empresa para a 
+prestação de serviços de internet 
+banda larga com implantação e 
+manutenção de sistema VOIP (Voz 
+sobre IP), em todos os endereços da 
+SEAP da capital e interior
+Esfera UASG Forma Modalidade
+Estadual 926982 SISPP Pregão
+Fornecedor
+WIKI TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+LINK DE INTERNET - 50 MB PONTO A PONTO (FULL DUPLEX)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+5 I CONSELHO REGIONAL DE 
+ENFERMAGEM-MG - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 70.999,9000 26/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92618805900072025 26/08/2025 5
+Objeto: Pregão Eletrônico - 
+Contratação de serviços de link de 
+internet, telefonia fixa e telefonia 
+móvel para a sede e subseções do 
+Coren-MG, conforme condições, 
+quantidades e exigências 
+estabelecidas no Edital e seus 
+anexos.
+Esfera UASG Forma Modalidade
+Federal 926188 SISPP Pregão
+Fornecedor
+SITELBRA SISTEMA DE TELECOMUNICACOES DO BRASIL LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de serviços de link dedicado de acesso à internet com velocidade de 500 Mbps, para a Sede do Coren-MG, conforme condições,
+quantidades e exigências estabelecidas no Edital e seus anexos.
+4 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+6 I CONSELHO REGIONAL DE 
+ENFERMAGEM-MG - Compras.gov.br 10 MEGA BITS/SEGUNDO R$ 40.348,8000 26/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92618805900072025 26/08/2025 4
+Objeto: Pregão Eletrônico - 
+Contratação de serviços de link de 
+internet, telefonia fixa e telefonia 
+móvel para a sede e subseções do 
+Coren-MG, conforme condições, 
+quantidades e exigências 
+estabelecidas no Edital e seus 
+anexos.
+Esfera UASG Forma Modalidade
+Federal 926188 SISPP Pregão
+Fornecedor
+FACHINELI COMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de serviço de internet e telefonia fixa em nuvem para as subseções do COREN-MG, conforme condições, quantidades e exigências
+estabelecidas no Edital e seus anexos.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+7 I COMANDO DO EXERCITO - Compras.
+gov.br 12 MEGA BITS/SEGUNDO R$ 993,4500 26/08/2025 Sim
+Id da Compra Comprado em N° do Item Objeto da Compra
+16047906900242025 26/08/2025 1 Objeto: Instalação de internet no 
+posto médico
+Esfera UASG Forma Modalidade
+Federal 160479 SISPP Dispensa
+Fornecedor
+ATUAL SERVICOS E COMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+5 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+8 I EMPRESA GESTORA DE ATIVOS - 
+Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 30.397,7000 21/08/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+17910205900052025 21/08/2025 1
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada na prestação do 
+serviço de acesso IP (Internet 
+Protocol), link de internet, dedicado, 
+exclusivo e contínuo entre a rede de 
+dados corporativa da Emgea e a 
+Internet, com suporte às aplicações 
+TCP/IP (Transmission Control 
+Protocol / Internet Protocol), com 
+velocidade mínima de 1GB (UM 
+GIGABIT), proteção Anti-DoS/Anti-
+DDoS, monitoramento proativo, 
+garantia de suporte técnico pelo 
+prazo de 1 (um) ano, 24 horas por dia 
+e 7 dias por semana.
+Esfera UASG Forma Modalidade
+Federal 179102 SISPP Pregão
+Fornecedor
+ALGAR TELECOM S/A
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Prestação do serviço de acesso IP (Internet Protocol) dedicado, exclusivo e contínuo entre a rede de dados corporativa da Emgea e a Internet, com
+suporte às aplicações TCP/IP (Transmission Control Protocol / Internet Protocol), com velocidade mínima de 1GB (UM GIBYTES), proteção Anti-DoS
+/Anti-DDoS, monitoramento proativo, garantia de suporte técnico pelo prazo de 1 (um) ano, 24 horas por dia e 7 dias por semana.
+6 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+9 I TRIBUNAL DE JUSTICA DO ESTADO 
+DE SAO PAULO - Compras.gov.br 5 MEGA BITS/SEGUNDO R$ 2.500,0000 30/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92649505901042025 30/07/2025 6
+Objeto: Pregão Eletrônico - Sistema 
+de Registro de Preços para eventual 
+contratação de material, serviços e
+/ou apoio logístico em eventos, 
+originários e/ou apoiados pelo 
+Tribunal de Justiça do Estado de 
+São Paulo - TJSP, que poderão ser 
+executados, sob demanda, em 
+qualquer município do Estado de 
+São Paulo, pertencente a quaisquer 
+Regiões Administrativas Judiciárias 
+(RAJ s), que constituem um Lote 
+Único.
+Esfera UASG Forma Modalidade
+Estadual 926495 SISRP Pregão
+Fornecedor
+UNA COMUNICACAO E PARTICIPACOES LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço com nível de disponibilidade de pelo menos 99,5% (Service Level Agreeement - SLA), conectividade full duplex e simétrica (velocidade igual
+dedownload e upload), garantia de banda 100% e sem limite de quantidade ou tipo de dados trafegados. A empresa deverá fornecer toda a
+infraestrutura (cabos, modem, roteadores, conectores, recursos humanos, etc.), montagem e configuração necessária para a perfeita execução do
+serviço, sem custo adicional. O acesso até o local da transmissão poderá ser feito por fibra óptica ou cabo de rede Ethernet UTP CAT6a blindado (ou
+superior). As tecnologias para os enlaces e os equipamentos utilizados deverão estar devidamente regulamentados e homologados, respeitando-se as
+normas definidas pela Agência Nacional de Telecomunicações - ANATEL.
+7 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+10 I PREFEITURA MUNICIPAL DE CACERES 
+- MT - Compras.gov.br 24 MEGA BITS/SEGUNDO R$ 3.399,9900 29/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+98904705900152025 29/07/2025 3
+Objeto: Pregão Eletrônico - Registro 
+de Preçopara futura e eventual 
+contratação de empresa 
+especializada para prestação de 
+serviços de segurança cibernética 
+com Inteligência Artificial Preditiva, 
+garantindo alta disponibilidade, 
+segurança, eficiência e 
+sustentabilidade no atendimento às 
+demandas do Município de Cáceres.
+Esfera UASG Forma Modalidade
+Municipal 989047 SISRP Pregão
+Fornecedor
+SH7 PROTECAO E INTELIGENCIA CIBERNETICA LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço de Link dedicado de Acesso à internet, bloco /29 e Banda Mínima de Acesso Garantida de 500Mbps (Alta Disponibilidade) SEDE (Link de ASN e
+Rota Diferentes)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+11 I JUSTICA ELEITORAL - Compras.gov.br 39 MEGA BITS/SEGUNDO R$ 680,0000 23/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+7002705900042025 23/07/2025 7
+Objeto: Pregão Eletrônico - Registro 
+de Preços para contratação de 
+empresa especializada, para 
+fornecimento de Solução de rede 
+de Comunicação de dados para 
+prover acesso à rede da Justiça 
+Eleitoral e à internet, conforme 
+condições e especificações 
+estabelecidas no Termo de 
+Referência (ANEXO I), parte 
+integrante do Edital.
+Esfera UASG Forma Modalidade
+Federal 70027 SISRP Pregão
+Fornecedor
+NOVA TELECOM LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Links de Acesso à Internet com IP Fixo, padrão xDSL ou Similar, com garantiamínima da bandaContratada conforme regulamentado pela ANATEL, para
+as demais localidades da Justiça Eleitoral do Tocantins, conforme TR
+8 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+12 I JUSTICA ELEITORAL - Compras.gov.br 15 MEGA BITS/SEGUNDO R$ 700,0000 23/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+7002705900042025 23/07/2025 6
+Objeto: Pregão Eletrônico - Registro 
+de Preços para contratação de 
+empresa especializada, para 
+fornecimento de Solução de rede 
+de Comunicação de dados para 
+prover acesso à rede da Justiça 
+Eleitoral e à internet, conforme 
+condições e especificações 
+estabelecidas no Termo de 
+Referência (ANEXO I), parte 
+integrante do Edital.
+Esfera UASG Forma Modalidade
+Federal 70027 SISRP Pregão
+Fornecedor
+NOVA TELECOM LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Links de Acesso à Internet com IP Fixo, padrão xDSL ou Similar, com garantiamínima da bandaContratada conforme regulamentado pela ANATEL, para
+unidadesda capital (Anexos I e II e Centralde Urnas) e maiores zonas eleitorais (1ª/34ª, 2ª, 3ª, 4ª, 07ª e 29ª ZEs), conforme TR
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+13 I JUSTICA ELEITORAL - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 1.650,0000 23/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+7002705900042025 23/07/2025 5
+Objeto: Pregão Eletrônico - Registro 
+de Preços para contratação de 
+empresa especializada, para 
+fornecimento de Solução de rede 
+de Comunicação de dados para 
+prover acesso à rede da Justiça 
+Eleitoral e à internet, conforme 
+condições e especificações 
+estabelecidas no Termo de 
+Referência (ANEXO I), parte 
+integrante do Edital.
+Esfera UASG Forma Modalidade
+Federal 70027 SISRP Pregão
+Fornecedor
+NORTE.NET TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Links de Acesso à Internet com IP Fixo, padrão xDSL ou Similar, com garantiamínima da banda Contratada conforme regulamentado pela ANATEL, para
+a SEDE DO TRIBUNAL, conforme TR
+9 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+14 I CONSELHO REGIONAL DE MEDICINA 
+VETERINARIA-RO - Compras.gov.br 60 MEGA BITS/SEGUNDO R$ 274,0000 22/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+38920606900102025 22/07/2025 1
+Objeto: Contratação de empresa 
+especializada na prestação de 
+serviços de internet banda largavia 
+fibra ótica, em atendimento a nova 
+sede do CRMV-RO.
+Esfera UASG Forma Modalidade
+Federal 389206 SISPP Dispensa
+Fornecedor
+C H C SERVICOS DE COMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Internet banda larga, por meio de fibra ótica empresarial, com velocidade mínima de 1 Gbps (download) e 500 Mbps (upload), incluindo fornecimento de
+IP fixo público e taxa de instalação do serviço.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+15 I EAL-ALAGOAS PREVIDÊNCIA - 
+Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 429,0000 22/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92698106900072025 22/07/2025 1
+Objeto: Contratação de link de 
+internet redundante - Acesso a 
+internet - stfc (banda larga) -500 
+MEGABITS.SEGUNDO, a franquia 
+deve ser disponibilizada 
+mensalmente.
+Esfera UASG Forma Modalidade
+Estadual 926981 SISPP Dispensa
+Fornecedor
+FL INFORMATICA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga) - 500 MEGA BITS/SEGUNDO - Serviço mensal e anual.
+10 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+16 I ESTADO DO RIO DE JANEIRO - 
+Compras.gov.br 36 MEGA BITS/SEGUNDO R$ 246,0000 17/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92806305900112025 17/07/2025 5
+Objeto: Pregão Eletrônico - 
+Contratação de links de acesso à 
+internet, para atender as 
+necessidades da Câmara Municipal 
+de Nova Friburgo, conforme 
+condições, quantidades e exigências 
+estabelecidas neste edital de 
+licitação e seus anexos .
+Esfera UASG Forma Modalidade
+Estadual 928063 SISPP Pregão
+Fornecedor
+DB3 SERVICOS DE TELECOMUNICACOES S.A
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Link Banda Larga: Serviço de comunicação multimídia (SCM) na modalidade de acesso compartilhado, a ser instalado na sala de servidores de rede da
+Câmara Municipal de Nova Friburgo, com as seguintes características: 3.3.1. Sem restrição de quantidade máxima de conexões simultâneas e sem
+restrição de volume de tráfego. 3.3.2. Velocidade de conexão contratada de 1Gbps (1 gigabit por segundo). 3.3.3. Disponibilidade 24 x 7 (vinte e quatro
+horas por dia, sete dias por semana), a partir de sua ativação até o término do contrato. 3.3.4. Usando infraestrutura de fibra óptica, com fornecimento
+dos equipamentos necessários à execução do serviço sob forma de comodato e suporte técnico. 3.3.5. Fornecimento de um endereço de IP fixo. 3.3.6.
+Com serviço de proteção contra-ataques DDoS 3.3.7. SOC/NOC 24x7: Centro de Operações de Segurança e Centro de Operações de Rede disponíveis
+24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, para monitoramento proativo e resposta a incidentes. 3.3.8. Garantir banda mínima de 80%
+(oitenta por cento) no sentido download e mínimo de 50% (cinquenta por cento)no sentido upload, disponibilidade de 90% (noventa por cento), latência
+menor que 100 milissegu
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+17 I
+CONSELHO REGIONAL DE 
+EDUCACAO FISICA 5A-CE - Compras.
+gov.br
+1 MEGA BITS/SEGUNDO R$ 5.124,0000 02/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92812806900032025 02/07/2025 2
+Objeto: Prestação de serviços de 
+conexão à Internet, incluindo 
+manutenção, suporte técnico, 
+instalação e ativação dos 
+equipamentos, de acordo com as 
+especificações e definições 
+constantesneste Estudo Técnico 
+Preliminar e no Termo de Referência.
+Esfera UASG Forma Modalidade
+Federal 928128 SISPP Dispensa
+Fornecedor
+TELECOMUNICACOES BRASILIA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)- Redundância para cidade de Fortaleza,Ceará, valor unitário anual. Outros detalhes contidos no Aviso ou Termo
+de Referência.
+11 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+18 I
+CONSELHO REGIONAL DE 
+EDUCACAO FISICA 5A-CE - Compras.
+gov.br
+1 MEGA BITS/SEGUNDO R$ 17.000,0000 02/07/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92812806900032025 02/07/2025 1
+Objeto: Prestação de serviços de 
+conexão à Internet, incluindo 
+manutenção, suporte técnico, 
+instalação e ativação dos 
+equipamentos, de acordo com as 
+especificações e definições 
+constantesneste Estudo Técnico 
+Preliminar e no Termo de Referência.
+Esfera UASG Forma Modalidade
+Federal 928128 SISPP Dispensa
+Fornecedor
+TELECOMUNICACOES BRASILIA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga) - Três Conexões, nas cidades de Fortaleza, Sobral e Crato no estado do Ceará. Valor incluído para contratação
+por 12 meses. Outras descrições no aviso ou Termo de Referência.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+19 I ESTADO DO RIO GRANDE DO SUL - 
+Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 52.680,0000 30/06/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+93071605900022025 30/06/2025 2
+Objeto: Pregão Eletrônico - 
+Execução de serviços de 
+telecomunicações, compreendendo 
+o serviço de telefonia fixa comutada 
+(STFC) e serviço comunicação de 
+dados dedicado à Internet, 
+contendo estes serviços de 
+proteção contra ataques DDoS, 
+contemplando a configuração, 
+instalação, gerenciamento proativo 
+e manutenção dos serviços.
+Esfera UASG Forma Modalidade
+Estadual 930716 SISPP Pregão
+Fornecedor
+VIAVETORIAL TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço de acesso dedicado à Internet, incluso serviço anti-DDoS, compreendendo equipamentos, customização, disponibilização e configuração e
+manutenção, com acesso dedicado com velocidade de 2 Gbps, conforme Termo de Referência.
+12 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+20 I ESTADO DO RIO GRANDE DO SUL - 
+Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 47.040,0000 30/06/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+93071605900022025 30/06/2025 1
+Objeto: Pregão Eletrônico - 
+Execução de serviços de 
+telecomunicações, compreendendo 
+o serviço de telefonia fixa comutada 
+(STFC) e serviço comunicação de 
+dados dedicado à Internet, 
+contendo estes serviços de 
+proteção contra ataques DDoS, 
+contemplando a configuração, 
+instalação, gerenciamento proativo 
+e manutenção dos serviços.
+Esfera UASG Forma Modalidade
+Estadual 930716 SISPP Pregão
+Fornecedor
+ALGAR TELECOM S/A
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço de acesso dedicado à Internet, incluso serviço anti-DDoS, compreendendo equipamentos, customização, disponibilização e configuração e
+manutenção, com acesso dedicado com velocidade de 2 Gbps, conforme Termo de Referência e Serviço Telefônico Fixo Comutado (STFC), em regime
+de empreitada por preço fixo,incluindo o serviço de ligações de fixo para fixo, nas modalidades local, longa distância no Estado do Rio Grande do Sul,
+longa distância interestadual e longa distância internacional; e ligações de fixo para móvel VC1, VC2, VC3, comligações ilimitadas para qualquer destino
+nacional, conforme Termo de Referência.
+13 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+21 I ESTADO DE SAO PAULO - Compras.
+gov.br 1 MEGA BITS/SEGUNDO R$ 5.103,1400 30/06/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+93026906900382025 30/06/2025 1
+Objeto: Prestação de serviço de 
+fornecimento de internet banda 
+larga com velocidade mínima 
+garantida de 1 Gbps (1000M 
+download e 1000 M upload) com o 
+fornecimento de roteador, 
+conjuntamente ao fornecimento de 
+2 linhas telefônicas, incluindo a 
+instalação dos mesmos, suporte 
+técnico 24x7 (vinte e quatro horas, 
+sete dias porsemana), manutenção 
+quando necessário, substituição do 
+sistema atual e configuração do 
+novo sistema, pelo período de 12 
+meses.
+Esfera UASG Forma Modalidade
+Estadual 930269 SISPP Dispensa
+Fornecedor
+PROVALE SCM LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+14 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+22 I DISTRITO FEDERAL - Compras.gov.br 6900 MEGA BITS/SEGUNDO R$ 0,1000 13/06/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92601605900112025 13/06/2025 6
+Objeto: Pregão Eletrônico - 
+Contratação de empresa para a 
+prestação de serviço contínuo de 
+telefonia fixa comutada (STFC), nas 
+modalidades local e longa distância 
+nacional e internacional, por meio 
+de entroncamento E1, com 
+disponibilização de 10 (dez) troncos 
+telefônicos E1 R2 para atendimento 
+às necessidades da Polícia Militar do 
+Distrito Federal, a serem entregues 
+nas unidades operacionais militares 
+(UPM) da PMDF, em Brasília/DF, 
+conforme condições, quantidades e 
+exigências estabelecidas no Edital e 
+anexo
+Esfera UASG Forma Modalidade
+Estadual 926016 SISPP Pregão
+Fornecedor
+TELECOM SOUTH AMERICA LTDA.
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Chamadas Longa Distância Nacional Fixo-Móvel
+15 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+23 I MIN.DA GEST.E DA INOVACAO EM 
+SERVICOS PUBLICO - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 310,0000 28/05/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+17006906900082025 28/05/2025 1
+Objeto: Contratação de empresa 
+especializada na prestação de 
+serviços de Internet, com instalação 
+e suporte 24 horas, para atender a 
+demandada Superintendência 
+Regional de Administração no 
+Estado de Sergipe e órgãos clientes, 
+pelo período de 1 (um) ano, 
+prorrogável por até 10 (dez) anos.
+Esfera UASG Forma Modalidade
+Federal 170069 SISPP Dispensa
+Fornecedor
+SUPER CONNECT TELECOM LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Prestação mensal de serviço de Internet por Fibra Ótica, com IP fixo, com Link de, no mínimo, 800MB de velocidade, com taxa de transmissão média
+(download e upload) de 80% da taxa de transmissão contratada e taxa de transmissão instantânea (download e upload) de 40%. Sem franquia. Os
+equipamentos utilizados serão em sistema de comodato. Faz-se necessário, ainda, SLA de 24 horas para atendimento. Endereço: Rua Pacatuba, 171,
+Centro, CEP 49010-150, Aracaju/SE. 1.2 Instalação de rede de internet na Rua Pacatuba, 171, Centro, CEP 49010- 150, Aracaju/SE.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+24 I INSTITUTO DO PATRIMONIO HIST. E 
+ART. NACIONAL - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 4.780,0000 28/05/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+34300306900012025 28/05/2025 1
+Objeto: O objeto da presente 
+dispensa é a escolha da proposta 
+mais vantajosa para contratação de 
+serviços de internet banda larga 
+com velocidade mínima de 10 (dez) 
+Megas, para o Escritório Técnico de 
+Alcântara/MA, localizado na Rua 
+das Mercês, 464, Centro, Alcântara
+/MA, conforme condições e 
+exigências estabelecidas neste 
+instrumento, no Termo de 
+Referência e seus anexos.
+Esfera UASG Forma Modalidade
+Federal 343003 SISPP Dispensa
+Fornecedor
+FACHINELI COMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de empresa para prestação de serviços de internet banda larga com velocidade mínima de 10 (dez) Megas, para o Escritório Técnico de
+Alcântara/MA, localizado na Rua das Mercês, 464, Centro, Alcântara/MA, conforme condições e exigências estabelecidas neste instrumento, no Termo
+de Referência e seus anexos, para o período de 12 (doze) meses.
+16 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+25 I CONSELHO REGEGIONAL DE 
+FARMACIA-RJ - Compras.gov.br 36 MEGA BITS/SEGUNDO R$ 349,0000 20/05/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+38945505900142024 20/05/2025 1
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada na Prestação de 
+serviço de acesso dedicado e 
+corporativo à Internet (Rede Mundial 
+de Computadores), com velocidade 
+simétrica (upload e download) 
+mínima de 300 Mbps (trezentos 
+megabits por segundo) com serviço 
+de Anti-DDoS, contemplando 
+instalação, configuração ecomodato 
+dos equipamentos, para 
+atendimento asnecessidades da 
+nova Sede do CRFRJ, localizadana 
+Praça Tiradentes, 50, Centro / Rio 
+de Janeiro-RJ.
+Esfera UASG Forma Modalidade
+Federal 389455 SISPP Pregão
+Fornecedor
+SPEED WEB NET TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Prestação de serviço de acesso dedicado e corporativo à Internet(Rede Mundialde Computadores), com velocidade simétrica(upload e download)
+mínima de 300 Mbps (trezentos megabits por segundo) com serviço de Anti- DDoS, contemplando instalação, configuração e comodato dos
+equipamentos, para atendimento as necessidades da nova Sede do CRF-RJ. Valor estimado mensal de R$ 1.006,58 / Contrato de 36 meses / Valor
+estimado total (valor mensal x 36) = R$ 36.236,88.Obs.1: A unidade de medida será o valor da mensalidade. Obs.2: Imprescindível a verificação dos
+detalhes técnicos dos itens para correta formulação das propostas e lances através das informações descritas no Termo de Referência, ETP e demais
+anexos e apêndices.
+17 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+26 I FUNDO PENITENCIARIO NACIONAL - 
+Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 1.240,0000 28/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+20060006900102025 28/04/2025 1
+Objeto: Serviço de telefonia fixa 
+comutada comlink de internet 
+dedicado (400 Mbps), 
+conformeespecificações constantes 
+no Termo de Referência.
+Esfera UASG Forma Modalidade
+Federal 200600 SISPP Dispensa
+Fornecedor
+VETT - VIA EXPRESS TECNOLOGIA E TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+TELEFONIA COM INTENET DEDICADA, CONFORMME TERMO DE REFERÊNCIA. NO VALOR UNITÁRIO A EMPRESA DEVERÁ LANÇAR O VALOR MENSAL
+DO SERVIÇO.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+27 I DISTRITO FEDERAL - Compras.gov.br 8 MEGA BITS/SEGUNDO R$ 723,1200 24/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+45010705900062025 24/04/2025 84
+Objeto: Pregão Eletrônico - Registro 
+de preços para pretensa 
+contratação de empresa 
+especializada na prestação dos 
+serviços de suporte operacional e 
+logístico de eventos para 
+atendimentodas necessidades da 
+Secretaria de Estado de Segurança 
+Pública do Distrito Federal, de 
+acordo com as especificações, 
+condições, quantitativose exigências 
+estabelecidos no Termo de 
+Referência e seus anexos.
+Esfera UASG Forma Modalidade
+Estadual 450107 SISRP Pregão
+Fornecedor
+BRASITUR EVENTOS E TURISMO LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+18 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+28 I ESTADO DE SAO PAULO - Compras.
+gov.br 12 MEGA BITS/SEGUNDO R$ 137,0000 24/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92942506900042025 24/04/2025 2
+Objeto: Contratação, por dispensa 
+de licitação, do serviço de acesso à 
+Internet através de links dedicados 
+com conexão em fibra óptica e de 
+banda larga para os prédios da 
+Câmara Municipalde Cubatão, nos 
+termos da tabela abaixo, conforme 
+condições, quantidades e 
+especificações deste Aviso de 
+Contratação Direta e seus anexos
+Esfera UASG Forma Modalidade
+Estadual 929425 SISPP Dispensa
+Fornecedor
+DESKTOP S.A.
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço de Link de acesso à Internet Banda Larga, bidirecional e assimétrico,na velocidade de 500 mbps, para o edifício da garagem da Câmara
+Municipal deCubatão. Atentar para item 2.2.2. do Termo de Referência.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+29 I CONSELHO REG. DOS TECNICOS 
+INDUSTRIAIS 4ª-SC - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 666,4000 22/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92748705900112025 22/04/2025 1
+Objeto: Pregão Eletrônico - 
+Contratação de empresa para 
+fornecimento de linhas telefônicas 
+fixas e links de internet banda larga 
+para os Postos de Trabalho do 
+Conselho Regional dos Técnicos 
+Industriais da 4ª Região CRT04, no 
+Estadodo Paraná.
+Esfera UASG Forma Modalidade
+Federal 927487 SISPP Pregão
+Fornecedor
+SOMADATTA INFORMATICA LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+4 links de Internet banda larga, velocidade mínima de 500mbps, 100% download e 40% upload e fibra ótica, para os postos de trabalho do CRT-04 no
+Estado do Paraná, nas cidades de Curitiba, Cascavel, Londrina e Ponta Grossa
+19 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+30 I CONSELHO REGIONAL DE NUTRICAO 
+10ª REGIAO/SC - Compras.gov.br 24 MEGA BITS/SEGUNDO R$ 897,9000 17/04/2025 Sim
+Id da Compra Comprado em N° do Item Objeto da Compra
+92849406900062025 17/04/2025 1
+Objeto: Contratação de empresa 
+especializada para fornecimento de 
+serviço de Internet (Link Dedicado) 
+com no mínimo 100MB Full Duplex 
+(upload/download), 100% de banda 
+garantida, instalação, manutenção e 
+suporte, necessários para atender a 
+todas as unidades do Conselho 
+Regional de Nutrição da 10ª Região 
+(CRN-10), conforme especificações 
+e quantidades indicadas no Termo 
+de Referência e seus anexos.
+Esfera UASG Forma Modalidade
+Federal 928494 SISPP Dispensa
+Fornecedor
+PONTO A PONTO TELECOMUNICACOES DO BRASIL LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de empresa especializada para fornecimento de serviço de Internet(Link Dedicado) com no mínimo 100MB Full Duplex (upload/download),
+100% de banda garantida, instalação, manutenção e suporte. A especificação completa do item está descrita no item 5 deste Termo de Referência.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+31 I MIN.DA GEST.E DA INOVACAO EM 
+SERVICOS PUBLICO - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 205,0000 11/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+17006906900062025 11/04/2025 1
+Objeto: Contratação de empresa 
+especializada na prestação de 
+serviços de Internet, com instalação 
+e suporte 24 horas, para atender a 
+demanda da Superintendência 
+Regional de Administraçãono 
+Estado de Sergipe, pelo período de 1 
+(um) ano, prorrogável por até 10 
+(dez) anos.
+Esfera UASG Forma Modalidade
+Federal 170069 SISPP Dispensa
+Fornecedor
+SUPER CONNECT TELECOM LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Prestação de serviço de Internet por Fibra Óptica, com Link de, no mínimo, 100MB e entrega de no mínimo 30% de Upload e 70% de Download. Os
+equipamentos utilizados serão em sistema de comodato. Faz-se necessário ainda SLA de 24 horaspara atendimento, com instalação.
+20 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+32 I CONSELHO REG.DE ENGENHARIA E 
+AGRONOMIA-MT - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 1.898,0000 01/04/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+38942505900022025 01/04/2025 1
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada na prestação de 
+Serviço de link dedicado e exclusivo 
+de no mínimo 500 (quinhentos) 
+Mbps de Internet para atender a 
+sede do Conselho Regional de 
+Engenharia de Agronomia de Mato 
+Grosso.
+Esfera UASG Forma Modalidade
+Federal 389425 SISPP Pregão
+Fornecedor
+BRASIL TECPAR SERVICOS DE TELECOMUNICACOES S.A
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Link de acesso à Internet Dedicado com velocidade mínima de 500 (quinhentos)Mbps com proteção anti-DDoS, com um bloco de endereçamento CIDR
+/28,totalizando16 endereços de IP público.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+33 I CONSELHO REG. DOS TECNICOS 
+INDUSTRIAIS 4ª-SC - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 630,0000 31/03/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92748705900032025 31/03/2025 5
+Objeto: Pregão Eletrônico - 
+Contratação de empresa para 
+fornecimento de linhas telefônicas 
+fixas, links de internet dedicada e 
+links de internet banda larga para os 
+Postos de Trabalho doConselho 
+Regional dos Técnicos Industriais da 
+4ª Região CRT04, nos Estados do 
+Paraná e Santa Catarina, conforme 
+condições, quantidades, exigências 
+e estimativas estabelecidas no Edital 
+e seus anexos.
+Esfera UASG Forma Modalidade
+Federal 927487 SISPP Pregão
+Fornecedor
+UNIFIQUE TELECOMUNICACOES S/A
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+4 links de Internet banda larga, velocidade mínima de 500mbps, 100% download e 40% upload e fibra ótica, para os postos de trabalho do CRT-04 no
+Estado de Santa Catarina, nas cidades de Florianópolis, Chapecó, Criciúma e Joinville
+21 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+34 I MINISTERIO DA FAZENDA - Compras.
+gov.br 1 MEGA BITS/SEGUNDO R$ 6.999,8900 31/03/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+17004006900112025 31/03/2025 1
+Objeto: Serviço de instalação e 
+fornecimento de banda larga fixa de 
+no mínimo 300 mbps de download 
+de banda compartilhada, sem 
+fidelidade,via fibra, para o Depósito 
+de Mercadorias Apreendidas da 
+Inspetoria da Receita Federal do 
+Brasil no Porto de São Luís/MA.
+Esfera UASG Forma Modalidade
+Federal 170040 SISPP Dispensa
+Fornecedor
+G I SERVICOS E MANUTENCAO INDUSTRIAL LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Serviço de instalação e fornecimento de banda larga fixa de no mínimo 300 mbps de download de banda compartilhada, período de 12 meses sem
+fidelidade, via fibra, para o Depósito de Mercadorias Apreendidas da Inspetoria da Receita Federal do Brasil no Porto de São Luís/MA.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+35 I INSTIT. NAC. DE COLONIZACAO E 
+REFORMA AGRARIA - Compras.gov.br 48 MEGA BITS/SEGUNDO R$ 849,0000 27/03/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+37306606900052025 27/03/2025 1
+Objeto: Contratação de empresa 
+especializada na prestação de 
+Serviços de Enlace de Internet (link 
+dedicado de 10 MB), para atender 
+Superintendência Regional do INCRA
+/SP nos quantitativos e 
+especificações contidas no Termo 
+de Referencia .
+Esfera UASG Forma Modalidade
+Federal 373066 SISPP Dispensa
+Fornecedor
+EDSON RODRIGO MELLADO DE LIMA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+22 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+36 I CONSELHO REG. DOS TECNICOS 
+INDUSTRIAIS - SP - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 1.200,0000 25/03/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92746106900062025 25/03/2025 1
+Objeto: Contratação de 
+fornecimento de internet LINK 
+DEDICADO de acesso à internet, 
+200mbps, durante 12 meses para 
+atender às necessidades de 
+conectividade referente às 
+instalações do Centro de Valoração 
+e Inovação do CRT-SP, localizado na 
+Estrada Dr. Altino Bondensan, 500, 
+Eugênio de Melo, São José dos 
+Campos, incluindo INSTALAÇÃO, 
+MANUTENÇÃO, GERENCIAMENTO 
+REMOTO E SERVIÇOS TÉCNICOS.
+Esfera UASG Forma Modalidade
+Federal 927461 SISPP Dispensa
+Fornecedor
+TELEFONICA BRASIL S.A.
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+37 I MIN.DA GEST.E DA INOVACAO EM 
+SERVICOS PUBLICO - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 500,0000 20/03/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+17007506900012025 20/03/2025 2
+Objeto: Prestação de serviço de 
+acesso à internet de IP dedicado via 
+fibra óptica com wi-fi efornecimento 
+dos equipamentos necessários 
+paraconexão com fio e sem fio com 
+instalação e configuração, para 
+atender Superintendência Federal 
+de Pesca e Aquicultura na Bahia 
+SFPA/BA e Setor de Transporte da 
+SRA/MGI/BA.
+Esfera UASG Forma Modalidade
+Federal 170075 SISPP Dispensa
+Fornecedor
+PIXEL TELECOMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+23 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+38 I MIN.DA GEST.E DA INOVACAO EM 
+SERVICOS PUBLICO - Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 700,0000 20/03/2025 Sim
+Id da Compra Comprado em N° do Item Objeto da Compra
+17007506900012025 20/03/2025 1
+Objeto: Prestação de serviço de 
+acesso à internet de IP dedicado via 
+fibra óptica com wi-fi efornecimento 
+dos equipamentos necessários 
+paraconexão com fio e sem fio com 
+instalação e configuração, para 
+atender Superintendência Federal 
+de Pesca e Aquicultura na Bahia 
+SFPA/BA e Setor de Transporte da 
+SRA/MGI/BA.
+Esfera UASG Forma Modalidade
+Federal 170075 SISPP Dispensa
+Fornecedor
+PIXEL TELECOMUNICACAO LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+39 I CONSELHO REGIONAL DE 
+ADMINISTRAÇÃO-SC - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 7.851,1800 27/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+38915305900012025 27/02/2025 3
+Objeto: Pregão Eletrônico - 
+Contratação de Serviço de 
+Hospedagem VPS (servidor privado 
+virtual) para o sítio eletrônico do 
+CRA-SC e de 2 (dois) links 
+independentes de internet para o 
+CRA-SC.
+Esfera UASG Forma Modalidade
+Federal 389153 SISPP Pregão
+Fornecedor
+VOGEL SOLUCOES EM TELECOMUNICACOES E INFORMATICA S.A.
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de 1 link de internet secundário de banda larga empresarial/corporativo. conforme condições, quantidades e exigências estabelecidas
+neste Termode Referência.
+24 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+40 I CONSELHO REGIONAL DE 
+ADMINISTRAÇÃO-SC - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 24.000,0000 27/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+38915305900012025 27/02/2025 2
+Objeto: Pregão Eletrônico - 
+Contratação de Serviço de 
+Hospedagem VPS (servidor privado 
+virtual) para o sítio eletrônico do 
+CRA-SC e de 2 (dois) links 
+independentes de internet para o 
+CRA-SC.
+Esfera UASG Forma Modalidade
+Federal 389153 SISPP Pregão
+Fornecedor
+MHNET TELECOMUNICACOES LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Contratação de 1 link de internet principal. conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+41 I GOVERNO DO ESTADO DO CEARÁ - 
+Compras.gov.br 3 MEGA BITS/SEGUNDO R$ 6.000,0000 13/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+94300105911332024 13/02/2025 7
+Objeto: Pregão Eletrônico - O objeto 
+da licitação é a prestação dos 
+serviços para viabilizara realização 
+da etapa estadual do Ceará 
+Científico, da Secretaria de 
+Educação do Ceará SEDUC/CE 
+incluindo a locação de espaço, 
+equipamentos, acessórios, estrutura, 
+operação dos equipamentos, 
+disponibilização de equipe 
+necessária, montagem e 
+desmontagem, nas condições 
+estabelecidas neste edital e seus 
+anexos.
+Esfera UASG Forma Modalidade
+Estadual 943001 SISPP Pregão
+Fornecedor
+SAL DA TERRA ALIMENTACAO E SERVICOS LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+nternet: banda larga com link de pelo menos 1Gb para 1000 usuários com link dedicado simétrico com ponto de acesso e tempo ilimitado. Cerca de 10
+APs (Acess Point) wireless (wifi/ponto de acesso sem fio). Deve atender uma área aproximada de 5.000m² (cinco mil metros quadrados). Os APs
+precisam ser da linha empresário/profissional, e serem distribuídos de forma estratégica, para que todoo espaço seja contemplado com internet. A rede
+e a senha devem ser entregues um dia antes do evento, para a Comissão organizadora. OBS: Deve haver técnico(s) especializado(s) ao longo de todo o
+evento.
+25 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+42 I FUNDACAO NACIONAL DO INDIO - 
+Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 249,0000 13/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+19404906900022025 13/02/2025 3
+Objeto: Fornecimento do serviço de 
+internet banda larga por assinatura 
+para a Coordenação Regional do 
+Juruá e Coordenações Técnicas 
+Locais.
+Esfera UASG Forma Modalidade
+Federal 194049 SISPP Dispensa
+Fornecedor
+INFINITY STORE COMERCIO E SERVICOS DE INFORMATICA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Conectividade de comunicação de dados, de natureza continuada, de velocidademínima de 200 (duzentos) Mbps, incluindo serviço de instalação e
+ativação, podendo-se prorrogar a vigência por igual período, na sede da Coordenação Regional do Juruá
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+43 I FUNDACAO NACIONAL DO INDIO - 
+Compras.gov.br 12 MEGA BITS/SEGUNDO R$ 249,0000 13/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+19404906900022025 13/02/2025 2
+Objeto: Fornecimento do serviço de 
+internet banda larga por assinatura 
+para a Coordenação Regional do 
+Juruá e Coordenações Técnicas 
+Locais.
+Esfera UASG Forma Modalidade
+Federal 194049 SISPP Dispensa
+Fornecedor
+INFINITY STORE COMERCIO E SERVICOS DE INFORMATICA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Conectividade de comunicação de dados, de natureza continuada, de velocidademínima de 200 (duzentos) Mbps, incluindo serviço de instalação e
+ativação, podendo-se prorrogar a vigência por igual período, na sede da Coordenação Regional do Juruá
+26 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+44 I FUNDACAO NACIONAL DO INDIO - 
+Compras.gov.br 24 MEGA BITS/SEGUNDO R$ 249,0000 13/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+19404906900022025 13/02/2025 1
+Objeto: Fornecimento do serviço de 
+internet banda larga por assinatura 
+para a Coordenação Regional do 
+Juruá e Coordenações Técnicas 
+Locais.
+Esfera UASG Forma Modalidade
+Federal 194049 SISPP Dispensa
+Fornecedor
+INFINITY STORE COMERCIO E SERVICOS DE INFORMATICA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Conectividade de comunicação de dados, de natureza continuada, de velocidademínima de 500 (quinhentos) Mbps, incluindo serviço de instalação e
+ativação, podendo-se prorrogar a vigência por igual período, na sede da Coordenação Regional do Juruá
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+45 I CONSELHO REG. DE ARQUITETURA E 
+URBANISMO-MG - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 1.592,0000 06/02/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92648206900342024 06/02/2025 1
+Objeto: Prestação de serviços de 
+fornecimento de Internet banda 
+larga (mínimo 200MB), pelo período 
+de 12 meses
+Esfera UASG Forma Modalidade
+Federal 926482 SISPP Dispensa
+Fornecedor
+RNL TRADE AND FACILITIES LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Prestação de serviços de fornecimento de Internet banda larga (mínimo 200MB)
+27 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+46 I JUSTICA DO TRABALHO - Compras.
+gov.br 10 MEGA BITS/SEGUNDO R$ 1.800,0000 31/01/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+8002205900142024 31/01/2025 94
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada na prestação dos 
+serviços de organização de eventos, 
+em regime de empreitada por preço 
+unitário, sob demanda, em 
+diversascidades do estado de 
+Alagoas, conforme especificações e 
+quantidades previstas e exigências 
+estabelecidas no Termo de 
+Referência e seus anexos.
+Esfera UASG Forma Modalidade
+Federal 80022 SISRP Pregão
+Fornecedor
+GOLDEN SOLUCOES & ENTRETENIMENTO LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+47 I CONSELHO REG.DE FIS.E TERAPIA 
+OCUPACIONAL -BA - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 2.581,6800 30/01/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92672205900252025 30/01/2025 3
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada e homologada para o 
+fornecimento de serviços de 
+internet banda larga via fibra óptica 
+de 500 Mbps e link dedicado de 
+100 Mbps, incluindo instalação, 
+infraestrutura, gerenciamento, 
+suporte técnico e monitoramento 
+contínuo, para as subsedes de 
+Barreiras, Vitória da Conquista e a 
+Sede em Salvador.
+Esfera UASG Forma Modalidade
+Federal 926722 SISPP Pregão
+Fornecedor
+NEEMIAS JOAQUIM LOURENCO FILHO LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+28 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+48 I CONSELHO REG.DE FIS.E TERAPIA 
+OCUPACIONAL -BA - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 2.701,2800 30/01/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92672205900252025 30/01/2025 2
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada e homologada para o 
+fornecimento de serviços de 
+internet banda larga via fibra óptica 
+de 500 Mbps e link dedicado de 
+100 Mbps, incluindo instalação, 
+infraestrutura, gerenciamento, 
+suporte técnico e monitoramento 
+contínuo, para as subsedes de 
+Barreiras, Vitória da Conquista e a 
+Sede em Salvador.
+Esfera UASG Forma Modalidade
+Federal 926722 SISPP Pregão
+Fornecedor
+NEEMIAS JOAQUIM LOURENCO FILHO LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+49 I CONSELHO REG.DE FIS.E TERAPIA 
+OCUPACIONAL -BA - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 2.580,6000 30/01/2025 Sim
+Id da Compra Comprado em N° do Item Objeto da Compra
+92672205900252025 30/01/2025 1
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada e homologada para o 
+fornecimento de serviços de 
+internet banda larga via fibra óptica 
+de 500 Mbps e link dedicado de 
+100 Mbps, incluindo instalação, 
+infraestrutura, gerenciamento, 
+suporte técnico e monitoramento 
+contínuo, para as subsedes de 
+Barreiras, Vitória da Conquista e a 
+Sede em Salvador.
+Esfera UASG Forma Modalidade
+Federal 926722 SISPP Pregão
+Fornecedor
+NEEMIAS JOAQUIM LOURENCO FILHO LTDA
+Índice e Valor Ata Edital Compra
+- - Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+29 de 32
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+50 I MINISTERIO DE MINAS E ENERGIA - 
+MME - Compras.gov.br 163 MEGA BITS/SEGUNDO R$ 1.625,5000 21/01/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+32000405900012024 21/01/2025 33
+Objeto: Pregão Eletrônico - 
+Contratação de empresa 
+especializada para organizar, 
+coordenar efornecer serviços 
+completos para eventos 
+institucionais, incluindo logística, 
+montagem, desmontagem e 
+manutenção de estruturas 
+necessárias.
+Esfera UASG Forma Modalidade
+Federal 320004 SISRP Pregão
+Fornecedor
+BARCELO EVENTOS LTDA
+Índice e Valor Ata Edital Compra
+- Acesse a Ata Acesse o Edital Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso à internet banda larga, com acesso e tempo ilimitado, de no mínimo 25Mb/s de velocidade. O acess point wireless deve contemplar link
+dedicado, provedor e roteador wireless e deverá suportar múltiplos computadores. Incluso cabeamento. (LOCAÇÃO)
+Nº Inciso Nome Quantidade Unidade Preço unitário Data Compõe
+51 I CONSELHO REGIONAL DE MEDICINA 
+VETERINARIA-MS - Compras.gov.br 1 MEGA BITS/SEGUNDO R$ 8.900,0000 14/01/2025 Não
+Id da Compra Comprado em N° do Item Objeto da Compra
+92620306900112024 14/01/2025 2
+Objeto: Contratação de empresa 
+para fornecimento de link dedicado 
+à internet para suprir as 
+necessidades de conectividade na 
+Sede do Conselho Regional de 
+Medicina Veterinária do Estado 
+deMato Grosso do Sul - CRMVMS na 
+cidade de CampoGrande/MS e 
+Dourados/MS, conforme condições, 
+quantidades e exigências que serão 
+estabelecidasno Termo de 
+Referência.
+Esfera UASG Forma Modalidade
+Federal 926203 SISPP Dispensa
+Fornecedor
+FREE WAY TECNOLOGIA LTDA
+Índice e Valor Ata Edital Compra
+- - - Acesse a compra
+Critério Julgamento Item
+Menor Preço
+Descrição Detalhada
+Acesso a Internet - STFC (Banda Larga)
+Legenda: 
+ 
+Compra ou item com evento alteração de situação após homologação.
+ 
+Compra ou item sofreu atualização após homologação.
+30 de 32
+Nota Técnica
+Análise da Pesquisa de Preços Nº 11/2025 – Serviços de Telecomunicações e Internet Dedicada
+1. Identificação do Processo
+Número da Pesquisa: 11/2025
+UASG: 927692
+Objeto: Contratação de serviços de  internet dedicada de 100 mbps.
+Valor Total da Pesquisa: R$ 945,6750
+Editado por: Joana Suelene de Sá Quadro
+Data de Emissão: 04/09/2025
+ 
+2. Metodologia da Pesquisa
+Fontes Consultadas:
+Sistema de Pesquisa de Preços do Governo Federal (Parâmetro I), do site Compras.gov.br.
+Seleção de registros no Compras.gov.br com base no termo “internet dedicada”, filtrando serviços com
+velocidades exatamente iguais a 100 Mbps e compatíveis em escopo técnico.
+Exclusão de registros claramente divergentes do objeto pretendido, como serviços de internet não
+dedicada, pacotes de banda larga residencial e planos sem garantia de 100% da banda contratada.
+Resultados:
+Observou-se um , o que caracteriza alta dispersão dos preçoscoeficiente de variação de 58,0747%
+coletados e justifica a utilização da  como parâmetro mais adequado para representar o valor demediana
+mercado.
+A mediana resultante foi de .R$ 945,6750 por mês
+3. Análise por Item Cotado
+A pesquisa de preços foi realizada utilizando o , com baseSistema de Pesquisa de Preços do Compras.gov.br
+no , que recomenda a utilizaçãoparâmetro I do artigo 5º da Instrução Normativa SEGES/ME nº 65/2021
+prioritária dessa base de dados por se tratar de ferramenta oficial, alimentada por registros de contratações
+efetivamente realizadas pela Administração Pública.
+O levantamento foi direcionado para identificar , extraindo valores praticados emserviços de internet dedicada
+contratações de órgãos e entidades públicas, com especificações compatíveis com a demanda do Conselho de
+Arquitetura e Urbanismo da Bahia – CAU/BA.
+Item: Acesso à Internet, internet dedicada de 100mgbs
+Menor Preço: R$ 700,00 (MIN.DA GEST.E DA INOVACAO EM SERVICOS PUBLICO).
+31 de 32
+1.  
+2.  
+3.  
+4.  
+Maior Preço: R$ 2.580,60 (CONSELHO REGIONAL DE FISIOERAPIA E TERAPIA 
+OCUPACIONAL BA).
+Mediana: R$ 945,6750.
+CV: 58,0747 (dispersão  ).dentro da média
+Observações:
+Exclusão de valores extremos (ex.: R$ 70.999,90 CONSELHO REGIONAL DE ENGERMAGEM 
+- MG ).
+A pesquisa de preço foi realizada com base no cálculo da Mediana de preço (R$ 945,6750) como 
+referência, dada a alta variação.
+"Embora o item tenha sido inicialmente denominado como 'Acesso a internet - STFC', a pesquisa 
+efetivamente considerou apenas links dedicados, conforme evidenciado pelas características 
+técnicas das cotações válidas (SLA, faixa de preço, perfil dos contratantes)."
+Itens com descrições incompatíveis com o escopo do serviço (ex.: links não dedicados, velocidades 
+distintas ou SLAs inadequados) foram desconsiderados, conforme previsto no Art. 6º, §3º da IN 65
+/2021, que autoriza a exclusão de valores inidôneos ou fora do escopo, garantindo a 
+comparabilidade dos preços e a aderência aos requisitos técnicos estabelecidos.
+4. Definição Técnica de Outliers (Pontos Fora da Curva)
+O que são? Valores anormais que distorcem a análise (ex.: em uma lista de preços de internet dedicada, 
+um valor de R$0,10 e outro de R$ 70.999,90, enquanto os demais estão entre R$ 700,00 e R$ 2.580,60).
+Impacto: Se incluídos, inflam artificialmente a média ou desvios padrão, prejudicando a estimativa de 
+preço justo.
+R$ 70.999,90 do CONSELHO REGIONAL DE ENGERMAGEM - MG # Excluído por ser 75,0785 x 
+.maior que a mediana
+R$ 0,10 (DISTRITO FEDERAL) # Excluído por inconsistência
+5. Por que a Mediana é Melhor que a Média?
+Média (R$1.292,9875): Influenciada por valores extremos.
+Mediana (R$945,6750): Representa o valor central, ignorando distorções.
+Base Legal: A IN 65/2021 permite o uso da mediana quando o CV > 25% (caso do Item 2, com CV = 
+58,0747%).
+Ressalta-se que o coeficiente de variação (CV) apurado na presente pesquisa foi de 58,0747%, índice
+superior ao limite de 25% estabelecido como parâmetro pela Instrução Normativa SEGES/ME nº 65
+/2021. Nesses casos, a norma autoriza a adoção da mediana em substituição à média aritmética, por
+representar medida de tendência central menos sensível a valores discrepantes. Dessa forma,
+considerando a dispersão identificada, adotou-se a mediana (R$945,6750) como preço de referência, em
+conformidade com o art. 6º da IN nº 65/2021, garantindo maior fidedignidade à estimativa de mercado e a
+adequada instrução processual para a contratação por dispensa eletrônica.
+6. Conformidade Legal
+32 de 32
+1.  
+Lei 14.133/2021 (Art. 22): Critério de   justificado pela natureza padronizada do objeto.menor preço
+IN 65/2021 (Art. 6º): Exclusão de valores inexecutáveis ou discrepantes (>25% da mediana).
+7. Riscos e Mitigações
+Risco: Alta variação de preços (CV >50% em 3 itens).
+Mitigação: Adoção da mediana para evitar distorções.
+Risco: Valores excessivos no Painel de Preços.
+Mitigação: Exclusão documentada conforme Art. 6º, §3º da IN 65/2021.
+8. Conclusão
+A metodologia aplicada está em conformidade com a IN nº 65/2021, tendo sido utilizada a fonte oficial e 
+recomendada para levantamento de preços na Administração Pública. A aplicação dos critérios de exclusão e o 
+uso da mediana garantem maior confiabilidade ao valor estimado de , considerado adequado e R$ 945,6750/mês
+vantajoso para a contratação do serviço de internet dedicada pelo CAU/BA.
+Valores de referência calculados pela mediana:
+Internet dedicada:R$945,6750.
+9. Preço total estimado: R$945,68 (Novecentos e quarenta e cinco reais e sessenta e oito 
+centavos), por aproximação.
+Relatório emitido em 25/11/2025 11:35
+Memória de cálculo (Art.3º, inciso VII – IN SEGES/ME nº 65, de 7 de julho de 2021):
+- Média: corresponde à soma dos valores das amostras que compõem a pesquisa, dividida pelo número de amostras que 
+compõem a pesquisa.
+- Mediana: medida de tendência central das amostras que compõem a pesquisa que corresponde ao valor central do conjunto de 
+valores extraídos.
+- Desvio Padrão: É a raiz quadrada da variância de X ou também conhecido como a raiz quadrada do valor médio entre (X-µ)², 
+onde µ representa a média aritmética dos valores que compõem a pesquisa.
+- Coeficiente de variação: É uma medida de dispersão calculada entre a divisão do desvio padrão e a média aritmética dos valores 
+que compõem a pesquisa.

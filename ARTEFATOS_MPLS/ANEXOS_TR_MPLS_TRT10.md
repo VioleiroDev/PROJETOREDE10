@@ -12,7 +12,7 @@ A base local da skill etp-nagem-v2 retornou apenas precedente generico de Termo 
 
 As premissas tecnicas adotadas sao:
 
-- a Sede possui 3 saidas redundantes de Internet;
+- a infraestrutura de Internet/borda da Sede e mantida por contratos existentes/correlatos e nao integra o objeto desta contratacao;
 - a SD-WAN atual sera preservada e utilizada preferencialmente para trafego de Internet;
 - o MPLS sera utilizado preferencialmente para trafego critico, institucional e corporativo interno;
 - MPLS e SD-WAN deverao permitir contingencia cruzada, transportando qualquer classe de trafego em caso de indisponibilidade ou degradacao relevante de uma das camadas;
@@ -37,7 +37,7 @@ A arquitetura devera operar em modelo hub-and-spoke, com a Sede como concentrado
 |---|---|---|---|
 | MPLS | Sistemas criticos, autenticacao, servicos internos, integracoes institucionais, administracao e monitoramento | Trafego de Internet quando a SD-WAN estiver indisponivel ou degradada | Deve suportar QoS, isolamento logico, roteamento controlado e SLA mensuravel |
 | SD-WAN | Trafego de Internet e acesso a servicos externos | Trafego critico quando o MPLS estiver indisponivel ou degradado | Permanece como contrato correlato e deve ser integrada ao projeto executivo |
-| Saidas de Internet da Sede | Egressao preferencial centralizada, seguranca, filtragem e observabilidade | Continuidade de acesso para unidades em contingencia | Considera 3 saidas redundantes na Sede |
+| Infraestrutura de Internet da Sede | Egressao, seguranca, filtragem e observabilidade por contratos existentes/correlatos | Interoperabilidade com MPLS e SD-WAN | Fora do escopo desta contratacao |
 
 ### 4. Fluxos de trafego
 

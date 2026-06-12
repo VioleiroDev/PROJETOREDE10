@@ -1,0 +1,78 @@
+{
+  "consulta": {
+    "query": "internet dedicada 4 Gbps anti-ddos IP fixo",
+    "required": [
+      "internet",
+      "gbps",
+      "ddos"
+    ],
+    "forbidden": [
+      "satélite",
+      "starlink",
+      "móvel",
+      "telefonia"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 13,
+    "status": "completo",
+    "data_hora": "2026-06-12T18:11:33"
+  },
+  "evidencias": [
+    {
+      "fonte_nome": "PNCP / MUNICIPIO DE IPOJUCA",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/11294386000108/2024/244",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/11294386000108/compras/2024/244/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/11294386000108/compras/2024/244/itens/1/resultados",
+      "titulo": "Prestação de serviço de acesso corporativo à Internet (Rede Mundial de Computadores), em banda dedicada, com velocidade de 4 Gbps (quatro gigabits por segundo), para atendimento ao datacenter da contratante, incluída instalação e configuraç",
+      "descricao_documento": "Formação de registro de preços para a contratação de Empresas Especializadas em prestação de serviço de acesso à internet dedicada de 4Gbps + proteção de ataque DDOS + range de IP CIDR/29, por meio de fibra óptica, porta de acesso, com instalação, configuração e manutenção de acesso a Rede Mundial de Computadores (internet), através de conectividade IP (Internet Protocol), sendo um link principal e outro redundante fornecidos por empresas diferentes",
+      "preco_brl": 15687.33,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "MUNICIPIO DE IPOJUCA",
+      "uf": "PE",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "11294386000108-1-000244/2024",
+      "numero_item": "1",
+      "quantidade": 12.0,
+      "unidade_medida": "MES",
+      "valor_total": 188247.96,
+      "data_publicacao_pncp": "2024-11-21T13:08:41.039602",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 035/PMI-SMAD/2024/2024 Formação de registro de preços para a contratação de Empresas Especializadas em prestação de serviço de acesso à internet dedicada de 4Gbps + proteção de ataque DDOS + range de IP CIDR/29, por meio de fibra óptica, porta de acesso, com instalação, configuração e manutenção de acesso a Rede Mundial de Computadores (internet), através de conectividade IP (Internet Protocol), sendo um link principal e outro redundante fornecidos por empresas diferentes MUNICIPIO DE IPOJUCA 11294386000108-1-000244/2024 Prestação de serviço de acesso corporativo à Internet (Rede Mundial de Computadores), em banda dedicada, com velocidade de 4 Gbps (quatro gigabits por segundo), para atendimento ao datacenter da contratante, incluída instalação e configuração; (Solução Circuito de Dados + ANTI-DDOS + Faixa de Endereço IP fixo CIDR/29). Material MES",
+      "score_correspondencia": 0.0909,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T18:11:33"
+    },
+    {
+      "fonte_nome": "PNCP / MUNICIPIO DE IPOJUCA",
+      "dominio": "pncp.gov.br",
+      "url_publica": "https://pncp.gov.br/app/compras/11294386000108/2024/244",
+      "url_api_itens": "https://pncp.gov.br/pncp-api/v1/orgaos/11294386000108/compras/2024/244/itens",
+      "url_api_resultado": "https://pncp.gov.br/pncp-api/v1/orgaos/11294386000108/compras/2024/244/itens/2/resultados",
+      "titulo": "Prestação de serviço de acesso corporativo à Internet (Rede Mundial de Computadores), em banda dedicada, com velocidade de 4 Gbps (quatro gigabits por segundo), para atendimento ao datacenter da contratante, incluída instalação e configuraç",
+      "descricao_documento": "Formação de registro de preços para a contratação de Empresas Especializadas em prestação de serviço de acesso à internet dedicada de 4Gbps + proteção de ataque DDOS + range de IP CIDR/29, por meio de fibra óptica, porta de acesso, com instalação, configuração e manutenção de acesso a Rede Mundial de Computadores (internet), através de conectividade IP (Internet Protocol), sendo um link principal e outro redundante fornecidos por empresas diferentes",
+      "preco_brl": 15687.33,
+      "tipo_valor": "estimado",
+      "fornecedor": "",
+      "orgao": "MUNICIPIO DE IPOJUCA",
+      "uf": "PE",
+      "modalidade": "Pregão - Eletrônico",
+      "numero_controle_pncp": "11294386000108-1-000244/2024",
+      "numero_item": "2",
+      "quantidade": 12.0,
+      "unidade_medida": "MES",
+      "valor_total": 188247.96,
+      "data_publicacao_pncp": "2024-11-21T13:08:41.039602",
+      "data_resultado": "",
+      "evidencia_textual": "Edital nº 035/PMI-SMAD/2024/2024 Formação de registro de preços para a contratação de Empresas Especializadas em prestação de serviço de acesso à internet dedicada de 4Gbps + proteção de ataque DDOS + range de IP CIDR/29, por meio de fibra óptica, porta de acesso, com instalação, configuração e manutenção de acesso a Rede Mundial de Computadores (internet), através de conectividade IP (Internet Protocol), sendo um link principal e outro redundante fornecidos por empresas diferentes MUNICIPIO DE IPOJUCA 11294386000108-1-000244/2024 Prestação de serviço de acesso corporativo à Internet (Rede Mundial de Computadores), em banda dedicada, com velocidade de 4 Gbps (quatro gigabits por segundo), para atendimento ao datacenter da contratante, incluída instalação e configuração; (Solução Circuito de Dados + ANTI-DDOS + Faixa de Endereço IP fixo CIDR/29). Material MES",
+      "score_correspondencia": 0.0909,
+      "observacoes": "Preco publico nacional extraido do PNCP (estimado).",
+      "data_hora_coleta": "2026-06-12T18:11:33"
+    }
+  ],
+  "alertas": []
+}

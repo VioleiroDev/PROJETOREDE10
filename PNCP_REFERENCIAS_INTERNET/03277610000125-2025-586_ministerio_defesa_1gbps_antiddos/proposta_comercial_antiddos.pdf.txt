@@ -1,0 +1,378 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+Proposta Comercial 
+ 
+Internet com Anti- DDoS 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 1/9 
+ 
+ 
+ 07 de maio de 2025. 
+ 
+ 
+Ao: MINISTÉRIO DA DEFESA 
+ A/C: Francisco Sedenho 
+ 
+ 
+Proposta Comercial Internet e serviço de Anti-DDoS 
+ 
+ 
+ 
+Prezado(a) Sr(a). 
+ 
+ 
+Conforme entendimento e evolução das negociações, apresentamos a seguir uma proposta de  
+solução integrada de tecnologia destacando as vantagens e os diferenciais dos serviços. 
+Oferecemos nosso compromisso e experiência com serviços de elevada qualidade prestados ao  
+mercado corporativo. 
+Certos de que esta proposta atende aos requisitos solicitados, agradecemos antecipadamente a 
+sua atenção e nos colocamos à disposição para quaisquer esclarecimentos adicionais que se  
+façam necessários. 
+ 
+ 
+ 
+Atenciosamente, 
+ 
+ 
+Karine Pacheco B Barbosa  
+Gerente Contas 
+Fone: (61) 2106-8567 
+E-mail: karine.barbosa@claro.com.b 
+ 
+ 
+ 
+ 
+ 
+ 
+www.claro.com.br 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 2/9 
+ 
+ 
+ 
+ 
+ 
+Sumário: 
+ 
+Objetivo ........................................................................................................................................................................ 3 
+Escopo do Projeto ...................................................................................................................................................... 3 
+Características técnicas da solução ........................................................................................................................ 4 
+Premissas .................................................................................................................................................................... 5 
+Diferenciais Soluções CLARO Empresas .............................................................................................................. 6 
+Condições Comerciais .............................................................................................................................................. 7 
+CLARO Soluções Digitais ......................................................................................................................................... 8 
+Validade da Proposta ................................................................................................................................................ 9 
+Termo de Confidencialidade ..................................................................................................................................... 9 
+Termo de Aceite dos Serviços ................................................................................................................................. 9 
+ 
+ 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 3/9 
+ 
+ 
+ 
+ 
+ 
+Objetivo 
+ 
+Contratação de dois links de acesso à internet, Internet dedicada com fibra óptica, roteador e serviço de 
+proteção contra ataques DDoS , com velocidade de 1 Gbps, contemplando a configuração, instalação, 
+monitoramento ativo e manutenção e suporte dos ativos relativos a infraestrutura dos links , 
+disponibilizados 24 (vinte e quatro) horas por dia e 7 (sete) dias por semana, para a Min Defesa, por 30 
+meses. 
+Endereços: 
+• Ministério da Defesa:  Bloco O - Anexo 1, Esplanada dos Ministérios - Asa Norte, DF, 70052-900 
+  
+A solução visa proteger a infraestrutura de Internet da CLIENTE contra os ataques distribuídos de negação  
+de serviço, comumente conhecidos como DDoS (Distributed Denial of Service), especificamente para  
+ataques volumétricos. Temos plena certeza de que a solução apresentada dará um grande diferencial para 
+a estratégia de segurança da CLIENTE, no atendimento do itens abaixo: 
+ 
+Escopo do Projeto 
+ 
+Apresentamos das características do ambiente da CLIENTE que terá a proteção da solução de Anti-DDoS da 
+Claro Empresas: 
+• Link de internet dedicada de 1Gbps; 
+• Detecção proativa de ataques em regime 24x7; 
+• Atendimento 24x7 em 365 dias por ano; 
+• SLA de início da mitigação em até 15 minutos após a identificação de um ataque volumétrico; 
+• Uma solicitação de inclusão ou exclusão de IP para monitoração por mês; 
+• Atendimento do SOC da Claro Empresas através do telefone ou via e-mail, ambos com 
+atendimento na língua portuguesa; 
+• Os ataques DDoS são categorizados de acordo com a volumetria do tráfego de ataque e para cada 
+categoria é definida uma ação pelo SOC, conforme especificado abaixo: 
+✓ Baixa Severidade: A equipe do SOC acompanhará o alarme e caso seja considerado um  
+tráfego suspeito, fará o contato com o CLIENTE validar e solicitar autorização para mitigação  
+do ataque. Caso o contato não seja realizado com sucesso, a mitigação não será realizada  
+enquanto o ataque permanecer na mesma classificação, sendo a tentativa de comunicação  
+com o cliente registrado em um protocolo e/ou notificado por e-mail; 
+ 
+ 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 4/9 
+ 
+ 
+ 
+ 
+✓ Média Severidade: A equipe do SOC acompanhará o alarme e caso seja considerado um  
+tráfego suspeito, fará o contato com o CLIENTE validar e solicitar autorização para mitigação  
+do ataque. Caso o contato não seja realizado com sucesso, a mitigação não será realizada  
+enquanto o ataque permanecer na mesma classificação, sendo a tentativa de comunicação  
+com o cliente registrado em um protocolo e/ou notificado por e-mail; 
+✓ Alto impacto: A equipe do SOC irá mitigar o ataque, sem necessidade de aviso prévio ao  
+CLIENTE, e irá informá -lo prioritariamente por telefone, sendo o evento registrado em um  
+protocolo e o CLIENTE notificado por e-mail. 
+✓ Modalidade de mitigação automática: Para os planos com essa característica a plataforma  
+fará a mitigação automática sem a interação do SOC, dentro da capacidade contratada e com 
+BLACK HOLE automático quando a mesma for excedida. Quando o BLACK HOLE é 
+implementado, o tráfego de rede legítimo e malicioso é roteado para uma rota nula ou black 
+hole e descartado da rede. 
+ 
+• Emissão mensal de relatório de incidentes provenientes de ataques DDoS; 
+ 
+ 
+Tipo de Serviço 
+ 
+Quantidade de Links 
+Descrição da Capacidade de Mitigação 
+do Serviço 
+ 
+ 
+ 
+ 
+ 
+Anti DDoS 
+1 1Gbps (Nac) + 10Gbps (Int) 
+Quantidade Padrão de Endereços 
+IPs Monitorados1 
+Quantidade de Endereços IPs 
+Monitorados Adicionais1 
+512 Ips - 1 Bloco /23 0 
+Usuário Adicional no Portal Quantidade de Usuários Adicionais 
+Não 0 
+ 
+INFO: Plano não permite a inclusão de IPs adicionais 
+1 – Quantidade total de endereços IPs monitorados: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 5/9 
+ 
+ 
+ 
+ 
+Características técnicas da solução 
+ 
+Solução de Clean Pipe: 
+Esta solução é composta por dois elementos principais de proteção: 
+• CP (Collector Platform): Sistema responsável pela identificação automática de ataques DDoS na 
+infraestrutura de Internet do cliente; 
+• TMS (Threat Management System): Sistema que tem a função de tratar o tráfego volumétrico 
+através da eliminação do tráfego malicioso. 
+ 
+ 
+ 
+Estes elementos estão posicionados estrategicamente para fazer a proteção dos roteadores do backbone 
+(PE - Provider Edge) que estão conectados diretamente nos roteadores dos clientes (CPE - Customer 
+Premises Equipment). 
+Após soar um alarme no SOC da Claro Empresas informando dados do cliente que se encontra sob ataque, 
+todo o tráfego que tem como destino o alvo do cliente é redirecionado para um dos centros de limpeza da 
+Claro Empresas através de alteração no plano de roteamento da Internet. Uma vez feita a mitigação do 
+ataque, o tráfego “limpo” é encaminhado diretamente para o CPE do cliente, através de um 
+encapsulamento GRE (Generic Routing Encapsulation), previamente configurado na etapa de instalação 
+da solução. Todo este  processo é realizado em até 15 (quinze) minutos, evitando impactos na 
+infraestrutura do cliente. Esta  configuração é mantida durante todo o período do ataque e por mais um 
+período, para evitar reconfigurar novamente o sistema, caso o ataque seja retomado. 
+ 
+A Claro Empresas dispõe de Centros Nacionais de Limpeza, localizados em São Paulo e Rio de Janeiro e 
+Centros Internacionais de Limpeza, localizados em Nova Iorque, Miami e Atlanta, nos Estados Unidos, de 
+modo que ataques de origem internacional podem ser mitigados diretamente na borda de conexão com 
+a rede  de Internet nacional. Todos os centros da Claro Empresas  têm capacidade de mitigação para 
+suportar tráfegos  de ataques de dezenas de Gbps, sendo que a Claro Empresas  tem realizado 
+investimentos periódicos para  manter a expansão de toda  a infraestrutura da  solução, conforme  a 
+
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 6/9 
+ 
+ 
+demanda de mercado. 
+ 
+ 
+ 
+As principais funcionalidades de proteção Anti-DDoS são: 
+ 
+ 
+✓ Mitigação automática de ataques, utilizando múltiplas técnicas como White Lists, Black Lists, 
+limitação de taxa, técnicas desafio-resposta, descarte de pacotes malformados, bloqueio por 
+localização geográfica de endereços IP, dentre outras; 
+✓ Proteção contra os ataques de inundação (Bandwidth Flood), incluindo Flood de UDP e ICMP; 
+✓ Proteção contra os ataques à pilha TCP, incluindo mal -uso das Flags TCP, ataques de RST e FIN, SYN 
+Flood e TCP Idle Resets; 
+✓ Proteção contra os ataques que utilizam Fragmentação de pacotes, incluindo pacotes IP, TCP e UDP; 
+✓ Proteção contra os ataques de Botnets, Worms e ataques que utilizam falsificação de endereços IP  
+origem (IP Spoofing); 
+✓ Suporte para IPv4 e IPv6. 
+ 
+ 
+Premissas 
+ 
+A solução foi desenvolvida adotando-se as seguintes premissas: 
+ 
+ 
+ 
+• O link de Internet é exclusivamente da CLARO EMPRESAS; 
+• Será configurado túnel VRF do CPE do cliente com o sistema de limpeza da Claro Empresas, com o 
+intuito de encaminhamento do tráfego limpo; 
+• O CPE deve suportar configuração de tunelamento VRF; 
+• Os serviços de instalação e configuração serão de responsabilidade da Claro Empresas; 
+• Esta proposta não contempla proteção contra os ataques na camada de aplicação de baixa 
+volumetria. 
+• Link com banda: 1Gbps, full duplex, com banda simétrica de acesso da internet; 
+• PeakFlow: 0 - Não Informado 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 7/9 
+ 
+ 
+ 
+ 
+ 
+Diferenciais Soluções CLARO 
+ 
+✓ Centros de inspeção e de limpeza de tráfego nacionais e internacionais distribuídos em mais de 
+um ponto de conexão da rede; 
+✓ Solução fim a fim 
+✓ Disponibilidade dos serviços, mesmo em situações de ataque DDoS. 
+✓ Evita exposição negativa da marca. 
+✓ Detecção e mitigação proativa de DDoS. 
+✓ Visibilidade e controle: relatórios, dashboard e análise forense. 
+✓ Atualização automática contra ameaças. 
+ 
+ 
+ANTI-DDOS DE VOLUMETRIA 
+Detecção e mitigação dos ataques de negação de serviço (DDoS) nos pontos de interconexão da rede, 
+identificando e descartando o tráfego malicioso antes que atinja a rede do cliente, o que proporcionará 
+maior disponibilidade da conectividade de internet aos usuários legítimos do serviço; 
+Identificação e mitigação de ataques DDoS em até 15 minutos; 
+Gerenciar ataques DDoS de alta capacidade antes do tráfego atingir sua rede; 
+Evitar custos adicionais por consumo de banda extra para processamento de tráfego não desejado; 
+Contratar um serviço na medida certa para o seu ambiente de acordo com a capacidade de proteção e do 
+consumo de horas de mitigação. 
+ 
+Condições Comerciais 
+ 
+ 
+ 
+ITEM ESPECIFICAÇÃO UN QTD UNIT TOTAL
+1 Intalação Parcela Única 1 1.500,00R$  1.500,00R$       
+2 Links dedicados de internet 1G em fibra 
+para atendimento Ministério da Defesa Mês 12 5.161,89R$  61.942,68R$     
+3 Serviço de proteção contra ataques 
+volumétricos DDoS Mês 12 1.450,00R$  17.400,00R$     
+8.111,89R$  80.842,68R$     TOTAL
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 8/9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CLARO Empresas Soluções Digitais 
+ 
+A Claro Empresas faz parte do Grupo América Móvil, um dos maiores grupos de TI e Telecomunicações do 
+mundo. O seu principal objetivo é ofertar aos clientes corporativos soluções baseadas em Serviços e  
+Infraestrutura de Tecnologia da Informação, levando aos clientes sua experiência como provedor de  
+referência dos eventos mais relevantes do Brasil (como os Jogos Olímpicos RIO 2016), com garantia de  
+qualidade e elevado nível de satisfação. 
+O portfólio da Claro Empresas contempla soluções completas de tecnologia que vão desde a infraestrutura 
+de conectividade até a gestão total dos Serviços Digitais dos clientes. 
+ 
+A Claro Empresas  está consolidada como um dos grandes provedores de nacionais de Tecnologia da 
+Informação. Os números abaixo ratificam este entendimento do mercado: 
+➢ 5 Data Centers com mais de 3 mil Servidores; 
+ 
+➢ Plataforma Anti-DDoS com a maior capacidade da América Latina – com 3 Centros de Mitigação 
+internacionais e 2 nacionais; 
+➢ Projetos de ITO com atendimento de mais de 45 mil tickets por mês e 32 mil usuários; 
+ 
+➢ Projetos complexos de Desenvolvimento de Software com mais de 600 mil horas; 
+ 
+➢ Equipe com mais de 100 Especialistas SAP; 
+ 
+➢ Mais de 60 mil licenças no modelo SaaS; 
+ 
+➢ 1000 hotpots Wifi no Brasil 
+
+Proposta Internet com DDoS 
+Proposta Comercial  Página: 9/9 
+ 
+ 
+ 
+ 
+ 
+ 
+Validade da Proposta 
+ 
+A presente proposta é válida pelo prazo de 60 (sessenta) dias, contados a partir da data da mesma. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RAZÃO SOCIAL: CLARO S/A 
+Endereço: Rua Henri Dunant, nº 780 – Torres A e B - Santo Amaro - São Paulo, SP – Brasil – CEP: 04709110 
+CNPJ: 40.432.544/0001-47 
+Inscrição Estadual: 114814878119 
+Inscrição Municipal: 2.498.616-0 
+ 

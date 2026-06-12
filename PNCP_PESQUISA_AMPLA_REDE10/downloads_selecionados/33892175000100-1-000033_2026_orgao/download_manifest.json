@@ -1,0 +1,35 @@
+{
+  "numeroControlePNCP": "33892175000100-1-000033/2026",
+  "orgao": "orgao",
+  "objeto": null,
+  "valorTotalEstimado": null,
+  "valorTotalHomologado": null,
+  "itens": 2,
+  "arquivos": 1,
+  "downloads": [
+    {
+      "index": 1,
+      "url": "https://pncp.gov.br:1561/pncp-api/v1/orgaos/33892175000100/compras/2026/33/arquivos/2",
+      "ok": false,
+      "arquivo": "PNCP_PESQUISA_AMPLA_REDE10\\downloads_selecionados\\33892175000100-1-000033_2026_orgao\\01_11360105900472026001.bin",
+      "metadados": {
+        "uri": "https://pncp.gov.br:1561/pncp-api/v1/orgaos/33892175000100/compras/2026/33/arquivos/2",
+        "url": "https://pncp.gov.br:1561/pncp-api/v1/orgaos/33892175000100/compras/2026/33/arquivos/2",
+        "statusAtivo": true,
+        "cnpj": "33892175000100",
+        "anoCompra": 2026,
+        "sequencialCompra": 33,
+        "dataPublicacaoPncp": "2026-06-01T07:47:51",
+        "sequencialDocumento": 2,
+        "tipoDocumentoId": 2,
+        "tipoDocumentoDescricao": "Edital",
+        "titulo": "11360105900472026001",
+        "tipoDocumentoNome": "Edital"
+      }
+    }
+  ],
+  "erros": [
+    "detalhe: Falha ao consultar https://pncp.gov.br/api/consulta/v1/orgaos/33892175000100/compras/2026/33: The read operation timed out"
+  ],
+  "pasta": "PNCP_PESQUISA_AMPLA_REDE10\\downloads_selecionados\\33892175000100-1-000033_2026_orgao"
+}

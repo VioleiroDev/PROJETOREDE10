@@ -1,102 +1,33 @@
-%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Arial", "primaryColor": "#0067A0", "primaryBorderColor": "#01426A", "primaryTextColor": "#FFFFFF", "lineColor": "#01426A", "clusterBkg": "#F7FBFD", "clusterBorder": "#0067A0", "edgeLabelBackground": "#FFFFFF"}}}%%
 flowchart LR
-    titulo["TRT10 - Topologia atualizada\nMPLS + SD-WAN nas unidades\nLink dedicado 25 Gbps Sede ↔ Foro"]
+  classDef objeto fill:#E8FFF5,stroke:#007B5F,stroke-width:3px,color:#14212B;
+  classDef objeto2 fill:#D9FFF0,stroke:#00B388,stroke-width:3px,color:#14212B;
+  classDef correlato fill:#EAF6FC,stroke:#0067A0,stroke-width:2px,color:#14212B;
+  classDef apoio fill:#FFF5C7,stroke:#FFCD00,stroke-width:2px,color:#14212B;
 
-    subgraph internet["Saidas centrais de Internet - Sede"]
-        inet1((Internet 1\nOperadora A))
-        inet2((Internet 2\nOperadora B))
-        inet3((Internet 3\nOperadora C))
-    end
+  U1["Unidades TRT10<br/>MPLS 1 Gbps: Sede e Foro<br/>MPLS 500 Mbps: Apoio, Taguatinga, Palmas<br/>MPLS 100 Mbps: Gama, Araguaína, Gurupi, Dianópolis, Guaraí"]:::objeto
+  MPLS["Rede MPLS contratada<br/>10 circuitos<br/>capacidade igual à SD-WAN vigente"]:::objeto
+  SEDE["SEDE<br/>MPLS 1 Gbps<br/>Internet 3 x 4 Gbps<br/>Anti-DDoS + 32 IPs por link"]:::objeto
+  FORO["FORO DE BRASÍLIA<br/>MPLS 1 Gbps<br/>Internet 2 x 2 Gbps<br/>Anti-DDoS + 32 IPs por link"]:::objeto
+  L25["Link dedicado Sede-Foro<br/>25 Gbps ponto-a-ponto<br/>não MPLS"]:::objeto2
 
-    subgraph servicos["Redes, seguranca e servicos institucionais"]
-        jt["Redes JT"]
-        infovia["Infovia"]
-        seguranca["Seguranca centralizada\nFirewall, inspecao, logs, QoS"]
-        replicacao["Replicacao e continuidade\nBackup, sincronizacao,\nservicos contingenciais"]
-    end
+  I12["Item 12<br/>Internet Sede 1<br/>4 Gbps / Anti-DDoS / 32 IPs"]:::objeto2
+  I13["Item 13<br/>Internet Sede 2<br/>4 Gbps / Anti-DDoS / 32 IPs"]:::objeto2
+  I14["Item 14<br/>Internet Sede 3<br/>4 Gbps / Anti-DDoS / 32 IPs"]:::objeto2
+  I15["Item 15<br/>Internet Foro 1<br/>2 Gbps / Anti-DDoS / 32 IPs"]:::objeto2
+  I16["Item 16<br/>Internet Foro 2<br/>2 Gbps / Anti-DDoS / 32 IPs"]:::objeto2
 
-    subgraph centrais["Pontos centrais"]
-        sede["Edificio Sede - Brasilia/DF\nSD-WAN: 1 Gbps - IP dedicado/IPSec/OSPF\nMPLS: 1 Gbps - L3VPN/VRF/QoS\nPapel: hub principal, Internet, seguranca, JT e Infovia"]
-        foro["Foro de Brasilia - Brasilia/DF\nSD-WAN: 1 Gbps - IP dedicado/IPSec/OSPF\nMPLS: 1 Gbps - L3VPN/VRF/QoS\nPapel adicional: replicacao e redundancia da Sede"]
-    end
+  SDWAN["SD-WAN vigente<br/>camada correlata de transporte e contingência"]:::correlato
+  APOIO["Firewalls, DNS, autenticação,<br/>Infovia, redes JT e monitoramento"]:::apoio
 
-    subgraph backbone["Backbone dedicado entre pontos centrais"]
-        dedicado["Link dedicado Sede ↔ Foro\n25 Gbps full duplex\nFibra optica LAN-to-LAN / Metro Ethernet\nBaixa latencia, replicacao e contingencia"]
-    end
-
-    subgraph transportes["Camadas de transporte para as unidades"]
-        sdwan["SD-WAN atual\nIP dedicado + tuneis IPSec + OSPF\nPreferencial para Internet\nContingencia para trafego critico"]
-        mpls["MPLS proposto\nRede privada L3VPN/VRF + QoS\nMesma banda da SD-WAN\nPreferencial para trafego critico"]
-    end
-
-    subgraph locais_500["Localidades 500 Mbps"]
-        apoio_predio["Predio de Apoio - Brasilia/DF\nSD-WAN: 500 Mbps\nMPLS: 500 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        taguatinga["Foro de Taguatinga - Taguatinga/DF\nSD-WAN: 500 Mbps\nMPLS: 500 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        palmas["Foro de Palmas - Palmas/TO\nSD-WAN: 500 Mbps\nMPLS: 500 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-    end
-
-    subgraph locais_100["Localidades 100 Mbps"]
-        gama["Vara do Gama - Gama/DF\nSD-WAN: 100 Mbps\nMPLS: 100 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        araguaina["Foro de Araguaina - Araguaina/TO\nSD-WAN: 100 Mbps\nMPLS: 100 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        gurupi["Vara de Gurupi - Gurupi/TO\nSD-WAN: 100 Mbps\nMPLS: 100 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        dianopolis["Vara de Dianopolis - Dianopolis/TO\nSD-WAN: 100 Mbps\nMPLS: 100 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-        guarai["Vara de Guarai - Guarai/TO\nSD-WAN: 100 Mbps\nMPLS: 100 Mbps\nTecnologias: IP dedicado/SD-WAN + MPLS L3VPN"]
-    end
-
-    titulo --> sede
-
-    sede -->|"25 Gbps dedicado\nreplicacao e contingencia"| dedicado
-    dedicado --> foro
-    foro --> replicacao
-    replicacao --> sede
-
-    foro -->|"SD-WAN 1 Gbps"| sdwan
-    foro -.->|"MPLS 1 Gbps"| mpls
-
-    apoio_predio -->|"SD-WAN 500 Mbps"| sdwan
-    taguatinga -->|"SD-WAN 500 Mbps"| sdwan
-    palmas -->|"SD-WAN 500 Mbps"| sdwan
-    apoio_predio -.->|"MPLS 500 Mbps"| mpls
-    taguatinga -.->|"MPLS 500 Mbps"| mpls
-    palmas -.->|"MPLS 500 Mbps"| mpls
-
-    gama -->|"SD-WAN 100 Mbps"| sdwan
-    araguaina -->|"SD-WAN 100 Mbps"| sdwan
-    gurupi -->|"SD-WAN 100 Mbps"| sdwan
-    dianopolis -->|"SD-WAN 100 Mbps"| sdwan
-    guarai -->|"SD-WAN 100 Mbps"| sdwan
-    gama -.->|"MPLS 100 Mbps"| mpls
-    araguaina -.->|"MPLS 100 Mbps"| mpls
-    gurupi -.->|"MPLS 100 Mbps"| mpls
-    dianopolis -.->|"MPLS 100 Mbps"| mpls
-    guarai -.->|"MPLS 100 Mbps"| mpls
-
-    sdwan -->|"Acesso normal via Sede\nou contingencia via Foro"| sede
-    sdwan -.->|"Rota contingencial\nquando Sede degradada"| foro
-    mpls -->|"Trafego critico via Sede"| sede
-    mpls -.->|"Rota contingencial via Foro"| foro
-
-    sede --> seguranca
-    seguranca --> inet1
-    seguranca --> inet2
-    seguranca --> inet3
-    sede --> jt
-    sede --> infovia
-
-    classDef titulo fill:#01426A,stroke:#01426A,color:#FFFFFF;
-    classDef sede fill:#01426A,stroke:#01426A,color:#FFFFFF;
-    classDef foro fill:#0067A0,stroke:#01426A,color:#FFFFFF;
-    classDef unidade fill:#0067A0,stroke:#01426A,color:#FFFFFF;
-    classDef sdwan fill:#007B5F,stroke:#01426A,color:#FFFFFF;
-    classDef mpls fill:#00B388,stroke:#007B5F,color:#01426A;
-    classDef dedicado fill:#FFCD00,stroke:#01426A,color:#01426A;
-    classDef apoio fill:#FBDB65,stroke:#01426A,color:#01426A;
-
-    class titulo titulo;
-    class sede sede;
-    class foro foro;
-    class apoio_predio,taguatinga,palmas,gama,araguaina,gurupi,dianopolis,guarai unidade;
-    class sdwan sdwan;
-    class mpls mpls;
-    class dedicado,inet1,inet2,inet3 dedicado;
-    class jt,infovia,seguranca,replicacao apoio;
+  U1 --> MPLS --> SEDE
+  MPLS --> FORO
+  SEDE <--> L25 <--> FORO
+  I12 --> SEDE
+  I13 --> SEDE
+  I14 --> SEDE
+  I15 --> FORO
+  I16 --> FORO
+  U1 -.-> SDWAN -.-> SEDE
+  SDWAN -.-> FORO
+  APOIO -.-> SEDE
+  APOIO -.-> FORO

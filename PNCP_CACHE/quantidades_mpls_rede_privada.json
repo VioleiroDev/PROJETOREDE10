@@ -1,0 +1,13 @@
+{
+  "query": "MPLS comunicação de dados rede privada SD-WAN fibra óptica",
+  "generatedAt": "2026-06-08T18:12:50",
+  "source": "https://pncp.gov.br/api/consulta",
+  "results": [
+    {
+      "_avisosConsulta": [
+        "contratacoes/publicacao modalidade 6 2024-06-08..2026-06-08: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/publicacao?dataInicial=20240608&dataFinal=20260608&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/publicacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-08T18:12:50.159-03:00\",\"status\":\"422\"}",
+        "contratacoes/atualizacao modalidade 6 2024-06-08..2026-06-08: HTTP 422 em https://pncp.gov.br/api/consulta/v1/contratacoes/atualizacao?dataInicial=20240608&dataFinal=20260608&codigoModalidadeContratacao=6&pagina=1&tamanhoPagina=50: {\"path\":\"/pncp-consulta/v1/contratacoes/atualizacao\",\"message\":\"Período inicial e final maior que 365 dias.\",\"error\":\"422 UNPROCESSABLE_ENTITY\",\"timestamp\":\"2026-06-08T18:12:50.321-03:00\",\"status\":\"422\"}"
+      ]
+    }
+  ]
+}
