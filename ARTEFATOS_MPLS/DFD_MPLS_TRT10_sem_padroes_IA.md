@@ -6,7 +6,7 @@
 
 **Objeto:** Contratação de serviços continuados de comunicação de dados por MPLS para interconexão das unidades do TRT10 à Sede, em arquitetura integrada com a SD-WAN vigente; contratação de link dedicado ponto-a-ponto de 25 Gbps entre a Sede e o Foro de Brasília; e contratação de links dedicados de Internet centralizados na Sede e no Foro, com Anti-DDoS e 32 IPs fixos por link.
 
-**Versão:** Minuta técnica - arquitetura de redundância total MPLS/SD-WAN, link dedicado Sede-Foro e Internet centralizada
+**Versão:** Minuta técnica - conectividade MPLS/SD-WAN, link dedicado Sede-Foro e Internet centralizada
 
 **Data:** 12/06/2026
 
@@ -24,21 +24,21 @@ CDTEC.
 
 ### 2.1 Justificativa da necessidade
 
-O TRT10 depende de conectividade permanente, segura e resiliente entre suas unidades para sustentar o Processo Judicial Eletrônico, sistemas administrativos, serviços internos de TIC, autenticação, colaboração institucional, acesso a redes externas, contingência, suporte técnico e atividades de atendimento ao público.
+O TRT10 precisa de conectividade permanente, segura e resiliente entre suas unidades. Essa rede sustenta o Processo Judicial Eletrônico, os sistemas administrativos, os serviços internos de TIC, a autenticação, a colaboração institucional, o acesso a redes externas, a contingência, o suporte técnico e o atendimento ao público.
 
-A demanda compreende uma arquitetura integrada, composta por três blocos complementares:
+A solução reúne três blocos que funcionam de forma coordenada:
 
 - rede MPLS para interconectar as 10 localidades à Sede, com capacidades equivalentes às capacidades dos links SD-WAN vigentes em cada localidade;
 - link dedicado ponto-a-ponto de 25 Gbps entre o Edifício Sede e o Foro de Brasília, para replicação, sincronização, backup, continuidade, redundância da Sede e uso do Foro como ponto contingencial de acesso das unidades;
 - links dedicados de Internet centralizados, sendo 3 links de 4 Gbps na Sede e 2 links de 2 Gbps no Foro de Brasília, cada link com Anti-DDoS e 32 IPs fixos, em itens separados e com provedores distintos por localidade.
 
-O escopo da contratação contempla os links de Internet dedicada como componente essencial da arquitetura de conectividade do Tribunal. Esses serão os únicos links de Internet do TRT10 no desenho pretendido, estruturando o acesso externo em pontos centrais controlados, monitorados e protegidos. A Sede funcionará como ponto principal de egressão; o Foro de Brasília funcionará como ponto redundante, preparado para assumir tráfego de Internet e acesso das unidades em cenário de indisponibilidade, manutenção ou degradação relevante da Sede.
+O objeto inclui os links de Internet dedicada como parte necessária da arquitetura de conectividade do Tribunal. Esses serão os únicos links de Internet do TRT10 no desenho pretendido, com acesso externo concentrado em pontos centrais, controlados, monitorados e protegidos. A Sede funcionará como ponto principal de egressão; o Foro de Brasília funcionará como ponto redundante, preparado para assumir tráfego de Internet e acesso das unidades em cenário de indisponibilidade, manutenção ou degradação relevante da Sede.
 
-A exigência de 3 provedores distintos na Sede e 2 provedores distintos no Foro reduz o risco de falha comum, indisponibilidade regional, bloqueio operacional, erro de roteamento, ataque volumétrico, falha de backbone ou incidente comercial afetar simultaneamente todos os acessos de uma mesma localidade. Cada link de Internet será licitado como item próprio. A mesma empresa não poderá vencer mais de um link de Internet na mesma localidade, mas poderá vencer um item da Sede e um item do Foro, pois os domínios de falha e as rotas físicas deverão ser analisados por localidade.
+Contratar 3 provedores distintos na Sede e 2 provedores distintos no Foro reduz o risco de uma mesma falha atingir todos os acessos de uma localidade. Esse cuidado cobre, por exemplo, indisponibilidade regional, bloqueio operacional, erro de roteamento, ataque volumétrico, falha de backbone ou incidente comercial. Cada link de Internet será licitado como item próprio. A mesma empresa não poderá vencer mais de um link de Internet na mesma localidade, mas poderá vencer um item da Sede e um item do Foro, pois os domínios de falha e as rotas físicas serão analisados por localidade.
 
-A exigência de Anti-DDoS por link é compatível com a função dos enlaces, pois a Internet centralizada concentrará tráfego institucional e se tornará ponto crítico para proteção da disponibilidade dos serviços digitais. O bloco de 32 IPs fixos por link viabiliza publicação controlada de serviços, NAT, segmentação de borda, regras de segurança, balanceamento, contingência, reputação de endereços e segregação de ambientes, devendo ser entregue como bloco IPv4 público fixo /27 ou arranjo equivalente que disponibilize 32 endereços públicos fixos por link, observadas as reservas técnicas usuais quando aplicáveis.
+O Anti-DDoS por link é compatível com a função dos enlaces. Como a Internet centralizada concentrará tráfego institucional, cada link passa a ser ponto sensível para a disponibilidade dos serviços digitais. O bloco de 32 IPs fixos por link viabiliza publicação controlada de serviços, NAT, segmentação de borda, regras de segurança, balanceamento, contingência, reputação de endereços e segregação de ambientes. A entrega deve ocorrer por bloco IPv4 público fixo /27 ou arranjo equivalente que disponibilize 32 endereços públicos fixos por link, observadas as reservas técnicas usuais quando aplicáveis.
 
-A adoção de MPLS com a mesma capacidade nominal dos links SD-WAN reduz o risco de subdimensionamento em cenários de crise, elimina a necessidade de escolher previamente quais sistemas seriam degradados durante falha de uma camada e preserva a experiência operacional das unidades. O link dedicado de 25 Gbps entre Sede e Foro não integra a malha MPLS; ele constitui interligação dedicada de alta capacidade para replicação, backup, continuidade e contingência.
+Usar MPLS com a mesma capacidade nominal dos links SD-WAN reduz o risco de subdimensionamento em cenários de crise. Também evita que a Administração precise escolher, antes da falha, quais sistemas seriam degradados se uma camada ficasse indisponível. O link dedicado de 25 Gbps entre Sede e Foro não integra a malha MPLS; é uma interligação dedicada de alta capacidade para replicação, backup, continuidade e contingência.
 
 ### 2.1.1 Soluções possíveis consideradas
 
@@ -49,17 +49,17 @@ A adoção de MPLS com a mesma capacidade nominal dos links SD-WAN reduz o risco
 | Solução 3 - Somente MPLS/rede privada sem links de Internet centralizados | Contratar apenas a camada privada e depender de saídas de Internet apartadas. | Não atende ao requisito técnico de Internet centralizada em pontos redundantes e protegidos por Anti-DDoS. |
 | Solução 4 - Links satelitais como meio principal | Substituir a malha terrestre por enlaces satelitais. | Pode apoiar contingência extrema, mas não é solução principal adequada por latência, variabilidade e custo por Mbps para tráfego crítico. |
 
-A Solução 1 fica indicada como solução preferencial, porque resolve simultaneamente a interconexão privada das unidades, a redundância entre camadas, a replicação Sede-Foro e a centralização segura do acesso à Internet.
+A Solução 1 é a recomendada, pois atende ao mesmo tempo à interconexão privada das unidades, à redundância entre camadas, à replicação Sede-Foro e à centralização segura do acesso à Internet.
 
 ### 2.2 A necessidade de contratação decorre de exigência legal?
 
 Não há exigência legal específica para contratar MPLS, link dedicado de 25 Gbps ou Internet dedicada como tecnologias determinadas. A necessidade decorre da obrigação administrativa de assegurar continuidade, disponibilidade, segurança e desempenho dos serviços de TIC que suportam a atividade jurisdicional e administrativa.
 
-A demanda se relaciona com a Lei nº 14.133/2021, especialmente quanto ao planejamento da contratação, ETP e Termo de Referência, e com a ENTIC-JUD 2021-2026, instituída pela Resolução CNJ nº 370/2021, que orienta a governança de TIC do Poder Judiciário e a disponibilidade dos serviços digitais.
+A demanda se relaciona com a Lei nº 14.133/2021, especialmente nos pontos ligados ao planejamento da contratação, ETP e Termo de Referência, e com a ENTIC-JUD 2021-2026, instituída pela Resolução CNJ nº 370/2021, que orienta a governança de TIC do Poder Judiciário e a disponibilidade dos serviços digitais.
 
 ### 2.3 Quais unidades serão beneficiadas?
 
-Serão beneficiadas todas as unidades do TRT10 atendidas pela rede institucional:
+A contratação atende todas as unidades do TRT10 conectadas à rede institucional:
 
 | Item | Unidade / Localidade | Endereço | Município | UF | CEP |
 |---|---|---|---|---|---|
@@ -74,12 +74,12 @@ Serão beneficiadas todas as unidades do TRT10 atendidas pela rede institucional
 | 9 | Vara de Guaraí | Avenida Araguaia, esquina com Av. Bernardo Sayão, 1360 | Guaraí | TO | 77.700-000 |
 | 10 | Prédio de Apoio | SGAN 916 Norte, Lote AI, Asa Norte | Brasília | DF | 70.790-160 |
 
-A Sede será beneficiada como concentrador principal de rede, segurança, egressão à Internet e integração institucional. O Foro de Brasília será beneficiado como unidade de atendimento, ponto de Internet redundante, ambiente de replicação e concentrador contingencial para acesso das unidades.
+A Sede funcionará como concentrador principal de rede, segurança, egressão à Internet e integração institucional. O Foro de Brasília funcionará como unidade de atendimento, ponto de Internet redundante, ambiente de replicação e concentrador contingencial para acesso das unidades.
 
 ### 2.4 Consequências do não atendimento da demanda
 
-- Permanência de maior dependência de uma única camada de conectividade para tráfego crítico.
-- Permanência de saídas de Internet dispersas ou insuficientemente padronizadas, com maior superfície de ataque e menor uniformidade de segurança.
+- Maior dependência de uma única camada de conectividade para tráfego crítico.
+- Saídas de Internet dispersas ou insuficientemente padronizadas, com maior superfície de ataque e menor uniformidade de segurança.
 - Risco de indisponibilidade relevante da Internet institucional caso a Sede sofra falha sem ponto redundante no Foro.
 - Dificuldade de garantir provedores distintos, Anti-DDoS e endereçamento fixo suficiente nos pontos centrais.
 - Menor previsibilidade para tráfego crítico, replicação, backup, autenticação, monitoramento e suporte remoto.
@@ -89,14 +89,14 @@ A Sede será beneficiada como concentrador principal de rede, segurança, egress
 
 ### 3.1 Objeto da contratação
 
-Contratação de serviços continuados de telecomunicações e comunicação de dados, incluindo fornecimento, instalação, configuração, equipamentos necessários, monitoramento, suporte técnico, manutenção e garantia de níveis de serviço, composta pelos seguintes blocos:
+Contratação de serviços continuados de telecomunicações e comunicação de dados, com fornecimento, instalação, configuração, equipamentos necessários, monitoramento, suporte técnico, manutenção e garantia de níveis de serviço. O objeto é composto pelos seguintes blocos:
 
 - circuitos MPLS para as 10 localidades do TRT10, com capacidades equivalentes às capacidades SD-WAN vigentes por localidade;
 - link dedicado ponto-a-ponto de 25 Gbps entre o Edifício Sede e o Foro de Brasília, por fibra óptica, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente, separado da rede MPLS;
 - 3 links dedicados de Internet de 4 Gbps na Sede, cada um com provedor distinto, Anti-DDoS e 32 IPs fixos;
 - 2 links dedicados de Internet de 2 Gbps no Foro de Brasília, cada um com provedor distinto, Anti-DDoS e 32 IPs fixos.
 
-A contratação deverá permitir centralização do acesso à Internet do TRT10, redundância entre Sede e Foro, contingência cruzada entre MPLS e SD-WAN, QoS, segregação lógica, roteamento controlado, monitoramento 24x7, relatórios mensais e aplicação de glosas por descumprimento de SLA.
+A solução deve permitir centralização do acesso à Internet do TRT10, redundância entre Sede e Foro, contingência cruzada entre MPLS e SD-WAN, QoS, segregação lógica, roteamento controlado, monitoramento 24x7, relatórios mensais e aplicação de glosas por descumprimento de SLA.
 
 ## 4. Quantidade a Ser Contratada
 
@@ -127,17 +127,17 @@ A contratação deverá permitir centralização do acesso à Internet do TRT10,
 | 15 | Foro de Brasília | Link dedicado de Internet 1 | 2 Gbps | Provedor distinto do item 16; Anti-DDoS; 32 IPs fixos | 1 | mês |
 | 16 | Foro de Brasília | Link dedicado de Internet 2 | 2 Gbps | Provedor distinto do item 15; Anti-DDoS; 32 IPs fixos | 1 | mês |
 
-Para os itens de Internet, a adjudicação deverá impedir que uma mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente seja contratado para mais de um link na mesma localidade. A mesma empresa poderá vencer um item da Sede e um item do Foro, desde que respeitados os requisitos de capacidade, Anti-DDoS, 32 IPs fixos e independência física/lógica exigidos para cada item.
+Para os itens de Internet, a adjudicação deve impedir que uma mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente seja contratado para mais de um link na mesma localidade. A mesma empresa poderá vencer um item da Sede e um item do Foro, desde que cumpra os requisitos de capacidade, Anti-DDoS, 32 IPs fixos e independência física/lógica exigidos para cada item.
 
 ### 4.2 A estimativa é baseada no histórico demandado?
 
-Sim. A estimativa considera o histórico de contratações de comunicação de dados e Internet do TRT10, a topologia SD-WAN vigente, registros de redundância e monitoramento, e a centralização dos acessos de Internet do Tribunal na Sede e no Foro.
+Sim. A estimativa considera o histórico de contratações de comunicação de dados e Internet do TRT10, a topologia SD-WAN vigente, os registros de redundância e monitoramento e a centralização dos acessos de Internet do Tribunal na Sede e no Foro.
 
 ## 5. Estimativa Preliminar do Valor da Contratação
 
 ### 5.1 Valor estimado da contratação
 
-Foram priorizadas referências públicas do PNCP e documentos anexos aos processos consultados. A estimativa de planejamento adota preços públicos diretos quando há aderência suficiente e metodologia paramétrica quando não foram localizados três itens idênticos em capacidade, localidade, Anti-DDoS e bloco de IPs.
+A pesquisa priorizou referências públicas do PNCP e documentos anexos aos processos consultados. A estimativa de planejamento usa preços públicos diretos quando há aderência suficiente e metodologia paramétrica quando a pesquisa não localizou três itens idênticos em capacidade, localidade, Anti-DDoS e bloco de IPs.
 
 | Grupo / item | Referências e fórmula | Quantidade | Valor mensal unitário | Valor mensal | Valor anual |
 |---|---|---:|---:|---:|---:|
@@ -170,7 +170,7 @@ Foram priorizadas referências públicas do PNCP e documentos anexos aos process
 | Município de Jaguariúna/SP | Edital PL-674/2024; PE nº 90081/2024; PNCP nº 46410866000171-1-000610/2024 | Link dedicado simétrico de 10 Gbps e link compartilhado de Internet | Referência auxiliar sem uso direto como preço unitário do enlace de 25 Gbps | Referência técnica para enlace dedicado de alta capacidade, simétrico e com requisitos de desempenho. |
 | Justiça Federal do Rio Grande do Sul / TRF4 | Pregão Eletrônico nº 90012/2025; Ata de Registro de Preços nº 10/2025; PNCP relacionado a 00508903000188-1-002018/2025 | Serviços de comunicação de dados dedicados e exclusivos para acesso à Internet e comunicação ponto-a-ponto entre sites via Metro Ethernet/LAN-to-LAN, camada 2 | Referência técnica sem valor unitário usado diretamente | Referência para modelagem do enlace Sede-Foro como link dedicado ponto-a-ponto, e não como MPLS. |
 
-Não foi localizada referência pública plenamente equivalente a enlace dedicado ponto-a-ponto de 25 Gbps entre dois prédios com a mesma finalidade de replicação e contingência. Por isso, a estimativa do item 11 usa faixa paramétrica de alta capacidade, com ponto médio de R$ 45.000,00/mês, calculado por `(R$ 30.000,00 + R$ 60.000,00) / 2`. As referências acima demonstram aderência técnica de mercado para LAN-to-LAN, Metro Ethernet, fibra dedicada e interligação privada de pontos centrais, mas não foram tratadas como equivalentes perfeitas de preço.
+A pesquisa não localizou referência pública plenamente equivalente a enlace dedicado ponto-a-ponto de 25 Gbps entre dois prédios com a mesma finalidade de replicação e contingência. Por isso, a estimativa do item 11 usa faixa paramétrica de alta capacidade, com ponto médio de R$ 45.000,00/mês, calculado por `(R$ 30.000,00 + R$ 60.000,00) / 2`. As referências acima mostram aderência técnica de mercado para LAN-to-LAN, Metro Ethernet, fibra dedicada e interligação privada de pontos centrais, mas não foram tratadas como equivalentes perfeitas de preço.
 
 ### 5.4 Referências PNCP para links dedicados de Internet
 
@@ -187,31 +187,31 @@ Não foi localizada referência pública plenamente equivalente a enlace dedicad
 
 ### 5.5 Como se chegou ao valor preliminar?
 
-Para MPLS 1 Gbps, foi adotada mediana das referências PNCP normalizadas de SENAR/MS, Brusque/SC, Chapecó/SC e ANCINE, resultando em R$ 7.122,50 por circuito/mês. Como há 2 localidades com essa capacidade, o valor mensal do grupo é `2 x R$ 7.122,50 = R$ 14.245,00`.
+Para MPLS 1 Gbps, a estimativa adotou a mediana das referências PNCP normalizadas de SENAR/MS, Brusque/SC, Chapecó/SC e ANCINE, resultando em R$ 7.122,50 por circuito/mês. Como há 2 localidades com essa capacidade, o valor mensal do grupo é `2 x R$ 7.122,50 = R$ 14.245,00`.
 
-Para MPLS 500 Mbps, foi adotada mediana das referências PNCP de Chapecó/SC, ANCINE e Cascavel/PR, resultando em R$ 1.900,00 por circuito/mês. Como há 3 localidades com essa capacidade, o valor mensal do grupo é `3 x R$ 1.900,00 = R$ 5.700,00`.
+Para MPLS 500 Mbps, a estimativa adotou a mediana das referências PNCP de Chapecó/SC, ANCINE e Cascavel/PR, resultando em R$ 1.900,00 por circuito/mês. Como há 3 localidades com essa capacidade, o valor mensal do grupo é `3 x R$ 1.900,00 = R$ 5.700,00`.
 
-Para MPLS 100 Mbps, foi adotada mediana das referências PNCP de CODEVASF, Cascavel/PR e Chapecó/SC, resultando em R$ 1.900,00 por circuito/mês. Como há 5 localidades com essa capacidade, o valor mensal do grupo é `5 x R$ 1.900,00 = R$ 9.500,00`.
+Para MPLS 100 Mbps, a estimativa adotou a mediana das referências PNCP de CODEVASF, Cascavel/PR e Chapecó/SC, resultando em R$ 1.900,00 por circuito/mês. Como há 5 localidades com essa capacidade, o valor mensal do grupo é `5 x R$ 1.900,00 = R$ 9.500,00`.
 
 Para o link dedicado Sede-Foro de 25 Gbps, a estimativa utiliza faixa paramétrica de alta capacidade, pois as referências PNCP localizadas confirmam a viabilidade técnica de LAN-to-LAN, Metro Ethernet e fibra dedicada, mas não apresentam três itens idênticos de 25 Gbps com a mesma finalidade. O valor unitário adotado é o ponto médio da faixa: `(R$ 30.000,00 + R$ 60.000,00) / 2 = R$ 45.000,00 por mês`.
 
-Para os links de Internet da Sede, a referência de Ipojuca/PE foi utilizada por possuir aderência direta a Internet dedicada de 4 Gbps com Anti-DDoS e regra de links por empresas diferentes. Como o requisito do TRT10 exige 32 IPs fixos por link, acrescentou-se o valor de IP /27 identificado na memória de cálculo de Chapecó/SC: `R$ 15.687,33 + R$ 1.920,00 = R$ 17.607,33 por link/mês`. Como são 3 links, o valor mensal do grupo é `3 x R$ 17.607,33 = R$ 52.821,99`.
+Para os links de Internet da Sede, a referência de Ipojuca/PE foi usada por ter aderência direta a Internet dedicada de 4 Gbps com Anti-DDoS e regra de links por empresas diferentes. Como o requisito do TRT10 exige 32 IPs fixos por link, foi acrescentado o valor de IP /27 identificado na memória de cálculo de Chapecó/SC: `R$ 15.687,33 + R$ 1.920,00 = R$ 17.607,33 por link/mês`. Como são 3 links, o valor mensal do grupo é `3 x R$ 17.607,33 = R$ 52.821,99`.
 
 Para os links de Internet do Foro, a estimativa adotou mediana conservadora entre referência direta estimada do IPEA, referência direta homologada da Câmara Legislativa do Distrito Federal e composição paramétrica do Ministério da Defesa, acrescidas ou comparadas ao ajuste /27 de Chapecó/SC quando o item de origem não trazia bloco de 32 IPs fixos. O valor unitário adotado é R$ 13.693,78 por link/mês. Como são 2 links, o valor mensal do grupo é `2 x R$ 13.693,78 = R$ 27.387,56`.
 
 ### 5.6 Contratações similares a manter nos autos
 
-Devem compor a instrução de preços as referências MPLS, LAN-to-LAN/link dedicado e Internet descritas neste item, juntamente com os artefatos baixados em `PNCP_REFERENCIAS_MPLS`, `PNCP_REFERENCIAS_INTERNET`, `PNCP_PESQUISA_AMPLA_REDE10` e `PNCP_CACHE`. Devem ser preservados detalhes da contratação, itens, resultados, arquivos anexos, editais, termos de referência, propostas, relatórios de cotação e memórias de cálculo.
+A instrução de preços deve reunir as referências MPLS, LAN-to-LAN/link dedicado e Internet descritas neste item, juntamente com os artefatos baixados em `PNCP_REFERENCIAS_MPLS`, `PNCP_REFERENCIAS_INTERNET`, `PNCP_PESQUISA_AMPLA_REDE10` e `PNCP_CACHE`. Também devem ser preservados detalhes da contratação, itens, resultados, arquivos anexos, editais, termos de referência, propostas, relatórios de cotação e memórias de cálculo.
 
 ## 6. Data Pretendida para Conclusão da Contratação
 
 ### 6.1 Data de início de vigência
 
-A contratação deverá estar vigente em tempo hábil para implantação, testes, operação assistida e entrada em produção controlada, preservando a continuidade da conectividade das unidades e dos acessos de Internet.
+A contratação precisa estar vigente em tempo hábil para implantação, testes, operação assistida e entrada em produção controlada, preservando a continuidade da conectividade das unidades e dos acessos de Internet.
 
 ### 6.2 Trata-se de serviço continuado?
 
-Sim. Trata-se de serviço continuado de telecomunicações e comunicação de dados, essencial para o funcionamento permanente das unidades do TRT10.
+Sim. É serviço continuado de telecomunicações e comunicação de dados, essencial para o funcionamento permanente das unidades do TRT10.
 
 ## 7. Grau de Prioridade da Contratação
 
@@ -223,11 +223,11 @@ Sim. Trata-se de serviço continuado de telecomunicações e comunicação de da
 
 ## 8. Vinculação ou Dependência com Outra Demanda
 
-A demanda possui vinculação técnica direta com a conectividade institucional atualmente em operação, em especial com o **Contrato 131/2023**, relacionado à prestação de link IP dedicado com SD-WAN, instruído no **SEI 0000030-87.2023.5.10.8000**. Esse contrato é referência para a topologia vigente, para as capacidades atualmente consideradas por localidade e para a integração operacional entre Sede, Foro de Brasília, Prédio de Apoio, Taguatinga, Palmas, Gama, Araguaína, Gurupi, Dianópolis e Guaraí.
+A demanda tem vinculação técnica direta com a conectividade institucional em operação, em especial com o **Contrato 131/2023**, relacionado à prestação de link IP dedicado com SD-WAN, instruído no **SEI 0000030-87.2023.5.10.8000**. Esse contrato é referência para a topologia vigente, para as capacidades consideradas por localidade e para a integração operacional entre Sede, Foro de Brasília, Prédio de Apoio, Taguatinga, Palmas, Gama, Araguaína, Gurupi, Dianópolis e Guaraí.
 
-Também devem ser considerados, como referências históricas e contratações correlatas de conectividade, os processos **SEI 0007608-72.2021.5.10.8000** e **SEI 0002027-76.2021.5.10.8000**, já indicados neste DFD como processos administrativos relacionados à contratação em vigor ou ao histórico de comunicação de dados. Esses processos devem ser consultados durante a instrução para identificar contratos, atas, prazos, obrigações, pontos de integração, escopos residuais e eventuais riscos de sobreposição com a nova contratação.
+A instrução também deve considerar, como referências históricas e contratações correlatas de conectividade, os processos **SEI 0007608-72.2021.5.10.8000** e **SEI 0002027-76.2021.5.10.8000**, já indicados neste DFD como processos administrativos relacionados à contratação em vigor ou ao histórico de comunicação de dados. Esses processos devem ser consultados para identificar contratos, atas, prazos, obrigações, pontos de integração, escopos residuais e eventuais riscos de sobreposição com esta contratação.
 
-A nova solução também depende de integração técnica com serviços e contratos correlatos que não constituem, por si só, substituição do objeto aqui pretendido, mas condicionam sua implantação segura:
+A solução também depende de integração técnica com serviços e contratos correlatos. Eles não substituem o objeto pretendido, mas condicionam sua implantação segura:
 
 - redes da Justiça do Trabalho e demais redes institucionais externas, que dependem de rotas, filtros e políticas de acesso coordenadas com a CDTEC;
 - Infovia, quando utilizada como meio institucional de comunicação, contingência ou interligação com serviços externos;
@@ -236,13 +236,13 @@ A nova solução também depende de integração técnica com serviços e contra
 - infraestrutura de datacenter, backup, replicação e continuidade, especialmente para uso do link dedicado Sede-Foro de 25 Gbps;
 - políticas de roteamento, QoS, segmentação, failover e retorno ao caminho preferencial entre MPLS, SD-WAN, Internet da Sede e Internet do Foro.
 
-Os links de Internet centralizados fazem parte do objeto desta contratação e deverão operar como os pontos oficiais de egressão à Internet do Tribunal. A Sede será o ponto principal; o Foro de Brasília será o ponto redundante. Durante a implantação, a Administração deverá preservar a continuidade dos serviços atualmente suportados pelo Contrato 131/2023 e pelos processos correlatos, evitando interrupção abrupta de rotas, túneis, regras de firewall, DNS, autenticação, monitoramento e acessos externos.
+Os links de Internet centralizados fazem parte do objeto desta contratação e devem operar como os pontos oficiais de egressão à Internet do Tribunal. A Sede será o ponto principal; o Foro de Brasília será o ponto redundante. Durante a implantação, a Administração deve preservar a continuidade dos serviços atualmente suportados pelo Contrato 131/2023 e pelos processos correlatos, evitando interrupção abrupta de rotas, túneis, regras de firewall, DNS, autenticação, monitoramento e acessos externos.
 
-Antes da publicação do edital, a área de contratos deverá confirmar, nos autos dos processos citados, a situação vigente dos instrumentos relacionados, incluindo vigência, objeto, itens ativos, fornecedores, localidades atendidas, responsabilidades de suporte, prazos de transição e eventuais cláusulas que impactem a convivência entre a SD-WAN atual, a nova rede MPLS, o link dedicado Sede-Foro e os links centralizados de Internet.
+Antes da publicação do edital, a área de contratos deve confirmar, nos autos dos processos citados, a situação vigente dos instrumentos relacionados, incluindo vigência, objeto, itens ativos, fornecedores, localidades atendidas, responsabilidades de suporte, prazos de transição e eventuais cláusulas que impactem a convivência entre a SD-WAN atual, a rede MPLS, o link dedicado Sede-Foro e os links centralizados de Internet.
 
 ## 9. Objetivo Estratégico
 
-A contratação se alinha ao objetivo estratégico de aprimorar a governança de TIC e a proteção de dados, contribuindo para disponibilidade, continuidade, segurança, monitoramento e desempenho dos serviços digitais do TRT10.
+A contratação se alinha ao objetivo estratégico de aprimorar a governança de TIC e a proteção de dados. Na prática, reforça disponibilidade, continuidade, segurança, monitoramento e desempenho dos serviços digitais do TRT10.
 
 ## 10. Informações SIGEO
 
@@ -254,9 +254,9 @@ A contratação se alinha ao objetivo estratégico de aprimorar a governança de
 
 Contrato 131/2023, vinculado ao SEI 0000030-87.2023.5.10.8000, relacionado a link IP dedicado com SD-WAN e à conectividade de dados atualmente utilizada como referência para a topologia das unidades.
 
-Também devem ser considerados, para fins de conferência dos links de dados e de Internet em vigor ou historicamente vinculados à conectividade institucional, os processos SEI 0007608-72.2021.5.10.8000 e SEI 0002027-76.2021.5.10.8000. Esses processos deverão ser verificados pela área de contratos para identificação dos contratos ou ARPs correspondentes, fornecedores, vigência, localidades atendidas, capacidades contratadas, serviços de Internet/dados, blocos de IP fixo, suporte, SLA e regras de transição.
+Para conferir links de dados e de Internet em vigor, ou historicamente vinculados à conectividade institucional, a área de contratos também deve considerar os processos SEI 0007608-72.2021.5.10.8000 e SEI 0002027-76.2021.5.10.8000. Esses processos devem ser verificados para identificação dos contratos ou ARPs correspondentes, fornecedores, vigência, localidades atendidas, capacidades contratadas, serviços de Internet/dados, blocos de IP fixo, suporte, SLA e regras de transição.
 
-A área de contratos deverá conferir, antes da publicação do edital, todos os instrumentos vigentes que interajam com a conectividade institucional, especialmente links de dados, links de Internet, SD-WAN, segurança de borda, DNS, roteamento, monitoramento e serviços correlatos, para preservar a continuidade operacional e evitar sobreposição de escopo durante a implantação.
+A área de contratos deve conferir, antes da publicação do edital, todos os instrumentos vigentes que interajam com a conectividade institucional, especialmente links de dados, links de Internet, SD-WAN, segurança de borda, DNS, roteamento, monitoramento e serviços correlatos, para preservar a continuidade operacional e evitar sobreposição de escopo durante a implantação.
 
 ### 10.3 Item SIGEO
 

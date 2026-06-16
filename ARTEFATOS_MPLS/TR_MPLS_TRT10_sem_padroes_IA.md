@@ -20,14 +20,14 @@
 
 ### 1. Definição do objeto
 
-Contratação de empresa ou empresas especializadas para prestação de serviços continuados de comunicação de dados e conectividade institucional, incluindo fornecimento, instalação, configuração, ativação, operação, manutenção, monitoramento, suporte técnico, documentação e garantia operacional dos seguintes componentes:
+Contratação de empresa ou empresas especializadas para prestar serviços continuados de comunicação de dados e conectividade institucional. O objeto inclui fornecimento, instalação, configuração, ativação, operação, manutenção, monitoramento, suporte técnico, documentação e garantia operacional dos seguintes componentes:
 
 - rede privada corporativa MPLS L3 VPN, ou tecnologia funcionalmente equivalente, para interligação das unidades do TRT10 à Sede, com capacidades equivalentes às capacidades SD-WAN vigentes;
 - link dedicado ponto-a-ponto de 25 Gbps entre o Edifício Sede e o Foro de Brasília, por fibra óptica, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente, sem caracterização como MPLS;
 - 3 links dedicados de Internet de 4 Gbps na Sede, com Anti-DDoS e 32 IPs fixos por link;
 - 2 links dedicados de Internet de 2 Gbps no Foro de Brasília, com Anti-DDoS e 32 IPs fixos por link.
 
-A solução deverá operar de forma integrada à SD-WAN vigente, aos firewalls, roteadores, serviços de segurança, DNS, monitoramento, autenticação, redes internas e demais componentes de TIC indicados pela CDTEC.
+A solução deve operar integrada à SD-WAN vigente, aos firewalls, roteadores, serviços de segurança, DNS, monitoramento, autenticação, redes internas e demais componentes de TIC indicados pela CDTEC.
 
 ### 2. Itens, localidades, capacidades e escopo
 
@@ -50,21 +50,21 @@ A solução deverá operar de forma integrada à SD-WAN vigente, aos firewalls, 
 | 15 | Foro de Brasília | Internet dedicada com Anti-DDoS e 32 IPs fixos | 1 link | 2 Gbps | 99,90% | Egressão redundante, provedor distinto do item 16 |
 | 16 | Foro de Brasília | Internet dedicada com Anti-DDoS e 32 IPs fixos | 1 link | 2 Gbps | 99,90% | Egressão redundante, provedor distinto do item 15 |
 
-Os endereços completos das localidades serão disponibilizados no edital ou em anexo próprio, com indicação de contatos, salas técnicas, janelas de acesso e condições de instalação.
+O edital ou anexo próprio trará os endereços completos das localidades, contatos, salas técnicas, janelas de acesso e condições de instalação.
 
 ### 3. Natureza do objeto
 
-O objeto é serviço comum continuado, pois os padrões de desempenho e qualidade podem ser definidos objetivamente por especificações usuais de mercado, como capacidade, disponibilidade, latência, perda de pacotes, jitter, prazo de atendimento, prazo de reparo, monitoramento, suporte, relatórios e critérios de aceite.
+O objeto é serviço comum continuado. Seus padrões de desempenho e qualidade podem ser definidos objetivamente por especificações usuais de mercado: capacidade, disponibilidade, latência, perda de pacotes, jitter, prazo de atendimento, prazo de reparo, monitoramento, suporte, relatórios e critérios de aceite.
 
 ## II - FUNDAMENTAÇÃO E DESCRIÇÃO DA SOLUÇÃO
 
 ### 4. Fundamentação da contratação
 
-A contratação está fundamentada no Estudo Técnico Preliminar, que definiu a necessidade de continuidade, disponibilidade, segurança, desempenho e governança da conectividade institucional do TRT10. A solução preserva a SD-WAN vigente como camada de transporte e contingência, acrescenta rede privada MPLS para tráfego crítico, contrata link dedicado de 25 Gbps entre Sede e Foro para replicação e redundância, e centraliza os acessos de Internet em Sede e Foro com Anti-DDoS, 32 IPs fixos e diversidade de provedores por localidade.
+A contratação se apoia no Estudo Técnico Preliminar, que definiu a necessidade de continuidade, disponibilidade, segurança, desempenho e governança da conectividade institucional do TRT10. A arquitetura mantém a SD-WAN vigente como camada de transporte e contingência, inclui rede privada MPLS para tráfego crítico, prevê link dedicado de 25 Gbps entre Sede e Foro para replicação e redundância e centraliza os acessos de Internet em Sede e Foro, com Anti-DDoS, 32 IPs fixos e provedores distintos por localidade.
 
 ### 5. Descrição da solução como um todo
 
-A arquitetura deverá observar os seguintes papéis técnicos:
+A arquitetura observará os seguintes papéis técnicos:
 
 - MPLS: caminho privado e controlado para tráfego crítico, sistemas institucionais, autenticação, serviços corporativos, administração, monitoramento e integrações;
 - SD-WAN vigente: camada de transporte, convivência operacional e contingência, com uso preferencial para tráfego de Internet das unidades quando aplicável;
@@ -79,19 +79,19 @@ A arquitetura deverá observar os seguintes papéis técnicos:
 
 ### 6. Requisitos técnicos gerais
 
-6.1 A contratada deverá fornecer todos os meios necessários à prestação do serviço, incluindo circuitos, enlaces, portas, CPEs, roteadores, modems, transceptores, fontes, cabos, licenças, configurações, monitoramento, suporte e manutenção, quando não forem expressamente indicados como responsabilidade do TRT10.
+6.1 A contratada fornecerá todos os meios necessários à prestação do serviço, incluindo circuitos, enlaces, portas, CPEs, roteadores, modems, transceptores, fontes, cabos, licenças, configurações, monitoramento, suporte e manutenção, salvo quando o edital indicar expressamente responsabilidade do TRT10.
 
-6.2 Todos os circuitos, enlaces e links deverão ser simétricos, full duplex e entregues com banda útil compatível com a capacidade contratada, ressalvados apenas overheads inerentes aos protocolos de comunicação.
+6.2 Todos os circuitos, enlaces e links devem ser simétricos, full duplex e entregues com banda útil compatível com a capacidade contratada, ressalvados apenas overheads inerentes aos protocolos de comunicação.
 
-6.3 A solução deverá ser descrita e entregue por requisitos funcionais e de desempenho, sem imposição de marca, fabricante, modelo ou solução proprietária específica.
+6.3 A solução será especificada e entregue por requisitos funcionais e de desempenho, sem imposição de marca, fabricante, modelo ou solução proprietária específica.
 
-6.4 A contratada deverá preservar sigilo sobre informações de rede, endereçamento, rotas, configurações, chamados, incidentes, topologia e dados técnicos do TRT10.
+6.4 A contratada manterá sigilo sobre informações de rede, endereçamento, rotas, configurações, chamados, incidentes, topologia e dados técnicos do TRT10.
 
 ### 7. Requisitos específicos da rede MPLS
 
-7.1 A rede MPLS, ou tecnologia privada equivalente, deverá prover isolamento lógico do tráfego do TRT10 por VRF ou mecanismo equivalente.
+7.1 A rede MPLS, ou tecnologia privada equivalente, proverá isolamento lógico do tráfego do TRT10 por VRF ou mecanismo equivalente.
 
-7.2 A rede deverá suportar QoS fim a fim, com no mínimo as seguintes classes:
+7.2 A rede suportará QoS fim a fim, com no mínimo as seguintes classes:
 
 - tráfego crítico de sistemas judiciais, autenticação, serviços internos e administração;
 - voz, vídeo e colaboração institucional;
@@ -101,35 +101,35 @@ A arquitetura deverá observar os seguintes papéis técnicos:
 
 7.3 As marcações e reservas mínimas de QoS ficam definidas da seguinte forma: classe crítica com DSCP AF31/CS3 ou equivalente e reserva mínima de 35% da banda; voz/vídeo com DSCP EF/AF41 ou equivalente e reserva mínima de 20%; tráfego corporativo administrativo com DSCP AF21 ou equivalente e reserva mínima de 25%; monitoramento, gerenciamento e backup operacional com reserva mínima de 5%; melhor esforço com uso da banda remanescente. As filas poderão aproveitar banda ociosa entre classes.
 
-7.4 A rede deverá permitir integração com a infraestrutura existente do TRT10, adotando OSPF como protocolo preferencial de integração interna e BGP para bordas, ASN, operadoras, Internet ou cenários definidos pela CDTEC.
+7.4 A rede permitirá integração com a infraestrutura existente do TRT10. OSPF fica definido como protocolo preferencial de integração interna; BGP será usado para bordas, ASN, operadoras, Internet ou cenários definidos pela CDTEC.
 
-7.5 A contratada deverá implementar filtros, métricas, anúncios autorizados e mecanismos de prevenção de rotas indevidas ou loops, conforme desenho aprovado pela fiscalização técnica.
+7.5 A contratada implementará filtros, métricas, anúncios autorizados e mecanismos de prevenção de rotas indevidas ou loops, conforme desenho aprovado pela fiscalização técnica.
 
 ### 8. Requisitos específicos do link dedicado Sede-Foro de 25 Gbps
 
-8.1 O enlace Sede-Foro deverá ser dedicado, ponto-a-ponto, simétrico, full duplex, por fibra óptica, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente.
+8.1 O enlace Sede-Foro deve ser dedicado, ponto-a-ponto, simétrico, full duplex, por fibra óptica, LAN-to-LAN, Metro Ethernet, clear channel, E-Line, E-LAN ou tecnologia equivalente.
 
-8.2 O enlace não será aceito como circuito MPLS compartilhado de filial. Sua finalidade é criar conexão privativa de alta capacidade entre dois pontos centrais do TRT10.
+8.2 O TRT10 não aceitará o enlace como circuito MPLS compartilhado de filial. Sua finalidade é criar conexão privativa de alta capacidade entre dois pontos centrais do Tribunal.
 
-8.3 O enlace deverá suportar tráfego de replicação, sincronização, backup, restauração, comunicação entre ambientes centrais, testes de continuidade e redirecionamento contingencial de acesso das unidades ao Foro.
+8.3 O enlace suportará tráfego de replicação, sincronização, backup, restauração, comunicação entre ambientes centrais, testes de continuidade e redirecionamento contingencial de acesso das unidades ao Foro.
 
-8.4 O aceite deverá comprovar capacidade de 25 Gbps, latência, perda, identificação de interfaces, caminho lógico, documentação dos equipamentos envolvidos, testes de tráfego e integração com as rotas definidas pela CDTEC.
+8.4 O aceite comprovará capacidade de 25 Gbps, latência, perda, identificação de interfaces, caminho lógico, documentação dos equipamentos envolvidos, testes de tráfego e integração com as rotas definidas pela CDTEC.
 
 ### 9. Requisitos específicos dos links de Internet
 
-9.1 Cada link de Internet deverá ser dedicado, simétrico, por fibra óptica, com banda mínima contratada de 4 Gbps na Sede e 2 Gbps no Foro de Brasília, conforme tabela de itens.
+9.1 Cada link de Internet deve ser dedicado, simétrico, por fibra óptica, com banda mínima contratada de 4 Gbps na Sede e 2 Gbps no Foro de Brasília, conforme tabela de itens.
 
-9.2 Cada link deverá incluir 32 IPs fixos públicos, equivalentes a bloco IPv4 /27 ou arranjo funcional aceito pela CDTEC, sem compartilhamento com terceiros.
+9.2 Cada link incluirá 32 IPs fixos públicos, equivalentes a bloco IPv4 /27 ou arranjo funcional aceito pela CDTEC, sem compartilhamento com terceiros.
 
-9.3 Cada link deverá incluir proteção Anti-DDoS, com detecção, mitigação, acionamento 24x7, relatório de eventos, indicação de tráfego atacado e retorno do tráfego limpo quando aplicável.
+9.3 Cada link incluirá proteção Anti-DDoS, com detecção, mitigação, acionamento 24x7, relatório de eventos, indicação de tráfego atacado e retorno do tráfego limpo quando aplicável.
 
-9.4 Os links de Internet da mesma localidade deverão ser providos por fornecedores distintos. A mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente não poderá vencer mais de um link de Internet na Sede nem mais de um link de Internet no Foro. A mesma empresa poderá vencer um link da Sede e um link do Foro.
+9.4 Fornecedores distintos proverão os links de Internet da mesma localidade. A mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente não poderá vencer mais de um link de Internet na Sede nem mais de um link de Internet no Foro. A mesma empresa poderá vencer um link da Sede e um link do Foro.
 
-9.5 Os links deverão suportar roteamento de borda, inclusive BGP quando adotado pelo TRT10, DNS reverso quando aplicável, monitoramento, coleta de disponibilidade, latência, perda, jitter, utilização média e utilização de pico.
+9.5 Os links suportarão roteamento de borda, inclusive BGP quando adotado pelo TRT10, DNS reverso quando aplicável, monitoramento, coleta de disponibilidade, latência, perda, jitter, utilização média e utilização de pico.
 
 ### 10. Sustentabilidade e acessibilidade
 
-A contratada deverá observar eficiência energética compatível com o mercado, descarte ambientalmente adequado de equipamentos, cabos, fontes e embalagens, redução de deslocamentos por monitoramento remoto, documentação digital, reaproveitamento de infraestrutura existente quando autorizado e preservação da acessibilidade física em salas técnicas, racks, shafts e áreas de circulação.
+A contratada observará eficiência energética compatível com o mercado, descarte ambientalmente adequado de equipamentos, cabos, fontes e embalagens, redução de deslocamentos por monitoramento remoto, documentação digital, reaproveitamento de infraestrutura existente quando autorizado e preservação da acessibilidade física em salas técnicas, racks, shafts e áreas de circulação.
 
 ## IV - MODELO DE EXECUÇÃO
 
@@ -137,9 +137,9 @@ A contratada deverá observar eficiência energética compatível com o mercado,
 
 11.1 A execução terá início após assinatura do contrato e emissão da ordem de serviço.
 
-11.2 A contratada deverá apresentar plano de implantação em até 10 dias corridos da emissão da ordem de serviço, contendo cronograma, responsáveis, pré-requisitos, janelas de mudança, riscos, plano de rollback, contatos de NOC, matriz de responsabilidades e plano de testes.
+11.2 A contratada apresentará plano de implantação em até 10 dias corridos da emissão da ordem de serviço, com cronograma, responsáveis, pré-requisitos, janelas de mudança, riscos, plano de rollback, contatos de NOC, matriz de responsabilidades e plano de testes.
 
-11.3 O prazo máximo de implantação será de 120 dias corridos, contados da ordem de serviço, abrangendo Sede, Foro, link dedicado Sede-Foro, links de Internet centrais, circuitos MPLS, testes integrados e documentação as built.
+11.3 O prazo máximo de implantação é de 120 dias corridos, contados da ordem de serviço. O prazo abrange Sede, Foro, link dedicado Sede-Foro, links de Internet centrais, circuitos MPLS, testes integrados e documentação as built.
 
 ### 12. Fases mínimas de implantação
 
@@ -154,13 +154,13 @@ A contratada deverá observar eficiência energética compatível com o mercado,
 
 ### 13. Testes de aceite
 
-13.1 O aceite provisório de cada circuito, enlace ou link dependerá de testes mínimos de ativação.
+13.1 O aceite provisório de cada circuito, enlace ou link depende dos testes mínimos de ativação.
 
-13.2 Para MPLS, os testes deverão comprovar identificação do circuito, capacidade contratada, conectividade com a Sede, roteamento, QoS, monitoramento, latência, perda, disponibilidade do CPE, abertura de chamado teste e documentação as built.
+13.2 Para MPLS, os testes devem comprovar identificação do circuito, capacidade contratada, conectividade com a Sede, roteamento, QoS, monitoramento, latência, perda, disponibilidade do CPE, abertura de chamado teste e documentação as built.
 
-13.3 Para o link dedicado Sede-Foro de 25 Gbps, os testes deverão comprovar capacidade, latência, perda, estabilidade, interfaces, rota lógica, conectividade entre ambientes centrais, testes de replicação ou tráfego equivalente e acionamento contingencial do Foro.
+13.3 Para o link dedicado Sede-Foro de 25 Gbps, os testes devem comprovar capacidade, latência, perda, estabilidade, interfaces, rota lógica, conectividade entre ambientes centrais, testes de replicação ou tráfego equivalente e acionamento contingencial do Foro.
 
-13.4 Para links de Internet, os testes deverão comprovar capacidade, entrega dos 32 IPs fixos, roteamento, BGP quando aplicável, DNS reverso quando aplicável, Anti-DDoS por simulação controlada ou evidência técnica aceita, latência, perda, jitter, monitoramento e independência de provedor na mesma localidade.
+13.4 Para links de Internet, os testes devem comprovar capacidade, entrega dos 32 IPs fixos, roteamento, BGP quando aplicável, DNS reverso quando aplicável, Anti-DDoS por simulação controlada ou evidência técnica aceita, latência, perda, jitter, monitoramento e independência de provedor na mesma localidade.
 
 13.5 O aceite definitivo ocorrerá após operação assistida mínima de 30 dias, saneamento das pendências críticas e entrega da documentação final.
 
@@ -168,11 +168,11 @@ A contratada deverá observar eficiência energética compatível com o mercado,
 
 ### 14. Fiscalização
 
-A gestão e a fiscalização serão exercidas por servidores designados formalmente. A fiscalização técnica validará disponibilidade, desempenho, relatórios, chamados, incidentes, mudanças, testes, aceite, glosas e documentação.
+Servidores formalmente designados exercerão a gestão e a fiscalização. A fiscalização técnica validará disponibilidade, desempenho, relatórios, chamados, incidentes, mudanças, testes, aceite, glosas e documentação.
 
 ### 15. Relatório mensal
 
-A contratada deverá entregar relatório mensal até o 5º dia útil do mês subsequente, contendo:
+A contratada entregará relatório mensal até o 5º dia útil do mês subsequente, contendo:
 
 - disponibilidade por circuito, enlace e link;
 - indisponibilidades programadas e não programadas;
@@ -211,11 +211,11 @@ A disponibilidade mensal será calculada pela fórmula:
 
 em que `D` é a disponibilidade mensal, `Tt` é o tempo total mensal em minutos e `Ti` é o tempo de indisponibilidade imputável à contratada.
 
-Falhas causadas por equipamentos, enlaces, backbone, CPEs, configurações, portas, enlaces de acesso, Anti-DDoS, roteamento ou outros elementos sob responsabilidade da contratada serão consideradas indisponibilidade ou degradação imputável à contratada.
+Falhas causadas por equipamentos, enlaces, backbone, CPEs, configurações, portas, enlaces de acesso, Anti-DDoS, roteamento ou outros elementos sob responsabilidade da contratada contam como indisponibilidade ou degradação imputável à contratada.
 
 ### 18. Glosas por descumprimento de SLA
 
-As glosas serão aplicadas sobre a mensalidade do circuito, enlace ou link afetado, sem prejuízo de sanções:
+As glosas incidem sobre a mensalidade do circuito, enlace ou link afetado, sem prejuízo de sanções:
 
 | Situação | Glosa |
 |---|---:|
@@ -231,7 +231,7 @@ As glosas serão aplicadas sobre a mensalidade do circuito, enlace ou link afeta
 
 ### 19. Obrigações da contratada
 
-A contratada deverá:
+A contratada deve:
 
 - prestar os serviços conforme especificações, capacidades, SLA e prazos;
 - fornecer, instalar, configurar, ativar, operar, manter e substituir equipamentos sob sua responsabilidade;
@@ -248,7 +248,7 @@ A contratada deverá:
 
 ### 20. Obrigações do contratante
 
-O TRT10 deverá:
+O TRT10 deve:
 
 - disponibilizar acesso às dependências, salas técnicas, racks e pontos de instalação;
 - indicar fiscais, gestor e pontos de contato técnico;
@@ -266,33 +266,33 @@ Aplicam-se os requisitos ordinários da Lei nº 14.133/2021, do edital e da regu
 
 ### 22. Regularidade regulatória
 
-A licitante deverá comprovar autorização, outorga, licença ou regularidade regulatória aplicável à prestação de serviços de telecomunicações/comunicação de dados, especialmente SCM ou enquadramento equivalente perante a Anatel, diretamente ou por arranjo juridicamente admitido.
+A licitante deve comprovar autorização, outorga, licença ou regularidade regulatória aplicável à prestação de serviços de telecomunicações/comunicação de dados, especialmente SCM ou enquadramento equivalente perante a Anatel, diretamente ou por arranjo juridicamente admitido.
 
 ### 23. Qualificação técnica
 
-A licitante deverá comprovar experiência anterior compatível com o grupo ou item disputado:
+A licitante deve comprovar experiência anterior compatível com o grupo ou item disputado:
 
 - para o grupo MPLS: prestação de serviço de rede corporativa MPLS, L3VPN, rede privada gerenciada ou tecnologia equivalente, com múltiplas localidades, monitoramento, suporte, SLA, CPEs ou roteadores e operação continuada;
 - para o item/link dedicado Sede-Foro: prestação de serviço de link dedicado, LAN-to-LAN, Metro Ethernet, E-Line, E-LAN, clear channel ou enlace privativo de alta capacidade por fibra óptica;
 - para os links de Internet: prestação de serviço de Internet dedicada corporativa com capacidade elevada, suporte, SLA, roteamento e proteção Anti-DDoS ou serviço equivalente.
 
-Para o grupo MPLS, a experiência mínima deverá abranger pelo menos 5 localidades ou 50% do quantitativo de localidades do TRT10, admitido somatório de atestados tecnicamente compatíveis. Para enlaces de alta capacidade, será aceita comprovação de experiência com pelo menos 1 enlace de 1 Gbps ou superior, sem exigência de identidade absoluta com a capacidade de 25 Gbps.
+Para o grupo MPLS, a experiência mínima deve abranger pelo menos 5 localidades ou 50% do quantitativo de localidades do TRT10, admitido somatório de atestados tecnicamente compatíveis. Para enlaces de alta capacidade, aceita-se comprovação de experiência com pelo menos 1 enlace de 1 Gbps ou superior, sem exigir identidade absoluta com a capacidade de 25 Gbps.
 
-Não será exigida certificação de fabricante específico. Poderá ser exigida indicação de responsável técnico ou equipe técnica com experiência em redes corporativas, telecomunicações, roteamento, segurança de rede ou operação de serviços de comunicação de dados.
+Não se exigirá certificação de fabricante específico. O edital poderá exigir indicação de responsável técnico ou equipe técnica com experiência em redes corporativas, telecomunicações, roteamento, segurança de rede ou operação de serviços de comunicação de dados.
 
 ### 24. Qualificação econômico-financeira
 
-Serão exigidas qualificações econômico-financeiras ordinárias previstas na legislação e no edital, incluindo balanço patrimonial e demonstrações contábeis quando aplicáveis. Caso os índices contábeis mínimos não sejam atendidos, admitir-se-á comprovação alternativa de patrimônio líquido mínimo de 10% do valor estimado anual do grupo ou item disputado, observada a proporcionalidade e os limites legais.
+Exigem-se as qualificações econômico-financeiras ordinárias previstas na legislação e no edital, incluindo balanço patrimonial e demonstrações contábeis quando aplicáveis. Caso os índices contábeis mínimos não sejam atendidos, admite-se comprovação alternativa de patrimônio líquido mínimo de 10% do valor estimado anual do grupo ou item disputado, observada a proporcionalidade e os limites legais.
 
 ### 25. Vistoria
 
-A vistoria será facultativa e poderá ser substituída por declaração de conhecimento das condições locais e responsabilidade pela proposta. A não realização de vistoria não justificará acréscimo posterior de custos, desde que disponibilizadas no edital as informações mínimas de localidade, endereço e condições de execução.
+A vistoria é facultativa e poderá ser substituída por declaração de conhecimento das condições locais e responsabilidade pela proposta. A ausência de vistoria não justificará acréscimo posterior de custos, desde que o edital disponibilize as informações mínimas de localidade, endereço e condições de execução.
 
 ## VIII - PARCELAMENTO, ADJUDICAÇÃO E DIVERSIDADE DE PROVEDORES
 
 ### 26. Modelagem de parcelamento
 
-A contratação será parcelada da seguinte forma:
+A contratação fica parcelada da seguinte forma:
 
 - Grupo 1: circuitos MPLS dos itens 1 a 10, em razão da necessidade de roteamento integrado, QoS, monitoramento centralizado, SLA de ponta a ponta e responsabilização técnica única;
 - Item 11: link dedicado ponto-a-ponto Sede-Foro de 25 Gbps, em item próprio, por possuir tecnologia, finalidade e escala distintas da malha MPLS;
@@ -301,27 +301,27 @@ A contratação será parcelada da seguinte forma:
 
 ### 27. Regra de diversidade para links de Internet
 
-Uma mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente não poderá ser adjudicatário de mais de um link de Internet na mesma localidade. Se a mesma licitante apresentar a melhor proposta em mais de um item de Internet da mesma localidade, será adjudicado apenas um desses itens à licitante, observada a ordem de vantajosidade definida no edital, convocando-se a próxima classificada aceitável para os demais itens.
+Uma mesma empresa, CNPJ, grupo econômico ou provedor operacionalmente dependente não poderá ser adjudicatário de mais de um link de Internet na mesma localidade. Se a mesma licitante apresentar a melhor proposta em mais de um item de Internet da mesma localidade, receberá apenas um desses itens, observada a ordem de vantajosidade definida no edital. Para os demais itens, a Administração convocará a próxima classificada aceitável.
 
 ## IX - VIGÊNCIA, PAGAMENTO, REAJUSTE E GARANTIA
 
 ### 28. Vigência
 
-A vigência inicial será de 60 meses, por se tratar de serviço continuado essencial, com prestação ininterrupta, implantação relevante, necessidade de amortização de infraestrutura, monitoramento permanente e maior vantajosidade esperada em contratos de prazo compatível com telecomunicações corporativas.
+A vigência inicial é de 60 meses. Trata-se de serviço continuado essencial, com prestação ininterrupta, implantação relevante, necessidade de amortização de infraestrutura, monitoramento permanente e maior vantajosidade esperada em contratos de prazo compatível com telecomunicações corporativas.
 
 ### 29. Pagamento
 
-O pagamento será mensal, por circuito, enlace ou link efetivamente ativado, aceito e disponível, condicionado à apresentação de nota fiscal, relatório mensal, validação de disponibilidade, aplicação de glosas quando cabíveis e ateste da fiscalização.
+O pagamento é mensal, por circuito, enlace ou link efetivamente ativado, aceito e disponível. A liberação depende de nota fiscal, relatório mensal, validação de disponibilidade, aplicação de glosas quando cabíveis e ateste da fiscalização.
 
-Não será devido pagamento por circuito, enlace ou link antes do aceite provisório correspondente.
+Não haverá pagamento por circuito, enlace ou link antes do respectivo aceite provisório.
 
 ### 30. Reajuste
 
-O reajuste observará periodicidade mínima legal de 12 meses, contados da data do orçamento estimado, utilizando índice setorial aplicável a serviços de telecomunicações ou, na ausência de definição setorial adotada pelo TRT10, IPCA/IBGE.
+O reajuste observará periodicidade mínima legal de 12 meses, contados da data do orçamento estimado. Aplica-se índice setorial próprio de serviços de telecomunicações ou, na ausência de definição setorial adotada pelo TRT10, IPCA/IBGE.
 
 ### 31. Garantia de execução contratual
 
-Será exigida garantia de execução contratual de 5% do valor anual estimado do grupo ou item contratado, admitidas as modalidades previstas na Lei nº 14.133/2021. A garantia deverá permanecer válida durante toda a vigência contratual e por 90 dias após seu encerramento, cobrindo atraso de implantação, descumprimento de SLA, indisponibilidade, falhas de integração, danos, multas e obrigações inadimplidas.
+Exige-se garantia de execução contratual de 5% do valor anual estimado do grupo ou item contratado, nas modalidades previstas na Lei nº 14.133/2021. A garantia deve permanecer válida durante toda a vigência contratual e por 90 dias após seu encerramento, cobrindo atraso de implantação, descumprimento de SLA, indisponibilidade, falhas de integração, danos, multas e obrigações inadimplidas.
 
 ## X - ESTIMATIVA DE VALOR
 
@@ -366,19 +366,19 @@ Aplicam-se as sanções previstas na Lei nº 14.133/2021, no edital e no contrat
 
 ### 35. Alteração contratual
 
-Alterações de capacidade, localidades, rotas, endereçamento, links ou requisitos deverão observar justificativa técnica, disponibilidade orçamentária, limites legais, manutenção da vantajosidade e formalização por instrumento próprio.
+Alterações de capacidade, localidades, rotas, endereçamento, links ou requisitos exigem justificativa técnica, disponibilidade orçamentária, respeito aos limites legais, manutenção da vantajosidade e formalização por instrumento próprio.
 
 ### 36. Extinção contratual
 
-A extinção contratual observará as hipóteses legais, contratuais e editalícias, especialmente inadimplemento, descumprimento reiterado de SLA, falha grave de segurança, interrupção injustificada dos serviços, perda de regularidade regulatória ou impossibilidade de continuidade operacional.
+A extinção contratual seguirá as hipóteses legais, contratuais e editalícias, especialmente inadimplemento, descumprimento reiterado de SLA, falha grave de segurança, interrupção injustificada dos serviços, perda de regularidade regulatória ou impossibilidade de continuidade operacional.
 
 ## XII - SUBCONTRATAÇÃO
 
 ### 37. Regras de subcontratação
 
-Será admitida subcontratação apenas para atividades acessórias, como infraestrutura local, lançamento de fibra, passagem de cabos, adequações físicas leves, vistorias, instalação de último trecho e atendimento de campo.
+Admite-se subcontratação apenas para atividades acessórias, como infraestrutura local, lançamento de fibra, passagem de cabos, adequações físicas leves, vistorias, instalação de último trecho e atendimento de campo.
 
-Não será admitida subcontratação que transfira a responsabilidade principal pela rede privada corporativa, pelo link dedicado Sede-Foro, pelos links de Internet, pela proteção Anti-DDoS, pela gerência dos circuitos, pelo cumprimento de SLA, pelo suporte ao TRT10, pela segurança das informações ou pela documentação da solução.
+Não se admite subcontratação que transfira a responsabilidade principal pela rede privada corporativa, pelo link dedicado Sede-Foro, pelos links de Internet, pela proteção Anti-DDoS, pela gerência dos circuitos, pelo cumprimento de SLA, pelo suporte ao TRT10, pela segurança das informações ou pela documentação da solução.
 
 ## XIII - ANEXOS
 

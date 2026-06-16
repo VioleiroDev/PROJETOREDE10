@@ -1,0 +1,25 @@
+{
+  "consulta": {
+    "query": "MPLS 1 Gbps rede privada internet anti-DDoS link dedicado",
+    "required": [
+      "internet"
+    ],
+    "forbidden": [
+      "satélite",
+      "starlink",
+      "móvel",
+      "telefonia"
+    ],
+    "days": 730,
+    "doc_types": [
+      "edital"
+    ],
+    "documentos_localizados": 0,
+    "status": "parcial_com_alertas",
+    "data_hora": "2026-06-13T14:05:07"
+  },
+  "evidencias": [],
+  "alertas": [
+    "Falha PNCP search para 'MPLS 1 Gbps rede privada internet DDoS link dedicado'/edital: Falha ao consultar https://pncp.gov.br/api/search/?q=MPLS+1+Gbps+rede+privada+internet+DDoS+link+dedicado&tipos_documento=edital: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto"
+  ]
+}
